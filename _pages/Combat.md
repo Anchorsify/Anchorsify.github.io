@@ -18,6 +18,24 @@ toc:
  - name: Weather Conditions
 ---
 
+# Initiative
+This is a sample line of text.
+
+## Initiative
+This is a sample line of text.
+
+### Initiative
+This is a sample line of text.
+
+#### Initiative
+This is a sample line of text.
+
+##### Initiative
+This is a sample line of text.
+
+###### Initiative
+This is a sample line of text.
+
 ## Inititiative
 Combat begins with all participants making an Initiative roll: 1d20+(AGI)/10. From there, everyone is assigned a number depending upon how well they did compared to one another.
 
