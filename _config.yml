@@ -175,12 +175,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-    
-  changelogs:
-    defaults:
-      layout: post
-    output: true
-    permalink: /changelogs/:path/
   
 
 announcements:
