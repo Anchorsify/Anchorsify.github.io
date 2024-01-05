@@ -201,7 +201,7 @@ These are actions that anyone can do in combat, and the rules associated with th
 #### Basic Unarmed *(Speed 8, Stamina 5)*
 The simplest form of attack, this is a catch-all for punches, kicks, and any other attack which uses your body to cause harm to your opponent. This deals 2d4 base damage.
 
-#### Basic Attack: Weapon *(Speed Variable, Stamina Variable)*
+#### Basic (Weapon) *(Speed Variable, Stamina Variable)*
 This is any ordinary attack with a weapon, from throwing shuriken to swinging oversized swords.  The base damage, speed, and stamina cost of using a weapon is listed in its entry, and they can all be found in the Equipment section.
 
 #### Block *(Speed Variable)*
