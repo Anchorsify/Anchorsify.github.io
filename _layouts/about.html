@@ -17,13 +17,8 @@ layout: default
 
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
-            <h2><a href="{{ '/updates/' | relative_url }}" style="color: inherit;">news</a></h2>
-            {%- include news.html limit=true %}
-          {%- endif %}
-
-          {% if page.updates and site.announcements.enabled -%}
             <h2><a href="{{ '/updates/' | relative_url }}" style="color: inherit;">Updates</a></h2>
-            {%- include updates.html limit=true %}
+            {%- include news.html limit=true %}
           {%- endif %}
               
         </article>
