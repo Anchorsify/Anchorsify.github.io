@@ -7,7 +7,25 @@ nav_order: 4
 
 toc:
  - name: Initiative
+   - subsections:
+     - name: Initiaitve Roll
+     - name: Flow of Time
+     - name: Simultaneous Actions
+     - name: Action Points
+     - Combat Example
  - name: How to Fight
+   - subsections:
+     - name: Attacking
+     - name: Accuracy
+     - name: Accuracy Rolls
+     - name: Damage
+     - name: Handseals
+     - name: Genjutsu
+     - name: Defending
+     - name: Partial Success
+     - name: Damage Reduction
+     - name: Mitigation Order
+     - name: Action Qualities
  - name: Basic Actions
  - name: Stealth
  - name: Pursuit
