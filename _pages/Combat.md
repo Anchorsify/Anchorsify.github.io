@@ -2,7 +2,7 @@
 layout: distill
 title: Combat
 permalink: /Combat/
-nav: true
+nav: false
 nav order: 10
 
 toc:
