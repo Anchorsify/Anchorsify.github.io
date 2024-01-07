@@ -174,9 +174,6 @@ collections:
     output: true
     permalink: /projects/:path/
 
-  phb:
-    output: true
-    permalink: /phb/:path/
   
 
 announcements:
