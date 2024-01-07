@@ -2,15 +2,15 @@
 layout: page
 title: submenus
 nav: true
-nav_order: 8
+nav_order: 2
 dropdown: true
 children:
-    - title: publications
-      permalink: /publications/
+    - title: Leaf
+      permalink: /phb/villages/Leaf/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: Mist
+      permalink: /phb/villages/Mist/
     - title: divider
-    - title: blog
-      permalink: /blog/
+    - title: Sand
+      permalink: /phb/villages/Sand/
 ---
