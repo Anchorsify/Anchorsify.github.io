@@ -3,7 +3,7 @@ layout: distill
 title: Combat2
 permalink: /phb/Combat/
 nav: true
-nav order: 10
+nav order: 2
 
 toc:
  - name: Initiative
