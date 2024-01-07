@@ -18,7 +18,7 @@ toc:
  - name: Weather Conditions
 ---
 
-## Inititiative
+## Initiative
 Combat begins with all participants making an Initiative roll: 1d20+(AGI)/10. From there, everyone is assigned a number depending upon how well they did compared to one another.
 
 Everyone subtracts their roll from the person who rolled the highest; this is the initiative count they will act on.
