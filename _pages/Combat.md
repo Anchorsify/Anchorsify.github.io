@@ -5,7 +5,7 @@ permalink: /Combat/
 nav: true
 nav_order: 4
 
-- toc:
+toc:
  - name: Initiative
   - subsections:
     - name: Initiaitve Roll
