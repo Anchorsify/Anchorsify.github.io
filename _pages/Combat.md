@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: distill
 title: Combat
 permalink: /Combat/
 nav: true
