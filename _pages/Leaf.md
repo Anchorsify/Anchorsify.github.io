@@ -3,6 +3,28 @@ layout: default
 permalink: /Leaf/
 title: Konohagakure
 nav: false
+
+toc:
+ - name: The Village
+ - Aburame
+ - Akimichi
+ - Hyuuga
+ - Nara
+ - Senju
+ - Uchiha
+ - Yamanaka
 ---
 
-Test page.
+## Aburame
+
+## Akimichi
+
+## Hyuuga
+
+## Nara
+
+## Senju
+
+## Uchiha
+
+## Yamanaka
