@@ -8,7 +8,6 @@ nav_order: 4
 toc:
  - name: Initiative
  - subsections:
-    - name: Flow of Time
  - name: How to Fight
  - name: Basic Actions
  - name: Stealth
@@ -18,13 +17,6 @@ toc:
  - name: Wounds
  - name: Recovery
  - subsections:
-    - name: Hit Points and Vitality
-    - name: Fatigue
-    - name: Willpower
-    - name: Wounds
-    - name: Medical Attention
-    - name: Guidelines
-    - names: Rest
 ---
 
 ## Initiative
