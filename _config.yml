@@ -177,10 +177,6 @@ collections:
   phb:
     output: true
     permalink: /phb/:path/
-
-  villages:
-    output: true
-    permalink: /phb/villages/:path/
   
 
 announcements:
