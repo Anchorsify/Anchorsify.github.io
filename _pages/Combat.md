@@ -15,7 +15,6 @@ toc:
  - name: Fatigue
  - name: Wounds
  - name: Recovery
- - name: Weather Conditions
 ---
 
 ## Initiative
