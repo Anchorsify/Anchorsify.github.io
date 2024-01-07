@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /phb/Leaf/
+permalink: /Leaf/
 title: Konohagakure
 nav: false
 pagination:
