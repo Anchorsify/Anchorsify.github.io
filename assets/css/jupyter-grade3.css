@@ -16,6 +16,7 @@ div.body {
     background-color: #ffffff;
     background: #ffffff;
     -webkit-font-smoothing: antialiased !important;
+    text-align: justify;
 }
 
 body.notebook_app {
