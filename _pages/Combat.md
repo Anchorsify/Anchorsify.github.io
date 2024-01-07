@@ -7,14 +7,14 @@ nav_order: 4
 
 toc:
  - name: Initiative
-   - subsections:
+    subsections:
      - name: Initiaitve Roll
      - name: Flow of Time
      - name: Simultaneous Actions
      - name: Action Points
      - Combat Example
  - name: How to Fight
-   - subsections:
+    subsections:
      - name: Attacking
      - name: Accuracy
      - name: Accuracy Rolls
