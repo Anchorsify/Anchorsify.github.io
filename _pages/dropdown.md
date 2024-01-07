@@ -13,4 +13,7 @@ children:
     - title: divider
     - title: Sand
       permalink: /phb/villages/Sand/
+    - title: divider
+    - title: Combat
+      permalink: /phb/Combat/
 ---
