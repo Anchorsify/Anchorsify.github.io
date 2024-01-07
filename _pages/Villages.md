@@ -6,7 +6,7 @@ nav_order: 2
 dropdown: true
 children:
     - title: Leaf
-      permalink: /phb/villages/Leaf/
+      permalink: /phb/Leaf/
     - title: divider
     - title: Mist
       permalink: /phb/villages/Mist/
