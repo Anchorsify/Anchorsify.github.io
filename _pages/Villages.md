@@ -9,11 +9,8 @@ children:
       permalink: /phb/Leaf/
     - title: divider
     - title: Mist
-      permalink: /phb/villages/Mist/
+      permalink: /phb/Mist/
     - title: divider
     - title: Sand
-      permalink: /phb/villages/Sand/
-    - title: divider
-    - title: Combat
-      permalink: /phb/Combat/
+      permalink: /phb/Sand/
 ---
