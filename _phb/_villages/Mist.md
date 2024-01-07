@@ -5,7 +5,7 @@ title: Kirigakure
 nav: false
 pagination:
   enabled: true
-  collection: phb
+  collection: villages
 ---
 
 Test page.
