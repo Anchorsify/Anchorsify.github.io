@@ -7,7 +7,6 @@ nav_order: 4
 
 toc:
  - name: Initiative
- - subsections:
  - name: How to Fight
  - name: Basic Actions
  - name: Stealth
