@@ -6,11 +6,11 @@ nav_order: 2
 dropdown: true
 children:
     - title: Leaf
-      permalink: /phb/Leaf/
+      permalink: /Leaf/
     - title: divider
     - title: Mist
-      permalink: /phb/Mist/
+      permalink: /Mist/
     - title: divider
     - title: Sand
-      permalink: /phb/Sand/
+      permalink: /Sand/
 ---
