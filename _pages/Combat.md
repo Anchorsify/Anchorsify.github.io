@@ -17,6 +17,14 @@ toc:
  - name: Fatigue
  - name: Wounds
  - name: Recovery
+ - subsections:
+    - name: Hit Points and Vitality
+    - name: Fatigue
+    - name: Willpower
+    - name: Wounds
+    - name: Medical Attention
+    - name: Guidelines
+    - names: Rest
 ---
 
 ## Initiative
