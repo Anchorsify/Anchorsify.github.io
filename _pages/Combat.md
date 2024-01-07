@@ -3,7 +3,7 @@ layout: distill
 title: Combat
 permalink: /Combat/
 nav: true
-nav order: 4
+nav_order: 4
 
 toc:
  - name: Initiative
