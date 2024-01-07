@@ -12,7 +12,7 @@ toc:
      - name: Flow of Time
      - name: Simultaneous Actions
      - name: Action Points
-     - Combat Example
+     - name: Combat Example
  - name: How to Fight
     subsections:
      - name: Attacking
