@@ -8,7 +8,7 @@ nav_order: 4
 toc:
  - name: Initiative
  - subsections:
- - name: Flow of Time
+    - name: Flow of Time
  - name: How to Fight
  - name: Basic Actions
  - name: Stealth
