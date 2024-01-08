@@ -38,9 +38,9 @@ You have a -4 penalty to Athletics rolls, as your observational powers can make 
 A beast of a ninja you are, and you act like one too! You get angry easily, and often make rash, terrible decisions out of being bull-headed. At least you're hard to take down when things come to combat (as they often do).
 
 You add an extra RESx2 to your Vitality. You can opt to take no defensive action in response to an enemy's attack, and so long as the attack does not incapacitate you, you can then immediately attack the target as an Interrupt using any Taijutsu attack you know, with the following changes:
-*- The attack has a +3 accuracy bonus and is made at half its normal Speed, and cannot have its Speed reduced further.
-*- This attack must be directed at the person who attacked you.
-*- Its base Speed cannot be greater than the base Speed of the attack which provoked it.
+- - The attack has a +3 accuracy bonus and is made at half its normal Speed, and cannot have its Speed reduced further.
+- This attack must be directed at the person who attacked you.
+- Its base Speed cannot be greater than the base Speed of the attack which provoked it.
 
 For every 25% of your maximum Vitality you're missing, you deal 5% more damage with Taijutsu, to a maximum of 20% more damage (when you have no Vitality). When you are reduced to 0 Vitality, you must immediately choose whether to surrender or to fly into an unyielding rage: If you choose to fight, you won't stop until all your opponents have been incapacitated (even if they try to surrender peacefully).
 
