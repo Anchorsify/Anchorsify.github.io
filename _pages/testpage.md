@@ -54,9 +54,7 @@ EffectS: You die.
 Fluff text.  This is a lot of fluff text to make sure linebreaks will still have it looking good even when the description is overly long and going to wrap around to the next line.
 
 Base cost: 10
-
-Scale: 5
-
-Limit: n/a
+<br>Scale: 5
+<br>Limit: n/a
 
 
