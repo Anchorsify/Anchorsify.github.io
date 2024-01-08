@@ -50,7 +50,7 @@ A damaged swarm recovers at a rate of 1 Swarm Size every 3 OOC hours. If all of 
 
 You have access to the following actions:
 
-** Deploy (Speed X)**
+**Deploy (Speed X)**
 
 You release a swarm of Size X from your body, where X is no greater than your maximum Swarm Size. You may also deploy up to X/2 queen Kikai, to your max number owned. Your swarm forms a cloud in an X yard radius around you.
 
