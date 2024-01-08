@@ -22,7 +22,13 @@ Combat begins with all participants making an Initiative roll: 1d20+(AGI)/10. Fr
 
 Everyone subtracts their roll from the person who rolled the highest; this is the initiative count they will act on.
 
->For example, Choji, Shikamaru, and Ino are all preparing to fight, and so they roll initiative. Choji scores a 6, Shikamaru a 16, and Ino a 12. They will act on the following initiative counts: Choji: 16 - 6 = 10 Shikamaru: 16 - 16 = 0 Ino: 16 - 12 = 4
+>For example, Choji, Shikamaru, and Ino are all preparing to fight, and so they roll initiative. Choji scores a 6, Shikamaru a 16, and Ino a 12. They will act on the following initiative counts:
+>
+>Choji: 16 - 6 = 10 
+>
+>Shikamaru: 16 - 16 = 0 
+>
+>Ino: 16 - 12 = 4
 
 People who join an Initiative after it has begun simply join on the IC the combat has advanced to upon their arrival, unless multiple people join at once, in which case they all roll initiative as normal; the highest then joins at the current IC, and others join a number of IC later as determined above.
 
