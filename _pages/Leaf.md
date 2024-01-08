@@ -5,14 +5,13 @@ title: Konohagakure
 nav: false
 
 toc:
- - name: The Village
- - Aburame
- - Akimichi
- - Hyuuga
- - Nara
- - Senju
- - Uchiha
- - Yamanaka
+ - name: Aburame
+ - name: Akimichi
+ - name: Hyuuga
+ - name: Nara
+ - name: Senju
+ - name: Uchiha
+ - name: Yamanaka
 ---
 Located in the middle of Fire Country. Konoha experiences the full gamut of desirable weather - that is to say, it's usually sunny, and even the rainy days can be pleasant. The village is roughly one third smaller than it was before the war, but strolling down the streets of Konoha you might never realize unless someone told you.
 
