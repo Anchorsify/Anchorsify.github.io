@@ -81,7 +81,7 @@ Using the example above, we had Shikamaru acting on IC 0, Ino on 4, and Choji on
 ## How to Fight
 
 ### Attacking
-The simplest and most effective way to resolve a conflict is often violence. In some cases, it's the only way. Thus, it behooves any shinobi to be able to, when necessary, incapacitate or kill an opponent. The first step of attacking is to declare what your attack will be, its speed, and its accuracy, so that the other player knows what defenses they can use against it.  Typically, you should do so as follows:
+The simplest and most effective way to resolve a conflict is often violence. In some cases, it's the only way. Thus, it behooves any shinobi to be able to, when necessary, incapacitate or kill an opponent. The first step of attacking is to declare what your attack will be, its speed, its cost(s) (Stamina or Chakra Exhaustion) and its accuracy, so that the other player knows what you're doing, and can decide how to appropriately respond to it.  Typically, you should do so as follows:
 
 >Choji rushes toward Shikamaru and swings a heavy fist toward his face to knock some sense into his teammate! (Basic Unarmed, Speed 8, Stamina 5, Accuracy 20)
 
@@ -89,7 +89,7 @@ The simplest and most effective way to resolve a conflict is often violence. In 
 Accuracy is a measurement of how precise your attacks are, represented by a target number (TN) your opponent has to match or beat on their defense roll. Your attack's Accuracy is 10+(DEX)/10, plus any bonuses you may get from abilities, uniques, or the technique you're using. After you've declared your attack, your opponent will declare and, if applicable, roll their defense. If you hit them successfully (by beating their defense by one or more, or by them utilizing a defense such as Block, which ensures you hit), you'll then roll damage.
 
 ### Accuracy Rolls
-Sometimes you'll have to make an "accuracy roll". This is essentially the same as your accuracy, but you replace the base 10 with a 1d20 roll. In other words, it's 1d20+(DEX/10) plus any other Accuracy modifiers. When something penalizes both Accuracy and d20 rolls, apply only the penalties to Accuracy; if it penalizes only d20 rolls, however, then those penalties also apply.
+Sometimes you'll have to make an "Accuracy Roll". This is essentially the same as your accuracy, but you replace the base 10 with a 1d20 roll. In other words, it's 1d20+(DEX/10) plus any other Accuracy modifiers. When something penalizes both Accuracy and d20 rolls, apply only the penalties to Accuracy; if it penalizes only d20 rolls, however, then those penalties also apply.
 
 ### Damage
 Every attack has a "base damage", a number of dice of a certain size you roll. For example, a basic unarmed attack does 2d4 of base damage. The actual damage formula is, (Base Damage) + (Damage Bonus) * (Speed) + (any other bonuses).
