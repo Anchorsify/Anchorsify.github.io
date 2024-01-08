@@ -78,7 +78,6 @@ Using the example above, we had Shikamaru acting on IC 0, Ino on 4, and Choji on
 >This means that Shikamaru will act on IC (20+8+2) 30, Ino on (20+6+2) 28, and Choji on 34.
 
 ## How to Fight
-
 ### Attacking
 The simplest and most effective way to resolve a conflict is often violence. In some cases, it's the only way. Thus, it behooves any shinobi to be able to, when necessary, incapacitate or kill an opponent. The first step of attacking is to declare what your attack will be, its speed, its cost(s) (Stamina or Chakra Exhaustion) and its accuracy, so that the other player knows what you're doing, and can decide how to appropriately respond to it.  Typically, you should do so as follows:
 
