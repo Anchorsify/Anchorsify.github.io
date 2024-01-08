@@ -201,48 +201,48 @@ Which means this type of bonus **does not** apply to Accuracy (whether rolled, o
 ## Basic Actions
 These are actions that anyone can do in combat, and the rules associated with them.
 
-**Basic Unarmed *(Speed 8, Stamina 5)***
+**Basic Unarmed** ***(Speed 8, Stamina 5)***
 <br>The simplest form of attack, this is a catch-all for punches, kicks, and any other attack which uses your body to cause harm to your opponent. This deals 2d4 base damage.
 
-**Basic (Weapon) *(Speed Variable, Stamina Variable)***
+**Basic (Weapon)** ***(Speed Variable, Stamina Variable)***
 <br>This is any ordinary attack with a weapon, from throwing shuriken to swinging oversized swords.  The base damage, speed, and stamina cost of using a weapon is listed in its entry, and they can all be found in the Equipment section.
 
-**Block *(Speed Variable)***
+**Block** ***(Speed Variable)***
 <br>As an action, you may declare that you are blocking, and state a Speed for the action. Until your next action, you may use the Block defense (see 'Defending' below) against any incoming attacks.
 
-**Dodge *(Speed 2, Interrupt)***
+**Dodge** ***(Speed 2, Interrupt)***
 <br>The best defense against any attack is simply not being hit. When you dodge an attack you roll 1d20+(AGI)/10, plus any other bonuses to dodge you may have, such as from abilities or uniques, against the attack's Accuracy. Success means you completely avoid the attack and its effects.
 
-**Move *(Speed Variable, Abort)***
+**Move** ***(Speed Variable, Abort)***
 <br>For the most part, ninja can move faster than ordinary people. When you actually devote time to moving in battle, you travel (AGI)*(number of IC spent moving)/50 yards.
 
 Sometimes you may need to close the distance and attack an opponent all at once. When attacking, you may move towards your opponent a distance corresponding to half your attack's Speed, for free. Thus, if you needed to rush an enemy and throw a punch at them, and had 25 AGI, as a Speed 8 action you could move up to (25*(8/2)/50) = 2 yards and then use a basic unarmed attack.
 
 Movement is unique, in that you cannot use Action Points to reduce its Speed. Your distance traveled is determined by the actual number of IC spent on movement.
 
-**Multi-Throw *(Speed Variable, Stamina Variable)***
+**Multi-Throw** ***(Speed Variable, Stamina Variable)***
 <br>Anyone familiar with fictionalized depictions of ninja has no doubt seen them flinging a handful of shuriken with pinpoint aim. As this game is about fictional ninjas, it stands to reason that they can do this! The term, appropriately enough, is "Multi-Throwing".
 
 It helps to first be familiar with the two weapons you'll be throwing the most: They are the shuriken (weighing in at 1d6 base damage) and the kunai (beating it out with 2d6). While you could certainly throw a single shuriken or kunai (that would be a basic weapon attack), a real ninja would throw a bunch at once. By default, you may only throw one type of weapon at once; you could throw 6 shuriken, but not 4 shuriken and 2 kunai in the same action. After choosing your weapon, you decide how many you want to throw.
 
 You throw at least 2 weapons, up to a maximum of DEX/10. The Speed is 3 + (number of weapons thrown)/2, and the Stamina cost is 5, +1 for every 2 weapons (6 for 2-3, 7 for 4-5, and so forth). Regardless of how many weapons you throw, the minimum total Speed of a multi-throw action is 5--this applies to both its base Speed, and its final Speed after any changes (such as spending AP). The rolled damage is the total for all weapons thrown; 6 shuriken would yield a 6d6 base damage. Your damage bonus is increased by +0.5 for every thrown weapon. So, if you had 60 STR in the above multi-throw, your damage bonus would be (60/15 = 4, 4 + 0.5x6 = 4+3 =) 7. The attack would be Speed (3 + 6/2 =) 6 and Stamina 8, and have a damage formula of: 6d6+7x6. If you are multi-throwing shuriken, their +2 Accuracy is applied only once. You do need to choose between shuriken or kunai when you multi-throw; you can't mix-and-match, tragically. Because wounds represent severe damage from a single powerful attack, and multi-throws are multiple weaker injuries delivered at once, the severity of all wounds caused by multi-throws is reduced by one category, to a minimum of Minor.
 
-**Parry *(Speed 3, Interrupt)***
+**Parry** ***(Speed 3, Interrupt)***
 <br>This entails deflecting an opponent's weapon with your own, or stopping their unarmed attacks with your bare hands. Accordingly, weapon attacks may only be parried with weapons, and unarmed attacks may only be parried if you have at least one hand free to do so. Parrying works similarly to dodging, though uses an Accuracy Roll to determine its success.
 
 When something (such as Fatigue) penalizes both Accuracy and defensive rolls (or rolls in general), Parry only suffers the penalty to defensive rolls; if something penalizes only Accuracy, then Parry does suffer that penalty. Basically, it doesn't have to deal with 'double jeopardy'.
 
-**Perform Handseals *(Speed Variable, Abort)***
+**Perform Handseals** ***(Speed Variable, Abort)***
 <br>Most Ninjutsu and Genjutsu techniques require the use of handseals, specialized hand signs that direct and mold the flow of chakra. Representing this, those jutsu have a Seal Speed listed in their description. That number, minus your DEX/10, gives you the modified seal speed, which is the Speed of your Perform Handseals action. However, other speed-reducing effects do not apply to Perform Handseals. A Seal Speed of 0 means that while handseals are required, you can perform them so fast that the time required is negligible. You may forego part, or all, of your DEX/10 reduction of Seal Speed if you wish (for example, with 40 DEX you could use Perform Handseals action for a Seal Speed 10 jutsu at anywhere between Speed 6 and Speed 10, as you pleased).
 
 Handseals require the use of both hands, and if they're interrupted for any reason you have to start over again. Although you don't have to declare what technique you're performing the handseals for when you start, all techniques have their own, unique combination of seals to perform them; this means that if you changed your mind partway through a Perform Handseals action, you'd need to start a new one.
 
 If you take damage while forming handseals (between the declaration of your Perform Handseals action and when you actually use the jutsu), you must exceed 10 + (damage dealt / 10) on a Chakra Control skill roll in order to continue. Failure means you automatically Abort your Perform Handseals action.
 
-**Rest *(Speed 10)***
+**Rest** ***(Speed 10)***
 <br>Resting is pausing to cool down and gather your breath. Since it doesn't directly lead to incapacitating your enemy, most ninja prefer to do this out of battle; however, sometimes pacing yourself is the only way to achieve victory. Every Rest action you take reduces your Stamina penalty (see the 'Fatigue' portion of this chapter) by 1, to a minimum of 0. You cannot use AP to reduce the speed of your Rest action; 'resting as fast as you can' is, after all, something of an oxymoron.
 
-**Take the Hit *(Speed 6, Interrupt)***
+**Take the Hit** ***(Speed 6, Interrupt)***
 <br>Taking the hit is the glorious move the stronger person or sensei uses to protect their weaker ally! You make a Dodge roll with a +5 bonus; if successful, you've leapt in the way of an attack aimed at your ally. If you fail, your ally takes 20% of the damage per point you failed by. (For example: If you fail by 2 points, you'd take 60% damage, and your ally 40% damage). If you were blocking when you used this, you may block as long as you were successful by 1 point or more. You may also use interrupts to defend yourself, up to a maximum Speed of how many points your Take The Hit roll beat the opponent's accuracy; you can't dodge, but you could parry, or use a ninjutsu-based defense that raises a protective wall.
 
 
@@ -279,10 +279,10 @@ Stealth 3 is as well-hidden as you can be. You are somehow camouflaged, blending
 ### Searching
 Understandably, situations arise when Ninja want to find other, hidden ninja, or help others in doing so.
 
-**Search *(Speed 6)***
+**Search** ***(Speed 6)***
 <br>You look for hidden enemies, using your keen ninja senses. When you make this action, roll your Awareness skill and compare it to the Stealth TNs of all hidden enemies. If you get equal to or greater than someone's Stealth TN, you have found them. As far as you're concerned, they're no longer in stealth; they cannot perform surprise or sneak attacks against you, you can attack them, and so forth. Every time you use a Search action consecutively (without taking a non-Interrupt action between them) you get a stacking +2 bonus. Thus, your third attempt to find someone would use your Awareness skill +4. If you are the one doing the hiding, you do not automatically know that someone has discovered your hiding place; until they do something indicating they know where you are (such as attacking you, or running straight at you), you think you're still hidden from them.
 
-**Point Out *(Speed 3)***
+**Point Out** ***(Speed 3)***
 <br>You indicate where an enemy is hiding, typically by pointing at them and yelling "There he is!" loudly. This allows anyone else present to make a Search action immediately, as a Speed 0 Interrupt, with an additional +5 bonus.
 
 ### Actions from Stealth
@@ -291,8 +291,8 @@ As mentioned in Stealth Levels, your options for acting from Stealth are fairly 
 ### Surprise Attack
 Any attack you make while hidden is a surprise attack. Performing a surprise attack ends your stealth, as you leap out and attack, or otherwise reveal your location in the process. If an opponent chooses to use an Interrupt to defend against your surprise attack, they may not lower its Speed by spending Action Points. Non-jutsu attacks with ranged weapons do not end your stealth, however, each time you perform one it reduces your Stealth TN by 5.
 
-### Prepare Sneak Attack *(Speed Variable, Abort)*
-You take the time to line up a perfect attack. You may abort this action at any time, either as a normal abort, or to make your next action a sneak attack. To use an action as a sneak attack, the total Speed that you used your Prepare Sneak Attack action for must be at least equal to that of the action you're using as a sneak attack. If you take another action instead (such as moving to a new hiding spot, via another use of the Hide action), you lose your opportunity to Sneak Attack.
+**Prepare Sneak Attack** ***(Speed Variable, Abort)***
+<br>You take the time to line up a perfect attack. You may abort this action at any time, either as a normal abort, or to make your next action a sneak attack. To use an action as a sneak attack, the total Speed that you used your Prepare Sneak Attack action for must be at least equal to that of the action you're using as a sneak attack. If you take another action instead (such as moving to a new hiding spot, via another use of the Hide action), you lose your opportunity to Sneak Attack.
 
 ### Sneak Attack
 A sneak attack is an improved surprise attack, and as such, all normal rules for surprise attacks apply. Additionally, any Accuracy penalties inherent to the technique or weapon you're using are removed. Penalties from other sources, such as visibility or wounds, are not negated.
