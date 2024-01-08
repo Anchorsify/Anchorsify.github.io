@@ -29,10 +29,10 @@ The Aburame are one of four noble clans of Konohagakure, a quiet clan whose memb
 Their solitude may have to do with their clan's techniques, as every clan member at a young age becomes host to a hive of insects called Kikaichuu, a special type of beetle-like bug which can actually eat the chakra of their enemies in battle. Their bodies become the nest of the bugs, and over time they form a symbiotic relationship that allows the Aburame to mentally control and direct them. While a powerful kekkai genkai, it is not an ability that interests most people.
 
 **Aburame begin with 1 less Unique Point.**
-<hr>
+---
 
-**--( Kikaichuu no Jutsu – Parasitic Destruction Insect Technique )—**
-<br>An ability exclusive to the Aburame, wherein they allow their own bodies to become a hive for the Kikaichuu.
+**--( Kikaichuu no Jutsu – Parasitic Destruction Insect Technique )—**  
+An ability exclusive to the Aburame, wherein they allow their own bodies to become a hive for the Kikaichuu.
 
 - Type: Ability
 - Base Cost: 2
