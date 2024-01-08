@@ -10,7 +10,6 @@ toc:
  - name: How to Fight
  - name: Basic Actions
  - name: Stealth
- - name: Pursuit
  - name: Conditions and Status Effects
  - name: Fatigue
  - name: Wounds
@@ -202,49 +201,49 @@ Which means this type of bonus **does not** apply to Accuracy (whether rolled, o
 ## Basic Actions
 These are actions that anyone can do in combat, and the rules associated with them.
 
-### Basic Unarmed *(Speed 8, Stamina 5)*
-The simplest form of attack, this is a catch-all for punches, kicks, and any other attack which uses your body to cause harm to your opponent. This deals 2d4 base damage.
+**Basic Unarmed *(Speed 8, Stamina 5)***
+<br>The simplest form of attack, this is a catch-all for punches, kicks, and any other attack which uses your body to cause harm to your opponent. This deals 2d4 base damage.
 
-### Basic (Weapon) *(Speed Variable, Stamina Variable)*
-This is any ordinary attack with a weapon, from throwing shuriken to swinging oversized swords.  The base damage, speed, and stamina cost of using a weapon is listed in its entry, and they can all be found in the Equipment section.
+**Basic (Weapon) *(Speed Variable, Stamina Variable)***
+<br>This is any ordinary attack with a weapon, from throwing shuriken to swinging oversized swords.  The base damage, speed, and stamina cost of using a weapon is listed in its entry, and they can all be found in the Equipment section.
 
-### Block *(Speed Variable)*
-As an action, you may declare that you are blocking, and state a Speed for the action. Until your next action, you may use the Block defense (see 'Defending' below) against any incoming attacks.
+**Block *(Speed Variable)***
+<br>As an action, you may declare that you are blocking, and state a Speed for the action. Until your next action, you may use the Block defense (see 'Defending' below) against any incoming attacks.
 
-### Dodge *(Speed 2, Interrupt)*
-The best defense against any attack is simply not being hit. When you dodge an attack you roll 1d20+(AGI)/10, plus any other bonuses to dodge you may have, such as from abilities or uniques, against the attack's Accuracy. Success means you completely avoid the attack and its effects.
+**Dodge *(Speed 2, Interrupt)***
+<br>The best defense against any attack is simply not being hit. When you dodge an attack you roll 1d20+(AGI)/10, plus any other bonuses to dodge you may have, such as from abilities or uniques, against the attack's Accuracy. Success means you completely avoid the attack and its effects.
 
-### Move *(Speed Variable, Abort)*
-For the most part, ninja can move faster than ordinary people. When you actually devote time to moving in battle, you travel (AGI)*(number of IC spent moving)/50 yards.
+**Move *(Speed Variable, Abort)***
+<br>For the most part, ninja can move faster than ordinary people. When you actually devote time to moving in battle, you travel (AGI)*(number of IC spent moving)/50 yards.
 
 Sometimes you may need to close the distance and attack an opponent all at once. When attacking, you may move towards your opponent a distance corresponding to half your attack's Speed, for free. Thus, if you needed to rush an enemy and throw a punch at them, and had 25 AGI, as a Speed 8 action you could move up to (25*(8/2)/50) = 2 yards and then use a basic unarmed attack.
 
 Movement is unique, in that you cannot use Action Points to reduce its Speed. Your distance traveled is determined by the actual number of IC spent on movement.
 
-### Multi-Throw *(Speed Variable, Stamina Variable)*
-Anyone familiar with fictionalized depictions of ninja has no doubt seen them flinging a handful of shuriken with pinpoint aim. As this game is about fictional ninjas, it stands to reason that they can do this! The term, appropriately enough, is "Multi-Throwing".
+**Multi-Throw *(Speed Variable, Stamina Variable)***
+<br>Anyone familiar with fictionalized depictions of ninja has no doubt seen them flinging a handful of shuriken with pinpoint aim. As this game is about fictional ninjas, it stands to reason that they can do this! The term, appropriately enough, is "Multi-Throwing".
 
 It helps to first be familiar with the two weapons you'll be throwing the most: They are the shuriken (weighing in at 1d6 base damage) and the kunai (beating it out with 2d6). While you could certainly throw a single shuriken or kunai (that would be a basic weapon attack), a real ninja would throw a bunch at once. By default, you may only throw one type of weapon at once; you could throw 6 shuriken, but not 4 shuriken and 2 kunai in the same action. After choosing your weapon, you decide how many you want to throw.
 
 You throw at least 2 weapons, up to a maximum of DEX/10. The Speed is 3 + (number of weapons thrown)/2, and the Stamina cost is 5, +1 for every 2 weapons (6 for 2-3, 7 for 4-5, and so forth). Regardless of how many weapons you throw, the minimum total Speed of a multi-throw action is 5--this applies to both its base Speed, and its final Speed after any changes (such as spending AP). The rolled damage is the total for all weapons thrown; 6 shuriken would yield a 6d6 base damage. Your damage bonus is increased by +0.5 for every thrown weapon. So, if you had 60 STR in the above multi-throw, your damage bonus would be (60/15 = 4, 4 + 0.5x6 = 4+3 =) 7. The attack would be Speed (3 + 6/2 =) 6 and Stamina 8, and have a damage formula of: 6d6+7x6. If you are multi-throwing shuriken, their +2 Accuracy is applied only once. You do need to choose between shuriken or kunai when you multi-throw; you can't mix-and-match, tragically. Because wounds represent severe damage from a single powerful attack, and multi-throws are multiple weaker injuries delivered at once, the severity of all wounds caused by multi-throws is reduced by one category, to a minimum of Minor.
 
-### Parry *(Speed 3, Interrupt)*
-This entails deflecting an opponent's weapon with your own, or stopping their unarmed attacks with your bare hands. Accordingly, weapon attacks may only be parried with weapons, and unarmed attacks may only be parried if you have at least one hand free to do so. Parrying works similarly to dodging, though uses an Accuracy Roll to determine its success.
+**Parry *(Speed 3, Interrupt)***
+<br>This entails deflecting an opponent's weapon with your own, or stopping their unarmed attacks with your bare hands. Accordingly, weapon attacks may only be parried with weapons, and unarmed attacks may only be parried if you have at least one hand free to do so. Parrying works similarly to dodging, though uses an Accuracy Roll to determine its success.
 
 When something (such as Fatigue) penalizes both Accuracy and defensive rolls (or rolls in general), Parry only suffers the penalty to defensive rolls; if something penalizes only Accuracy, then Parry does suffer that penalty. Basically, it doesn't have to deal with 'double jeopardy'.
 
-### Perform Handseals *(Speed Variable, Abort)*
-Most Ninjutsu and Genjutsu techniques require the use of handseals, specialized hand signs that direct and mold the flow of chakra. Representing this, those jutsu have a Seal Speed listed in their description. That number, minus your DEX/10, gives you the modified seal speed, which is the Speed of your Perform Handseals action. However, other speed-reducing effects do not apply to Perform Handseals. A Seal Speed of 0 means that while handseals are required, you can perform them so fast that the time required is negligible. You may forego part, or all, of your DEX/10 reduction of Seal Speed if you wish (for example, with 40 DEX you could use Perform Handseals action for a Seal Speed 10 jutsu at anywhere between Speed 6 and Speed 10, as you pleased).
+**Perform Handseals *(Speed Variable, Abort)***
+<br>Most Ninjutsu and Genjutsu techniques require the use of handseals, specialized hand signs that direct and mold the flow of chakra. Representing this, those jutsu have a Seal Speed listed in their description. That number, minus your DEX/10, gives you the modified seal speed, which is the Speed of your Perform Handseals action. However, other speed-reducing effects do not apply to Perform Handseals. A Seal Speed of 0 means that while handseals are required, you can perform them so fast that the time required is negligible. You may forego part, or all, of your DEX/10 reduction of Seal Speed if you wish (for example, with 40 DEX you could use Perform Handseals action for a Seal Speed 10 jutsu at anywhere between Speed 6 and Speed 10, as you pleased).
 
 Handseals require the use of both hands, and if they're interrupted for any reason you have to start over again. Although you don't have to declare what technique you're performing the handseals for when you start, all techniques have their own, unique combination of seals to perform them; this means that if you changed your mind partway through a Perform Handseals action, you'd need to start a new one.
 
 If you take damage while forming handseals (between the declaration of your Perform Handseals action and when you actually use the jutsu), you must exceed 10 + (damage dealt / 10) on a Chakra Control skill roll in order to continue. Failure means you automatically Abort your Perform Handseals action.
 
-### Rest *(Speed 10)*
-Resting is pausing to cool down and gather your breath. Since it doesn't directly lead to incapacitating your enemy, most ninja prefer to do this out of battle; however, sometimes pacing yourself is the only way to achieve victory. Every Rest action you take reduces your Stamina penalty (see the 'Fatigue' portion of this chapter) by 1, to a minimum of 0. You cannot use AP to reduce the speed of your Rest action; 'resting as fast as you can' is, after all, something of an oxymoron.
+**Rest *(Speed 10)***
+<br>Resting is pausing to cool down and gather your breath. Since it doesn't directly lead to incapacitating your enemy, most ninja prefer to do this out of battle; however, sometimes pacing yourself is the only way to achieve victory. Every Rest action you take reduces your Stamina penalty (see the 'Fatigue' portion of this chapter) by 1, to a minimum of 0. You cannot use AP to reduce the speed of your Rest action; 'resting as fast as you can' is, after all, something of an oxymoron.
 
-### Take the Hit *(Speed 6, Interrupt)*
-Taking the hit is the glorious move the stronger person or sensei uses to protect their weaker ally! You make a Dodge roll with a +5 bonus; if successful, you've leapt in the way of an attack aimed at your ally. If you fail, your ally takes 20% of the damage per point you failed by. (For example: If you fail by 2 points, you'd take 60% damage, and your ally 40% damage). If you were blocking when you used this, you may block as long as you were successful by 1 point or more. You may also use interrupts to defend yourself, up to a maximum Speed of how many points your Take The Hit roll beat the opponent's accuracy; you can't dodge, but you could parry, or use a ninjutsu-based defense that raises a protective wall.
+**Take the Hit *(Speed 6, Interrupt)***
+<br>Taking the hit is the glorious move the stronger person or sensei uses to protect their weaker ally! You make a Dodge roll with a +5 bonus; if successful, you've leapt in the way of an attack aimed at your ally. If you fail, your ally takes 20% of the damage per point you failed by. (For example: If you fail by 2 points, you'd take 60% damage, and your ally 40% damage). If you were blocking when you used this, you may block as long as you were successful by 1 point or more. You may also use interrupts to defend yourself, up to a maximum Speed of how many points your Take The Hit roll beat the opponent's accuracy; you can't dodge, but you could parry, or use a ninjutsu-based defense that raises a protective wall.
 
 
 
@@ -259,32 +258,32 @@ Ninja hide. It's sort of their... thing. That said, hiding can be accomplished u
 
 Once you meet one of those requirements, you may hide. Hiding is, of course, an action! When hidden, you may not be targeted by enemy attacks (because they don't know where you are!). It's possible to be hidden from some people, but not others.
 
-### Hide *(Speed 10)*
-Make a Stealth skill roll; the result becomes your "Stealth TN" (target number), how hard it is to find you. You are hidden at level 1 Stealth. For every time you've hidden in a battle, your future Stealth rolls to hide have a -5 penalty (the third time you hid yourself, you'd have a -10 penalty; this applies even if you're hiding with jutsu or other effects).  If your stealth TN is ever reduced to 0 or below, you are no longer hidden.
+**Hide *(Speed 10)***
+<br>Make a Stealth skill roll; the result becomes your "Stealth TN" (target number), how hard it is to find you. You are hidden at level 1 Stealth. For every time you've hidden in a battle, your future Stealth rolls to hide have a -5 penalty (the third time you hid yourself, you'd have a -10 penalty; this applies even if you're hiding with jutsu or other effects).  If your stealth TN is ever reduced to 0 or below, you are no longer hidden.
 
-### Improve Hiding *(Speed 7)*
-This action may be performed only while hiding at level 1 stealth. You take the time to make sure you're properly hidden and settle into place, moving you up to level 2 stealth. In case that wasn't clear, this cannot, by itself, take you from level 2 to level 3 stealth.
+**Improve Hiding *(Speed 7)***
+<br>This action may be performed only while hiding at level 1 stealth. You take the time to make sure you're properly hidden and settle into place, moving you up to level 2 stealth. In case that wasn't clear, this cannot, by itself, take you from level 2 to level 3 stealth.
 
 ### Stealth Levels
 There are three levels of stealth, corresponding to different degrees of being hidden. Each level has limitations on what can be done in it; for example, in Level 2 and Level 3 Stealth, you cannot move. Thus, if you were at Stealth 3, and chose to spend an action moving, you would immediately be dropped to Stealth 1.
 
-#### Stealth, Level 1
+### Stealth, Level 1
 Stealth 1 is as poorly concealed as you can be while still being unseen by your enemies. Your Stealth TN has no bonus at this rank. You may move and perform surprise attacks, as well as using items.
 
-#### Stealth, Level 2
+### Stealth, Level 2
 Stealth 2 corresponds to being fairly well-hidden, having taken the time to adjust yourself and your hiding spot as necessary--you're not sticking your feet out past the edge of the rock you're hiding behind, for example. From Stealth 2 you may perform surprise attacks, use items, and prepare and perform sneak attacks. At this level of stealth, your Stealth TN has a +5 bonus.
 
-#### Stealth, Level 3
+### Stealth, Level 3
 Stealth 3 is as well-hidden as you can be. You are somehow camouflaged, blending into your environment excellently. You may not move, attack, or use items, but your Stealth TN has a +15 bonus.
 
 ### Searching
 Understandably, situations arise when Ninja want to find other, hidden ninja, or help others in doing so.
 
-### Search *(Speed 6)*
-You look for hidden enemies, using your keen ninja senses. When you make this action, roll your Awareness skill and compare it to the Stealth TNs of all hidden enemies. If you get equal to or greater than someone's Stealth TN, you have found them. As far as you're concerned, they're no longer in stealth; they cannot perform surprise or sneak attacks against you, you can attack them, and so forth. Every time you use a Search action consecutively (without taking a non-Interrupt action between them) you get a stacking +2 bonus. Thus, your third attempt to find someone would use your Awareness skill +4. If you are the one doing the hiding, you do not automatically know that someone has discovered your hiding place; until they do something indicating they know where you are (such as attacking you, or running straight at you), you think you're still hidden from them.
+**Search *(Speed 6)***
+<br>You look for hidden enemies, using your keen ninja senses. When you make this action, roll your Awareness skill and compare it to the Stealth TNs of all hidden enemies. If you get equal to or greater than someone's Stealth TN, you have found them. As far as you're concerned, they're no longer in stealth; they cannot perform surprise or sneak attacks against you, you can attack them, and so forth. Every time you use a Search action consecutively (without taking a non-Interrupt action between them) you get a stacking +2 bonus. Thus, your third attempt to find someone would use your Awareness skill +4. If you are the one doing the hiding, you do not automatically know that someone has discovered your hiding place; until they do something indicating they know where you are (such as attacking you, or running straight at you), you think you're still hidden from them.
 
-### Point Out *(Speed 3)*
-You indicate where an enemy is hiding, typically by pointing at them and yelling "There he is!" loudly. This allows anyone else present to make a Search action immediately, as a Speed 0 Interrupt, with an additional +5 bonus.
+**Point Out *(Speed 3)***
+<br>You indicate where an enemy is hiding, typically by pointing at them and yelling "There he is!" loudly. This allows anyone else present to make a Search action immediately, as a Speed 0 Interrupt, with an additional +5 bonus.
 
 ### Actions from Stealth
 As mentioned in Stealth Levels, your options for acting from Stealth are fairly limited, but attacking from Stealth allows for some powerful advantages.
@@ -300,127 +299,28 @@ A sneak attack is an improved surprise attack, and as such, all normal rules for
 
 A sneak attack may be used as a special type of Interrupt. You can Interrupt any action, taken by any person, with a sneak attack. They may either complete their action, and be automatically hit by your sneak attack, or call off their action and defend against your attack normally. If they call their action off they do not pay its cost, but their next action is still determined by their action's normal Speed. Sneak attacks may interrupt other actions as if their Speed was 1/4 its actual value. For example, you have been preparing a sneak attack for 18 initiative counts, when your opponent declares a basic unarmed attack (Speed 8) against your ally, on IC 80. You declare a sneak attack interrupt. You use a taijutsu technique which normally has 30 Speed; you spend 14 action points to lower its Speed to 16 (less than your 18 ICs of preparation). It now interrupts as if it was Speed (16/4 =) 4, which is half of the unarmed attack's 8, making it a valid interrupt. Your opponent would be wise to call off their attack; if they do so, they will not roll Stamina for their attack, they'll have their next action on IC 88, and they can defend with any Interrupt of Speed 8 (16/2 = 8) or lower.
 
-#### Genjutsu
+### Genjutsu
 Genjutsu can be used from level 1 and 2 stealth, and unlike other jutsu does not break your concealment. However, it can never be a sneak or surprise attack. Genjutsu techniques which require your opponent to be able to perceive you cannot, for reasons that should be largely self-evident, be used on somebody who you're hiding from.
-
-
-
-## Pursuit
-If you and all the members of the squad you wish to form together with are out of combat, or 100 Yards away from any (visible) enemy in combat, you may start a Pursuit. This either reflects you going somewhere, chasing someone, or running away from someone! You can do this with any number of ninja, but a minimum of 3 is required for a Formation.
-
-There are three important choices you must make when starting a pursuit. If you are being thrown into a pursuit on the fly, read the rules below marked with +++, otherwise, you first pick a Team Captain, a Tactic, and finally a Formation.
-
-Team Captain - You nominate one of the ninja in your squad to make the decisions for your group, it is important during a pursuit to do things quickly without thinking, so the Captain delegates commands to others, controlling the actions of the squad.
-
-Once you have chosen your Team Captain, determine your squad's Squad Speed. This is based on the lowest speed of any member of your squad. Many things will add or remove percentages to this. It will come up a lot, so remember this number!
-
-#### How it Works
-The distances squads can be apart are as follows, and are represented in combat by a number of asterisks. They are also often referred to as degrees:
-- (1) Very Close
-- (2) Close
-- (3) Nearby
-- (4) Far
-- (5) Very Far
-
-Both Team Captains roll their initiatives, then both teams start Nearby. Any members of either team use techniques to buff themselves at this moment as long as they are Speed 10 or less.
-
-If there was any hidden enemies nearby you start 1 degree closer as the Hunted (or further, if you are the Hunter). Unlike normal combat IC, you each alternate turns, each action listed taking a whole turn. Every turn, you gain 10% Squad Speed at the start. After both parties have had a turn, you both compare Squad Speeds and the higher speed moves a degree in their favor (Hunted move 1 away, Hunters move 1 closer). Gaining or losing speed cannot cause you to go over +50% or under -50%, unless otherwise stated. You continue to take turns this way until one party is caught or gets away.
-
-#### Tactics
-The way your team has decided on moving together gives you distinct advantages and disadvantages. The different tactics affect how you build speed and what you can do during a pursuit.
-
-##### Force
-Anytime your Squad Speed would decrease, it decreases by half the percentage. This includes when it changes to another Formation and/or Tactic. You can use the Stop! action from Close, and the Escape! action from Far. Your squad cannot be broken.
-
-##### Stealth
-You only gain 5% Squad Speed per turn instead of the standard 10%, but your speed cannot be reduced except by changing Formation and/or Tactic. When you use a Volley you can choose to hit them from the sides or center, or with a -5 penalty hit them from the back (or front, if you are the Hunter). When you use the Ambush action, you can do it from one degree further away. You also may use a Stealth -10 in place of any defensive roll.
-
-##### Cunning
-When you gain a percentage speed bonus by any means, you can instead apply it as a penalty to the enemy squad. When targeting a trap, you can choose 2 locations and roll a 1d2, or with a -5 penalty you can choose which direction you want it to hit from. As the Hunter, this makes your successful volleys knock the Hunted one closer and you can use a volley from Far with a -10 penalty.
-
-##### Speed
-Your percentage caps are raised to +100% max speed and -100% minimum. You gain +20% passively at the start of each turn instead of the regular +10%, but any penalty to your speed is twice the amount, and anything that moves your squad in a way other than what you'd like moves you that way twice the amount. This includes when it changes to another Formation or Tactic.
-
-#### Formation
-The actual formation your squad moves in has vulnerabilities and strengths of its own. If a formation is hit from its vulnerable side, it is Broken until the squad assumes a new formation. Any bonus you gain from a formation gains an additional +1 for every member you have over 3 in your squad.
-
-##### Line
-Running in a line, one man leading single-file all the way to the end. You get a +5 to any Athletics and Resistance roll and you are vulnerable to flanking. (The Side)
-
-##### Cross
-The group is in a short line, with people branching out from the front to cover the sides. You get +5 Stealth. Vulnerable to an attack from above. (The Back)
-
-##### Circular
-The group covers a nice area, seeing all around them equally. You get +5 to any Awareness and Survival checks your squad makes and you are vulnerable to direct assault. (Center)
-
-##### V-Shaped
-One ninja in the front, then fanning out to both sides. You get +5 to any Espionage checks your squad makes and you are vulnerable to rear assault. (The Front)
-
-##### Broken
-This is what your squad counts as if it has less than 3 members, or something causes it to break. You no longer gain a passive +10% speed per turn. If for some reason you cannot decide on a squad leader, you are similiarly Broken.
-
-If you were forced into a pursuit, either by fleeing from an enemy, or from an enemy fleeing from you, there is a special way to handle this! First, both teams get -50% Squad Speed for it being so abrupt. After rolling initiatives, starting with the Team Captains, the teams take turns voting on a Strategy and Tactic. First the Team Captain from the Squad that won initiative votes, then the other team's Captain and one other member vote, then two from the original team, then alternating two members until there are none left. At the end, the Hunter's Team Captain chooses a Strategy and Tactic. For every vote they had for the ones they end up choosing, they get +10% Speed. (This means if two members of your team voted for Force and V-Shaped, and you voted for some different ones, but chose Force and V-Shaped, you'd get +40% Squad Speed! 2 Votes for Force + 2 Votes for V-Shaped) The Hunted chooses this as well, afterward, then the Pursuit begins.
-
-#### Actions in a Pursuit
-There are two groups in a Pursuit, the Hunted (the ones being chased) and the Hunter (the ones chasing). There are some actions they can both take and some actions only the Hunter or Hunted can take. Any action which calls for a skill roll uses the highest skill roll in your squad, and only their roll. Any attack done by the Hunter can target the back of the Hunted squad, or the center. Any attack done by the Hunted can target the front of the Hunter squad, or the center.
-
-##### Change Tactic / Formation *(-30% Squad Speed)*
-Doing this causes you to choose a new Tactic and/or Formation, but you lose 30% Squad Speed.
-
-##### Press On *(+20% Squad Speed)*
-You gain a +20% bonus to your Squad Speed.
-
-##### Taijutsu Volley *(Speed 10, -10% Squad Speed)*
-This is (for the purposes of damage only) a Speed 10 attack with (Athletics Ranks/5)d12, using your PDB. Being hit by a volley lowers your Squad Speed by 10%. This can hit anyone up to Nearby, its damage being dealt to the whole enemy Squad, and its strike is an Athletics vs. Athletics or Resistance skill roll. You can choose to do either Slashing, Piercing, or Blunt wounds with this. When you attack with this, as the Hunter you hit the Hunted from the back, and the Hunted use this to hit the Hunter from the front. You can choose to make your Athletics check at a -5 penalty to roll 1d4 and hit the enemy from a random location. (1=Center, 2=Back, 3=Front, 4=Sides)
-
-##### Ninjutsu Volley *(Speed 10, -10% Squad Speed)*
-This is (for the purposes of damage only) a Speed 10 attack with (Chakra Control Ranks/5)d12, using your NDB. Being hit by a volley lowers your Squad Speed by 10%. This can hit anyone up to Nearby, its damage is dealt to the whole enemy Squad, and its strike is a Chakra Control vs. Athletics or Resistance skill roll. You can choose any element someone in your squad can use for wounds. When you attack with this, as the Hunter you hit the Hunted from the back, and the Hunted use this to hit the Hunter from the front. You can choose to make your Chakra Control check at a -5 penalty to roll 1d4 and hit the enemy from a random location. (1=Center, 2=Back, 3=Front, 4=Sides)
-
-##### Illusionary Assault 
-You can lower the bonus percentage cap a squad can benefit from for their next turn. (A squad that could move +50% faster can now only get to +25% faster) If you lose speed from this, you do not gain it back when your cap returns to normal. This is a standard Genjutsu roll, using the highest from both squads. This can be done up to Nearby distance.
-
-#### Ambush
-As the Hunter, you need to have successfully sent a member to Cut-Off the enemy, and be at Close or Very Close range. As the Hunted you need to use it while they are Close or further away. Roll Stealth vs. Awareness (at -10 if you are the Hunted), if you succeed, you get into Ambush position and you start combat, with each member who was part of the Ambush starting in Level 2 Stealth, with a +10 bonus to their initiative. If you fail, combat still starts, but the Ambushers have a -10 to their Initiative and are not in Stealth. When the Hunted are Ambushing, it's their whole Squad who get these penalties or bonuses; when it's the Hunter, it's only the members sent in the cut-off.
-
-#### Cut-Off *(Hunter Action)*
-You send a member or two of your squad up and around, to try and position yourself for a nice Ambush. At the end of the Hunted's next turn, roll Espionage vs. Survival. If you succeed, you are in position, and on your next 2 actions can use Ambush.
-
-#### Stop! *(Hunter Action)*
-If you are in the Very Close position, the Pursuit is over, and the Hunted is caught as combat begins. Your side begins combat with +5 to the initiative roll for all members that were Hunters.
-
-#### Give Up the Chase *(Hunter Action)*
-You can choose to move two degrees away, if this would move you further than very far, you give up chasing. Just in case they wanted to turn back around on you at one point. If you do this three times but somehow don't leave pursuit they can choose to start a new pursuit, with you as the Hunted, starting from the distance you left off.
-
-#### Traps *(Hunted Action, -10% Squad Speed)*
-Put down some traps! You lose 10% Squad Speed to set up traps. At the end of the Hunter's next turn, roll 1d4, as well as an Espionage vs. Survival. The 1d4 determines the direction the traps strike from (1= Front, 2= Sides, 3=Back, 4=Center) If the Hunters fail their Survival, their squad is moved one degree away. They also each take (Espionage Ranks/5)d10 damage, with no damage bonus.
-
-#### Escape! *(Hunted Action)*
-This action requires you to be at Very Far distance.  The Pursuit ends, and you have gotten away! It will take them a minimum of one hour to pick up a reliable set of tracks.
-
-#### Sacrifice!!! *(Special)*
-One of your members breaks off from your formation and leads the enemy team away. They automatically get one degree further away. The member who broke off now counts as a separate squad and their tactic is set to stealth.  There are three things the Hunter can choose on their next turn: To continue to pursue the main group, to pursue this 'new group' or to let one of their members leave their group to 1 vs 1 the guy.
-
-
 
 ## Conditions and Status Effects
 Conditions cover the overall health, well-being, and, well, condition, of your character. This lists the conditions, what they do, and where to find more information about them. For how to remove unwanted conditions, see the 'Recovery' section of this chapter.
 
-#### Wounded
+### Wounded
 Trained ninja can survive things that would kill or maim lesser humans, but sometimes a single blow will be so powerful that even their chakra-empowered, well-conditioned bodies cannot simply shrug it off. These are referred to as Wounds, and are explained in detail in the 'Wounds' section of this chapter. The effects, and healing requirements, for each type of wound can be found there.
 
-#### Fatigued
+### Fatigued
 This is the result of (over)exerting oneself in battle. Rules for Fatigue, including how it's gained and the effects it has, are found in the 'Fatigue' section.
 
-#### Incapacitated
+### Incapacitated
 When your HP reaches 0, you are incapacitated. You're not necessarily unconscious, and you can still talk, but you're helpless, completely unable to take any kind of action or effectively defend yourself. An enemy who wants to can knock you unconscious with a single blow, or deliver a coup de grace to render you dead.
 
-#### Unconscious
+### Unconscious
 One step up from incapacitated, this can result from being deliberately knocked out, or from severe Fatigue. When unconscious you are subject to all rules for being incapacitated, but cannot even talk or perceive your environment.
 
-#### Dead
+### Dead
 Dying isn't as easy for ninja as normal people. There are two main ways you can die. The first is simple, overwhelming damage: If you are reduced to -100% HP, you die. The second is a coup de grace, a blow specifically designed to be lethal. You may deliver a Coup de Grace only against an Incapacitated or Unconscious opponent. A Coup de Grace is a Speed 10, Delay 5 melee-ranged action which can not have its speed reduced by any means.
 
-#### Status Effects
+### Status Effects
 Status effects are things that will come and go throughout the course of battle. They come in many forms, and from many different sources. Some status effects may occur automatically (usually as a result of them applying to an area, rather than a specific target); Others, however, allow you a roll to avoid them.
 
 Typically, this will be called a "status roll", or a "(specific status, such as burn) roll". Saying that the victim gets a Resistance roll against the effect is equivalent to saying that it has a status roll.
@@ -433,19 +333,19 @@ Many of these status effects will be found on damaging attacks--for example, a s
 
 Poison sometimes has special rules in this regard, but they can be found in the appropriate section of the Equipment chapter.
 
-#### Bleed
+### Bleed
 Profuse bleeding from an injury. Among other things, this can ruin your clothes; bloodstains absolutely refuse to come out of most fabrics.
 
 While bleeding, you lose Vitality (or HP) equal to double the severity of the Bleed status every 5 IC, and have a penalty to your Stamina rolls equal to half its severity, rounded down. Every 20 IC, you reduce the severity of the status by RES/30 (after taking the damage).
 
 Bleeds from the same source do not stack; the higher one overwrites the lower. Bleeds from different sources, however, all do their damage separately, though you still use only the highest Bleed to determine your Stamina penalty from the status.
 
-#### Burns
+### Burns
 Generally resulting from exposure to fire or intense heat, such as some katon jutsu, being burnt makes it harder to fight effectively. Your Stamina rolls suffer a penalty equal to the strength of the burns on you.
 
 You can suffer from multiple burn effects at the same time, though only the strongest penalty is actually applied. Any effects which reduce Stamina penalties reduce the severity of all your burns by the same amount. Accordingly, when you move to the next Fatigue category you are cleared of all burn effects.
 
-#### Ignite
+### Ignite
 You are on fire. Literally, you are burning. This is probably one of the most excruciatingly painful experiences of your life.
 
 Ignite's effects are somewhat complicated. Like most statuses, it has a severity. You suffer a penalty to your Stealth checks equal to its severity, and every 5 IC you take damage equal to its severity, plus its severity in percent of your current Vitality.
@@ -456,12 +356,12 @@ If you have no Vitality remaining, it instead does damage equal to its severity 
 
 If someone ignites you again while you are already on fire (seriously, what kind of people are you fighting?), the more severe effect replaces the less severe one.
 
-#### Immobility
+### Immobility
 Immobilization effects are ones such as being stuck in mud or partially bound with ropes. An immobilization penalty reduces your defensive rolls by its value, and your Accuracy by half (rounded down) of its value; additionally, each point of immobilization penalty reduces your AGI for the purposes of movement by 10%. Immobilization 10 is "completely immobilized"; you cannot move at all, being rooted to your location (you could still attack and even attempt to dodge, just at a severe penalty). No matter how high your an immobilization penalty gets, its actual applied penalty can never go beyond -10. Multiple immobilization penalties do not stack; if you're suffering from a -8 and a -4, you ignore the -4 until the -8 goes away.
 
 Many Immobilization penalties apply to an area, rather than a target, and will apply to anyone in the area until they leave it, at which point it ends; others will specify a condition (such as locks from Grapple jutsu, which apply only as long as the Grapple is maintained). Those which do not list any sort of duration or condition of their ending will fade at a rate of 1 per 10 IC after they're applied.
 
-#### Paralysis
+### Paralysis
 Paralysis is an internal effect which impedes your ability to properly use your own muscles, temporarily causing spasms and twitches that prevent you from going full force.. which many ninja like to do, as it turns out.
 
 When paralyzed, you treat the damage from your attacks as if they were (Paralysis severity) lower, to a minimum of half their final, modified Speed.
@@ -472,14 +372,14 @@ Paralysis effects do not combine unless the source itself states it does (such a
 
 Paralysis is reduced as you suffer from it: In the above example, the Speed 8 attack would have your Paralysis completely cleared after reducing the attack's damage to Speed 5, however in the case of the Speed 4 basic, you would still suffer a Paralysis 1 since you only reduced an attack by 2.  Additionally, when you advance a Fatigue level, you clear your Paralysis status automatically.
 
-#### Poison
+### Poison
 When affected by a poison, you make a Resistance roll against some roll of the opponent's. Success means that you shrug off the effects of the poison. Failure means that you have been poisoned.
 
 Actual poisons may carry any number of effects, but the most prominent is poison damage. For every IC that passes, you take damage equal to the poison's rating, for the full duration of the poison. For example, you're affected by a Poison 5 with a duration of 12. You take 5 damage per IC, each IC, until 12 counts after when you were first affected, for a total of 60 damage.
 
 You may be affected simultaneously by multiple poisons. However, a single source (a specific jutsu or type of venom) may only affect you once; another application of it while under its effects simply renews the duration.
 
-#### Shock
+### Shock
 Similar to Paralysis but more of a general impediment to one's ability to move and act, Shock effects slow down ordinarily fast-moving, fast-acting shinobi, making it easier to outmaneuver an enemy before they can recover.
 
 Shock increases the effective Speed of all non-Variable Speed Actions by its Severity; a Shock 3 would increase a Basic Unarmed Attack from Speed 8 to Speed 11, but would deal damage based off of its original Speed (in this case, 8).  If it then had its Speed reduced (such as with AP), it could then be reduced to a minimum of Speed (11/2 = 5.5) 6 with AP, and deal damage as a Speed 6 attack; in essence, AP spent counteracts this status effect until you begin to lower its Speed below that of its unshocked amount.
@@ -488,22 +388,22 @@ Shock does apply to Interrupt actions, but at only half its severity, rounded do
 
 Shock stacks fully with itself, but no action can have its speed more than doubled regardless of your Shock amount. After each action in which you suffer from the Shock status, you reduce its severity by two.
 
-#### Sleep
+### Sleep
 People sleep, generally because it's a necessary bodily function, but sometimes because they've been influenced by mind-affecting genjutsu. In reality, sleeping people are pretty much helpless. However, ninja develop a sixth sense that warns them of impending danger and functions even when not awake.
 
 If someone tries to attack or sneak up on you while asleep you automatically wake up and can still roll initiative and/or defend yourself, though do so at a -5 penalty until your first action after waking up.
 
-#### Stun
+### Stun
 Actions which stun you delay your actions by the magnitude of the stun, during which time you can not spend AP to reduce the speed of any actions you take. For example, if your next action is on IC 14, and you are affected by a Stun 5 effect, your next action would be on IC 19. If you then had to make a Dodge on IC 17 against an incoming attack, you could not spend AP on your dodge to reduce its Speed. Multiple stuns do not stack, but a newer one of higher magnitude will overwrite the older. Thus, using the above example, if you were hit by a Stun 7, your next action would be on IC (14+7) 21; if you were then hit by a Stun 3, there would be no change.
 
 If an effect says that it increases stun, it means that it increase the stun status that the jutsu, weapon or attack would inflict, not that it modifies stuns that a person is suffering from. If an effect says that it extends an existing stun, it means that if a character has a stun effect, that effect is lengthened (and the character is stunned for longer).
 
 Stun ends when get your next action; if the Stun is removed by some means prior to your next action, the effect the Stun has on your IC is removed, though this cannot bring your next action back to earlier than the current IC.
 
-#### Suffocation
+### Suffocation
 Someone or something is hindering your ability to breathe. Suffocation penalties stack, from different sources or multiple ones. Your suffocation penalty is applied to any Stamina and Chakra Exhaustion rolls you make, and every time its value increases you have to make a Stamina 15 roll. Unlike normal Fatigue-related penalties, suffocation is not reset to 0 when your Fatigue advances. When you stop being suffocated, your suffocation penalty is reduced by 1 every 5 initiative counts.
 
-#### Visibility
+### Visibility
 These are penalties which reduce a person's ability to see clearly, impairing the use of their most valuable sense in combat. Visibility penalties do not stack; if you have a -6 and a -2, you ignore the -2 until the -6 is gone. The maximum visibility penalty you can suffer from (after any increases and reductions) is -10.
 
 Total blindness is a -10 visibility penalty; one eye closed (or removed!) is -3. A visibility penalty reduces your Accuracy and Awareness by its value, and your defensive rolls by half (rounded down) of its value; even without their sight, a ninja's sixth sense often alerts them to danger and allows them to respond.
@@ -512,16 +412,16 @@ Many visibility penalties affect areas: clouds of smoke or mist and the like. In
 
 If it ever becomes relevant, closing or opening your eyes is a Speed 0 action--but not an Interrupt.
 
-#### Other Effects
+### Other Effects
 
-##### Area of Effect
+### Area of Effect
 Certain things apply not to an individual, but to all things within a given area--their "area of effect", or AoE. These include things like explosions. The simpler type of AoEs are ones which are not directly offensive, such as a smoke bomb or a jutsu that creates a thick cloud of mist. These apply certain effects so long as you're in them, and can only be avoided by moving out.
 
 Others, however, are attacks: they cause damage to everyone within an area. Depending on that area, it may not even be possible to avoid one effectively. When being subjected to an AoE attack, the first thing to determine is if you can dodge it effectively. To do this, take the attack's Speed, and determine how far you could move (see 'Actions') in that time. If that distance is greater than the effect's radius, then congratulations, you can dodge normally. If not, you have a -2 penalty to Dodge per yard you're short by.
 
 Taijutsu Area of Effect techniques (such as Senpuu) can be parried, but parrying an AoE attack does not 'stop' the attack outright, and anyone else who was within the area of effect can still be hit by the attack: each person must defend against it individually, and a successful parry does not stop secondary effects of the attack (such as Tsukenyaku's shockwave), though effects dependent upon a successful hit or dealing damage, obviously, do not apply on a successful parry.  Ninjutsu AoE's, however, can not generally cannot be parried. Other defenses, such as raising a ninjutsu-based wall, are typically effective.
 
-#### Knockback
+### Knockback
 Certain jutsu have an effect referred to as "knockback", which does about what it sounds like: pushes you away from its user or point of origin. Knockback is measured in yards; a 10 yard knockback means that, if you are hit, you will be moved 10 yards away from wherever the jutsu originated from. Some may have more complex rules, such as pushing you to the edge of their area of effect.
 
 When a technique knocks you back a certain number of yards, if partial success applies then you will also reduce the knockback by that amount. The exception is area-of-effect knock backs centered on an individual (such as a Hyuuga's Kaiten and the A-rank jutsu Eye of the Storm): partial defense does not reduce the knockback from these, as they essentially "push" everything away from them equally.
@@ -533,28 +433,28 @@ Any clones you summon are subject to the same statuses and conditions you are su
 
 ## Fatigue
 
-#### Stamina
+### Stamina
 People get tired; it just happens, even to supernaturally empowered ninja. To represent this, certain attacks have a stamina cost, listed in a format such as "Stamina: 10."
 
 Whenever you use a move with a listed Stamina cost, you make a stamina roll: 1d20+RES/10. Regardless of the result, your attack is resolved normally. However, if you got less than the TN for your roll (that is, the move's Stamina rating) your Fatigue is raised by one category.
 
 Realistically, continued exertion even at the same level will tire people out. Every time you make a Stamina roll, you incur a penalty equal to (the Stamina cost)/5, rounded down, on all future Stamina rolls you make. You cannot reduce the Stamina cost of any action below 5, if its unmodified cost was 5 or higher. This penalty is reset to 0 every time you advance a Fatigue category, and at the end of battle. It can also be reduced by spending your time Resting in combat.
 
-#### Chakra Exhaustion
+### Chakra Exhaustion
 The counterpart to stamina. Shinobi have the ability to use all manner of fantastic abilities by drawing on the chakra within themselves and manipulating the environment. While very potent, this energy comes from their body, and it's easy for a shinobi, especially an inexperienced one, to overtax themselves.
 
 Ninjutsu and Genjutsu moves have a chakra cost, listed in a form such as "Chakra: 10." When you use these moves, you make a roll against Chakra Exhaustion; to pass, you must get equal to or greater than the technique's cost on a roll of 1d20+CHA/10. If you fail, your Fatigue is raised one category. Whether you pass or fail, your jutsu works normally.
 
 The more chakra a shinobi spends, the more strain they put on their body. Every time you make a Chakra Exhaustion roll, you incur a penalty equal to (the Chakra Exhaustion cost)/5, rounded down, on all future Chakra Exhaustion rolls you make. You cannot reduce the Chakra cost of any action below 5, if its unmodified cost was 5 or higher. This penalty is reset to 0 every time your Fatigue category increases, and at the end of battle.
 
-#### Upkeep
+### Upkeep
 Some techniques require a constant expenditure of your energy to maintain; this is what upkeep represents. So long as you maintain these techniques (which typically can be done indefinitely) you suffer a penalty to all Stamina and Chakra Exhaustion rolls equal to that technique's Upkeep. If you're maintaining multiple techniques with Upkeeps, these penalties stack, however, you can not have multiple Upkeeps from the same source, to stack the same benefit: You could not use Chakra Strengthening multiple times to gain its benefit multiple times, for example, even though you could both have an Upkeep from using Chakra Strengthening and Rock Smashing Staff together, if you wished, combining their Upkeeps together to determine your total penalty to both Stamina and Chakra Exhaustion rolls.
 
 If your total Upkeep ever exceeds your total bonus to Chakra Exhaustion rolls (not counting any penalties), you automatically advance a Fatigue level. For example, if you had a Chakra Exhaustion roll modifier of +6+2+10-8, your total bonus would be +18. If you had an Upkeep of 19, your Fatigue would automatically advance a category, giving you another +5, for a total bonus of +23.
 
 You may end any Upkeeps you're sustaining at will, even when it's not your action.
 
-#### Fatigue Levels
+### Fatigue Levels
 Fatigue represents the effects of weariness on your body. Shinobi can push themselves well beyond normal human capabilities, often displaying determination that exceeds their body's limits. You begin a battle at Fatigue 0. Whenever you fail a Stamina or Chakra Exhaustion roll, your Fatigue increments up one category, and your penalties to both those rolls reset to 0. For every 15 points you fail a roll by, you automatically advance an additional Fatigue category; thus, rolling a 12 on a Stamina 45 technique would cause you to advance 1+(45- 12)/15 = 3 Fatigue categories.
 
 If an action (attack, defense, etc) requires you to make *both* a Stamina and Chakra Exhaustion roll, you roll the Stamina cost first.  If you for some reason need to roll multiple Stamina and/or Chakra costs as part of the same action, unless the jutsu or effect in question specifies an order you roll from lowest to highest.
@@ -570,7 +470,7 @@ Fatigue only goes up to 5. If you fail a Chakra Exhaustion or Stamina roll when 
 
 One exception to that last paragraph, though: If you fail a technique badly enough that you would advance a Fatigue level beyond unconsciousness, the technique you were using fails to activate. Thus, say you're at Fatigue 4, and you fail a technique by 32 points. Failing it advances you to Fatigue 5; the first 15 points you fail it by advances you a second Fatigue category, placing you unconscious; however, you failed by another 15 points, and so not only are you unconscious, but your technique also fails to activate.
 
-##### Example
+#### Example
 >Naruto and Sasuke are fighting over who shall be Sakura's boyfriend.
 >
 >Sasuke starts accosting his nemesis with multiple Shishio Rendan attacks, a Stamina 15 technique. The first, he rolls a plain 1d20+7, with a total of 16, narrowly avoiding failure. Still, he's angry, and he keeps going. The next roll is 1d20+7- 3; and, the next, 1d20+7-6. Both times he passes.
@@ -592,7 +492,7 @@ Enough of a beating, over a long enough period of time, will still bring a ninja
 
 Even so, some blows are too much to just shrug off. These are called wounds, injuries that have some lasting effect on your ability to fight.
 
-#### Wound Categories
+### Wound Categories
 Simply put, you acquire wounds by taking too much damage at once. When a single source of damage deals more than a certain percent of your maximum Vitality at once, you suffer a wound of the corresponding severity. Wounds are divided into four severities: Minor, Major, Severe, and Critical.
 - **Minor:** 10%
 - **Major:** 25%
@@ -608,21 +508,21 @@ For the sake of demonstration, we'll say that you have 600 Vitality, and 200 HP.
 
 On the other hand, if you had 60 Vitality remaining when that same attack hit, you'd lose 60 Vitality (10%) and 40 HP (25%), resulting in two Minor wounds.
 
-#### Damage Types
+### Damage Types
 After determining the severity of a wound, the next (fairly simple!) step is determining what type of wound it is. Being cut by a sword and being hit by a magical ninja fireball, even if they do the same amount of damage, have significantly different effects on the human body. For the most part this is self-explanatory, with only four damage types recognized: Blunt, Slashing, Piercing, and Energy.
 
 Unarmed attacks are always blunt damage, nice and simple. Weapons have their damage type, or types, listed in their descriptions. If a weapon can do multiple types of damage, the attacker declares which type of wound they'll be inflicting after the severity is confirmed, but before the location is determined. Some weapon jutsu require a weapon of a specific damage type to be used; in this case, damage from that jutsu is considered to be of that type.
 
 Ninjutsu are simpler than weapons! Katon and Raiton jutsu inflict energy damage. Doton and Suiton inflict blunt damage. Fuuton inflicts slashing damage. An exception! Some jutsu augment a weapon strike, or actually create a weapon. In these cases, use the damage type of that weapon, not the element it was made from.
 
-#### Location
+### Location
 After determining severity and damage type, you roll to determine location--where you hit, and what you injured. It's all well and good to say you threw a punch at their face, but this is battle, with ninjas! Things rarely go as planned. You roll a percentile die (1d100) for location, and check the relevant damage type's wound list, under the appropriate severity, to determine the effect. If it's an arm or leg that's been wounded, odds on the 1d100 are the right arm, and evens the left. This all gets simpler if the defender is blocking; in that case, they choose the location.
 
 Multiple wounds, even multiples of the same effect, stack. Two broken left arms means that your arm is broken twice, with double the normal penalties.
 
 One exception. If you suffer a critical wound, it overrides all lesser wounds on that location--having an arm reduced to useless deadweight makes the fact that it's broken in six places kind of, well, irrelevant. Two criticals in the same place, however, is oh so very possible.
 
-#### Called Shots
+### Called Shots
 A called shot is an attack specifically targeting a certain location. After checking your attack's damage type, choose any of the locations which can be Wounded by damage of that type. You declare that when you make your attack, for example, "Hinotama, Called Shot: Arm".
 
 The attack has a -4 Accuracy penalty. However, if it hits, any wounds it inflicts will automatically be dealt to that location.
@@ -630,25 +530,25 @@ The attack has a -4 Accuracy penalty. However, if it hits, any wounds it inflict
 
 ## Recovery
 
-#### Hit Points and Vitality
+### Hit Points and Vitality
 Lost Vitality recovers fairly quickly; ninja don't get too far through their training without being able to get back on their feet. You recover 10% of your maximum Vitality every 10 minutes OOC.
 
 Lost Hit Points are harder to deal with. By the time you're taking HP damage, your body's already reached its limit as far as soaking damage goes. You recovery 10% of your max HP every 1 hour OOC.
 
-#### Fatigue
+### Fatigue
 Fatigue is more than just being a little winded; it's exhaustion and bone-deep weariness. Ninja are just much better able to deal with such things than normal people. Every hour that passes OOC, your Fatigue is lowered by one level.
 
-#### Willpower
+### Willpower
 You begin every (OOC) day with your full amount of Willpower. With the exception of some rare effects, you can't get Willpower back any faster than that.
 
-#### Wounds
+### Wounds
 Wounds are particularly grievous injuries, ones powerful enough to have effects beyond just beating you that much closer to unconsciousness. The rules for what causes Wounds are discussed in the appropriate section of the combat chapter.
 
 And, so are their recovery times! How long a given wound takes to heal will be listed in that wound's own description. Many can be reduced by medical attention (as described below).
 
 Minor wounds all heal at the same rate, with or without rest or medical attention. Most wounds will heal even if you're not getting rest, with details listed for each individual wound; if it says nothing on the matter, rest or lack thereof won't change its recovery time.
 
-#### Medical Attention
+### Medical Attention
 Many of the listed recovery times assume you're waiting to get better on your own; ninja have a remarkable ability to recover from injuries, full as they are of vim and vigor. Naturally, you heal faster when you're actually getting rest and have trained medical professionals looking after you. In fact, you regain everything except Willpower twice as fast when receiving medical attention.
 
 ...Which brings us to what 'medical attention' means. It means you are in a hospital, or getting an equivalent amount of bed rest, with one or more doctors or medics checking up on you regularly. You are getting sleep and being taken care of, not training or researching a new jutsu. You can most likely have visitors.
@@ -657,10 +557,10 @@ Every ninja village's hospital is always open to its shinobi. That said, if you 
 
 However, once you've gone to a hospital they won't let you leave for 24 OOC hours, unless it's on important business-- such as being required for a mission your village is sending you on. The doctors have gotten very good at seeing through people's excuses.
 
-#### Guidelines
+### Guidelines
 Sometimes people get silly ideas and have to be corrected. This is to hopefully preempt that, by clarifying a few things! You probably don't need to read anything in this section unless it actually comes up during gameplay.
 
-##### IC and OOC Recovery
+### IC and OOC Recovery
 What happens if you're IC and need to know how fast you heal? For example, if you're on a mission, or trying to buy time between fights. If it takes ten minutes to RP a conversation, have you healed in that time? What about if you need to step away from your computer for an hour to do laundry, but there's someone who just drew a knife on you? For the most part, this really doesn't matter; you can assume OOC healing times apply unless it actually is an important situation.
 
 Should such a situation (that is, an important one, or a GM-run event), use the following in-character times:
@@ -672,7 +572,7 @@ Should such a situation (that is, an important one, or a GM-run event), use the 
 
 Medical attention halves all of these, except as detailed above.
 
-##### Rest
+### Rest
 Your body can't heal when you're putting too much stress on it. It's why doctors recommend bed rest (and lots of fluids, and "grape" flavored medicine that tastes just horrid, and nothing like grapes).
 
 'Rest' for a ninja, however, does not entail laying in bed for the afternoon. Taking damage, or failing a Stamina or Chakra Exhaustion roll, interrupts your healing; this applies to Vitality, HP, and Stamina. So, if you had been recovering from 0 Vitality, Fatigue 3, and full HP for an hour and fifteen minutes, then did something to exert yourself and failed a Stamina roll, you'd have recovered 70% of your maximum Vitality (75 minutes, /10 = 7) and 1 Fatigue level, putting you at Fatigue 2--except you just failed that roll, so back to Fatigue 3 you go.
