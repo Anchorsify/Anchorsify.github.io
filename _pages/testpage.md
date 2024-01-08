@@ -29,6 +29,8 @@ Test text.
 ###### Header 6
 Test text.
 
+
+
 **--( Moonspeak - Jutsu Name )--**
 
 Fluff text.  This is a lot of fluff text to make sure linebreaks will still have it looking good even when the description is overly long and going to wrap around to the next line.
@@ -44,6 +46,8 @@ Speed: 3
 Special: +1000d10
 
 EffectS: You die.
+
+
 
 **-= Ability name =-**
 
