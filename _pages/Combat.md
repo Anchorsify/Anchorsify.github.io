@@ -6,14 +6,7 @@ nav: true
 nav_order: 4
 
 toc:
- - name: Initiative
- - name: How to Fight
- - name: Basic Actions
- - name: Stealth
- - name: Conditions and Status Effects
- - name: Fatigue
- - name: Wounds
- - name: Recovery
+  sidebar: left
 ---
 
 ## Initiative
