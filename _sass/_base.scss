@@ -40,6 +40,8 @@ strong {
     font-weight: 700;
 }
 
+.navbar { font-size: 1.25rem; }
+
 p,
 h1,
 h2,
@@ -260,7 +262,6 @@ blockquote {
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
   border: 1px solid var(--global-divider-color);
-  font-size: 1.25em;
 
   a:not(.active) {
     color: var(--global-text-color);
