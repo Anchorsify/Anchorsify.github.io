@@ -1,12 +1,19 @@
 ---
-layout: post
+layout: distill
 title: Combat
 permalink: /Combat/
 nav: true
 nav_order: 4
 
 toc:
-  sidebar: left
+ - name: Initiative
+ - name: How to Fight
+ - name: Basic Actions
+ - name: Stealth
+ - name: Conditions and Status Effects
+ - name: Fatigue
+ - name: Wounds
+ - name: Recovery
 ---
 
 ## Initiative
