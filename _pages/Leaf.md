@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: distill
 permalink: /Leaf/
 title: Konohagakure
 nav: false
