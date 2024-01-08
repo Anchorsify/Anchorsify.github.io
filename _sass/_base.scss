@@ -260,6 +260,7 @@ blockquote {
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
   border: 1px solid var(--global-divider-color);
+  font-size: 1.25em;
 
   a:not(.active) {
     color: var(--global-text-color);
@@ -304,7 +305,7 @@ blockquote {
 
   .navbar-nav .nav-item.active>.nav-link {
     background-color: inherit;
-    font-weight: bolder;
+    font-weight: bold;
     color: var(--global-theme-color);
 
     &:hover {
