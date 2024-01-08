@@ -29,7 +29,9 @@ Creation uniques cost 1 UP each, and may only be taken when you first create you
 
 #### Analyst
 You like to study everything you can about people, their actions, their routines, as well as everything around you. This can be distracting at times, but usually it'll give you a good grasp of the situation and your surroundings.
+
 You have a +2 bonus to Awareness rolls, and whenever you take a Rest action you gain 2 AP. Whenever someone uses the same type of attack against you consecutively (Katon into Katon, Weapon Taijutsu into Weapon Taijutsu, etc), you gain 1 AP and get +1 to your defensive roll, up to a maximum of 2 AP and +2 to your defensive roll for being attacked the same way three times in a row. This is tracked separately per attacker.
+
 You have a -4 penalty to Athletics rolls, as your observational powers can make you hesitate when you take action.
 
 #### Berserker
