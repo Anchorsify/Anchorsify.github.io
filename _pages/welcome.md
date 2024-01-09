@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Naruto World
+title: Welcome
 permalink: /
 
 news: true # includes a list of news items
