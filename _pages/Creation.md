@@ -2,7 +2,7 @@
 layout: page
 title: Creation
 nav: true
-nav_order: 2
+nav_order: 1
 dropdown: true
 children:
     - title: Character Creation
