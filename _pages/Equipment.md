@@ -23,7 +23,7 @@ Items bought with Requisition can be traded in and replaced whenever you visit y
 
 Items can be divided into two broad categories: Consumable and non-consumable. Consumable items are gone once you use them. These are things like smoke bombs, poisons, and explosives. Used-up consumables can be restocked when you get back to your village, if they were bought with Requisition. It is generally unwise to purchase consumables with Savings; if you do, once you use them they are gone forever. Non-consumable items can be broken, destroyed, or lost, but usually aren't. These are things like ropes, weapons, and lockpicks. Ranged weapons are not destroyed on use (hit or miss).
 
-== Equipment weight ==
+#### Equipment weight 
 In some cases, equipment weight will come up. Weights are listed below.
 - Large Gourd: 66 lb (Full)
 - Small Gourd: 16 lb (Full)
@@ -33,27 +33,27 @@ In some cases, equipment weight will come up. Weights are listed below.
 - Poisons: Trivial
 - Basic equipment/supplies/unlisted: Trivial
 
-== Weapon-Specific Actions ==
-Draw Weapon
-(Speed 3)
+#### Weapon-Specific Actions
+###### Draw Weapon
+*(Speed 3)*  
 Weapons are typically carried attached to one's person somehow; swords have sheathes, a pair of tonfa might be tucked through belt holsters, a fan could be strapped across your back, and so forth. Drawing a weapon is retrieving it from wherever you have it stored and placing it in your hands. At this point you can use it to attack, parry, or whatever else you please, with the downside being that your hands aren't free for, say, handseals. You may also draw a weapon at the start of combat (when you roll initiative), without taking an action to do so. If you wish, you can draw two weapons as a single Speed 5 action. Note that you only need to Draw weapons you intend to hold and use in melee. This Speed to attack with thrown or multi-thrown weapons includes the time needed to retrieve them from holsters. The same is true for Bows.
 
 Be aware: While holding one or more weapons, you can still make basic unarmed attacks. You cannot, however, use Unarmed or Combo jutsu. Grappling is still possible as long as you have at least one hand free.
 
-Sheathe Weapon
-(Speed 6)
+###### Sheathe Weapon
+*(Speed 6)*  
 You put a weapon you're holding away, in some secure fashion. If you're holding two weapons, you can put them both away at the same time.
 
-Discard Weapon
-(Speed 1, or Speed +2)
+###### Discard Weapon
+*(Speed 1, or Speed +2)*  
 You drop or toss aside a weapon. Done normally, this is a Speed 1 action. However, it may also be used alongside an Interrupt (such as a defensive ninjutsu technique) by increasing that action's Speed (after AP reductions) by 2.
 
-Retrieve Weapon
-(Speed 5)
+###### Retrieve Weapon
+*(Speed 5)*  
 You pick up a weapon on the ground. This can be your weapon, or someone else's, as long as nobody's currently holding it. You can only pick up one melee weapon at a time with this action, and must be able to physically reach it (which may require you to move first). You can also pick up DEX/10 used throwing weapons and holster them appropriately.
 
-Disarm
-(Weapon's Speed +4)
+###### Disarm
+*(Weapon's Speed +4)*  
 You use a weapon you're holding to knock an enemy's out of their grasp, usually by hitting it at such an angle, and with enough force, that it becomes physically impossible for them to hold onto it. This is a basic weapon attack that does no damage, but if it hits you knock their weapon STR/10 yards in any direction (if straight up, the weapon lands at their feet but cannot be retrieved for STR/10 IC). Trying to Parry a Disarm attempt has a -3 penalty. Small weapons cannot disarm Large weapons, and Large weapons lack the finesse to be used to disarm at all.
 
 ## Melee Weapons
