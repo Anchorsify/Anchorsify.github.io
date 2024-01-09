@@ -2,8 +2,7 @@
 layout: distill
 title: Creation
 permalink: /CharacterCreation/
-nav: true
-nav_order: 1
+nav: false
 
 toc:
  - name: Start with an Idea
