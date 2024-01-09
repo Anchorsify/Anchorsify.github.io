@@ -418,7 +418,6 @@ You've trained to improve your sheer physical prowess; even when resorting to si
 - Scale: 0
 - Limit: (STR - 20) /10
 
-______________________
 ##### 2. Mobility
 #### -=[ Evasive ]=-
 You're big on not being around when people try to violently end your life. Every rank gives you a +1 bonus to dodge, it's awesome!
@@ -487,7 +486,6 @@ You're very good at picking up on tiny things that are just everso-slightly out 
 - Scale: 4
 - Limit: (Enhanced Sight ranks) /2
 
-______________________
 ##### 2. Perception
 #### -=[ Accurate ]=-
 You've got good hand-eye coordination, which lends itself towards hitting with your attacks. You have a +1 bonus per rank to your Accuracy.
@@ -539,7 +537,6 @@ You are all kinds of sneaky. You know how to lie and make it seem like you're te
 - Scale: 2
 - Limit: Espionage /3, max 5
 
-______________________
 ##### 2. Ninja Tactics
 #### -=[ Basic Training ]=-
 Ninja with the ability to use chakra can get away with not solving every problem through the application of stealth and cunning, it's true. But, to be viewed as a proper ninja, they need to be keenly aware of their surroundings, masters of deception, and able to vanish like a shadow. In practice, genin find those things exceptionally boring, especially when they could be learning how to shoot fireballs instead. Every rank gives you a +1 bonus to Accuracy, defensive rolls, and skill checks.
@@ -627,7 +624,6 @@ Through sheer determination you force yourself to perform above your own capabil
 - Scale: 5
 - Limit: Willpower /2
 
-______________________
 ##### 2. Initiative
 #### -=[ Defensive Reflexes ]=-
 You're always ready to protect yourself, even when caught off guard. You may declare use of this ability when rolling your initiative for combat. You are considered to be blocking at the start of battle, but take a -4 penalty on your initiative roll. This penalty is reduced by 1 for each rank beyond the first.
@@ -656,7 +652,6 @@ You may, as part of your Initiative roll, activate one or more techniques with U
 - Base Cost: 40
 - Requires: 60 DEX
 
-______________________
 ##### 3. Action Points
 #### -=[ Active ]=-
 You get a lot done in combat. Whether it's quickly assessing the battlefield, exploiting an opening, or having that extra bit of adrenaline, you're already doing what needs to be done. Every rank in this ability increases the AP you naturally gain each 20 IC by 1. Thus, if you had 3 ranks of Active, you'd get (5 + 3) 8 AP every time the IC reached a multiple of 20.
@@ -677,7 +672,6 @@ You can spend AP to improve an attack's accuracy, or a defensive action's roll. 
 - Base Cost: 40
 - Requires: 80 AGI
 
-______________________
 ##### 4. Skill
 #### -=[ Anatomical Knowledge ]=-
 Your knowledge of the human body develops sinister undertones. You can't learn how to treat life-threatening injuries without picking up more than a little bit of knowledge of how to cause life-threatening injuries. Each rank causes your taijutsu attacks (including those with ranged weapons, just as a reminder) to calculate wounds as if their damage was 5% higher.
@@ -720,7 +714,6 @@ You practice extensively with a chosen skill, so that even while you may still m
 - Scale: 0
 - Requires: At least 5 ranks in each skill it's applied to.
 
-______________________
 ##### 5. Development
 #### -=[ Holding Back ]=-
 ...is a good idea when those 'friendly' training matches get a little bit out of control. You declare you're holding back when you make an attack. An attack that's been held back uses half your normal damage bonus, and any wounds it inflicts have their severity reduced by 1. At the first rank this works on basic attacks and with Erank jutsu; the next rank allows it to be used on D-ranks, the third on C-ranks, and so forth, up to A. No, you can't hold back with S-rank moves.
