@@ -2,9 +2,15 @@
  * Style overrides for distill blog posts.
  ******************************************************************************/
 
-h1,h2,h3,h4,h5,h6 {
-    margin-top: 0;
-    margin-bottom: 0;
+h5 {
+  font-size: 1em;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+h6 {
+  font-size: 1em;
+  font-weight: 700;
 }
 
 d-byline {
