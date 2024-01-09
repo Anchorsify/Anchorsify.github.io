@@ -336,3 +336,490 @@ Arrows with narrow steel tips that excel in penetrating armor and the like. Thes
 
 - Cost: 50
 - Damage: d8
+
+## Ninja Tools
+##### Blank Scroll
+A large scroll. Most of the time these are carried rolled up to save space. They're useless, aside from the fact that a few sealing jutsu make use of them.
+
+ - Cost: 25 Ryo
+
+##### Blood Increasing Pill
+These pills contain a peculiar mix of chemicals that, when consumed by someone capable of using chakra (such as a ninja) will allow their body to rapidly replenish lost blood. When you take one of these pills you regain RES/10 HP (but not Vitality) each IC, for 50 IC. During this duration you take only one third damage from poison, and no damage from effects caused by bleeding (such as certain wounds). Using a Blood Pill is a Speed 10 action.
+
+ - Cost: 250 Ryo
+
+##### Caltrops
+Small bits of metal that are basically just four short spikes attached at a center; no matter how they land, there'll always be a metal spike pointing upwards. The typical use is to scatter them across the ground to impede movement through an area. As a Speed 10 action you can cover an area with a 5 yard radius in caltrops. Anyone moving through the area going at more than half their maximum movement speed takes 1d4 damage for every IC they spend moving through the area; this cannot inflict wounds.
+
+ - Cost: 20 Ryo for enough caltrops to cover one 5 yard area
+
+##### Cloth
+Broad, sturdy cloth that looks like bandages, or perhaps mummification wraps. This comes in large rolls of up to 200 yards; carrying more than one roll inflicts a -1 immobilization penalty for each beyond the first (not due to weight, but because they're bulky). Confine Scroll Seals can carry one roll each.
+
+ - Cost: 3 Ryo per yard.
+
+##### Container, Small
+A container, usually a gourd, clay jug, or waterskin, commonly worn at the hip. One container can hold 2 gallons of water or another substance. For every two small containers or fraction thereof beyond the second, you suffer a -1 penalty to dodge due to encumberance.
+
+ - Cost: 50 Ryo
+
+##### Container, Large
+A large gourd or other sort of container, several feet long and usually worn on the back. It's heavy and bulky, but not quite enough to restrict the mobility of a well-trained shinobi. It can hold up to 8 gallons of water, but you can only carry one with you (due to its size!).
+
+ - Cost: 150 Ryo
+
+##### Flash Bomb
+Flash bombs are devices which, when ignited, produce brilliant flashes of light. You can throw one on its own, in which case it's a Speed 4 action to throw one up to STR/5 yards that imposes a -4 Visibility Penalty for 10 IC to everyone within 5 yards of where it lands if they fail a status roll against your Athletics with a +4 bonus. You can alternatively choose to use a Flash Bomb alongside an attack or dodge interrupt as a Speed +4 action, imposing the visibility penalty on whomever you're rolling against if they fail the above status roll. When used in this fashion, the penalty applies only to the roll in which it's used against instead of its normal duration. Each time someone has a Flash Bomb used against them in battle after the first, the Visibility Penalty applied is reduced by 1 (whether they pass the status roll or not), to a minimum of 1.
+
+ - Cost: 30 Ryo
+
+##### Ninja Wire
+High tension 16-gauge wire. It is generally only available in ninja villages, and comes in spools with various lengths of wire.
+
+ - Cost: 15 Ryo per 10 yards.
+
+##### Rope
+I refuse to explain what this is. Individual lengths of rope can be purchased up to 300 feet (100 yards), but there's nothing stopping you from tying a few together. Tying somebody up requires 10 yards of rope, and the person in question to not be resisting.
+
+You can tie someone up with ropes. If so, roll Espionage +10 to see how good your knots were. The result, or 20, is the difficulty of escaping. The user can try to slip the knots (Espionage skill roll, +DEX/10) which takes 5 minutes to attempt (they can hide that they are doing so via an opposed Espionage roll). This can be attempted repeatedly.
+
+You can also attempt to snap the ropes using brute force. This calls for a roll of 1d20 + (Athletics /5) + (STR /10) against a target of 30, requires a Stamina 25 roll, and is done instantly, but repeated attempts cannot be made (either you're strong enough to break the ropes, or you're not).
+
+ - Cost: 10 Ryo per 5 yards.
+
+##### Smoke Bomb
+Paper balls small enough to be easily held in one hand, when thrown at the ground they burst and release wide clouds of smoke. Smoke bombs have a range of STR/5 yards, and can be thrown as a Speed 4 action. When thrown, it releases a cloud of thick smoke that causes a -6 visibility penalty to all people within its 10 yard radius, for 20 IC.
+
+ - Cost: 50 Ryo
+
+##### Poison Smoke Bomb
+Sturdier than regular smoke bombs, and much more dangerous, these are filled with some manner of poisonous vapor. They're used like regular smoke bombs, but have a 10 yard radius, a -4 visibility penalty, and persist for 25 IC. When you buy a poison smoke bomb, select a poison (from the Poisons section) which has Inhalation as one of its possible vectors of delivery. When you throw the smoke bomb, make a Toxicology roll. Anyone who passes through the area must make a Resistance roll against that Toxicology result, or be poisoned. The cost of the poison smoke bomb is 100 Ryo, plus the base cost (unreduced by buying multiples) for one dose of the chosen poison.
+
+ - Cost: 100 Ryo + cost of poison
+
+##### Soldier Pill
+The proper name is 'military ration pills', but the term soldier pill is more commonly used among shinobi. They're less rations than fast-acting performance-enhancing drugs. Though every village has a slightly different recipe, the pills are all marble-sized and black or dark brown. When eaten, they have the approximate flavor and texture of sawdust.
+
+These pills are essentially just condensed stimulants and nutrients; taking one immediately lowers you a Fatigue category, and gives you +5 to Chakra Exhaustion and Stamina rolls for the next hour. Doing so is a Speed 10 action in battle. You may only take one per battle, and no more than RES/50 per day.
+
+ - Cost: 250 Ryo
+
+#### Survival
+##### Antidote
+Antidotes to several of the more popular and lethal poisons which shinobi use are widely available, for somewhat obvious reasons. A single dose of an antidote costs half the amount for a single dose of a poison; multiple doses cost half as much as the first. So, buying 2 doses of antidote for Black Adder venom would be (40+20) 60 ryo, and buying 4 doses of antidote for Yew toxin would be (60 + 3 * 30) 150 ryo.
+
+Taking a dose of an antidote is a Speed 6 action, and immediately cures you of the poison in question and all its lingering effects. Antidotes that act quickly enough to be useful in emergencies, such as combat, aren't gentle on the body, with each applying a -2 penalty to your Accuracy and all d20 rolls for 100 IC. However, for that duration you are immune to the poison in question.
+
+ - Cost: Varies
+
+##### Compass
+A small, typically handheld device that has a needle inside a metal case (with a glass cover, so it can be seen) that points, approximately, to magnetic north when held level. These aren't exactly precise, but they're good enough most of the time. Notably, they can have trouble working underground or if they get zapped by a lightning jutsu. When trying to navigate the wilderness, having a compass gives a +2 bonus to any Survival rolls. If you also have a map of the country you're in, this is raised to +4.
+
+ - Cost: 50 Ryo
+
+##### First Aid Kit
+A collection of bandages, ointments, and antiseptics. First aid kits can be used to stop bleeding from Wounds, as a Speed 10 action per category of wound. They can also cure Burns, with a Speed of 2 per level of severity of the burns. A single first aid kit can do each of those once before being expended.
+
+Alternately, it can treat a wound (in the sense of, "this wound has penalty X until treated, and then only penalty Y"). This is a Speed 15 action per wound category, and completely consumes the first aid kit.
+
+ - Cost: 25 Ryo
+
+##### Flare
+A handy little pyrotechnic device, a cylinder usually a bit too large to fit comfortably in the palm. When lit (most have built in starters or strikers, to avoid the need for matches) they shine brilliantly, enough that it can be painful to look directly at them without squinting, and become blisteringly hot. They burn out quickly, within half a minute.
+
+The vast majority of flares are projectiles, with built-in propellant. Aimed upwards, they'll launch into the air. During the day, this is typically unnoticed if you're doing anything other than staring at the spot it's launched up waiting to see it, and know exactly where it will be. In twilight and darker conditions, however, a flare can be seen for a considerable distance; they're often used for signalling, though suffer from not being too discrete.
+
+ - Cost: 40 Ryo
+
+##### Flashlight
+Flashlights are popular because ninja like to be able to see in low-light environments! They're also useful because they can be turned off, or on, as needed. Quite handy for staying hidden when you hear unwanted company approaching.
+
+Flashlights have a battery life of about half an hour. A spare set of batteries (for another half hour of use) costs 20 Ryo.
+
+ - Cost: 40
+
+##### Glow Stick
+A transparent small (around six inches long, usually) cylinder filled with chemicals that, when mixed, glow brightly. A swift blow to the stick (usually striking it against one's knee; simply bending it with enough force will also work) will shatter the internal glass dividers, mixing the chemicals and producing a pleasing illumination.
+
+A glow stick will glow for about an hour; it cannot be turned off once activated, short of breaking it completely and letting the luminescent fluid inside it drain out (in which case you just have a glowing puddle). They're available in a variety of colors, with the most popular ones being green and blue.
+
+ - Cost: 20
+
+##### Map
+A map of a given country. It's usually a really, really good for at least one person on every ninja team to have a map of any country they expect to be going through. These have only basic information about terrain, landmarks, and settlements.
+
+Maps come with scroll cases for ease and safety of transportation. A map gives a +4 bonus to any Survival rolls made in the appropriate country, within reason (they would help tracking someone, or finding shelter, but not exploring the inside of a cave).
+
+ - Cost: 50 Ryo
+
+##### Oxygen Mask
+This is a small 'mask' that covers the wearer's mouth and nose, and is held in place by elastic bands which form an airtight seal. Rather than filtering air out, it has two possible fixtures (usually one on each side of the mouth) for an oxygen tank to be attached. When wearing the mask, the user has a -3 penalty to all Stamina rolls, as it takes a slight effort to breathe through it. Putting this on in combat is a Speed 5 action.
+
+Wearing an oxygen mask with at least tank attached makes the wearer immune to external suffocation penalties (being inside an unbreathable cloud would not affect them; being physically choked would) and provides a +8 bonus to Resistance rolls against statuses that would be inflicted by breathing something in (such as poison mist); the mask is not perfectly air-tight.
+
+ - Cost: 200 Ryo
+
+##### Oxygen Tank
+Tanks of compressed, breathable air, usually strapped to one's back. They're basically useless by themselves, but each comes with a hose that can be attached to an oyxgen mask. Each tank provides 30 minutes of breathable air.
+
+ - Cost: 100 Ryo per tank
+
+#### Infiltration
+##### Camouflage Kit
+Everything you need to blend in with the environment, like a truly sneaky ninja. These come in four flavors: forest/plains, desert, mountainous/rocky, and 'other' (covering anything not one of those). A kit may only be used in its corresponding environment.
+
+Using a kit takes 15 minutes, and is enough to conceal a person at level 3 Stealth; the stealth roll is made after they're fully hidden. The exact contents are fairly nonspecific, but regardless, each kit is good for only one use.
+
+ - Cost: 150 Ryo
+
+##### Camera
+Cameras are rare devices, and ones suited for use by ninja even more so. Styles vary, but they are all small, and usually handheld. However, they are large enough that they cannot be effectively concealed while in use. The exact designs may vary greatly, though Sunagakure is fond of a model worn like a circlet on the head, with the lens covering one eye.
+
+Most models include a flash that allows blurry pictures to be taken in the dark. Each image uses a single piece of film, acquired separately. Facilities to develop the film are rare, but exist in all major shinobi villages, along with trained staff who will do so overnight for urgent matters, or within a week for personal needs.
+
+ - Cost: 750 Ryo
+
+##### Camera Film
+These are specially treated, light-sensitive pieces of paper. Due to the lack of standardization among models, pieces of film generally cannot be exchanged from one camera to another. These are usually stored inside the camera itself; if exposed to light before capturing an image they become useless, though afterwards there will be no effects from direct light on the paper.
+
+ - Cost: 50 Ryo
+
+##### Grappling Hook
+A three- or four-pronged sturdy metal hook. The typical use is to attach it to the end of a rope then throw it over a wall, up a tree, or across a small chasm, and hope it catches on something (such as a piece of architecture, a branch, or a appropriately-shaped rock). The user then climbs the rope to get to their destination!
+
+These see limited use among experienced ninja, who typically have ways of easily doing the same thing, but beginners often find them useful, and they can be situationally helpful even for more advanced shinobi.
+
+ - Cost: 100 Ryo
+
+##### Lockpicks
+A set of small tools, easily carried in a pocket, used for opening locks in absence of the key. These allow an Espionage roll to be made to open a lock, and also provide a bonus to said roll. That bonus has a maximum of +5, or the user's Espionage skill ranks, whichever is lower; you have to actually know how to use them to get any benefit. These are reusable, though a roll of 5 or lower on the Espionage check means they break in the attempt (which may still be successful).
+
+ - Cost: 100 Ryo per +1
+
+##### Ninja Comm Device
+The pinnacle of technological advancement in the ninja world, these are small wireless radios. They're typically worn as headsets with an ear insert and a microphone held suspended near the wearer's mouth. Normal comm devices can be tuned to transmit and receive on any of a dozen frequencies by the user, allowing any set of devices to be synchronized with one another. Though each village also has a few sets of specially made comm devices built to operate on "secure" frequencies, these are not typically given to shinobi on missions.
+
+Commonly used in missions that require precise coordination or infiltration, these always receive, and are touch-activated to broadcast. They have a range of half a mile.
+
+Be aware that while these are generally a secure means of communication, it's (theoretically) possible for enemies to find your frequency if you're making continual use of the comms, they know you're using them, and they're actively trying to do so.
+
+If you suffer a Major or greater Head wound while wearing a comm device, it breaks as a result of the damage. A comm device broken this way is too badly damaged to be repaired, and will need to be replaced.
+
+ - Cost: 500 Ryo ; 1000 Ryo for 2-mile radius
+
+##### Telescope
+A small pocket telescope, which telescopes out from two inches to close to six. It allows you to effectively see what's going on up to five hundred yards away, and read reasonably sized text (assuming you have clear line of sight) up to a hundred yards away. Mechanically, this means that any Awareness rolls at a distance up to its maximum (to, say, see when a guard leaves his post) have no penalty.
+
+ - Cost: 200 Ryo
+
+## Poisons
+Poisons are nasty business, and one of the murkier aspects of ninja tactics. Certainly, before the days when shinobi had discovered the secrets of chakra manipulation, poisons were a vital part of their arsenal. The proper use of poisons, however, is hard to learn, and in most circumstances just isn't as useful as being able to shoot fireballs and run up walls.
+
+Some ninja, however, still find uses for them. This section is for them!
+
+#### Doses
+Poisons are measured in doses. Each poison has a listed price. The first dose costs that much; subsequent doses cost half that much, each. This is, essentially, a limit on how many times you can use that poison before running out.
+
+Each poison has a listed Toxicology rating. Your Toxicology skill ranks must be a minimum of that much to use that poison.
+
+#### Applying to Weapons
+One dose of poison is enough to coat the business end of a weapon.
+
+As a Speed 10 action you can apply up to 1 + Toxicology/10 doses worth of poisons to your weapons, in any combination. For instance, if you applied 4 doses, you could poison:
+
+ - 1 weapon with 4 doses
+ - 4 weapons with 1 dose each
+ - 1 weapon with 2 doses and 2 more weapons with 1 dose each
+
+etc. Each time the weapon hits something, it loses one dose. If you apply a new poison to the weapon (even another dose of the same type), any remaining poison of the previous dose is wiped away.
+
+#### Types of Poison
+Poisons have four possible vectors: Contact, Injury, Inhalation, and Ingestion. Contact poisons can be applied to any blunt or slashing weapon, while Injury poisons can be applied to slashing or piercing weapons.
+
+Whenever you're hit by a weapon with Contact poison, or damaged by one with Injury poison, you roll Resistance against the poison user's Toxicology. If you fail this roll (which does receive the benefits or partial defense), you have been poisoned. You're afflicted by the poisons status effects (Poison of some value, and sometimes other effects, described in the individual poison) for its Duration. If partial defense applies, it reduces the Duration, not the severity.
+
+Ingestion poisons are effectively useless in combat, but can be used to lace someone's food. Inhalation poisons can only be used effectively by deploying Poison Smoke Bombs.
+
+No matter how many poisons you're afflicted by, their effects do not stack. Thus, if you had Poison 4 for Duration 25, and Poison 2 for Duration 50, you would take 4 damage per initiative count for 25 IC, and then for the next 25 you'd take 2 damage per IC. Any additional effects apply regardless, as long as they don't overlap (Paralysis 1 and Paralysis 3 is just Paralysis 3, as normal).
+
+Poisons which inflict Suffocation, Paralysis, and/or Shock have each of those effects applied when first poisoned, and then again 20 IC later, continually refreshing those status effects until the Poison's duration itself ends (which also ends all of these status effects immediately).
+
+#### Identifying Poisons
+When you or someone else has been poisoned, it's possible to identify the venom just based on the symptoms. You may do so after 1/10 of the poison's total duration has passed. At that point, you can roll a Research, Toxicology, or Medicine skill check (your preference) against 20 + the poison's Toxicology rating. Success means you've identified the poison.
+
+If you fail, you may take a Speed 6 action afterwards to try to identify the symptoms, which you may repeat as many times as you like.
+
+### Poisons
+###### Centipede (Injury, Contact)
+Giant centipedes aren't actually all that venomous, though their venom causes significant discomfort, and a pervasive sensation of weakness. Centipede venom cannot harm HP, only Vitality. A person afflicted has their physical damage bonus reduced by (0.5, +0.1 for every two points they failed their Resistance roll by) for the rest of the day, even if the poison is cured. However, centipede venom has a -2 penalty to the Toxicology roll used to inflict it. Multiple damage bonus penalties from centipede venom don't stack; the highest one replaces any lower ones.
+
+ - Poison: 1
+ - Duration: 75
+ - Toxicology: 3
+ - Cost: 50
+
+###### Black Adder (Injury)
+Snake poison, and not a particularly troublesome variety of it. There's intense pain and significant swelling at the point of contact, but that's the worst of it. Hours afterwards, there will be a lingering, full-body pain, but nothing life-threatening. However, your Toxicology roll to poison a person with this has a +3 bonus.
+
+ - Poison: 1
+ - Duration: 100
+ - Toxicology: 6
+ - Cost: 80
+
+###### Yew (Injury, Ingested)
+Only relatively dangerous in its normal form, the yew's toxin has proven its value to ninja by being versatile, easily refined, and easy to get ahold of. Unlike poisonous animals, trees don't tend to be small or wander around. While poisoned, any time your Stamina penalty increases, it increases by an additional 2 points.
+
+ - Poison: 1
+ - Duration: 100
+ - Toxicology: 6
+ - Cost: 120
+
+###### Bark Scorpion (Injury)
+Stings from the bark scorpion aren't typically fatal; ninja weaponizing the venom distill it to improve the lethality. Despite being exceptionally painful at the point of entry, it's not likely to kill someone, though the lingering numbness and spasms are certainly unpleasant to deal with.
+
+ - Poison: 1
+ - Immobilization: 2
+ - Duration: 100
+ - Toxicology: 9
+ - Cost: 180
+
+###### Cone Snail (Injury, Contact)
+A family of brightly-colored, excitingly-patterned snails, the worst of these produce a venom which is a compound of hundreds of different toxins. Aside from pain and swelling at the point of impact, the venom can easily cause respiratory failure.
+
+There is no antidote to cone snail venom. If you've been poisoned, when your Fatigue levels increases your Stamina penalty is halved, rather than being reset to 0. You may not Rest or lower your Stamina penalty in other ways.
+
+ - Poison: 1
+ - Duration: 150
+ - Toxicology: 9
+ - Cost: 200
+
+###### Deathstalker Scorpion (Injury)
+Despite the name, one of the world's most venomous scorpions isn't all that lethal to humans. As with most scorpions, being envenomated is excruciatingly painful, far out of proportion to the actual threat posed.
+
+ - Poison: 2
+ - Shock: 1
+ - Duration: 75
+ - Toxicology: 12
+ - Cost: 200
+
+###### Death Cap (Ingested)
+The death cap is one of, if not the, most poisonous mushrooms in the world. Mercifully, there's no way to process it into a weaponized form. In addition to its Poison rating, every 10 IC which pass a victim loses 1 point of RES. These recover at the rate of 1 per week which passes (double with medical treatment). Someone who reaches 0 RES simply dies.
+
+ - Poison: 1
+ - Duration: 500
+ - Toxicology: 12
+ - Cost: 300
+
+###### Brown Recluse (Injury)
+A shy, tiny spider, the brown recluse none the less has an especially dangerous venom, especially to civilians; to shinobi, it's only severely threatening. The poison is slow acting, but still dangerous.
+
+ - Poison: 1
+ - Duration: 700
+ - Toxicology: 15
+ - Cost: 300
+
+###### Black Widow (Injury)
+This infamous little spider's venom has quite the unpleasant, and largely well-deserved, reputation. For the poison's duration, your Chakra Exhaustion and Stamina rolls all suffer from a -4 penalty.
+
+ - Poison: 2
+ - Immobilize: 3
+ - Duration: 150
+ - Toxicology: 15
+ - Cost: 300
+
+###### Wolfsbane (Injury, Ingestion)
+A poisonous plant known also as monkshood, the least of one's worries are a severe burning sensation at the point of injury, the abdomen, and the face. The more severe ones are staving off paralysis of one's heart and lungs.
+Wolfsbane has a -2 penalty to its Toxicology rolls if delivered through injury, or +4 if by ingestion. When poisoned by Wolfsbane, your Stamina rolls use the higher of your Stamina or Chakra Exhaustion penalty, and your Chakra Exhaustion rolls use the higher of your Stamina or Chakra Exhaustion penalty.
+
+ - Poison: 4
+ - Duration: 125
+ - Toxicology: 18
+ - Cost: 350
+
+###### Manchineel Tree (Contact, Injury, Ingestion, Inhalation)
+Nothing about this tree isn't inimical to human life. The sap and bark are poisonous, the fruit is absurdly toxic, the leaves are sufficient to poison water supplies. Tying people to the tree overnight is a brutal, highly effective method of execution. In practice, ninja use the sap as a toxin, as it keeps best.
+
+Envenomation results in severe full-body irritation and shortness of breath. It's painfully distracting enough to inflict a -2 penalty to Accuracy and d20 rolls.
+
+ - Poison: 3
+ - Suffocation: 1
+ - Duration: 150
+ - Toxicology: 18
+ - Cost: 350
+
+###### King Cobra (Injury)
+One of the world's deadliest snakes, the king cobra's venom is a neurotoxin that quickly leads to blurred vision, disorientation, and muscular paralysis. While poisoned, you have a -4 penalty to all skill rolls other than Resistance, and a -5 penalty to Stamina and Chakra Exhaustion rolls. King cobra venom has a +3 bonus to its Toxicology rolls.
+
+ - Poison: 2
+ - Shock: 2
+ - Duration: 200
+ - Toxicology: 22
+ - Cost: 500
+
+###### Belladona (Injury, Ingestion)
+Also known as devil's berries, belladona's poison causes delirium, hallucinations, and weakness. For its duration, your physical damage bonus is halved. Anyone is able to hide from you, regardless of your visibility penalty, if they double the Speed of their Hide action, though in this case you get a +5 bonus to your Awareness roll. If eaten, its Poison value is doubled.
+
+ - Poison: 2
+ - Visibility: -4
+ - Duration: 200
+ - Toxicology: 22
+ - Cost: 400
+
+###### Wandering Spider (Injury)
+Not only is it one of the most dangerous spiders, it's one of the most aggressive ones, and won't hesitate to attack humans. The venom is a neurotoxin.
+
+While poisoned you suffer from -3 Accuracy. Any time your Chakra penalty increases, your Stamina penalty increases by half that much, and vice versa.
+
+ - Poison: 4
+ - Duration: 100
+ - Toxicology: 26
+ - Cost: 450
+
+###### Box Jellyfish (Injury, Contact)
+Though they're not the deadliest of sea creature, they're what most people will imagine when thinking of that. Affliction with this venom results in convulsions, and before long will send a victim into shock.
+
+The convulsions make it exceptionally difficult to act. You can't take any action with a base Speed of 20 or higher, -1 for every 5 points you failed the Toxicology roll by.
+
+ - Poison: 3
+ - Paralysis: 1
+ - Duration: 150
+ - Toxicology: 26
+ - Cost: 450
+
+###### Water Hemlock (Contact, Ingestion)
+There are multiple varieties of hemlock, with this being by far the most unpleasant. The plant's sufficiently lethal that coming into contact with it purely by accident in the wild can cause death. It's a powerful stimulant, leading to intense pain, tremors, disorientation, dizziness, fever, hallucinations, tingling, dilated pupils, respiratory difficulty...
+
+While poisoned, you have a -4 penalty to Resistance and Awareness rolls.
+
+ - Poison: 4
+ - Visibility: -5
+ - Duration: 200
+ - Toxicology: 30
+ - Cost: 500
+
+###### Stonefish (Injury)
+The most venomous fish in the world, it's commonly agreed upon that having an injured limb amputated is less agonizing than enduring the pain. Though there will be a slow necrosis of flesh around the injury, the real risk is quite immediate.
+
+ - Poison: 6
+ - Duration: 100
+ - Toxicology: 30
+ - Cost: 500
+
+###### Blue-Ringed Octopus (Injury)
+A small, unimposing creature, it's still one of the world's most deadly animals. Its venom is a cocktail of more than a dozen toxins that will kill within minutes. Thankfully they're rare, as no antidote exists.
+
+Continual first aid provided by someone else (specifically, forced respiration) will prevent the Suffocation from being inflicted while it's maintained, but not the Poison damage (or other effects).
+
+ - Poison: 3
+ - Paralysis: 4
+ - Shock: 4
+ - Suffocation: 2
+ - Duration: 200
+ - Toxicology: 35
+ - Cost: N/A
+
+###### Golden Dart Frog (Injury, Contact)
+A rare, deadly animal only known to be native to Rain Country, the golden dart frog's poison is so potent that most stories about it are believed to be exaggerations. The venom can remain potent for more than two years, and simply touching a surface the frog has crossed can be enough for small animals to perish.
+
+Attempts have been made to raise the animal in captivity, and failed. The common theory is that some part of their diet is what makes the poison coating their skin so deadly. That, combined with their rarity, makes this poison exceptionally difficult to come by--which is a good thing. It shuts down the nervous system, leading to numbness, paralysis, and ultimately heart failure.
+
+ - Poison: 10
+ - Paralysis: 4
+ - Immobilize: 5
+ - Duration: 100
+ - Toxicology: 35
+ - Cost: N/A (the antidote is 500 Ryo per dose)
+
+## Rank Gear
+#### Genin
+##### Forehead Protector
+- Cost: Free
+
+A rectangular piece of metal with your village's emblem prominently engraved. They're typically worn on the forehead, but can be strapped to any part of the body. When worn, it blocks the effects of the first Minor wound you receive to the body part worn on (which you should declare when rolling Initiative if not on the forehead), but is knocked off in the process.
+
+##### Exploding Tag
+- Cost: 100 Ryo
+
+Rectangular slips of paper inscribed with special seals, centered around the kanji for “explode”. They're infused with chakra, but normally inert. A tag can be “primed” by focusing a small amount of chakra into them, at which point they can stick to most surfaces (like walls, or the underside of bridges; tags cannot be attached to people) and are ready to be detonated; this doesn't take an action.
+
+Detonating a tag is a Chakra 5, Speed 10 action which requires you to physically touch the tag in question. You may set it to detonate anywhere between 10 and (10 + Chakra Control ranks) IC afterwards. When a tag is on its 'countdown' it begins sparking, smoking, and sizzling distinctively; any shinobi will realize that it's about to go off.
+
+Fire will not cause tags to explode, nor will they explode in a “chain reaction”. A tag that is blown up or burnt, even a primed one, is just destroyed.
+
+Tags do 5d20.open(10) damage, in Area 20. If multiple tags are set off on the same IC (and someone is hit by them all), their damage is combined for determining what wounds they inflict; explosions inflict Blunt wounds. When detonated, tags cannot be dodged (though other forms of defenses are generally effective, and they can certainly be blocked). However, anyone who escapes their area in time automatically avoids all damage.
+
+Certain jutsu may cause tags to explode immediately (such as the C-rank Burning Star Shuriken); in this case, the explosion may be dodged normally, using the attack's Speed to determine area-of-effect dodge penalties, if any.
+
+#### Chuunin
+##### Flak Vest
+- Cost: 400 Ryo
+
+Often referred to as 'chuunin vests', these are what many a genin strives to be allowed to wear. There's a jounin version as well, slightly different in appearance but functionally identical.
+
+Any time your torso or abdomen would be wounded, the vest reduces the wound's severity by 1, and the final damage by 25 (after determining if you're wounded). The next time, this damage reduction is 20; then 15, and so forth. When the damage reduction reaches 0, the vest is damaged too badly to provide any protection and no longer reduces the severity of your wounds.
+
+##### Custom Smoke Bombs
+- Cost: Level*10 Ryo
+
+Once someone's a chuunin, they have enough pull to get these: smoke bombs designed to your own specifications! Very nice, and such. For pricing, first determine the 'level' of smoke bomb you want, which starts at 0 and is modified by...
+ - Visibility Penalty: -4 (+0), -6 (+2), or -8 (+3)
+ - Duration: 5 IC (+1), 10 IC (+2), 15 IC (+3), or 20 IC (+5)
+ - Radius: 5 yards (+1), 10 yards (+2), or 25 yards (+3)
+ - Range: STR/5 yards (+0), STR/4 yards (+1), or STR/3 yards (+2)
+
+##### Exploding Tag, Type 2
+- Cost: 250 Ryo
+
+A more powerful version of the regular exploding tags, not given to genin because experience has shown, time and again, that genin really can't be trusted with high-end explosives. Chuunin, however, are more responsible--at least, in theory.
+
+Therefore, they get to play with the big explosions! Type 2 tags function identically to regular exploding tags more regards, though the deal 7d20.open(10) damage and have an Area of 30. Additionally, they deal double damage to inanimate objects (such as walls, but not including jutsu-based defenses).
+
+#### Jounin
+##### Hand Guards
+- Cost: 100 Ryo
+
+Gloves (often fingerless) with a metal plate covering the back of the hand. These allow you to parry weapon attacks unarmed; however, if you do so, any wounds (if you fail) will be applied to your hands (or arms, or whatever, as appropriate for the rank of the wounds).
+
+That said, the first two times you're wounded doing this, the wound's severity is reduced one rank. The second time that happens, the guard on the back of that glove will be broken. Thus, if you wear both gloves (100 Ryo pays for a pair), you could do it a total of four times.
+
+You may also block with these guards, with the same wound location and severity effects. This allows you to block weapons without reducing blocking's effectiveness.
+
+##### Exploding Tag, Type 3
+- Cost: 500 Ryo
+
+The end-all and be-all of 'mundane' explosives, reserved for jounin simply because of how difficult they are to produce, which is in turn reflected in how troublesome they are to get ahold of.
+
+Type 3, like Type 2, deal double damage to inanimate objects. They deal 10d20.open(10) damage, and have an Area of 50.
+
+#### ANBU
+##### ANBU Mask
+- Cost: 200 Ryo
+
+Hand-crafted white ceramic masks featuring mono- or bichromatic lines that make the mask resemble some kind of animal's face. Technically there's nothing preventing you from changing what animal it is each time you replace the mask, but most ANBU members stick with a single choice and use it as a distinguishing feature.
+
+ANBU masks reduce the severity of head wounds by one rank, a total of three times before being made useless. The mask does crack, break, and fall off during this process.
+
+##### ANBU Cloak
+- Cost: 200 Ryo
+
+High-quality cloaks that wrap around a user's body to obscure them from the shoulders down. They're practically waterproof, and do a great job of keeping out the rain. Stains-- especially blood! --come right out in the wash!
+
+Once per 100 IC you can make an automatic surprise attack with any Small-size weapon, drawing it as a Speed 0 action, as long as you haven't used that weapon previously in the fight.
+
+They come in black (for most ANBU) and white (for captains). Most ANBU captains stick with the black anyway since it looks better. They're ANBU captains, they do what they want.
+
+#### Kage
+##### Kage Hat
+- Cost: Priceless
+
+Every village's Kage has a distinctive hat to go with their formal Kage's robes. It's diamond-shaped with a pointed top, sloping low enough to keep the sun from their eyes and occasionally accompanied by a headdress to obscure the sides of their head. If worn properly, it can also obscure the upper half of their face from view, which looks really cool.
+
+The hat is mostly a color corresponding to the country the Kage is from, with a white portion at the front and a kanji indicating their country of origin in the dominant color in that section.
+
+While not useful in combat, it is a VERY nice hat.
+
+##### Kage Robes
+
+Formal attire for Kages, mostly white and off-white, with the lower half (and some highlights on the upper half) being a color corresponding to the village. They look bulky, but they actually breathe very well! The robes are exceptionally comfortable, and while not stylish they tend to swish and swoosh dramatically.
+
+The robes impose a -3 penalty on accuracy, dodge rolls, and Athletics checks. However, because Kages are totally badass they can shed these robes as a Speed -2 Interrupt. And yes, that's a negative sign there.
