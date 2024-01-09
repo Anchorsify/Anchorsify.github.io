@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: distill
 permalink: /Sand/
 title: Sunagakure
 nav: false
