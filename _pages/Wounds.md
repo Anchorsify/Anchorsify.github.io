@@ -13,6 +13,7 @@ toc:
  - name: Energy (Major)
  - name: Energy (Severe)
  - name: Energy (Critical)
+ - name: Piercing
  - name: Piercing (Minor)
  - name: Piercing (Major)
  - name: Piercing (Severe)
@@ -166,3 +167,155 @@ Out of combat you recover Fatigue levels at the rate of 1 per OOC day (rather th
 Your clothing and leg were both burnt so horridly that it's hard to tell where one ends and the other begins. Much to your displeasure, you can still feel the limb--or, rather, the mass of agonizing pain where your functional leg used to be. When you move, bits of black flake off--probably best not to think about whether or not that's you or your outfit. Your movement speed is reduced by 30%, and you take a -6 to all Defensive rolls.
 
 This takes thirty weeks to heal on its own (but you really don't want to do that), but only twelve with medical attention.
+
+## Piercing
+#### -=[ Needling ]=-
+Needling is a status effect unique to Piercing Wounds. Every Piercing Wound will inflict some amount of needling, which represents the slow, steady pain and debilitating effect of being stabbed, which accordingly fully stacks with itself. One or two you can typically bear without too much trouble (assuming they don't go through you), but the more puncture wounds you take, the harder it becomes to have those bursts of energy that ninja depend upon to get an edge on their opponents. Needling reduces the maximum size of your AP pool by its severity (other sources of AP gain, such as Gates, are unaffected by this), and will cause you to lose any AP you might have had if your maximum AP size is brought below your current AP. Every iterative of 20 in which you gain AP, you first reduce your Needling status, and then calculate how many AP you gain (if any) after reducing it: If you had a Needling 6 status effect, and gained 8 AP, you would reduce your Needling status to 0 (returning your AP pool to its normal maximum) and then gain 2 AP (rather than 8).
+
+## Piercing (Minor)
+###### (1 - 20) Reflexive Flinch (Arm)
+The back of your hand was hit, causing your fingers to spasm momentarily. You're inflicted with Needling 1, along with Paralysis 1 until the Needling fades. Repeated applications stack the Needling, but not the Paralysis.
+
+###### (21 - 50) Silhouette (Torso)
+You just barely failed to defend against the attack, but managed to get clipped on the side in the process. It isn't very deep, but managed to carve a little bit out of you, which leaves you grimacing in pain as you continue to fight, inflicting Needling 1, along with a Shock and Paralysis of 1 until the Needling fades. Repeated applications stack the Needling, but not the Paralysis or Shock.
+
+###### (51 - 80) Flesh Wound (Abdomen)
+You've been shanked in the gut. It managed to miss your vitals, but it's still going to cause blood to trickle out of you, inflicting Needling 1 along with a -2 to Fatigue rolls until the Needling fades. Repeated applications stack the Needling, but not the Paralysis.
+
+###### (81 - 100) Muscle Stab (Leg)
+They struck your quadricep, which is a fairly easy target, all things considered. This inflicts Needling 1, along with Shock 1 until the Needling fades. Repeated applications stack the Needling, but not the Shock.
+
+## Piercing (Major)
+###### (1 - 20) Joint Pierced (Arm)
+One of your arm's joints has been struck and is now filling with blood and becoming inflamed. It makes it much harder to properly manipulate the appendage, on top of the very strange and unnerving sensation you get when you move the arm and can feel the collected blood sloshing around. You're inflicted with Needling 2, and take a -1 to Accuracy for (Needling Severity) * 10 IC anytime you're inflicted by the Needling status (including tis wound's initial Needling). Repeated applications of this wound increase the duration, but not the Accuracy penalty (though you can have multiple accuracy penalties from this wound, with their durations tracked separately). This wound takes two weeks to recover from.
+
+###### (21 - 50) Punctured Cavity (Torso)
+The body has several cavities, areas where specific internal organs are housed and kept together. One of them has been pierced and now has a hole in it, which is filling up with blood, inflicting Needling 2 and Stun 4. What's worse is that every injury you take afterward causes your body to naturally tense up, aggravating the injury and causing noticeable pain, which causes a Stun of (Needling * 2) anytime you're inflicted by Needling, until this heals. It takes four weeks to recover from.
+
+###### (51 - 80) Organ Hemorrhage (Abdomen)
+Your abdomen happens to have several internal organs all closely packed together. While space-saving, it also happens to mean that if you're hit there, one of them is bound to be injured in some form or fashion, and that's exactly what happened. What that boils down to is that you're bleeding, a lot. You're inflicted with Needling 2 and take a -1 to Fatigue rolls until this heals. What's worse is that anytime the wound is irritated (by doing silly ninja things, like fighting with an injury), it will continue to bleed into the abdominal cavity, which feels... not great, and causes you to take a (Needling Severity)/2 penalty to Fatigue rolls any time you're inflicted with Needling while you have this injury. It takes three weeks to recover from, but only one with medical treatment.
+
+###### (81 - 100) Joint Pierced (Leg)
+Though they missed fracturing your knee cap, they still managed to pierce the joint itself, and it's now collecting (and leaking) blood which isn't supposed to be there. Like many wounds, on its own it isn't so bad, but when aggravated, it becomes very problematic. You're inflicted with Needling 2, and take a -1 to all defenses for (Needling Severity) * 10 IC anytime you're inflicted by the Needling status (including this wound's initial Needling). Repeated applications of this wound increase the duration, but not the Accuracy penalty (though you can have multiple defense penalties from this wound, with their durations tracked separately). This wound takes two weeks to recover from.
+
+## Piercing (Severe)
+###### (1 - 20) Tricep Tear (Arm)
+They missed your humerus bone, but managed to pierce right through the tendon that connected a portion of your tricep to it. As any medically-savvy ninja knows, your tricep is pretty vital for doing things like holding objects, or punching. Most importantly, without a solid attachment to the muscle, it turns out your limbs are fairly useless, which is a problem for ninja who tend to employ violence. You're inflicted with Needling 3, and your Damage Bonuses (both Ninjutsu and Physical) are reduced by 1 per rank of the jutsu you use (Basic Attacks are considered E-rank for this wound's purposes). Tendons are tricky business, and require medical expertise to fix. Without medical attention, it won't heal; with it, it takes five weeks.
+
+###### (21 - 50) Rib Spearing (Torso)
+The object that struck you did so in such a way as to cause your ribs not just to fracture, but to split entirely. Both ends are curved inward, making movement, breathing, and life in general incredibly painful. You're inflicted with Needling 3, but that's just the start of your problems: Every time you take an action with a Speed greater than (5 + RES/10), your own ribs stab into you from the exertion, and you take another Needling 1 status effect. Finally, the overall misery of being in constant pain makes it difficult for you to concentrate on anything other than the awful injury, and you take a -2 to all d20 rolls, which is doubled for Skills. This takes ten weeks to recover from, but will not heal without at least one week of medical treatment to align the broken rib(s) properly.
+
+###### (51 - 80) Cavitation (Abdomen)
+Cavitation is an interesting phenomena typically only created by high velocity projectiles. Ninja being ninja, of course, means that this could happen with even the most inconspicuous of objects. What Cavitation is, is basically a wave of pressure that forces things--in your case, your internal organs--to shift in location, causing a cavity where there was none. It results in your organs being crushed, missshapen, torn, and dislocated. This is especially problematic for the abdomen, wherein everything is already densely packed. There is, shall we say, a real estate issue.
+
+The end result is that you're inflicted with Needling 3, and automatically advance a fatigue category, and all status effects inflicted upon you have their Severity increased by 1 automatically (including Needling), including status effects which you're already suffering from (which makes this wound actually apply Needling 4, total). This takes twelve weeks to recover from.
+
+###### (81 - 100) Hamstrung (Leg)
+Your hamstring got cut badly enough that it's not doing its job any more. You can stand, barely, and you can balance, sort of, but the more you try to use it the worse off you'll end up, and the searing pain going all the way up your leg is a very vivid warning of that. You're inflicted with Needling 3, and for as long as you have this wound, track how many yards you move anytime you do so (Knockbacks, aerial flight and being carried by a Water Dragon Blast or Mud Wave don't count, but Shunshin would), and every time you travel more than AGI/10 (cumulatively, even over multiple actions or movements while attacking), you take another Needling 1 status effect, and until this injury heals, you take a penalty to Athletics rolls equal to double your current Needling status. This takes nine weeks to recover from.
+
+## Piercing (Critical)
+###### (1 - 20) Shoulder Orifice (Arm)
+Someone has created another orifice in your body. As in--if there wasn't blood pouring out from both ends--someone could look right through your shoulder and see what's out the other side. In Pain is an understatement. On top of that, your arm is pretty much worthless. It's still there, but it's not going to be doing you much good. You can't wield two-handed weapons and take a Needling 5, for starters. On top of that, you have a -3 to Accuracy and to your Damage Bonus. While you can use your hand still (and use the affected arm as a limb for grapple locks, still), it's not particularly effective or fun, and you take a -6 to all Grapple checks and increase all Seal Speeds by 6. Finally, the fact that you have another hole in your body that isn't meant to be there has done what puncture wounds usually don't do, which is allow you to bleed freely: You take a Bleed 15 to top it all off.
+
+This won't even begin healing until you've had four weeks of medical treatment. After that, it'll take another six weeks of medical treatment, or twice as long resting the arm (you may fight and such, as long as you don't use that arm) for it to heal fully.
+
+###### (21 - 50) Punctured Lung (Torso)
+Okay, so, first off, calm down. It's not as bad as it... okay, yeah, it's as bad as it sounds. The good news is, it's not actually lethal. You've still got the other one (...right?) and whatever did this to you probably ventilated the lung, and by extension, the inside of your chest--no air building up in your chest cavity to collapse the other lung. ...Ready for the bad news? Yeah, lungs aren't actually meant to get ventilated. You have difficulty breathing, for one thing. In fact, you can't actually breathe normally, because there's an extra hole in your lung that disrupts the whole negative pressure system. Still, you're a super awesome ninja, and as long as you have one hand free to cover the wound up, you can still breathe. Unfortunately, you're inflicted with Needling 5, and can no longer rest (Something about not being able to catch your breath..). Anyway, any sort of exertion will just make this problem worse for you: Any Action you take that has a Speed greater than your RES/10 inflicts you with a Needling 2 status effect, which compounds horribly with the fact that anytime you're inflicted with the Needling status, you take a Stun of twice its severity, and gain both a Shock 1 and Paralysis 1 status effect.
+
+The 'agonizing pain' bit goes away in a month (or, more likely, you get used to it), but it it takes three months of medical treatment to recover from the effects. Once it's done, you're good as new.. Unless you get your second lung punctured before the first one's healed. Then you begin to Suffocate, acquiring the status every 5 IC with every instance increasing the severity by one (Suffocate 1, then 5 IC later Suffocate 2, etc) and when your Suffocate status equals your RES/2, you just die.
+
+###### (51 - 80) Pierced Liver (Abdomen)
+You're bleeding from the midsection, but the blood is black. Every ninja knows at least a little about anatomy, first aid, and injuries, but not all of them even know what it means, but you for sure know what it feels like: It feels like you're bleeding from the liver and about to die. Which is pretty accurate, as your liver is meant to metabolize your body's toxins, which are now leaking all over, inside and out. You're inflicted with Needling 5, to start, and you automatically advance a fatigue category when you take this wound. Even worse, while you have this wound, your maximum Fatigue level is reduced by one (from Fatigue 6 to Fatigue 5, normally), meaning once you hit Fatigue 5, you go unconscious.. and you really, really don't want to go unconscious, because the sickly looking blood you're leaking will inflict you with Poison 1 20 IC later. And then increase to Poison 2, 20 IC after that. There is no maximum severity for this Poison, and its duration is as long as you have this wound.. so it's going to be a while, unless you have a First Aid kit handy, which can be used to stop the Poison. However, so long as you have this wound, any time you advantage a fatigue category, you are afflicted by a new Poison 1 status which continues to increase and must be treated all over again.
+
+This wound takes eighteen weeks to recover from.
+
+###### (81 - 100) Penetrated Artery (Leg)
+Your femoral artery has been hit, and blood is literally spraying out of you into the air. Aside from the general pain involved and the fact that it's completely disgusting, you're losing a potentially fatal amount of blood and if it isn't stopped--no, a hand and some pressure won't stop this--you're going to die. You're inflicted by a Needling 5, though the real concern is how every action causes you to bleed out more, reducing your maximum Hit Points and current Vitality and HP by the Action's (Speed + AP spent). If you are reduced to 0 Hit Points, you automatically fall unconscious (rather than becoming incapacitated). If your maximum Hit Points are reduced to 0, you bleed out and die.
+
+Recovery takes twelve weeks. At that point, you begin regaining lost maximum HP. Every week which passes you regain (RES)/2 max HP, or (RES) with medical attention. Once your max HP is fully restored, the wound goes away.
+
+## Slashing (Minor)
+###### (1 - 10) Profuse Bleeding (Head)
+You got a gash on your face, maybe a slice into your cheek. You're bleeding a lot! Head injuries are like that. The blood loss isn't the issue; the fact that that blood is running over your face and getting in your mouth is. As your mouth fills with blood, it becomes progressively harder to breathe (and not vomit). You're inflicted with a Bleed 2, +2 per time taken in the same battle, with a Suffocate 2 until the Bleed ends.
+
+###### (11 - 25) Lacerated (Arm)
+You got a nasty gash running along your arm. It didn't cut anything vital, but blood is seeping down your arm and off your fingertips. You're inflicted with a Bleed 2, +1 per time taken in the same battle, with a -1 to Accuracy and +2 to all Seal Speeds until the Bleed ends.
+
+###### (26 - 55) Armor Tear (Torso)
+Something managed to slice right across your chest, hacking your armor right off your body. On top of being a fairly nasty gash which is likely to scar if not given stitches, you're inflicted with a Bleed 2, +1 per time taken in the same battle, and any and all armor that covers your Torso is removed (which will ordinarily only be applicable if you're wearing a Flak jacket), though your clothing is still in tact.
+
+###### (56 - 80) Sliced Stomach (Abdomen)
+This is what happens when you can't make your body concave enough. You get cut right across the belly. Fortunately it isn't that bad, it's just in a bad spot. You take a Bleed 2, +1 per time after the first, and have a -2 to all Fatigue rolls until the Bleed ends.
+
+###### (81 - 100) Lacerated (Leg)
+You got a nasty gash running along your leg. It's not life-threatening, but it is staining your clothes and oozing down your leg. You're inflicted with a Bleed 2, +2 per time after the first, and have -1 to defenses until the Bleed ends.
+
+## Slashing (Major)
+###### (1 - 10) Blood in the Eyes (Head)
+Oh no you're bleeding from the face! Because fights must be dramatic, the attack has cut in such as way (maybe right across your eyelid, maybe over the forehead) that blood is now dripping into your eyes, causing a continual distraction. You take a -1 Visibility Penalty every 20 IC in combat, stacking up to -5; taking this wound a second time causes the penalty to increase every 10 IC, and increases the cap to -10. You can take a Speed (Visibility Penalty)*2 action to wipe away the blood, resetting the penalty, but it won't go away until treated with a first aid kit, though doing so requires applying bandages over one eye, which applies its own -3 Visibility Penalty, though it won't increase from further bleeding. This injury takes two weeks to recover from.
+
+###### (11 - 25) Muscle Tear (Arm)
+Your bicep and/or tricep have been partially torn, which tends to make it a lot harder to function effectively in combat, as your arm goes from a dry noodle to a limp one. Your STR is reduced by 15%. This affects everything derived from your STR score you're hoping it doesn't (PDB, grapples, Unarmed dice, Brute Force ranks, etc), with the exception of Willpower, Vitality, and Hit points: those are fine. This heals at a rate of 5% per two weeks without medical attention or rest, or 5% per week in a hospital.
+
+###### (26 - 55) Pulmonary Gash (Chest)
+Something managed to cut through your pectoral muscle and between your ribs to nick your lung. A pretty impressive feat, but if they were a real badass they would get your heart (be sure to taunt them about that). This inflicts a Bleed effect of 2*Fatigue Level, minimum 2. Every time your fatigue level increases while you have this injury, you get a new Bleed effect based on your new Fatigue level. Luckily it's a deep but narrow injury, so it tends to heal fairly quick. It takes two weeks to recover from, with or without treatment.
+
+###### (56 - 80) Open Cavity (Abdomen)
+Your abdominal cavity--the part of your body that holds all your abdominal organs in together in a nice, safe environment--has been opened, and it really wasn't meant to be. You can no longer Rest, and your bonus to Stamina and Chakra Exhaustion rolls from your current Fatigue level are reduced by one (to become +4 per level, rather than +5). Taking this wound a second time (or more!) causes you to take an unreducible, unremovable penalty to Fatigue rolls of 2 per additional time this wound has been taken. This takes a month to heal.
+
+###### (81 - 100) Muscle Tear (Leg)
+Your quadriceps have been torn. Not to fear, the tendon is fine and you haven't been hamstrung, but it's still limiting in terms of how much you can use the muscle: Your AGI is reduced by 10%. This affects everything derived from your AGI score you're hoping it doesn't (Dodge, Initiative, max AP, movement speed). This heals at a rate of 5% per three weeks without medical attention or rest, or 5% per week with medical treatment.
+
+## Slashing (Severe)
+###### (1 - 10) Avulsed Ear (Head)
+You have a nasty cut right across your ear! Not only does this look pretty brutal, but there's blood seeping into your inner ear, which can do some nasty things to your sense of coordination. If you have the Enhanced Hearing ability, you lose all benefits from it, as well as any abilities which depend on it (such as Blind Fighting). With blood pooling in the ear making it difficult to keep your sense of balance, the highest level of Taijutsu you can perform is reduced by one (From A to B, B to C, C to D/etc).
+
+The blood can be drained from the ear easily with medical attention, but can't be treated in battle. It will heal on its own (and probably scar) in eight weeks, or four weeks (and probably not scar) if you have medical attention.
+
+###### (11 - 25) Hand of Benediction (Arm)
+The median nerve around an elbow has been severed, resulting in a loss of proper hand function. It doesn't hurt that much since it was a nerve that was struck, but your pinky and ring fingers are no longer able to be felt or manipulated at all, and your thumb is more or less unopposable. For starters, if you had anything in your hand at the time (evens for left, odds for right), you're automatically disarmed. The same is true for any two-handed weapon you might be holding. You can not wield a weapon in that hand, and take a -3 to Accuracy rolls (even using your injured hand is more difficult by virtue of all your attacks coming from it), and all Seal Speeds are increased by 50% (unless you have Single-Handed Seals to avoid using the injured arm).
+
+This will not heal without treatment: Nerves are tricky things which require medical ninjutsu to properly restore. With medical attention, it takes five weeks to heal.
+
+###### (26 - 55) Clavicle Cut (Torso)
+The horizontal bone that connects your sternum to your scapula has been fractured. More than likely, it's possible you can even feel part of the bone that's jutting out from the skin, if you try to look down at it. The worst part of it is the pain, which can't really be avoided because of how the clavicle helps the scapula keep in position to let the arm hang. This inflicts a -2 to Accuracy and d20 rolls, and a Paralysis 2. Any time you perform an action with a Fatigue cost, you take the action's Fatigue cost in damage, which bypasses reductions (such as DR).
+
+Crash course in anatomy, you have two clavicles. If the result was odd, it's your right; even, your left. With proper medical attention (a trip to a doctor, or a Medicine roll of 25 or higher using a First Aid kit, you or someone else) you can get the arm completely immobilized against your body. This reduces the Paralysis to 1, and prevents the damage taken from taking actions, but means you cannot use that arm or hand at all.
+
+It takes 6 weeks to heal, with or without medical treatment.
+
+###### (56 - 80) Chopped Liver (Abdomen)
+Your liver has been cut. There's really no good side to this one, it pretty much sucks. The liver happens to have quite a few functions, namely helping against toxins and the digestion of proteins. It's kind of vital to live, and it happens to be bleeding out at a very significant rate. This applies a Bleed 10 effect, and if you're under the effects of any type of Pill (Soldier, Blood, Akimichi, etc), they immediately end (including Soldier's Fatigue level reduction, which can knock you unconscious as a result), and you can't gain the benefits of any pills so long as you have this wound. Finally, the Severity of any poisons you suffer from while you have this wound are doubled, as your body can't process the toxin.
+
+This takes ten weeks to recover from, down to five with medical attention.
+
+###### (81 - 100) Hamstrung (Leg)
+One of the major tendons of the leg, located behind the femur, have been cut. You're now unable to walk or stand properly, more or less, and running is completely out of the equation. You're automatically knocked prone, and can no longer move when attacking. Your movement speed is reduced by 25%, and you take a -3 to all defenses until this injury recovers.
+
+If you manage to survive the fight which caused this (props for that, since you're a sitting duck), it takes twelve weeks to recover from, or six with medical attention.
+
+## Slashing (Critical)
+###### (1 - 10) Cut Throat (Head)
+The good news: you were not beheaded. The bad news: They didn't fail by much. Your carotid artery was hit, along with your trachea, which means blood is flying all over the place and you're going to suffocate from it if you don't do something smart (like surrender, or run away). You start with a Suffocation 2. Every time you take an action with a Speed greater than 0, its severity is increased by 1 (notably, the "Move" action will not trigger this effect). However, instead of making a Stamina 15 roll every time your Suffocation increases (as you would with a normal Suffocation status), you make such a roll every 10 IC, which begins at Stamina 10 and increases by 1 each time. This follows all other normal rules for Suffocation. Additionally, you suffer a Bleed status with severity equal to that of the Suffocation. In the case of special abilities which reduce the effect of the Suffocation status on you, the Bleed's Severity is determined before they're applied. Treatment with a First Aid kit will set the Suffocation penalty to 0; however, this will not prevent it from increasing again. In fact, nothing will at all until you've recovered from the wound! Ouch. On the bright side, you're a super implausible magic ninja. If you carefully apply pressure to your neck with both hands, you can temporarily suspend both the Suffocation rolls and the Bleed damage--though you may take no other actions while doing this, not even Speed 0 ones. This 'suspension' applies after you've been doing it for at least 10 consecutive IC.
+
+This is really just nasty business, all things considered. It won't start healing until it's received some medical treatment; after that, as long as you keep your neck bandaged and let yourself rest, it'll take twenty-six weeks to heal, half that in a hospital.
+
+###### (11 - 25) Avulsed Arm (Arm)
+Something just cut through a good portion of your arm. It's still connected, but it's kind of flopping, and you can't really control it, and it's kind of bleeding everywhere, and.. Yeah. Firstly, the arm is useless, which means you can't hold weapons (any you are, drop), make handseals, use items and so forth. You take a Bleed 8, -4 to Accuracy and Grapples, and every time you perform an attack which deals damage, your Bleed status from this wound increases by your DB/4, to a minimum of 1--if it's down to 0, then you acquire a brand new one!
+
+The arm will heal on its own so long as you keep it placed properly (any first aid kit will do for this) in a sling, reducing the penalty to Accuracy and Grapples by 1 per four weeks, two weeks if in the hospital. Once those penalties are gone entirely, you will stop incurring Bleed effects when you attack.
+
+###### (26 - 55) Injured Spine (Torso)
+In simple terms, your spinal cord is a part of your central nervous system and relays signals from the body to the brain, and vice versa. It also has several neural circuits which control numerous reflexes and "instinctual" actions that ninja tend to train themselves for (like moving out of the way of the technique that caused this). Fortunately for you, your reflexes didn't seem to be that crucial anyway, since you let this happen, so you probably aren't that bad off. Well, that's a lie. Whenever you take an action with a Speed greater than (RES)/10, two things happen: The first is that you suffer a Paralysis of half its Speed. The second is that you acquire a Bleed 1 status, or increase your existing Bleed from this wound by 1. The Bleed from this wound lasts for the entirety of the combat and is not reduced by your RES/30 like normal bleeds (though other interactions and reductions work normally).
+
+This will not heal without medical treatment. It will take thirteen weeks of medical treatment to recover from this.
+
+###### (56 - 80) Disemboweled (Abdomen)
+Congratulations, you've got what is potentially the most terrible injury one can receive. Your abdomen is full of all kinds of squishy organs and things which, as it turns out, are pretty important to keep you alive. Now there's a giant cut across your midriff and they're all trying to sag out of your body. Your Fatigue penalties are doubled (-2 to Accuracy and -4 to defensive rolls per level), but the bonuses are not, and you can not maintain any jutsu with an Upkeep aside from Doujutsu. Until you've received treatment for this, any called shots to your abdomen automatically deal their damage to your Hit Points.
+
+It takes a total of twenty-four weeks of rest to recover from this, twelve if in the hospital. Every time you advance a Fatigue level after receiving this wound, it takes another week to recover from. The wound won't even begin to heal until you've received some form of medical treatment (be it from a first aid kit or a week in the hospital).
+
+###### (81 - 100) Achilles Tendon Cut (Leg)
+Named after a mythic, nigh-invincible man who supposedly had a single tendon as his weak spot. As it turns out, that's actually a weak spot of everybody, and you just found out first hand. The pain isn't quite as bad as the sight of your foot dragging along unresponsively. For starters, you're unable to really stand properly: You have an Immobilization penalty of 6, which does not fade over time. Additionally, you can't use jutsu to move, or be moved by jutsu (such as Water Shark Blast, or Mud Wave), and if you suffer any sort of knockback, you're automatically knocked prone. Because you're essentially relying entirely on your good leg to get around, it's incredibly difficult to adequately make bursts of speed and respond in the normal way that a shinobi would: Anytime you would spend 4 or less AP, you gain no effect from any of the AP spent. This does include passive effects which act like AP (such as Celerity) if they are 4 or less, though if you spend 5 or more AP, you gain the benefit of all AP utilized.
+
+This simply won't heal without medical attention. With it, you reduce the Immobilization penalty every four weeks. Additionally, after eight weeks you are not longer knocked prone from Knockbacks, and can move and be moved by jutsu. After the the full twenty four week recovery time has passed, the AP limitation goes away.
