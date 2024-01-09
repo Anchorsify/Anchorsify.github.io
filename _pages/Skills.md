@@ -1,7 +1,7 @@
 ---
 layout: distill
-title: Statistics
-permalink: /Statistics/
+title: Skills
+permalink: /Skills/
 nav: false
 
 toc:
