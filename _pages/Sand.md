@@ -34,7 +34,7 @@ The Henzaki have few defining characteristics as a clan, though many are swarthy
 
 A well-known fact among Sunagakure's medic nin is that the Henzaki's bloodline makes them all universal donors and universal recipients, both for blood transfusions and organ transplants.
 
-### --( Homeostasis )--  
+#### --( Homeostasis )--  
 Henzaki physiology has an incredible ability to adapt, responding to any changes in its environment or condition, every system function of their body reacting instantly with a single goal: maintaining the stability of their vital functions.
 
  - Type: Ability
@@ -49,7 +49,7 @@ Anytime you are given a Bleed status, you immediately take damage from it and re
 Suffocation effects do not force you to make Stamina rolls, but still apply normally. Even if you’re killed, you won’t truly ‘die’ until reduced to -200% HP; you’ll seem dead, all vital signs stopped, but will revive once you return to 1 HP.
 Finally, you gain +1 to Stamina rolls per rank.
 
-### --( Regeneration )--
+#### --( Regeneration )--
 Among those who’ve worked alongside Henzaki for any prolonged period of time, this is probably their most envied ability. A henzaki will heal in minutes from injures that take others hours to get over, and in hours will have recovered from wounds that might take days for ordinary people to recover from.
 
  - Type: Ability
@@ -60,7 +60,7 @@ Among those who’ve worked alongside Henzaki for any prolonged period of time, 
 Effects: You regenerate 1 point of Vitality per Rank each Initiative Count, and twice that amount of HP.  In a given day, you can only heal (Rank) times your maximums of each: Thus, at two ranks in this ability, if you had 1000 Vitality you could only regenerate 2000 Vitality in a given day.
 Additionally, for every Rank in this ability you have, pick a Wound category (Blunt, Piercing, Slashing, or Energy): You divide the total healing time necessary to recover from any Wound in that category by 1+(0.5*Rank), and may utilize Organ Mobility for Wounds of that category.  Medical attention can not reduce it further; however, you can recover as if you had medical attention, even if you do not, thanks to your regeneration.
 
-### --( Organ Mobility )--  
+#### --( Organ Mobility )--  
 The secret to much of the Henzaki’s longevity, and their nigh-immortality, is their ability to control their body’s internal structure. If an organ has been punctured, they can force the wound shut or use another organ to put pressure on it.  If a cavity in their body is hemorrhaging, they can force the lining to open and let it bleed out to relieve pressure.
 
  - Type: Ninjutsu, Rank C
@@ -73,7 +73,7 @@ You may alternatively elect to use this as an Interrupt in response to being wou
 
 X is 1 for Minor, 2 for Major, 3 for Severe, and 4 for Critical Wounds.
 
-### --( Sanguine Vitality )--  
+#### --( Sanguine Vitality )--  
 As a result of their bloodline, Henzaki blood itself has a number of interesting, medically significant properties.  Most relevant to shinobi, it can be rapidly metabolized by virtually anyone, and will induce temporary, rapid regeneration.  It still tastes like blood, and since it has to be consumed fresh from the veins to be effective, it’s not a particularly appetizing product.
 
  - Type: Ability
@@ -102,7 +102,7 @@ Though a relatively new clan within the village, their abilities have earned the
  
 Hitori begin with Elemental Aptitude for Fire and Wind ninjutsu, along with the first rank of Elemental Affinity: Shakuton, which includes Katon and Fuuton.
 
-### -=[ Shakuton - Scorch Release ]=-  
+#### -=[ Shakuton - Scorch Release ]=-  
 Combining Fire and Wind chakra results in the advanced nature of ‘Scorch Release’; as the name suggests, it involves using extreme heat as a weapon, with powerful users being able to reduce opponents to ash or evaporate the liquid inside their body, sapping away their strength.
 
 Any Katon or Fuuton technique can be converted to Shakuton, with the following changes: 
@@ -117,7 +117,7 @@ Any Katon or Fuuton technique can be converted to Shakuton, with the following c
  - Shakuton techniques can not be reduced below Speed 5, after all other modifications
  - Shakuton is weak to Suiton, and strong against Fuuton and Doton
 
-**--( Dehydration )--**  
+###### --( Dehydration )--
 This is a status effect. Every point of Dehydration applies a -1 penalty to the victim’s Stamina and Resistance rolls, and lowers the victim’s Physical Damage Bonus by 0.3.  Dehydrate stacks fully with itself; Dehydration 3 added to Dehydration 2 makes a single Dehydrate 5 status, which applies a -5 to Stamina and Resistance rolls, and a -1.0 to their PDB.
 
 There is one exception: Dehydrate’s Stamina penalty does not stack with Burns, and if you happen to be suffering from both status effects, you take the higher of the two, rather than both, to Stamina rolls: If you were suffering from Dehydration 2, and received a Burns 3, your Stamina penalty would be -3, and your PDB penalty would be -0.6. If you then cleared your Burns status, the Stamina penalty would lower to -2.  
@@ -126,7 +126,7 @@ Any effects which reduce Stamina penalties reduce the severity of your Dehydrati
 
 Outside of battle, this status effect goes away at a rate of one per minute.
 
-### --( Kasou no Jutsu - Cremation Technique )--  
+#### --( Kasou no Jutsu - Cremation Technique )--  
 You focus your chakra on a victim, and simply light them ablaze.
 
  - Type: Shakuton Ninjutsu, Rank C
@@ -137,7 +137,7 @@ You focus your chakra on a victim, and simply light them ablaze.
 
 Effects: This technique ignores the normal rule that Shakuton can not inflict Ignite; X is the victim’s Dehydration status (and thus, if you use it on someone without it, this technique has no effect), and does enjoy Shakuton’s typical +CHA/30 Accuracy.  Your target’s Dehydrate status is removed (after applying the Ignite) if they pass a status roll; if they fail, then their Dehydrate status is instead only lowered by half, rounding up.
 
-### -- ( Sabaku no Keshin - Incarnation of Desert )--
+#### -- ( Sabaku no Keshin - Incarnation of Desert )--
 You project your chakra out across the battlefield, with devastating results.  The temperature rises, plants begin to wilt and wither, and hopefully nothing nearby is particularly combustible.
 
  - Type: Shakuton Ninjutsu, Rank B
@@ -158,7 +158,7 @@ The Juugo Suto have a well-deserved reputation for being excellent trackers and 
 
 **Juugo Suto have +5% Bonus XP.**
 
-### -=[ Survival Instinct ]=-  
+#### -=[ Survival Instinct ]=-  
 Most clans pass on secret techniques as a rite of passage. The Juugo Suto have a somewhat different rite: once a member is ready they are left alone, in the middle of the desert, without provisions or equipment, and told not to return for at least a month; most of them aren't even teenagers. It's a testament to the clan that virtually every student is, in fact, ready to undertake this challenge, and returns safely to the village. It's a testament to the ordeal that they inevitably return from their journey changed: quieter, calmer, and infinitely more aware of the world around them.
 
 - Type: Ability
@@ -166,7 +166,7 @@ Most clans pass on secret techniques as a rite of passage. The Juugo Suto have a
 
 Effects: You are immune to surprise attacks. Attacks which would normally not end an opponent's stealth still do not do so, but they receive none of the benefits of surprise attacks against you. Sneak attacks against you instead follow the normal rules for surprise attacks.
 
-### -=[ Tenacity ]=-
+#### -=[ Tenacity ]=-
 Desert is some of the most difficult terrain to navigate, but the sand foxes do it. They adapt to the harsh environment. It's not that it gets any easier, or that they've learned any secret. They just face the obstacles, assess them, accept them, and do what they must regardless.
 
 - Type: Ability
@@ -176,7 +176,7 @@ Desert is some of the most difficult terrain to navigate, but the sand foxes do 
 
 Effects: You reduce the severity of any immobilization and visibility penalties on you by 1, per rank, which is applied after determining the maximum severity of either penalty. Each rank also reduces the maximum immobilization penalty you can suffer from by 1.
 
-### -=[ Desert Ghosts ]=-
+#### -=[ Desert Ghosts ]=-
 In the world of shinobi, there is no such thing as hunter and hunted; one is both, at all times. The Juugo Suto are preeminently aware of this. That awareness, and their mentality of never taking their safety for granted, has led to no end of frustration for foreign shinobi trying to gauge the strength and frequency of Suna's patrols.
 
 - Type: Ability
@@ -186,7 +186,7 @@ In the world of shinobi, there is no such thing as hunter and hunted; one is bot
 
 Effects: For every rank you have a +1 bonus to Survival rolls, and anyone attempting to track you has a -1 penalty to their roll. If you are leading a group with a size of your (Survival Ranks/5) or less (including you), you may make a single Survival roll for all members, and anyone trying to track the group receives a -1 penalty per rank to their roll. Multiple Sand Foxes may work together, pooling their Survival skills for the maximum size, and using only the highest roll and penalty.
 
-### -=[ Intuition ]=-
+#### -=[ Intuition ]=-
 There are multiple sayings in Sand about a sand fox's intuition. Some are jokes at their expense, often told by genin. And the clan bears them without comment, because among the jounin those sayings are proverbs.
 
 It's not, despite what some have speculated, anything supernatural. The juugo suto can't actually watch every leaf in a forest at once, or hear a feather falling. All they can do, and all they need to do, is be calm, and watch, and listen, and know what about a setting is just a little bit wrong.
@@ -208,7 +208,7 @@ One of the greatest assets of puppeteers is their ability to essentially multipl
 
 **Kairaishi begin with 1 less Unique Point.**
 
-### --( Kugutsu Henge no Jutsu - Puppet Transformation Technique )--
+#### --( Kugutsu Henge no Jutsu - Puppet Transformation Technique )--
 With this technique, a Kairaishi can channel their chakra through one of their puppets to give it their own appearance. This is typically done in conjunction with a self-henge or with a secondary, physical disguise applied to the puppet in case the technique fails, as it suffers from the same limitations as Henge.
 
  - Type: Ninjutsu, Rank E
@@ -218,7 +218,7 @@ With this technique, a Kairaishi can channel their chakra through one of their p
 
 Effects: You disguise your puppet to look like you.  This has all the limitations of normal Henge, but without any worry of a false impersonation, as you know how to look and act like yourself and how to make your puppet do so perfectly.  Consequently, you gain a +5 to Espionage rolls against people figuring out your puppet isn’t you.  Anything that detects normal Henge will also detect this technique, and if the puppet takes damage the technique ends immediately.
 
-### --( Kugutsu no Jutsu - Puppet Technique )--  
+#### --( Kugutsu no Jutsu - Puppet Technique )--  
 The Kairaishi’s signature technique and a unique ninjutsu, this allows the user to extend strands of Chakra from their fingertips and attach them to puppets.  Using the puppets, they can attack and manipulate them from range while remaining relatively safe themselves.  The better the user’s control over their Chakra, the better they can control puppets by the strands connecting them.
 
 - Type: Ninjutsu, Rank D
@@ -244,7 +244,7 @@ Anyone targeted by a puppet in this fashion defends against the puppet’s attac
 
 When your puppets are attacked you can advance your IC to direct them to perform defensive interrupts, let them get hit, or pay a number of AP equal to the Speed of their defensive interrupt to avoid advancing your own IC. If you are subject to attack alongside your puppets, you and your puppets are all allowed to take a defensive action, and you advance your IC only by the highest Speed interrupt taken amongst the group (though you can not elect to spend AP to avoid advancing your own IC), though if there are multiple Fatigue costs incurred, you pay for all of them.
 
-### --( Puppet Mastery )--
+#### --( Puppet Mastery )--
 A novice puppet master needs both hands to direct the motions of a single puppet, often using a finger for each joint or something similar. A master learns how to split their chakra threads, and with as little as the twitching of a single digit and modulating of their chakra flows gracefully direct their puppets.
 
  - Type: Ability
@@ -254,7 +254,7 @@ A novice puppet master needs both hands to direct the motions of a single puppet
 
 Effects: The first time you take this ability you learn how to maintain Kugutsu no Jutsu potentially one handed; so long as you control five or less puppets at once, you can retain the use of one of your hands for making handseals, holding a weapon and so forth.  Every Rank after the first, you pick between one of two options:  Gain another Puppet, or decrease the IC interval of the Puppet Show action by 1.  
 
-### -=[ Puppets ]=-
+#### -=[ Puppets ]=-
 The weapons of choice of puppeteers, which can range from the size of a small human to that of a towering animal.  While each Kairaishi is given a basic puppet frame with which to utilize, every puppeteer takes the time to modify them, aesthetically and functionally, to fit their purposes.  It is considered a rite of passage for defunct and shabbily-repaired puppets of former Kairaishi to be handed down to new genin with an expectation that their creativity and ingenuity will bring life to a puppet which would otherwise remain in disuse.
 
 All Puppets acquired begin with 30 RES and AGI, with a basic frame of a head, torso, and a pair of arms and legs, and has three slots for upgrades.  When in use, a puppet uses their controller’s DEX, and their controller’s CHA in place of STR.  Regardless of a puppet’s attributes, they are only as good as the Kairaishi which utilizes them: A puppet’s RES is limited by, and can never be higher than, their controller’s DEX, and a puppet’s AGI is similarly restricted by their controller’s CHA.  Puppets use their controller’s uniques, abilities and skills, but puppets may never make Medicine, Research or Chakra Control rolls, and are never considered to have ranks in those three skills.
@@ -265,10 +265,10 @@ Puppets have RES*6 Durability, which is a measure of how much damage they can ta
 
 Puppets can not have their Durability restored in combat, but on missions, assuming you have the proper tools, you can patch up a puppet and restore 10% of their maximum Durability per hour you have to work on it.  Puppets reduced to 0 Durability in combat are considered broken, and can not be repaired until you can return to a village and have time enough to replace critical parts.  For the purposes of sealing, puppets tend to weigh around twenty five pounds.
 
-### -=[ Puppet Customization ]=-
+#### -=[ Puppet Customization ]=-
 Puppets have a known weakness in the eyes of most Shinobi, which the Kairaishi are well aware: Once you’ve seen the arsenal of a puppet, you can anticipate how to deal with them and counter them effectively.  To that end, Kairaishi are aware of that line of thinking and accordingly go to great lengths to keep modifying their puppets to catch their opponents unaware by a new trick or augment that they won’t anticipate.  Every Kairaishi gains XP/100 Customization Points which can be spent on any of their puppets, though once you spend them, they are spent and can not be reallocated.  You need not spend your CP as soon as you acquire them and can save them for later use if you wish.  Puppet Upgrades utilize one of three of a Puppet’s default Upgrade Slots and accordingly are limited in how many you can apply to a single puppet, while Modifications can be taken repeatedly for the same Puppet and any restrictions to how many times you can acquire them are noted in the individual entries.  In both cases you must choose when you acquire the Upgrade or Modification which puppet you are applying it to, which can not be changed later.
 
-### -=[ Puppet Modifications ]=-
+#### -=[ Puppet Modifications ]=-
 Modifications can be taken repeatedly and if there are limits to how many times you can take them, they will be listed in their individual entries.
 
 *— Quality*  
@@ -283,10 +283,10 @@ You can add an extra pair of legs or arms to your puppet.  An extra pair of arms
 *— Reinforcement*  
 Your puppet gains 5 DR.  You can apply this modification to any given puppet a number of times equal to its RES/10.
 
-### -=[ Puppet Upgrades ]=-
+#### -=[ Puppet Upgrades ]=-
 Each of the following Upgrades requires a free Upgrade slot on the puppet it’s applied to and the expenditure of a Customization Point, and can not be changed between Puppets: Once installed, it’s set.  Upgrades which are not passive require the Puppeteer to use the Attack action to make use of them, and can not be utilized as part of Kugutsu no Jutsu’s Puppet Show action.  Upgrades also have an XP cost, either as an equivalent Jutsu Rank or as an Ability, in which case the cost is listed, but the XP cost for an Upgrade is only paid for once to ‘acquire’ it.
 
-### --( Detachable Arsenal )--  
+#### --( Detachable Arsenal )--  
 While most puppets are constructed as complete frames meant to be puppeteered as a whole, this upgrade allows the Kairaishi to separate its arms from its body, leaving the majority of its weight behind while enabling multiple quick attacks with any weapons it has.  The downside, of course, being that the arms themselves are not as durable as the main body, and leaving them exposed can leave you with a half-broken puppet that has lost all its offensive capabilities.
 
 - Type: Ability
@@ -300,7 +300,7 @@ Effects: As a Speed 2 * X action, you can separate your puppet’s arms from its
  - Each Arm can participate in Puppet Show as if it were a different Puppet, without the restriction that you need be controlling them for the past 25 IC, though the puppet itself the arms detached from still needs to qualify and while its arms are detached, the main puppet is ineligible for Puppet Show (because it has no arms or weapons!).
  - You can rejoin a puppet’s limbs together as a Speed X + Y AP action, with X being the number of limbs being reattached, and Y being how many IC it would take for the arms to get back to melee range of the puppet’s body. 
 
- ### --( All-Terrain Adaptive-Terminus )--
+#### --( All-Terrain Adaptive-Terminus )--
 Special legs designed to go over any terrain, be it rocks, water, ice, or even vertically up cliff faces, these specially-made puppet legs allow the user to extend a small amount more of their chakra threads through to the extremities, accordingly allowing transference of the tricks shinobi learn with proper chakra control.
 
  - Type: Ability
@@ -309,7 +309,7 @@ Special legs designed to go over any terrain, be it rocks, water, ice, or even v
 
 Effects: this Upgrade reduces any Immobilization Penalties the puppet suffers from that are based upon the ground by 2, and allows the puppet to benefit from their user’s Water Walking and/or Wall Walking abilities, if they have them.
 
-### --( Flamethrower )--
+#### --( Flamethrower )--
 A special contraption which essentially utilizes a special variant of an Exploding Tag to create a steady stream of fire in a targeted direction; it doesn’t see mass use beyond puppets because most Ninja would rather set and forget a Tag than have to be there directing it, but it isn’t as much of an issue for a puppet.  While some Kairaishi briefly toyed with the idea of having tanks of combustible liquid or gas to combine with this, the tendency for their puppets to turn into bombs when hit by Katon quickly ended such pursuits.
 
  - Type: Ninjutsu, Rank C
@@ -321,7 +321,7 @@ A special contraption which essentially utilizes a special variant of an Explodi
 
 Effects: This technique targets everyone in a Line 5 in front of it.
 
-### --( Glider )--
+#### --( Glider )--
 Special, foldable wings can be installed inside the arms and/or legs of a puppet to allow them to glide and lift up with the wind, allowing for safe ranged bombardment by puppets ill equipped for close combat exchange.
 
  - Type: Ability
@@ -330,7 +330,7 @@ Special, foldable wings can be installed inside the arms and/or legs of a puppet
 
 Effects: The puppet can fly!  Mostly.  When moved you can move it vertically as well as horizontally.  A flying puppet can not be used to carry people (and likewise, a puppet carrying anyone can not fly), but is immune to any effects reliant upon contact with the ground (such as some immobilization penalties) and cannot be targeted by melee-range techniques unless it has made a melee-range attack in the past 25 IC.
 
-### --( Gyro-Balanced Weapon Arsenal )--
+#### --( Gyro-Balanced Weapon Arsenal )--
 Normally Puppets can only utilize the smallest of weapons based upon the limited space of their limbs, but with clever construction (and some elongation), you can manage to fit even bigger weapons!  Many Kairaishi swear by maximizing one's Naginata Per Puppet ratio.
 
  - Type: Ability
@@ -340,7 +340,7 @@ Normally Puppets can only utilize the smallest of weapons based upon the limited
 
 Effects: Each Rank and Upgrade is applied to each Puppet individually, but all instances of this Upgrade count as taking up a single slot on any given Puppet they’re applied to.  The First Rank allows a Puppet to utilize all non-Large weapons of the Equipment section (instead of only Small weapons); The Second Rank allows a Puppet to utilize even Large weapons.  The Third Rank allows a Puppet to ‘two-hand’ a weapon and gain the respective benefits for doing so. 
 
-### --( Hidden Weapon )--
+#### --( Hidden Weapon )--
 This Upgrade allows a puppet’s equipped weapon(s) to be more discreetly contained and quick-released, enabling it to catch enemies by surprise.  
 
  - Type: Ability
@@ -349,7 +349,7 @@ This Upgrade allows a puppet’s equipped weapon(s) to be more discreetly contai
 
 Effects: The first time a puppet with this upgrade attacks with a weapon in combat, it’s considered an automatic Surprise attack.  Additionally, if the equipped weapon used with this Upgrade is a Sword that has yet to be drawn, you can utilize the Iaijutsu ability with it.  Each Puppet may only benefit from each of these effects once per battle, and the costs and acquisition of weapons must be paid for normally.
 
-### --( Hollow Body )--
+#### --( Hollow Body )--
 All puppets are hollow in certain places, but this Upgrade allows for a specific construction (and likely enlargement) of the puppet’s torso which allows for a spacious, shell-like area that’s large enough for a person to fit inside.  At the Kairaishi’s discretion when installing this upgrade, eye slits can be placed to look out from, allowing for Awareness rolls at a -5 penalty.
 
  - Type: Ability
@@ -358,7 +358,7 @@ All puppets are hollow in certain places, but this Upgrade allows for a specific
 
 Effects: This creates a hollow section in your puppet’s torso (and necessitates it to be appropriately large) that, as a Speed 8 action, someone can go in and out of and lock from the inside.  The inside fits up to three people, though any more than one and it’s a bonding experience.  While inside the puppet you may not perform handseals, attack, or be attacked, or control any other puppets.  This Upgrade is incompatible with Trap Body (i.e., a Puppet can not have both of these upgrades).
 
-### --( Joint Plating )--
+#### --( Joint Plating )--
 With additional reinforcement and attempts to cover up the joints and weak spots of your puppet, you can make sure it’s more durable against whatever crazy ninjutsu it will inevitably get hit by.
 
  - Type: Ability
@@ -368,7 +368,7 @@ With additional reinforcement and attempts to cover up the joints and weak spots
 
 Effects: Improves the puppet’s Durability by RES an additional time; this Upgrade can be applied to a puppet repeatedly, but each application of this Upgrade takes up its own slot.
 
-### --( Recon Suite )--
+#### --( Recon Suite )--
 By adding chakra-receptive sensors to your puppet’s head, you can see and hear what the puppet sees and hears, and throw your voice, allowing you to speak without revealing your own location.
 
  - Type: Ability
@@ -377,7 +377,7 @@ By adding chakra-receptive sensors to your puppet’s head, you can see and hear
 
 Effects:  This upgrade can be toggled on or off as a Speed 0 action.  While using it, you suffer Visibility Penalties and make Awareness checks based on your puppet’s location and senses rather than your own.  Additionally, you can use a voice modulator to speak from the location of your puppet to make it ‘speak’, either using your own normal voice or an intentionally distorted and unrecognizable version of it, though it lacks any sort of sophistication to let you impersonate anyone else’s voice, it does allow you to speak while Hidden without giving yourself away.  This also grants Espionage and Stealth rolls that the Puppet makes a +3 bonus.
 
-### --( Toxin Delivery System )--
+#### --( Toxin Delivery System )--
 Ordinarily poisoning weapons requires you to apply them mid-combat for them to be effective, as they degrade quickly, but with this Upgrade, you can house special reservoirs that apply desired poisons to weaponry and aerosolize poisons from your puppet’s position, at your command.
 
  - Type: Ability
@@ -388,7 +388,7 @@ Effects: This allows the puppet to perform a Speed + 10 Poison Weapon action (wh
 
 It also allows the puppet to perform a special Speed 6 action to aerosolize a toxin, spreading any inhalation poison around itself with a 15 yard radius which persists for 30 IC and applies a -4 Visibility Penalty.  You do not need to purchase the Smoke Bomb portion of this, but you do need to buy each dose of the Poison you wish to utilize in it (which it requires to function).
 
-### --( Tail )--
+#### --( Tail )--
 You add a singular prehensile appendage to the back of the puppet.  In addition to the innumerable amount of fashion and customization potential you just opened up for your puppet, such limbs happen to be good at providing a point of counterbalance and improving aerodynamics.
 
  - Type: Ability
@@ -397,7 +397,7 @@ You add a singular prehensile appendage to the back of the puppet.  In addition 
 
 Effects: With this Upgrade, Immobilization Penalties the puppet suffers from are reduced by 1, its movement speed is increased by 10%, and it gains +3 to Grapple rolls, as well as having an additional limb for use in a Grapple, if beneficial.
 
-### --( Trap Body )--
+#### --( Trap Body )--
 This Upgrade modifies the puppet’s torso to have an elaborate series of wires and launchers which, when triggered, fire toward and wrap around a target, then quickly retract to pull them into the puppet’s body to capture them within it.
 
  - Type: Ninjutsu, Rank D
@@ -418,7 +418,7 @@ On the other hand, that may simply be a result of the passage of time. He may we
 
 Monkasei begin with Elemental Aptitude for Doton and Raiton ninjutsu, along with the first rank of Elemental Affinity: Jiton, which includes Doton and Raiton.
 
-### -=[ Jiton - Magnetism Release ]=-
+#### -=[ Jiton - Magnetism Release ]=-
 Though commonly referred to as ‘magnetic’ Chakra, in actuality it is a little more nuanced: Jiton can react with even non-ferrous metals, and Monkasei are rarely so overt as to carry around dozens of pounds of iron to make use of their Kekkei Genkai.  Rather, they tend to exert control over another substance--almost always Sand, though that might just be a matter of convenience, as it’s light-weight and there’s an infinite supply in their homeland--which is infused with a metal in some form or fashion to thereby control it.  Previous Kazekages were known for their Iron Sand and Gold Dust usage, but every Monkasei has their own preferences as to how they utilize their talent, and it’s not known whether the choice is simply a matter of preference, or if different Monkasei can control different metals better than others.
 
 Any Raiton or Doton technique can be converted into a Jiton technique, with the following changes:
@@ -433,7 +433,7 @@ Any Raiton or Doton technique can be converted into a Jiton technique, with the 
  - For any technique which would ordinarily end the target’s Shock and/or Paralysis status, the Monkasei can choose to spend 1 Charge (rather than gain any from the technique, as is normal) to prevent either status effect from ending.
  - Jiton is strong against Doton and Katon, but weak against Fuuton.
 
- **--( Charge )--**  
+###### --( Charge )--
 This is a status effect, applied to the Monkasei.  Charge stacks fully with itself, but every source of Charge the Monkasei acquires is tracked individually (sorry).  Thus, a Monkasei who gains 1 Charge on IC 45, 2 Charge on IC 55, and another 1 Charge on IC 63 would be at Charge 4 until IC 70, at which point the first would fade and they would be at Charge 3.  At IC 80 they would go down to Charge 1, and at IC 88 they would lose their last point of Charge unless they used another Jiton technique in that time.
 
 Charge grants the following changes to any Jiton technique which it’s applied to:
@@ -446,7 +446,7 @@ A Monkasei can choose how much Charge they wish to apply to any given attack: A 
 
 If a Jiton technique has its Seal Speed reduced to 0, then you need not make handseals for it at all.
 
-### --( Purification )--  
+#### --( Purification )--  
 So long as a Monkasei has access to some sort of solid ground (i.e., is not floating in the middle of the ocean), and has a few handfuls of their choice of metal shavings, a Monkasei can apply pressure to rock, soil, wood, or similar surfaces and materials to, essentially, pulverize them into miniscule splinters and shavings to be made use of.  Most Monkasei prefer to carry around materials already infused with their choice of metal to avoid this process (and to avoid showing its usage off to anyone), but in times of need, Monkasei can gather up more material to make use of their kekkai genkai.
 
  - Type: Jiton Ninjutsu, Rank E
@@ -456,7 +456,7 @@ So long as a Monkasei has access to some sort of solid ground (i.e., is not floa
 
 Effects: You create X gallons of Sand (keeping in mind that ‘Sand’ is more like ‘weathered and eroded bits of dirt and stone’, but it works for a Monkasei’s purposes). This may be used alongside a technique, in which case its Speed is 0, and its cost and Seal Speed are added to that technique’s, and it contributes directly to that technique’s Gallons requirement.  It may also be used alone, in which case the created Sand is deposited on the battlefield.
 
-### --( Sabaku Kyu - Sand Coffin )--
+#### --( Sabaku Kyu - Sand Coffin )--
 No one likes Sand.  It’s coarse, and rough, and irritating.  And it gets everywhere. Which the Monkasei tend to use to their advantage in order to slow down and debilitate their opponents through tactical, frustrating maneuvering that makes everything chafe.
 
  - Type: Jiton Ninjutsu, Rank D
@@ -467,7 +467,7 @@ Effects:  This can be added onto any Jiton Ninjutsu which is an attack; X is the
 
 If used on a Jutsu which already applies an Immobilization Penalty (such as a Jiton-converted Clay Bullet), you use the higher of the two penalties, as is preferable.
 
-### --( Sabaku Sousou - Sand Burial )--
+#### --( Sabaku Sousou - Sand Burial )--
 Once a target is encased in enough Sand, it’s a simple, yet devastating, measure to utilize their control over Jiton to crush a person in much the same way they crush up rocks or dirt.
 
  - Type: Jiton Ninjutsu, Rank B
@@ -488,7 +488,7 @@ Eventually they did assimilate into the village, sufficiently impressed by the c
 
 Members of the clan are not a very vocal sort, with a sense of humor that is often classified as 'twisted'. While well-mannered, most Sabechi have a sense of wit which invariably carries undertones not fully understood by those they converse with until well after they've spoken, making those that meet them frequently question just what they meant.
 
-### --( Rustblood )--  
+#### --( Rustblood )--  
 The blood of a Sabechi is poisonous.  Aside from minor conveniences, like it being harder to give them transfusions and the sabechi as a whole being ineligible for blood donations, it can also be used in combat as a very potent toxin.
 
  - Type: Ability
@@ -534,7 +534,7 @@ Your poison debilitates the victim’s muscles, slowing their ability to react. 
 *— Virulent*
 Your poison is especially toxic to others, increasing its Severity by 1 per rank.
 
-### --( Mithridatism )--  
+#### --( Mithridatism )--  
 Constant exposure to the Sabechi’s own venom eventually has their bodies produce antibodies to a variety of poisons, enabling them to quickly shrug off even the nasiest of toxins.
 
  - Type: Ability
@@ -544,14 +544,14 @@ Constant exposure to the Sabechi’s own venom eventually has their bodies produ
 
 Effects: You reduce the duration of any Poison you sufer from by RES/(5-Rank), and any secondary effects by 1 per Rank, to a minimum of 0. If the Poison has multiple secondary effects (such as a King Cobra’s poison which inflicts Shock 2 and a -4 to all skill rolls, in addition to its Poison 2 for 200 IC), the reduction applies to all of them (at Rank 2 you’d negate the shock entirely and have -2 to all skill rolls for 200-RES/3 IC)).
 
-### -=[ Predatory Protrusions ]=-  
+#### -=[ Predatory Protrusions ]=-  
 Every Sabechi has a way to deliver their poison naturally, without the aid of weapons—such is the nature of their bloodline.  As their skill expands and chakra develops, it’s not unheard of for a Sabechi to begin manifesting other mutations.
 
 You choose one of the following mutations below at creation.  For every 2000 XP you have, you can lower your maximum Willpower by 1 to acquire an additional mutation.
 
 You may take the Weapon Focus ability for “mutations”, allowing it to apply to any attacks made with your Sabechi clan mutations.
 
-### --( Stinger )--  
+#### --( Stinger )--  
 The most obvious of all the mutations and the signature feature of the clan, a Sabechi's stinger is far more potent than a scorpion's, even though they look about the same. It's much longer than it looks, able to extend over the Sabechi's shoulder or around their side to strike those in front of them.
 
  - Type: Taijutsu, Rank E
@@ -562,7 +562,7 @@ The most obvious of all the mutations and the signature feature of the clan, a S
 
 Effects: You have a flexible tail with a curved tip. You can attack with the Stinger in a Grapple and if you do so you don’t suffer its regular Accuracy penalty, and can make automatic called shots at no penalty.  On hit you can inflict a dose of your poison, and when poisoning someone with your Stinger, you take no Vitality or HP damage from its use. Stingers inflict Piercing Wounds.
 
-### --( Quills )--  
+#### --( Quills )--  
 While not true ‘needles’, some Sabechi actually have the ability to straighten the hairs on their head, which tend to be much thicker than normal hair, enough so to inject trivial amounts of their poison.  When used in groups, however, it can be quite deadly.
 
  - Type: Taijutsu, Rank E
@@ -577,7 +577,7 @@ Effects: You can throw a single Quill, using the above stats, or throw multiple 
 
 While these are not actual Senbon and may not be used for Jutsu that require Senbon to be prepared (like Raining Needles), you may utilize Senbon-specific abilities as if they were (meaning Combat Acupuncture, Senbon User, and Surgial Precision apply to them if you have them), although Senbon User allows you to use RES, rather than DEX, in place of STR to determine your damage bonus with your Quills (regular Senbon still use DEX in place of STR).
 
-### --( Saliva )--  
+#### --( Saliva )--  
 Your saliva is poisonous in addition to your blood, which while it tends to hamper relationships in a lethal way, does give you another way in which to utilize your body’s toxicity.  Those that have it swear by its usefulness.
 
  - Type: Taijutsu, Rank E
@@ -588,7 +588,7 @@ Your saliva is poisonous in addition to your blood, which while it tends to hamp
 
 Effects: You can apply a dose of your poison with this attack, by spitting on them.  This is a Ranged Taijutsu attack, but it uses your Ninjutsu Damage Bonus, and can only be parried as if it were a Ninjutsu technique. It deals Energy wounds (due to its caustic nature), and can benefit from the Improved Ranged ability if you have it.
 
-### --( Oily Skin )--  
+#### --( Oily Skin )--  
 Frequently mistaken for sweat by their enemies in battle, Sabechi with this mutation tend to enjoy trading blows with their opponents, crippling them as the fight goes on.
 
  - Type: Ninjutsu, Rank E
