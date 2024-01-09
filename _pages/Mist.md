@@ -70,7 +70,7 @@ Effects: You no longer take extra damage from Raiton, and are not stunned by it.
 
 The water which you absorb into yourself can not be used by anyone else to fuel Suiton techniques, but can be converted or destroyed (via Boiling or Water Sky Convergence, for example), though this does not apply to Suika’s inherent gallons of water.
 
-**--( Crashing Tsunami )--**  
+###### --( Crashing Tsunami )--
 Less of a technique and more of just a watery slam of a Hozuki’s body when enlarged and engorged by Masakana Namiochiru, it is nonetheless effective at using the full weight of the water gathered to overwhelm opponents.
 
  - Type: Suiton Taijutsu
@@ -204,7 +204,7 @@ When used, this technique effectively destroys any other terrain-based effects (
 
 After a few hours the bones will grow brittle as the chakra dissipates, beginning to crumble. Within a day there will be nothing left but dust and bone chips.
 
-**-=[ Skeletal Modifications ]=-**  
+###### -=[ Skeletal Modifications ]=-
 As the Kaguya fight, their skeletal structure becomes increasingly better-adapted for combat. Every time you use one of your clan jutsu, you gain one of the following modifications. You can apply them repeatedly, their effects stacking additively.
 
 Additionally, every time you suffer a Wound you gain a Skeletal Modification of your choice.
@@ -273,7 +273,7 @@ A disproportionate number of the Mizukage's honor guard tend to be members of th
 
 **Members of the Swordsman Corps begin with 1 less Unique Point.**
 
-##### -=[ Precision ]=-
+#### -=[ Precision ]=-
 Any ninja who uses a weapon seriously knows something about it beyond ;put the pointy end into the other person;. Mist's swordsmen generally understand their weapons, knowing the importance of a sword being well-balanced, and just how to cut someone to make the most of their weapon's momentum.
 
  - Type: Ability
@@ -285,7 +285,7 @@ Effects: You have a special “Sword Damage Bonus” of DEX/15 (to, as usual, a 
 
 Increases to your Physical Damage Bonus do not affect your Sword Damage Bonus.  On the other hand, anything which reduces your Physical Damage Bonus (such as many wounds) does not reduce your Sword Damage Bonus.
 
-##### -=[ Blademaster ]=-
+#### -=[ Blademaster ]=-
 Members of the swordsman corps do not put as much effort into training with their swords as other ninja do into learning the basics of ninjutsu--they put in more. This rigorous training tends to leave members of the swordsman corp disproportionately grim, and exceptionally dangerous.
 
  - Type: Ability
@@ -294,7 +294,7 @@ Members of the swordsman corps do not put as much effort into training with thei
 
 Effects: When using a sword, you use DEX/8 rather than DEX/10 to determine your bonus to Accuracy. Additionally, when making a sword attack you may choose to replace your regular accuracy with an accuracy roll (using 1d20 instead of 10 for the base value).  If you choose to use your Physical Damage Bonus with a sword attack instead of your Sword Damage Bonus from the Precision ability (found directly above this one), you do not receive the benefits of Blademaster on that attack.
 
-##### -=[ Silver Flash ]=-
+#### -=[ Silver Flash ]=-
 Once a sword kata has been perfected, you don't stop practicing it. If it is a ten-minute kata, and you know every step perfectly, you will do it in nine minutes, and then in eight. You learn how to not think about what you're doing, and instead simply do it. You learn to stop being a person wielding a sword, and become a sword guided by your subconscious.
 
  - Type: Ability
@@ -339,7 +339,7 @@ You must spend at least 1 point in one of the three primary trees of Features. T
 
 #### -=[ 1. Structure ]=-
 
-**a. Damage Type**  
+###### a. Damage Type
 Every weapon must have at least one damage type. If it has more than one type, you can decide which damage type to utilize each time you attack (though if using a jutsu or ability which requires a certain damage type, you must use that type).
 
  - (0) Slashing
@@ -348,26 +348,26 @@ Every weapon must have at least one damage type. If it has more than one type, y
  - (2) Two of the above
  - (5) Blunt, Slashing, and Piercing
 
-**b. Size**  
+###### b. Size
 A weapon may have only one size. Size determines both which jutsu and abilities it functions with, as well as its die size.
 
  - (3) Small: *d6 damage, +1 Acc, -2 base Speed
  - (0) Medium: *d10 damage
  - (3) Large: *d12 damage, -1 Acc, +2 base Speed
 
-**c. Two-Handed**  
+###### c. Two-Handed
 Only Large weapons may be two-handed. If a weapon is two-handed, it can't be used one-handed unless you have the Monkey Grip ability. You may only choose one of these options.
 
  - (0) One-Handed
  - (2) Two-Handed
 
-**d. Number**  
+###### d. Number
 Some swordsmen have more than one weapon. The Dual tag does not actually grant you an additional sword, just means your weapon is optimized for dual wielding (as per the ability). If you take Paired, you get a second weapon which has 15 points to spend normally, and may not take Paired itself.
 
  - (3) Dual
  - (5) Paired
 
-**e. Damage**  
+###### e. Damage
 Not something you spend points on, this time! Of the three primary feature sets below (Balance, Blade, and Body), determine which one you have the most points in. If there's a tie, choose one. That determines your sword's Speed, Stamina cost, and damage dice.
 
  - Balance: Speed 10, Stamina 8, 7d_ damage
@@ -376,7 +376,7 @@ Not something you spend points on, this time! Of the three primary feature sets 
 
 #### -=[ 2. Features ]=-
 
-**a. Balance**  
+###### a. Balance
 *Bottom*  
 (1) +1 Bleed, -1 die of damage. Your sword must deal at least 1d_ damage. This does require a status roll.  
 (1) If you spend AP on a sword attack, and miss, half the AP spent (rounded down) is refunded.  
@@ -390,7 +390,7 @@ Not something you spend points on, this time! Of the three primary feature sets 
 (1) Your Parry has its base Speed reduced by 1. This can only be taken once.  
 (1) The weapon may be held with one less hand than normal. This allows a two-handed weapon to be one-handed without difficulty (though does mean it loses its two-handed damage bonus). A weapon that requires "no hands'' can be strapped to your body somehow.
 
-**b. Blade**  
+###### b. Blade
 *Bottom*  
 (2) Your sword's damage is increased by 10% for the purposes of determining wounds; this can be taken up to 5 times.  
 (1) Your sword attacks have their damage bonus increased by 1, but their Accuracy decreases by 1 as well.  
@@ -404,7 +404,7 @@ Not something you spend points on, this time! Of the three primary feature sets 
 (2) Your sword deals another STR/20 dice of damage, but has its Stamina cost increased by 2. This can no more than double its base damage dice (from ‘e. Damage’).  
 (2) Your weapon's dice become .extra(die size-2). This can be purchased repeatedly, each time lowering the .extra value by 1 (from .extra(10) to .extra(9), then .extra(8), and so on).
 
-**c. Body**  
+###### c. Body
 *Bottom*  
 (1) You have a +1 bonus to rolls made to disarm an opponent's weapon, and a +1 bonus to any of your defenses against being disarmed. Your sword's base Speed is increased by 1.  
 (1) If you block while holding your sword, you gain DR equal to your Sword Damage Bonus; this is multiplied by the number of times you've taken this feature, and doubled if used with the mid-tier Weapon Block ability. This can be taken up to 5 times.  
@@ -420,7 +420,7 @@ Not something you spend points on, this time! Of the three primary feature sets 
 
 #### -=[ 3. Special Features ]=-
 
-**Small**  
+###### Small
 *Bottom*  
 (3) Your sword has +1 Accuracy, but -0.5 to your damage bonus. This has a maximum of +2 / -1.0  
 (1) Someone trying to parry your sword with a weapon does so as if your attack's Speed was 1 lower. This can be taken twice.  
@@ -430,7 +430,7 @@ Not something you spend points on, this time! Of the three primary feature sets 
 (1) The sword has a compartment in the handle for poison. It can hold up to three doses, which must be of the same type of poison. This allows you to, as a Speed 0 action, coat your blade with poison for a single attack.  
 (2) Your sword gains a Stun 1, to a maximum of Stun 4.
 
-**Large**  
+###### Large
 *Bottom*  
 (2) Your sword's base Speed is increased by 2, it gains Delay 2, and your sword damage bonus is also increased by 2 when using it. This may be taken twice.  
 (1) Anyone trying to parry or disarm your sword does so at a -1 penalty. However, your parries with your weapon similarly have a -1 penalty.
@@ -438,7 +438,7 @@ Not something you spend points on, this time! Of the three primary feature sets 
 *Middle*  
 (1) Your sword inflicts a Stun 2 to anyone who successfully parries or blocks it. This stacks with any other stuns applied by your weapon.
 
-**Spiritual**  
+###### Spiritual
 *Bottom*  
 (2) You use CHA/15 to determine your damage bonus while using your sword. If you take this feature a second time, the divisor is lowered by the Precision ability (to a minimum of CHA/12).  
 (2) When rolling accuracy with your sword, you use CHA/10 rather than DEX/10.  
@@ -525,7 +525,7 @@ You may convert any Suiton or Fuuton into a Hyouton technique, with the followin
  - Hyouton techniques inflict Frostbite equal to the rank of the jutsu (E = 1, D = 2, etc)
  - Hyouton is weak against Katon, and strong against Doton and Suiton
 
-**--( Frostbite )--**  
+###### --( Frostbite )--
 This is a status effect. As someone is struck by Hyouton, their core body temperature begins to lower from the extreme cold, slowing their movements and actions.  Frostbite inflicts an Immobilization penalty equal to its severity, and for each point of Frostbite someone has, they take 1% of their current Vitality in damage every 10 IC.  If they have no Vitality remaining, the damage is calculated and done to their HP, instead.
 
 If someone is suffering from Ignite or Frostbite and is then inflicted with the other, they suffer a Burns X from the sudden extreme shift in temperature, and then both their Ignite and Frostbite statuses are reduced by X, which is the lower of the two effects.  (e.g., If you were at Frostbite 5 and were hit with an Ignite 2, your Frostbite would be reduced to 3 and you would receive a Burns 2)
