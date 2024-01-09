@@ -31,7 +31,7 @@ Their solitude may have to do with their clan's techniques, as every clan member
 **Aburame begin with 1 less Unique Point.**
 
 
-**--( Kikaichuu no Jutsu – Parasitic Destruction Insect Technique )—**  
+#### --( Kikaichuu no Jutsu – Parasitic Destruction Insect Technique )—
 An ability exclusive to the Aburame, wherein they allow their own bodies to become a hive for the Kikaichuu.
 
  - Type: Ability
@@ -47,7 +47,7 @@ Every Swarm deployed must have one Female Kikai with it (see below for acquiring
 
 For every one Swarm Size, the Swarm has effectively CHA in Vitality. They do not actually lose Vitality though, instead they lose 1 Swarm Size for every (CHA) in damage they take from an attack. There’s no limit to this, but you always round down. If Shino had a Swarm Size 5 and 60 CHA, and someone did 298 damage to the Swarm, the Swarm would be reduced to Size 1, and any future attacks would require doing 60 damage to destroy the remaining Swarm Size, not 2.
 
-**-=[ Kikaichuu Swarms ]=-**  
+#### -=[ Kikaichuu Swarms ]=-
  - They use your Stats, Abilities, Uniques and Skills, but their effective Vitality never changes based on any of them (it is solely determined by the Swarm’s Size).
  - They can’t block or parry; they dodge using CHA/10 (instead of AGI/10).
  - AoE’s don’t penalize them based on movement, but they take a (Swarm Size) penalty to their dodge roll.
@@ -77,7 +77,7 @@ Below are the basic ways in which you can use your swarm.  In all cases, X is eq
 
 *Guard (Speed 6+X/2, Interrupt)* – You can use your Swarm to defend yourself or others that are within its area. Make a Dodge roll, with a bonus of X/2 to the roll.  If you succeed, the attack is considered to have hit the Swarm instead, though the Swarm’s regular reduction for Taijutsu does not apply (non-AoE do not deal half damage and Small weapons and Arrows don’t reduce the Swarm by 1 less), as the Swarm is intentionally acting as a shield.  If the Swarm’s Size is reduced to 0 by the damage of the attack, then you subtract from its damage the effective Vitality the Swarm had, and anything left over is dealt to the intended target.  Partial Defense does not apply to the Swarm.
 
-**--( Fujin Kikaichuu – Female Destruction Bugs )--**  
+#### --( Fujin Kikaichuu – Female Destruction Bugs )--
 A special type of Kikaichuu responsible for reproduction and signaling, Female Kikaichuu are precious to the Aburame, who rely upon them to coordinate the masses of ordinary Kikaichuu.
 
  - Type: Ability
@@ -96,7 +96,7 @@ For as long as the Female Kikai is attached, the Aburame has a +5 Awareness bonu
 
 You can only attach a single Female Kikai to a person (attaching more gives no added benefit), but can have multiple Female Kikai placed on different people simultaneously.  Deploying Female Kikai does not reduce the level of your Swarm Size, but it does limit how many Swarm Size you can recover via Insect Cocoon. Female Kikai are recovered naturally, at a rate of 1 + Max Willpower/2 per day, so use them wisely.
 
-**--( Hijutsu: Mushiyose – Secret Technique: Insect Gathering )--**  
+#### --( Hijutsu: Mushiyose – Secret Technique: Insect Gathering )--
 By touching the ground and sending their chakra out in a web-like pattern, they can attract the attention of nearby insects to follow the chakra signal and come to the Aburame, which allows them to gain some basic information about an area.
 
   -  Type: Ninjutsu, Rank D
@@ -107,7 +107,7 @@ By touching the ground and sending their chakra out in a web-like pattern, they 
 
 Effects:  Any insects within (X * 5) yards are drawn to you, which you can then gather information from.  Most insects are generally only concerned with very primitive things (eating, survival, and reproduction), and therefore are limited in what they may know, but will communicate what they can.  Keep in mind this is not a capacity to *talk* to insects, merely communicate with them.  X has a maximum of 10.
 
-**--( Hijutsu: Mushimayu – Secret Technique: Insect Cocoon )--**  
+#### --( Hijutsu: Mushimayu – Secret Technique: Insect Cocoon )--
 Since the Kikaichuu use their bodies as a nest and feed on Chakra, the Aburame can feed them even in the midst of battle to force a rapid reproduction, allowing more Kikai to be used if a large number happen to be destroyed.
  - Type: Ninjutsu, Rank D
  - Chakra: 5 + X + Y * 5
@@ -116,7 +116,7 @@ Since the Kikaichuu use their bodies as a nest and feed on Chakra, the Aburame c
 
 Effects: You restore 1 Swarm Size per X; Y is the number of times you’ve used this jutsu this battle.  As part of this jutsu you can also deploy (and hide, if you wish) the Swarm that you create.  X is limited by the number of Female Kikai you have left alive and undeployed.  You can not recover Female Kikai with this technique.
 
-**--( Hijutsu: Mushidama – Secret Technique: Insect Sphere )--**  
+#### --( Hijutsu: Mushidama – Secret Technique: Insect Sphere )--
 Using a Swarm that the Aburame has already spread out over an area in the battlefield and a Female Kikai’s trackability, the Aburame commands their Kikaichuu to harass and converge upon a single target. Unless they keep on the move, they will inevitably become swarmed by Kikaichuu that crawl up and all over their body, and attempts to run will have them continually chased by the Swarm.
 
  - Type: Ninjutcu, Rank C
@@ -135,7 +135,7 @@ The Swarm is immune to the Grappled condition itself, however, and both the Swar
 
 While this Jutsu is being maintained, the Swarm used in this Technique can not be used for any other action (drain, defending, creating clones, etc) until the technique is dismissed.
 
-**--( Mushi Jamingu no Jutsu – Bug Jamming Technique )--**  
+#### --( Mushi Jamingu no Jutsu – Bug Jamming Technique )--
 The Aburame commands their Kikaichuu to disperse over a wide area of the battlefield and then transmits their Chakra to them, covering the field in chakra pathways.  Depending on the whims of the Aburame, they can produce a variety of effects, from sensor disruption to draining an entire enemy squadron simultaneously.
 
  - Type: Ninjutsu, Rank C
@@ -154,7 +154,7 @@ The Swarm used for this technique can not be used for other things (drain, defen
  - *Obstruct Vision* - By constantly keeping in motion and following a synchronized pattern, the beetles can obstruct anyone’s vision who is within the field. While not an actual hindrance to movement, they impose a -X Visibility Penalty to anyone inside of it, or anyone attacking into the field, for as long as it’s maintained.
  - *Chakra Drain* - Anyone inside of the field who makes a Chakra Exhaustion roll while within the field takes a penalty to their roll equal to X, which persists until they leave the field. Unlike normal penalties to Fatigue, it does not go away when you advance a Fatigue level: You must leave the area to get rid of the penalty.
 
-**--( Mushi Bunshin – Bug Clone )--**  
+#### --( Mushi Bunshin – Bug Clone )--
 Using thousands of Kikaichuu, the Aburame creates a replica of themselves made out of their bugs. While it isn’t capable of taking damage well, the clone can utilize the Aburame’s chakra and jutsu, making it a powerful tool.
 
  - Type: Ninjutsu, Rank B
@@ -185,7 +185,7 @@ Since before Konoha was founded, the Akimichi, Nara and Yamana clans have collab
 
 **Akimichi begin with 1 less Unique Point.**
 
-**-=[ Calorie Conversion ]=-**  
+#### -=[ Calorie Conversion ]=-
 Akimichi can convert excess calories to Chakra, and in fact, it is a well-kept secret within the clan that they *have* to in order to utilize their Clan Jutsu: They are simply too exhausting to be used without them. Overuse of this ability results in them literally eating away at their own body, as once all fat stores have been used, muscles and organ tissue is converted next.
 
  - Type: Ability
@@ -199,7 +199,7 @@ You recover RES/5 CP per day, or half that amount if you can’t eat at least tw
 
 In dire circumstances, you may spend HP (not Vitality) in place of CP.  This may only be done once you have 0 CP remaining, and for every 1 CP you wish to utilize to help pay for a Jutsu, you lose 4 HP.
 
-**-=[ Akimichi Energy Bars ]=-**  
+#### -=[ Akimichi Energy Bars ]=-
 Tasty, individually-wrapped energy bars which come in dozens of flavors, including peanut butter, chocolate chip, blackberry, celery, and milk.  They’re packed full of calories and simple carbohydrates, and Akimichi are able to metabolize them almost instantly.
 
  - Type: Item
@@ -207,7 +207,7 @@ Tasty, individually-wrapped energy bars which come in dozens of flavors, includi
 
 Effects: You can eat these to gain Calorie Points!  Eating a bar in combat is a Speed 10 action that restores 10+(RES/10) CP.  You may only eat up to RES/25 Energy Bars in a day (any more and they’ll end up making you sick). The CP gained from these Energy Bars can not take you above your normal maximum for CP, based on your ranks of Calorie Conversion.
 
-**--( Baika no Jutsu - Multi-Size Technique )--**  
+#### --( Baika no Jutsu - Multi-Size Technique )--
 The Akimichi’s signature jutsu, this increases the user’s height and weight drastically; due to the extreme amounts of chakra necessary to cause such immediate growth, it’s usually fueled by the clan’s calorie control techniques.
  - Type: Ninjutsu, Rank D
  - Chakra: 25 + X * 5
@@ -218,7 +218,7 @@ Effects: X has a maximum of 5. You gain +Xd* to all Taijutsu, increase (not decr
 
 You can opt to change the value of X as a Speed Y, CP Y action while you maintain this jutsu, with Y being the difference between its current value and the value you’re changing it to: going from X = 4 to X = 1 would be Speed 3 action that costs 3 CP.
 
-**--( Nikudan Sensha - Human Bullet Tank )--**  
+#### --( Nikudan Sensha - Human Bullet Tank )--
 After enlarging with Baika no Jutsu, the Akimichi tucks their arms and legs close to their body (and usually under their similarly-enlarged clothing) and rolls semi-blindly toward a target to run right into them.  LIKE A WREEECKING BAAALLL.
 
  - Type: Taijutsu, Rank D
@@ -238,7 +238,7 @@ Effects: When you use this Jutsu you declare that you are Rolling and for how ma
 
 Effects: This attack is modified by Baika no Jutsu, as normal for Taijutsu. If you hit someone with this attack, your IC advances only half as much as it ordinarily would (if you hit someone with a Speed 12 Bowl attack, you’d then only advance your IC by 6), and successive hits of Bowl against the same target(s) multiple times increases your Damage Bonus by 1, consecutively, up to half your normal damage bonus. However, if you miss someone with this attack, you can't target them again with it for double the speed of the Bowl attack you missed with, as you must make wide turns (though you can always elect to target someone else in that time).
 
-**--( Partial Multi-Size Technique )--**  
+#### --( Partial Multi-Size Technique )--
 A more exhausting but wieldy version of Baika no Jutsu, this jutsu quickly enlarges only a single part of the Akimichi’s body, usually an arm or leg, in order to enhance a Taijutsu attack’s force and reach and take their opponents by surprise.
 
  - Type: Taijutsu, Rank C
@@ -248,7 +248,7 @@ A more exhausting but wieldy version of Baika no Jutsu, this jutsu quickly enlar
 
 Effects: You can add this technique to any other Taijutsu attack you perform; you gain +Xd* to the attack’s damage, add (or increase the existing) Range by X and Area by X/2, add a Knockback of X/2, and gain +X/5 Accuracy to the attack, rounding down where necessary. The first time this Jutsu is used in combat, it’s treated as a Surprise Attack. X has a maximum of 6. Your limb returns to normal immediately after the attack is resolved.  At least five CP must be spent every time you utilize this jutsu, though it reduces the Chakra cost like normal.
 
-**--( Nikudan Hari Sensha - Spiked Human Bullet Tank )--**  
+#### --( Nikudan Hari Sensha - Spiked Human Bullet Tank )--
 The Akimichi attaches dozens of kunai to multiple lengths of wire which they then drape loosely around their body. When they increase in size the wires become taut, and the kunai form rings of spikes around their body. While this is certainly effective as a means of attack, the real purpose is much simpler: the kunai function like cleats, aiding in turning.
 
  - Type: Taijutsu, Rank C
@@ -261,7 +261,7 @@ Effects: This jutsu functions in all the same ways as described in Nikudan Sensh
 
 Using this Jutsu requires at least 30 Kunai attached by wire, which are not used up and may be used repeatedly for this technique, though repurposing them as throwing weapons (i.e., removing them from their wire) means they can not longer be used for this until reattached (as something to be done out of combat).
 
-**-=[ Cho Baika no Jutsu - Super Multi-Size Technique ]=-**  
+#### -=[ Cho Baika no Jutsu - Super Multi-Size Technique ]=-
 Essentially an even larger version of Baika no Jutsu, the Akimichi increases to gigantic proportions, at a minimum as tall as a two-story building, and potentially up to several times that amount.
 
  - Type: Ability
@@ -277,7 +277,7 @@ Effects: Baika no Jutsu’s X maximum is increased to 10.  When X is higher than
  -  All Taijutsu increase their range by X.
  -  You increase the die size of all Taijutsu by one step ( d4 -> d6 -> d8 -> d10 -> d12 ), to a maximum of d12; Taijutsu already at d12 instead gain +2 damage per die rolled.
 
-**--( Cho Harite - Mega Palm Thrust )--**  
+#### --( Cho Harite - Mega Palm Thrust )--
 Usable only when already enlarged by Baika no Jutsu, the Akimichi tend to perform this jutsu sparingly because of how tiring it is, but there’s no denying the efficacy of reinforcing a person-sized palm with more Chakra to turn it hard as steel in order to flatten your opponent in the hand-sized crater left behind in the ground.
 
  - Type: Taijutsu, Rank B
@@ -287,7 +287,7 @@ Usable only when already enlarged by Baika no Jutsu, the Akimichi tend to perfor
 
 Effects: You can add this Jutsu to any other Taijutsu attack you perform except for Nikudan Sensha or Nikudan Hari Sensha, and any Taijutsu which specify they are kicks. You double all of the bonuses that Baika no Jutsu grants for that attack, including the Taijutsu die size increase, which can increase d12's to d20's (as one step), gaining the +2 damage per die thereafter if it would increase again. At least ten CP must be spent every time you utilize this jutsu, though they reduce the Chakra cost like normal.
 
-**-=[ Sanshoku no Gan'yaku - Three-Colored Pills ]=-**  
+#### -=[ Sanshoku no Gan'yaku - Three-Colored Pills ]=-
 A secret medicine developed and used exclusively by the Akimichi clan, these three pills convert stored energy into chakra to give the user a tremendous boost in power.  Understandably, these are exceptionally potent in the hands of an Akimichi.
 Even so, there’s a good reason they’re not widely used: They’re not gentle on the body, and are exceedingly toxic.  Despite their names, they don’t taste like food.  They taste like, well—Poison.
 
@@ -303,28 +303,28 @@ As you may notice, it’s quite possible to go above “Fatigue 6”, which is t
 
 Akimichi are issued only one of each pill at a time.  Anyone other than an Akimichi who takes one of the pills suffers the Poison effect, and receives none of the benefits.  Giving these pills away is treason, and it’s a credit to the clan that to date no Akimichi has done so.
 
-**--( Hourengan - Green Spinach Pill )--**  
+###### --( Hourengan - Green Spinach Pill )--
 You gain half your maximum Calorie Points, and your Chakra Exhaustion penalty is reset to 0.  For the pill’s duration, you gain +5 to all stats.
 
  - Duration: 50
  - Poison: 4
  - Special: When the Pill's duration expires, your Fatigue level is increased by 2.
 
-**--( Karengan - Yellow Curry Pill )--**  
+###### --( Karengan - Yellow Curry Pill )--
 You gain half your maximum Calorie Points, and your Stamina penalty is reset to 0. For the pill’s duration, you gain +10 to all stats.
 
  - Duration: 75
  - Poison: 6
  - Special: When the Pill’s duration expires, your Fatigue level is increased by 4.
 
-**--( Red Chili Pill )--**  
+###### --( Red Chili Pill )--
 You gain your full maximum’s worth of CP, and your Fatigue level is reduced by 1.  For the Pill’s duration, you gain +15 to all stats, and you gain access to a special jutsu, detailed below.
 
  - Duration: 100
  - Poison: 8
  - Special: When the Pill’s duration expires, your Fatigue level is increased by 6.
 
- **--( Chodan Bakugeki - Butterfly Bullet Bomb )--**  
+ ###### --( Chodan Bakugeki - Butterfly Bullet Bomb )--
 This technique is only usable after an Akimichi has consumed a Red Chili Pill, due to its extreme chakra requirements; in fact, that's where it got its name. The amount of chakra produced from consuming it is so excessive that the Akimichi's body has to vent it off, resulting in visible plumes of chakra bursting from their shoulder blades in a display reminiscent of butterfly wings.
 
  - Type: Taijutsu, Rank B
@@ -346,7 +346,7 @@ Physically, Inuzuka tend to be easily identifiable by the traditional red markin
 
 The Inuzuka are often characterized as blunt and rough around the edges, taking things from playful to what most others would consider hurtful. Nonetheless, they're very protective of their teammates and typically mean well.
 
-**--( Shikyaku no Jutsu – Four Legs Technique )--**  
+#### --( Shikyaku no Jutsu – Four Legs Technique )--
 This technique is the signature fighting style of the Inuzuka, wherein they hunch down on all fours and bare their teeth.  The more experienced the Inuzuka is with this technique, the more bestial they become, with some having elongated canines that become true fangs, spontaneously growing claws, and pupils that narrow and become slitted rather than rounded.  Most impressively, the user’s reflexes, senses, and speed increase noticeably.
 
 - Type: Ninjutsu, Rank D
@@ -356,7 +356,7 @@ This technique is the signature fighting style of the Inuzuka, wherein they hunc
 
 Effects: Your movement speed is increased by 10% and your current and maximum Rank in Enhanced Hearing and Blind Fighting abilities are increased by 1. Every time you damage someone with a Taijutsu attack while maintaining this technique, you temporarily shred any sort of DR they might have, reducing their DR (after the damage is resolved) by (2+AGI/30). Shredded DR can not be reduced below 0, and is restored at a rate of 1 per IC.  However, due to being on all fours and your hands becoming more animalistic, all Seal Speeds are increased by 3.
 
-**--( Tsuga – Passing Fang )--**  
+#### --( Tsuga – Passing Fang )--
 The Inuzuka launches themselves forward toward an opponent while spinning at such rapid speeds that they almost appear to become an elongated vortex pointed toward their enemy.  It can be extremely damaging if an opponent is caught unaware, as the rotation involved allows the Inuzuka to tear right through most defenses.
 
  - Type: Taijutsu, Rank D
@@ -374,7 +374,7 @@ You apply only one-fourth of your PDB to this technique’s damage, however, you
 
 For every time you and/or your Ninken utilize Tsuga consecutively (even if it misses!), its Speed and Stamina cost are reduced by 1, to a minimum of half their normal values. These benefits reset if you take any non-interrupt action besides Move, Tsuga, or Gatsuga, or if you go 20 IC or more without you or your ninken using Gatsuga or this technique.
 
-**--( Jujin Bunshin – Beast Human Clone )--**  
+#### --( Jujin Bunshin – Beast Human Clone )--
 Derived from the basic Henge, this technique transforms the ninken into the likeness of its owner, though the ninken will still behave like an animal in this form. However, together with the Shikyaku no Jutsu, the two become virtually indistinguishable.
 
  - Type: Ninjutsu, Rank D
@@ -388,7 +388,7 @@ Effects: This technique changes your ninken into an exact look alike of you. By 
 
 While your ninken remains transformed, they can perform the Tsuga jutsu on their own, and cooperate with you to perform Gatsuga.
 
-**--( Gatsuga – Fang Passing Fang )--**  
+#### --( Gatsuga – Fang Passing Fang )--
 Tsuga twice over.  Both the Inuzuka and their transformed Ninken coordinate their movements to attack an enemy from multiple sides with Tsuga, to exploit any blindspot the opponent might have—or to make one, if needed, by forcing them to deal with two attacks coming in simultaneously.
 
  - Type: Taijutsu, Rank C
@@ -405,7 +405,7 @@ This jutsu functions otherwise like Tsuga for how you determine your movement (a
 
 Gatsuga’s damage differs, however: You apply only one-fifth of your PDB to its damage, but roll damage an additional time for every point you beat your opponent’s defense by, to a maximum of five damage rolls if you beat their Defense by 5. Like Tsuga, if your opponent elects to Defend in a way that does not have them roll, you make the maximum amount of damage rolls (but gain no extra d8’s from beating their defensive roll), and Block reduces this technique’s damage 10% less per damage roll (40% for the second, 30% for the third, etc).  Partial Success does not apply to this attack.
 
-**--( Inuzuka-Ryu: Jinju Konbi Henge: Sotoro – Inuzuka-Style: Human Beast Combination Technique: Double-Headed Wolf )--**  
+#### --( Inuzuka-Ryu: Jinju Konbi Henge: Sotoro – Inuzuka-Style: Human Beast Combination Technique: Double-Headed Wolf )--
 This fearsome transformation technique combines shinobi and ninken into a massive two-headed version of their Ninken. While being in this form has its obvious benefits, this technique is most valued as an essential preparation for the Inuzuka's most devastating form of Tsuga.
 
  - Type: Ninjutsu, Rank B
@@ -419,7 +419,7 @@ Your movement speed is increased by 25% and your current and maximum Rank in Enh
 
 While you maintain this form, you can not perform handseals, hold weapons, or Hide (because you are a huge, multi-headed beast).  This technique automatically ends Shikyaku no Jutsu and Beast Human Clone if they were active when this technique was performed, and you can not activate either jutsu while you maintain this one. If you take a Major or higher Severity Wound, this jutsu automatically ends as you are forcibly separated from your Ninken, and you both suffer a Stun 5 * Severity of the Wound.
 
-**--( Garouga – Fang Wolf Fang )--**  
+#### --( Garouga – Fang Wolf Fang )--
 Tsuga, but in Sotoro form, where an Inuzuka’s speed (and tail!) can be used to devastating effect to create a truly deadly vortex of claws and teeth to tear apart whomever they come into contact with. The downside to this technique is that the Inuzuka is spinning so rapidly that they can potentially lose sight of their target, and rely upon their enhanced sense of smell to guide them.
 
  - Type: Taijutsu, Rank B
@@ -435,7 +435,7 @@ This attack functions otherwise like Tsuga for how you determine your movement (
 
 Garouga’s damage differs, however: You apply only one-fifth of your PDB to its damage, but roll damage an additional time for every point you beat your opponent’s defense by, to a maximum of ten damage rolls if you beat their Defense by 10. Like Tsuga, if your opponent elects to Defend in a way that does not have them roll, you make the maximum amount of damage rolls (but gain no extra d12’s from beating their defensive roll), and Block reduces this technique’s damage 10% less per damage roll (40% for the second, 30% for the third, etc).  Partial Success does not apply to this attack, and for Wounding purposes, you add up the damage you inflicted to them from all rolls (after any relevant reductions together), and deal three wounds (one Piercing, one Blunt, one Slashing) to them of one severity lower (to a minimum of Minor) than normal.
 
-**-=[ Ninken ]=-**  
+#### -=[ Ninken ]=-
 Your ninken, or ninja dog (though some have wolves), is more than just an extra weapon in combat: it’s a living creature with its own capabilities.  However, a ninken is only as good as its master, so its advancement is inextricably linked to yours: Your Ninken’s bonuses are determined by your XP.
 
 Your Ninken has the following Skills of its own:
@@ -447,7 +447,7 @@ In other words, your ninken begins with Awareness, Stealth, and Survival at Rank
 
 If you and your dog are travelling together, you may have your ninken roll a skill check alongside your own roll. This can only be done with skills the Ninken has Ranks in, and does not apply in combat.
 
-**-=[ Pack Tactics ]=-**  
+#### -=[ Pack Tactics ]=-
 When fighting with you, your Ninken acts on every increment of 20 (on IC 20, 40, 60, etc). It uses your attributes, and can do one of several things:
 
  - *Basic Attack (Speed 10)* – This deals (STR/6)d6, uses half your PDB, and Shreds 10 DR. DR reduced this way returns at a rate of 1 per IC (stacking as one 'status' with your own Shred). Attacking from Stealth increases the damage to use your full PDB.
@@ -461,7 +461,7 @@ Your Ninken does not need to dodge, and cannot be targeted or caught in an AoE. 
 
 When fighting alone, your Ninken acts on its own Initiative, using your stats as detailed above, though it has a -6 to its Dodge and if it’s hit once, it’s knocked out.
 
-**-=[ Ninken Abilities ]=-**  
+#### -=[ Ninken Abilities ]=-
 These are ways you can train your Ninken to excel!  Your Ninken gains one from the list below for every 500 XP you have; you may not take an ability more than once unless the Ability says so.
 
  - *Good Nose*: Your Ninken gains +3 Ranks in Survival, and +1 Rank in Awareness. This can be taken up to 5 times.
@@ -479,7 +479,7 @@ With the divide between the houses now gone, the Hyuuga have risen to prominence
 
 **Hyuuga begin with 1 less Unique Point.**
 
-**-=[ Byakugan – White Eye ]=-**  
+#### -=[ Byakugan – White Eye ]=-
 Activating Byakugan is a Speed 0, Seal Speed 6 action which, once you can reduce its Seal Speed to 0, you no longer need to perform handseals to activate it. Byakugan has an Upkeep of 2, grants +5 to Awareness rolls, and while active, anyone Hidden (or who attempts to Hide) within Byakugan’s range is automatically spotted if their Stealth TN is lower than your total bonus to Awareness (without the normal 1d20, or anything in place of it).
 
 You can differentiate between people and clones (except for Kage Bunshin), and can tell if someone is using Henge (though this does not allow you to see their true form).
@@ -488,7 +488,7 @@ Byakugan allows you to see through physical objects (though you’re still aware
 
 Finally, you are immune to all Visibility Penalties from external sources, such as blindfolds, ninjutsu-induced mists, and bombs.  You are immune to Genjutsu which target an area instead of people, can automatically see through them as if they weren’t there, and can tell when someone else (not yourself) is being affected by a Genjutsu (of any kind) from the disturbance in their chakra flow.
 
-**--( Jyuuken – Gentle Fist )--**
+#### --( Jyuuken – Gentle Fist )--
 The Hyuuga’s signature fighting style which makes use of Byakugun's ability to see an opponent's chakra flow alongside graceful taijutsu strikes.  With every contact the Hyuuga injects small bursts of chakra into calculated points within the opponent's chakra flow, sealing them off and damaging internal organs directly.  Save for unique physiology or other abilities, Jyuuken is notoriously difficult to defend against once contact is made.
 
  - Type: Taijutsu, Rank E
@@ -512,7 +512,7 @@ In addition to the above attack, once you learn this jutsu, you can use Jyuuken 
 - In the case of Combos, you can not switch from a regular Combo to a Jyuuken Combo, with the sole exception that you may go from an ordinary Opener into a Jyuuken Combo, and you use Jyuuken’s damage as your Basic Unarmed Attack damage.
 - Any Wounds dealt are Energy Wounds, instead of normal.
 
-**--( Hakke Kuushou – Eight Trigrams Empty Palm )--**  
+#### --( Hakke Kuushou – Eight Trigrams Empty Palm )--
 One offensive counterpart to the defensive Hakkeshou Kaiten.  Rather than releasing chakra from all tenketsu to form a protective barrier, chakra is released from certain tenketsu, typically the forearm and palm, to create a forceful thrust, which damages an opponent at a distance.
 
  - Type: Taijutsu, Rank D
@@ -524,7 +524,7 @@ One offensive counterpart to the defensive Hakkeshou Kaiten.  Rather than releas
 Effects: This is added to any Jyuuken or Jyuuken-converted Unarmed or Combo attack, increasing its Chakra cost and Speed accordingly (though its damage does not increase). It allows those techniques to be performed at the listed range (and, accordingly, does not break combos).  Because this changes the technique into what is essentially a wave of force, it prevents them from being parried as a normal Unarmed Taijutsu (though most ninjutsu-based defenses will apply normally).
 It cannot, however, be used to extend the range of the various Gentle Fist finishers.
 
-**--( Hakkeshou Kaiten – Eight Trigrams Palm Revolving Heaven )--**  
+#### --( Hakkeshou Kaiten – Eight Trigrams Palm Revolving Heaven )--
 The absolute defense of the Hyuuga clan, to use this technique the Hyuuga simultaneously releases chakra from every tenketsu in their body and begins spinning rapidly.  The combined effect is to generate a virtually impervious shield of rotating chakra; what makes it truly effective is that the chakra used won't dissipate until the user finally comes to a stop.
 
  - Type: Taijutsu, Rank C
@@ -546,7 +546,7 @@ Anyone within Kaiten’s Area when it’s activated who fails to dodge takes its
 
 This technique’s only true weakness is that it is ineffective if the user cannot spin: If you are suffering from a -5 or greater Immobilization Penalty, you may not utilize Kaiten.
 
-**--( Juukenpo Ichigekishin – Gentle Fist Art One Blow Body )--**  
+#### --( Juukenpo Ichigekishin – Gentle Fist Art One Blow Body )--
 Another offensive use of the Hyuuga's ability to release chakra from his tenketsu.  Here a force is created and directed against an opponent, or even against the espied weakness of some technique in order to dispel it, using the Byakugan's ability to see chakra.  In either case, the force created can easily send most opponents flying.
 
  - Type: Taijutsu, Rank C
@@ -558,7 +558,7 @@ EffectS: If used in a grapple, you and the person you’re grappling both make a
 
 You can also use this Jutsu to end any effect which restrains you externally, from being tied up with ropes, to being trapped inside a Water Prison, or Immobilized by a Clay Bullet. If used against a Jutsu, X is that technique’s Upkeep (if it has one) or Immobilization penalty (if it has both, use the higher of the two). Otherwise, X is zero.
 
-**--( Hakke Rokujuyon Shou – Eight Trigrams Sixty-Four Palms )--**  
+#### --( Hakke Rokujuyon Shou – Eight Trigrams Sixty-Four Palms )--
 A devastating series of Jyuuken strikes carried out in rapid succession, sealing many of an opponent’s Tenketsu in the process. The strikes are made in increasing powers of two: two strikes, followed by another two, then four, then eight, then sixteen, then thirty-two, for a total of sixty-four strikes. The damage to internal organs and chakra flow is often so debilitating that the victim can no longer stand.
 
  - Type: Taijutsu, Rank C
@@ -569,7 +569,7 @@ A devastating series of Jyuuken strikes carried out in rapid succession, sealing
  - Requires: Byakugan active
  - Combo Bonus: +4d4 damage, +2 Stun, +1 Sealed Tenketsu, +0.5 Immobilize
 
- **--( Hakke Hyaku Nijuuhachi Shou – Eight Trigrams One Hundred Twenty-Eight Palms )--**  
+ #### --( Hakke Hyaku Nijuuhachi Shou – Eight Trigrams One Hundred Twenty-Eight Palms )--
 The ultimate and most lethal usage of Jyuuken, and the final development of Hakke Rokujuyon Shou.  The Hyuuga’s speed and chakra control have reached truly amazing levels, adding a seventh series of strikes which doubles the number of strikes made from sixty-four to one hundred twenty-eight.
 
  - Type: Taijutsu, Rank B
@@ -580,7 +580,7 @@ The ultimate and most lethal usage of Jyuuken, and the final development of Hakk
  - Requires: Byakugan Active
  - Combo Bonus:  +8d4 damage, +4 Stun, +2 Sealed Tenketsu, +1 Immobilize
 
-**-=[ Sealed Tenketsu ]=-**  
+###### -=[ Sealed Tenketsu ]=-
 This is a Status Effect that applies a penalty to Chakra Exhaustion and Chakra Control rolls equal to its Severity, and half that (rounding down) to Stamina rolls. If you ever fail a Chakra Exhaustion roll while you have this status, whatever technique you were trying to use fails (but you advance in Fatigue as normal), and you lose Hit Points (not Vitality) equal to the Chakra cost of that technique.
 
 Sealed Tenketsu stacks fully with itself, but a victim’s body naturally will try to correct its chakra flow to meet demands in battle: Every time someone with this status advances in Fatigue, they lower their Sealed Tenketsu Severity by their (Chakra Control Ranks)/5.
@@ -592,7 +592,7 @@ What they're truly known for, however, is their many medical advances. While the
 
 The Akimichi, Nara, and Yamanaka clan have always enjoyed a special relationship with one another, often working in teams and as allies; that bond stands at the heart of Leaf village, and is often looked to by other shinobi as an example of Konoha's unity.
 
-**--( Kagemane no Jutsu - Shadow Imitation Technique )--**  
+#### --( Kagemane no Jutsu - Shadow Imitation Technique )--
 The Nara extends their shadow and links it to another person (or their shadow) and links themselves to a target, which gives the Nara total control over their target’s movement and actions for as long as the connection can be maintained.  The control requires a lot of chakra, however, and targets can eventually break free with sustained resistance.
 
  - Type: Ninjutsu, Rank D
@@ -613,7 +613,7 @@ While caught, the following effects apply:
  - Anytime someone you’re controlling is attacked, you can partially relax the technique long enough for them to defend themselves, or maintain control and force them into taking no defensive action in response.  If you choose the latter option, they immediately get a roll to attempt to break free, with a +5 bonus.  Success means they are freed from this Jutsu and can defend themselves from the attack aimed at them, though it is considered a Surprise Attack against them.
  - Anyone caught by this technique can, as a Speed 10, Stamina 5 action, attempt to break free as a grapple check, rolling as the defender in a grapple with a +X * 4 vs your grapple check, using your CHA/8 in place of STR/10; standard grapple bonuses apply to both.  Every attempt by someone caught to break free grants a cumulative +1 bonus.
 
- **--( Kagemane Shuriken no Jutsu - Shadow Imitation Shuriken Technique )--**  
+#### --( Kagemane Shuriken no Jutsu - Shadow Imitation Shuriken Technique )--
 By infusing a weapon with their Chakra before throwing it, a Nara can take control of the weapon’s shadow and manipulate it from a distance, allowing them to attach the weapon’s shadow to an enemy’s, who is then anchored to the weapon.  While not very useful in melee, it makes for excellent battlefield control that can turn a failed attack into a window of opportunity.
 
  - Type: Ninjutsu, Rank D
@@ -626,7 +626,7 @@ They are then anchored to the thrown weapon (which is assumed to have landed at 
 
 If used on a target already anchored by this jutsu’s effect, you can choose to make use of it on someone even if you hit them with a thrown ranged weapon attack, and the Immobilization Penalty stacks with itself to a maximum of -6.  A successful grapple roll by someone anchored with this jutsu completely clears their Immobilization Penalty.
 
-**--( Kage-Kubishibari no Jutsu - Shadow-Neck Binding Technique )--**  
+#### --( Kage-Kubishibari no Jutsu - Shadow-Neck Binding Technique )--
 Using the Nara’s connection to someone else’s shadow, they use their shadow control to expand a tendril of shadow up to a target’s neck, typically taking the shape of actual hands and fingers, to strangle and injure someone they have caught.
 
  - Type: Ninjutsu, Rank C
@@ -641,7 +641,7 @@ Each time you use this Jutsu, roll 1d100+CHA/4+Any % bonuses to Wounds you might
 
 Take the Hit can not be used against this attack.
 
-**-=[ Multiple Shadow Bind ]=-**  
+#### -=[ Multiple Shadow Bind ]=-
 Experienced Nara learn how to separate their Shadow into multiple different sections when they use Kagemane no Jutsu, allowing them to grab onto, and control, multiple people at once.  While this makes the jutsu more exhausting, it also makes it exponentially more powerful.
 
  - Type: Ability
@@ -651,7 +651,7 @@ Experienced Nara learn how to separate their Shadow into multiple different sect
 
 Effects: You can target one additional person per Rank when you use Kagemane no Jutsu and Kage-Kubishibari no Jutsu.  Every person beyond the first you target adds 5 to the Chakra cost and 1 to the Upkeep, as relevant.
 
-**--( Kage Nui no Jutsu - Shadow Sewing Technique )--**  
+#### --( Kage Nui no Jutsu - Shadow Sewing Technique )--
 The Nara materializes shadows into several thin, needle-tipped tendrils and attacks someone with them to physically damage and bind them simultaneously, creating a versatile offense that isn’t as predictable against a wary opponent who simply keeps track of the Nara’s shadow.
 
  - Type: Ninjutsu, Rank C
@@ -665,7 +665,7 @@ The Nara materializes shadows into several thin, needle-tipped tendrils and atta
 
 Effects:  X has a maximum of 6. This technique deals Piercing damage. You may use Kagemane on anyone affected by Shadow Sewing’s Immobilization Penalty, ending said penalty and automatically gaining control of them via Kagemane, without requiring an Accuracy or allowing a defensive interrupt response, though you still pay Kagemane’s cost and take its Upkeep, and taking control of someone this way counts as a ‘use’ in determining Kagemane’s Chakra cost and how easy it is to break out of.
 
-**--( Kageyose no Jutsu - Shadow Endgame Technique )--**  
+#### --( Kageyose no Jutsu - Shadow Endgame Technique )--
 While similar in concept to Shadow Sewing, as the Nara is materializing shadows in typically the same thin, needle-tipped manner, this jutsu allows for much more precise control from the Nara and accordingly is more difficult to perform, allowing for such things as slipping their shadow tendrils through keyholes, with enough strength to pick up and manipulate objects on the battlefield.
 
  - Type: Ninjutsu, Rank B
@@ -690,7 +690,7 @@ Once known as the Senju Clan of the Forest, and allegedly descended from the Sag
 
 Senju begin with Elemental Aptitude for Water and Earth, along with the first rank of Elemental Affinity: Mokuton, which includes Suiton and Doton.
 
-**-=[ Mokuton - Wood Release ]=-**  
+#### -=[ Mokuton - Wood Release ]=-
 The Senju bloodline, once famed for their limitless talents, have fallen far, but one trait remains--or, rather, it's the only one that can be recognized as a sign of Senju heritage. That is Mokuton, combining Water and Earth natured chakra to produce wood-related jutsu. It should be noted that this is wood, specifically, and to a lesser extent, trees--they don't have (despite what legends claim) plant empathy, the ability to restore life to wilting flowers, or anything similar. Any Suiton or Doton technique can be converted to Mokuton, with the following effects:
 
 - +5 Chakra cost
@@ -702,7 +702,7 @@ The Senju bloodline, once famed for their limitless talents, have fallen far, bu
 - The Chakra Exhaustion penalties incurred by using Mokuton techniques are reduced by 1, to a minimum of 1.
 - Mokuton is weak to Raiton, but strong against Doton and Katon.
 
-**--( Moku Bunshin no Jutsu - Wood Clone Technique )--**  
+#### --( Moku Bunshin no Jutsu - Wood Clone Technique )--
 This technique takes advantage of mokuton's ability to accelerate plant growth by converting some of the user's cells into, essentially, plant matter; the wood clone physically buds off the user before taking on their appearance.
 
 - Type: Mokuton Ninjutsu, Rank C
@@ -715,7 +715,7 @@ Wood clones have your mind, and can act independently. You are aware of their lo
 
 When Wood Clones attack, their actions are always considered to be Held Back, as per the ability in Chapter 5, even if you do not have the Hold Back ability. This means they use only half your damage bonus for dealing damage, and the severity of wounds they inflict is reduced by one category.
 
-**--( Mokuton: Shichuurou no Jutsu - Wood Release: Four Pillars Prison Technique )--**  
+#### --( Mokuton: Shichuurou no Jutsu - Wood Release: Four Pillars Prison Technique )--
 After completing the handseals, you place your hands on the ground and channel your chakra beneath your target, where it bursts from the ground as timbers which grow rapidly and form a wooden, usually cubic, prism. The timbers used in this technique are heavily infused with chakra, making them very resilient.
 
 - Type: Mokuton Ninjutsu, Rank C
@@ -729,7 +729,7 @@ Effects: This is the Mokuton 'version' of the Water Prison and/or Water Drowning
 
 It creates a wooden cage around anyone who can't escape its area, which has 200+(damage bonus)*15 HP, and reduces all damage it takes by your CHA. People inside cannot attack people outside, and vice versa.
 
-**--( Mokuton: Jukai Koutan - Wood Release: Nativity of a Sea of Trees )--**
+#### --( Mokuton: Jukai Koutan - Wood Release: Nativity of a Sea of Trees )--
 This technique uses chakra to cause trees and tree roots to grow rapidly, bursting from any surface. It's too unrefined to be used as a direct method of offense, but can be useful for altering the landscape of a battlefield.
 
 - Type: Mokuton Ninjutsu, Rank B
@@ -758,7 +758,7 @@ Some shinobi are resentful of the perceived special treatment the Uchiha receive
 
 Outside of their normal training, all members of the Uchiha clan are taught how to use Katon ninjutsu while growing up. Accordingly, they start with the Elemental Aptitude ability for Fire, for free.
 
-**-=[ Sharingan - Copy Wheel Eye ]=-**  
+#### -=[ Sharingan - Copy Wheel Eye ]=-
 Sharingan is a doujutsu, or ‘eye technique’; when it manifests, the user’s irises turn red, and a tomoe (essentially a comma-shaped mark) appears in the iris, like a second pupil. Another tomoe appears in each eye at the second and third stages, for a maximum of three.
 
 The Sharingan’s greatest weakness is that it is dependent upon unimpeded visibility: None of the abilities provided by it may be used when you’re at a Visibility Penalty of -6 or greater.
@@ -771,20 +771,20 @@ Activating Sharingan is a Speed 0 action, which can be performed alongside anoth
 
 Techniques unlocked at the various Sharingan levels (detailed in their respective Stage section, below) can be acquired automatically, as soon as you unlock the Stage that grants them.  They have no rank or skill requirements to learn, and you can go into ‘XP debt’ by acquiring them, though all XP you earn goes to paying the costs of such techniques before you can spend XP on anything else until they’re paid for.
 
-**-=[ Sharingan, Stage 1 ]=-**  
+###### -=[ Sharingan, Stage 1 ]=-
 At the first stage, you are able to acquire the Dousatsugan and Saimingan techniques. Both are learned as D-rank jutsu. You also gain a +1 to all Skill rolls while Sharingan is active.
 
-**-=[ Sharingan, Stage 2 ]=-**  
+###### -=[ Sharingan, Stage 2 ]=-
 The second stage adds a second tomoe to each eye, and is when the bulk of the doujutsu’s power begins to manifest. Their ability to copy techniques and actions becomes refined, to the level of being able to extrapolate from fine details and mimic even small mannerisms.
 
 You may obtain Yogengan and Shouningan. Both are learned as C-rank jutsu. You also gain +1 to all Defensive Rolls while Sharingan is active.
 
-**-=[ Sharingan, Stage 3 ]=-**  
+###### -=[ Sharingan, Stage 3 ]=-
 The final tomoe appears at this stage, with the trio forming a ring halfway between the pupil and the rim of the iris, equidistant from one another. Upon reaching this stage, you can copy any Genjutsu used upon you by another Uchiha with their Eye of Hypnotism power, despite its lack of handseals (again, assuming you meet the proper requirements).
 
 You may obtain Magen: Kyouten Chiten and Senchigan. Both are learned as B-rank techniques. Finally, you gain +1 to Accuracy while Sharingan is active.
 
-**--( Dousatsugan - Eye of Insight )--**  
+#### --( Dousatsugan - Eye of Insight )--
 *Requires: Stage 1 Sharingan*
 
 You can see the flow of chakra. This gives you a +4 bonus to defense rolls against Genjutsu. More impressively, it allows you to copy any Taijutsu technique you witness being performed, along with any Ninjutsu or Genjutsu which use handseals.
@@ -797,26 +797,26 @@ If you have other reductions to learning Jutsu, they apply multiplicatively: Tha
 
 You may not copy custom or clan jutsu, as those are tailored too specifically to either the individual or clan in question.
 
-**--( Saimingan - Eye of Hypnotism )--**  
+#### --( Saimingan - Eye of Hypnotism )--
 *Requires: Stage 1 Sharingan*
 
 You may perform Genjutsu without handseals; however, this requires direct eye contact, meaning it can’t be used from hiding, must be targeting a person (rather than area), and can be avoided entirely if they simply shut their eyes (which brings its own penalties) or never look directly at your eyes (which can be done by just, say, staring at your, or their, feet, and affects them with a -4 Visibility Penalty).
 
-**--( Yogengan - Eye of Prediction )--**  
+#### --( Yogengan - Eye of Prediction )--
 *Requires: Stage 2 Sharingan*
 
 Once per Fatigue level, you may declare use of this technique. It allows you to “take 10” on any defensive roll; rather than rolling 1d20, you treat it as if your result had been a 10.
 
 You may also declare your action as ‘Observe’, a variable-speed action similar to blocking, in that for its duration, when attacked you may choose to activate Yogengan against any attack directed against you (and not have it count as your one use for that Fatigue level).
 
-**--( Shouningan - Eye of Recognition )--**  
+#### --( Shouningan - Eye of Recognition )--
 *Requires: Stage 2 Sharingan*
 
 For starters, you can read lips. This is not some kind of ultra undetectable super-long-range spying technique; you have to actually have a clear view of the person's lips, and it's sorta conspicuous; though you can make an opposed Espionage roll to avoid them noticing, if you're trying to hide the fact that you're staring at their face.
 
 You can also copy a person's handwriting just by seeing them write a single sentence. You can speed-read, and have a photographic memory. This has other uses, such as being able to tell how to pick a given lock by watching one person do it, or how to open a combination lock (though not necessarily the combination itself) by watching the movements of someone's arms or hands as they do it.
 
-**--( Magen: Kyouten Chiten - Demonic Illusion: Mirror Heaven and Earth Change )--**  
+#### --( Magen: Kyouten Chiten - Demonic Illusion: Mirror Heaven and Earth Change )--
 A form of illusion reversal, in which a Sharingan user simultaneously sees through and decrypts a Genjutsu technique, and then instantly reflects it upon its original user. Some Uchiha will go so far as to claim that this technique makes them immune to Genjutsu, and they’re… not too far from the truth.
 
 - Type: Genjutsu
@@ -826,7 +826,7 @@ A form of illusion reversal, in which a Sharingan user simultaneously sees throu
 
 Effects: This may be used immediately after passing a Genjutsu Defense against a Genjutsu targeting you. You immediately perform that Genjutsu on its original user (paying its normal Chakra cost) via your Eye of Hypnotism, using your Genjutsu Defense roll as its new Accuracy. X is equal to speed of the Genjutsu you are performing. This can only be used on Genjutsu which you know (though copying them as they’re performed, and then reflecting them, is fair game).
 
-**--( Senchigan - Eye of Foresight )--**  
+#### --( Senchigan - Eye of Foresight )--
 *Requires: Stage 3 Sharingan*
 
 It was once claimed, and rarely still is, that the Sharingan genuinely allows its wielder to see the future. What it actually does is pick up on minute changes in an opponent's posture, minor eye movements, slight shifts of their weight, muscles tensing or relaxing in preparation for movement, even chakra building up in preparation for a jutsu.
@@ -842,7 +842,7 @@ A fairly small clan within Konoha, the Yamanaka are highly prized by the village
 
 Members of the Yamanaka clan enjoy close relations with their Nara and Akimichi contemporaries.  There is even a monument in Konoha dedicated to the alliance between the three clans.  To this day, no foe or circumstance has managed to strain that bond.
 
-**--( Sasayaki Kantoku no Jutsu - Whispering Oversight Technique )--**  
+#### --( Sasayaki Kantoku no Jutsu - Whispering Oversight Technique )--
 A recent creation by the Yamanaka that has since become a staple of its Genin, this was developed because their secret techniques, despite their seemingly subtle nature, are quite overt and obvious to anyone under their effects.  This technique allows the Yamanaka to see through the eyes of their target; as it lacks any visual cues, victims are typically left completely unaware it’s been used.
 
  - Type: Ninjutsu, Rank D
@@ -854,7 +854,7 @@ A recent creation by the Yamanaka that has since become a staple of its Genin, t
 
 Effects: Your consciousness hitches a ride in your target’s body, allowing you to experience everything the target does, as the target does with their own senses.  This does not break Yamanaka Clan Telepathy, but you can not use it (or any other technique) while maintaining this technique. Your body is helpless while you maintain the Upkeep, but you are aware if it’s disturbed (shaken, stabbed, and so forth), though you can not actually hear if someone is talking to you next to your body until you return to it (by ending this technique).
 
-**--( Shindenshin no Jutsu - Mind Body Transmission Technique )--**  
+#### --( Shindenshin no Jutsu - Mind Body Transmission Technique )--
 A subtle but invaluable technique of the Yamanaka that allows them to touch a person’s head and establish a telepathic link with them that they, and others the Yamanaka repeats the process on, can use to communicate.  It has virtually limitless tactical applications, much to the ire of Chuunin Exam Proctors the world over.
 
  - Type: Ninjutsu, Rank D
@@ -864,7 +864,7 @@ A subtle but invaluable technique of the Yamanaka that allows them to touch a pe
 
 Effects: This requires you to touch your target’s head; thereafter, they are part of your telepathic network.  All people who you’ve brought in can talk to you, and one another, mentally. You can have up to CHA/20 people linked this way, not counting yourself.
 
-**--( Shintenshin no Jutsu - Mind Body Switch Technique )--**  
+#### --( Shintenshin no Jutsu - Mind Body Switch Technique )--
 The signature ability of the Yamanaka, this jutsu allows them to send their consciousness into a target’s body, seizing control of it and keeping their target, essentially, along for the ride.  They’re aware of what’s going on, but unable to take any sort of action.
 
  - Type: Ninjutsu, Rank C
@@ -885,7 +885,7 @@ Someone possessed by this technique can, as a Speed 12 action, attempt to eject 
 
 You do not need to meet the normal skill or rank requirements for this technique.  This technique’s normal Accuracy penalty is instead a bonus to Accuracy if your target is Stunned, or unable to move (such as by a -10 Immobilization penalty, or Kagemane).  If you miss with it, however, you receive a Stun 10, +1 per point you failed by, though you are not helpless; you’re still in control of your body, just disoriented.
 
-**--( Shinranshin no Jutsu - Mind Body Disturbance Technique )--** 
+#### --( Shinranshin no Jutsu - Mind Body Disturbance Technique )--
 A more powerful version of Shintenshin, this variant allows the Yamanaka to seize control of a victim’s body without abandoning their own. The control’s not complete, as a possessed person can still talk, shout a warning and so forth, but they can’t control their actions otherwise.
 
  - Type: Ninjutsu, Rank B
@@ -901,7 +901,7 @@ Whatever action you force them to take advances their IC like normal, but costs 
 
 Breaking free from this control operates exactly as described in Shintenshin, except that the person controlled does not have to take an action to attempt to break free, and instead gets a roll to break free every iteration of 10 IC after you take control of them,  and the cumulative bonus to their Genjutsu Defense roll to break free is +2 for this technique for each roll made.  The triggers remain otherwise the same, however if you force them to not defend against an attack, or force them to take an invalid defense (one which will not in any way protect them from the attack, such as blocking a move which does not have its damage reduced by blocking) they immediately get a roll to break the effect (before the attack/defense is resolved), with a +10 bonus.
 
-**--( Shinten Bunshin no Jutsu - Mind Clone Switch Technique )--** 
+#### --( Shinten Bunshin no Jutsu - Mind Clone Switch Technique )--
 The final form of Shintenshin no Jutsu, this technique allows the Yamanaka to clone their own consciousness and transfer it into multiple targets at once, gaining complete control over all of them.  Beyond the obvious tactical advantages, this allows for unprecedented coordination between the two bodies, as they share a single mind.
 
  - Type: Ninjutsu, Rank A
