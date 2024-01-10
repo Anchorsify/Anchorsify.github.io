@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Rules
+description: Basic Rules concerning Jutsu.
 importance: 1
 category: rules
 ---
