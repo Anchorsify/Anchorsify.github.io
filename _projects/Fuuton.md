@@ -18,7 +18,6 @@ toc:
 You use a burst of wind to blow dust, dirt, or other loose particles up into the air, producing an irritating cloud that briefly obscures the visions of people caught inside of it.
 
 - Chakra: 6
-- Accuracy: +4
 - Area: 4 wide, 10 long, directly in front of you
 - Speed: 6
 - Seal Speed: 8
