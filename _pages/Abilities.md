@@ -508,7 +508,7 @@ Ninja really do seem to have one, and no experienced shinobi will deny it, not o
 - Scale: 4
 - Limit: CHA /40
 
-## Sensory
+## Subtlety
 ##### 1. Deception
 #### -=[ Cunning ]=-
 You're an expert at misdirection; you know the signs people look for and pick up on in battle, and you know how to either give the wrong ones, or none at all. This gives you a +1 bonus to Accuracy per rank.
