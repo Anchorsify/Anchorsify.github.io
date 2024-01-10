@@ -161,9 +161,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  jutsu:
-    output: true
-    permalink: /jutsu/:path/
   
 
 announcements:
