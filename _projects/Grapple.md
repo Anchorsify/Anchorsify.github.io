@@ -4,7 +4,7 @@ title: Grapple Taijutsu
 description: 
 img:
 importance: 3
-category: taijutsu
+category: Taijutsu
 
 toc:
  - name: E-Rank
