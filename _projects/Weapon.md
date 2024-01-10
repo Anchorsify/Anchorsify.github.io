@@ -1,7 +1,7 @@
 ---
 layout: distill
-title: Weapon
-description: list of Weapon Taijutsu.
+title: Weapon Taijutsu
+description: 
 img:
 importance: 4
 category: taijutsu
