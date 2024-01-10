@@ -1,7 +1,7 @@
 ---
 layout: distill
-title: Combo Jutsu
-description: list of Combo Taijutsu.
+title: Combo Taijutsu
+description: 
 img:
 importance: 2
 category: taijutsu
