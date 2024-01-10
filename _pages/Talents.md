@@ -33,7 +33,7 @@ Capabilities are a bit different. They're things you've learned how to do, rare 
 
 That said, those things are usually very difficult to acquire, and may come with strings attached (which may not always be visible). Learning these things through talents carry no such requirements or downsides. You can have any RP justification you want (within reason), such as being the student of a renowned medic nin in your village, but there are no requirements beyond purchasing the talents.
 
-## Enhancements
+## Enhancement Talents
 ##### Celerity
 All your actions have their Speed reduced by 2. This functions exactly the same as spending AP to reduce their Speed, and follows all the normal rules for doing so; it can also be combined with AP to lower an action's Speed further. However, because Celerity takes place automatically, it still applies in situations where you're normally prohibited from spending AP (such as Surprise Attacks). You may choose not to apply this talent, or only partially apply it, to a given action if you wish.
 
@@ -49,7 +49,7 @@ You acquire a single rank benefit. This can be from a rank you've never had, and
 ##### Skill Specialist
 You have an additional XP/200 Skill Points. You may only take Skill Specialist once.
 
-## Capabilities
+## Capability Talents
 ##### Eight Gates
 In the human body, there are eight 'gates' along the body's chakra circulatory system responsible for regulating the flow of chakra, and by extension providing physical limiters to the body for its own protection. You may take this talent twice. Each time you take it, you gain access to the hidden potentials of the gates. The first time you take this talent, you gain the ability to open the first three gates; the second time gives you access to the fourth, fifth, and sixth gates. Learning how to open the Seventh and Eighth gates is not officially condoned or taught by any ninja village due to their self-destructive nature, though inevitably there will be some who figure it out and may be able to teach you, if you can find them and convince them to do so. See "[The Eight Gates](https://anchorsify.github.io/EightGates/)" for more information about how these work.
 
