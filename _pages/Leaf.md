@@ -171,7 +171,7 @@ These clones can perform any jutsu you know, but have no chakra of their own, us
 
 When Bug Clones attack, their actions are always considered to be Held Back, as per the ability in Chapter 5, even if you do not have the Hold Back ability.  This means they use only half your damage bonus for dealing damage, and the severity of wounds they inflict is reduced by one category.  Bug Clones can attempt basic dodges and parries without costing any AP, but are performed at their normal Speed (of 2 and 3, respectively).
 
-*Basic Attack [Variable AP]* - The clone may make any basic unarmed or weapon attack, paying 1 AP per X speed of that action.
+*Basic Attack [Variable AP]* - The clone may make any basic unarmed or weapon attack, paying 1 AP per X speed of that action.  
 *Jutsu [Variable AP]* - The clone can perform any Jutsu you know, paying 1 AP per X speed of that action. It uses your DEX to determine Seal Speeds, which have to be paid for by AP as well.
 
 ## Akimichi
