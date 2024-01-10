@@ -39,6 +39,7 @@ Charging up electricity between two weapons, you harness it into a ball and then
 
 - Chakra: 9
 - Damage: 1d6*2d4
+- Accuracy: +1
 - Range: 10
 - Speed: 9
 - Requires: a metal weapon in each hand.
