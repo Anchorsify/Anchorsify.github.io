@@ -19,7 +19,7 @@ The user spontaneously creates the water used in this technique in front of them
 
 - Chakra: 8
 - Damage: 5d6+10
-- Accuracy: +1
+- Accuracy: +2
 - Range: 10
 - Speed: 8
 - Seal Speed: 4
