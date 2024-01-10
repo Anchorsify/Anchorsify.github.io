@@ -69,7 +69,7 @@ This supplements your ninjutsu techniques, increasing their areas of effect by u
 - Base Cost: 20
 
 #### -=[ Improved Range ]=-
-You're able to keep your chakra coherent for longer; the further it can travel before dissipating (or the faster you can propel it, or whatever)... well, the advantages should be obvious. This increases the range of any ninjutsu technique you use by up to double your ninjutsu damage bonus in yards. This bonus cannot exceed the technique's base range.
+You're able to keep your chakra coherent for longer; the further it can travel before dissipating (or the faster you can propel it, or whatever)... well, the advantages should be obvious. This increases the range of any ninjutsu technique (other than those with a Range of Touch or Melee) you use by up to double your ninjutsu damage bonus in yards. This bonus cannot exceed the technique's base range.
 
 - Base Cost: 20
 
