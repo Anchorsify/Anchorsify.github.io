@@ -5,7 +5,7 @@ permalink: /projects/
 description: Links to all the various categories of Jutsu.
 nav: true
 nav_order: 6
-display_categories: [Rules, taijutsu, ninjutsu, genjutsu, work]
+display_categories: [Rules, taijutsu, ninjutsu, genjutsu]
 horizontal: false
 ---
 
