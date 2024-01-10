@@ -4,7 +4,7 @@ title: Unarmed Taijutsu
 description:
 img:
 importance: 1
-category: taijutsu
+category: Taijutsu
 toc:
  - name: E-Rank
  - name: D-Rank
