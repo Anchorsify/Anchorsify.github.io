@@ -2,9 +2,7 @@
 layout: distill
 title: testpage
 permalink: /testpage/
-nav: true
-nav_order: 10
-
+nav: false
 toc:
  - name: Headers
  - Abilities
