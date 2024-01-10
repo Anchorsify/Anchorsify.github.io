@@ -2,6 +2,7 @@
 layout: page
 title: Rules
 description: Basic Rules concerning Jutsu.
+img: 
 importance: 1
 category: rules
 ---
