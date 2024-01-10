@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: Doton Ninjutsu
+title: Suiton Ninjutsu
 description: 
 img:
 importance: 6
