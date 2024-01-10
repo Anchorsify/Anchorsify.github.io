@@ -8,7 +8,7 @@ children:
     - title: Rules
       permalink: /JutsuRules/
     - title: divider
-    - title: Taijutsu: Unarmed
+    - title: Taijutsu - Unarmed
       permalink: /j_Unarmed/
     - title: divider
     - title: Taijutsu: Combo
