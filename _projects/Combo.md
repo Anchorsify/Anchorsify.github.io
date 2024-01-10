@@ -4,7 +4,7 @@ title: Combo Taijutsu
 description: 
 img:
 importance: 2
-category: taijutsu
+category: Taijutsu
 
 toc:
  - name: D-Rank
