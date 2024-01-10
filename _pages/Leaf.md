@@ -151,7 +151,7 @@ Effects:  You create a cloud of Kikaichuu that can be used to do one of several 
 The Swarm used for this technique can not be used for other things (drain, defending, creating clones) until the technique is dismissed. You are immune to the penalties of this technique, but can benefit from its effects (when using Disrupt Chakra Sensors, namely), and can specify (Chakra Control Ranks)/5 additional people to be immune to Bug Jamming's effects (chosen based on who is in the affected area at any given time).
 
  - *Disrupt Chakra Sensors* - While maintaining the field, you take no penalty for the upkeep of your Kikaichuu (or this technique) when someone tries to sense or spot you, and instead have a bonus to of X*2 to disguise and/or hide yourself from Scanning or Searching attempts.  Chakra Sensors are not able to sense or identify anyone within the field based on their chakra signatures.
- - *Obstruct Vision* - By constantly keeping in motion and following a synchronized pattern, the beetles can obstruct anyone’s vision who is within the field. While not an actual hindrance to movement, they impose a -X Visibility Penalty to anyone inside of it, or anyone attacking into the field, for as long as it’s maintained.
+ - *Obstruct Vision* - By constantly keeping in motion and following a synchronized pattern, the beetles can obstruct anyone’s vision who is within the field. While not an actual hindrance to movement, they impose a -X Visibility Penalty to anyone inside of it, or anyone attacking into the field, for as long as it’s maintained. If this technique has its visibility penalty reduced by other jutsu (such as by the E-rank Fuuton, Cleansing Winds) then it regains 1 point of its penalty every 5 IC that pass, so long as you maintain its Upkeep. On the other hand, effects which remove it entirely (such as the A-rank Fuuton, The North Wind) will, indeed, remove it (and end the Upkeep automatically).
  - *Chakra Drain* - Anyone inside of the field who makes a Chakra Exhaustion roll while within the field takes a penalty to their roll equal to X, which persists until they leave the field. Unlike normal penalties to Fatigue, it does not go away when you advance a Fatigue level: You must leave the area to get rid of the penalty.
 
 #### --( Mushi Bunshin – Bug Clone )--
@@ -163,16 +163,16 @@ Using thousands of Kikaichuu, the Aburame creates a replica of themselves made o
  - Seal Speed: 10
  - Special: X Swarm Size, Y Willpower, Y Female Kikai
 
-Effects: You create Y clone(s) of yourself (Max 2), dedicating one or more ranks of your Swarm Size to each clone.  Your clones inherit all the properties of a normal swarm. X has a minimum of Y, as each clone must have one Swarm Size.
+Effects: You create Y clone(s) of yourself (Max 2), dedicating one or more ranks of your Swarm Size to each clone.  Your clones inherit all the properties of a normal swarm. X equal to the Swarm Size dedicated to each clone (and thus can be different per clone), and has a minimum of Y, as each clone must have one Swarm Size.
 
 Once the Swarm Size used to make a clone is reduced to 0, the clone is destroyed (as is the Female Kikai). You can voluntarily dismiss any clones as a Speed X + Y * 2 action to turn one or more clones back into regular Swarm(s), but you can never regain any Willpower spent on creating Mushi Bunshin. The Swarm Size used to create these clones reduces your current and maximum Swarm Size (you can’t ‘replace’ swarm size for this jutsu with Insect Cocoon).
 
-These clones can perform any jutsu you know, but have no chakra of their own, using your CE/Stamina rolls for anything requiring them.  They act only when you spend AP for them to do so, and can’t act again until an IC has passed equal to the speed of their action. You may hide amongst your clones (and others may Observe them) as normal, but if they act or react in a way that makes it obvious they’re bugs (such as taking less damage from a Taijutsu attack, or being immune to grapples or various status effects), it’s obvious they’re a clone.
+These clones can perform any jutsu you know, but have no chakra of their own, and you pay any costs (CE, Stamina, Upkeeps) associated with their actions.  They act only when you spend AP for them to do so, and can’t act again until an IC has passed equal to the speed of their action. You may hide amongst your clones (and others may Observe them) as normal, but if they act or react in a way that makes it obvious they’re bugs (such as taking less damage from a Taijutsu attack, or being immune to grapples or various status effects), it’s obvious they’re a clone.
 
 When Bug Clones attack, their actions are always considered to be Held Back, as per the ability in Chapter 5, even if you do not have the Hold Back ability.  This means they use only half your damage bonus for dealing damage, and the severity of wounds they inflict is reduced by one category.  Bug Clones can attempt basic dodges and parries without costing any AP, but are performed at their normal Speed (of 2 and 3, respectively).
 
-*Basic Attack [Variable AP]* - The clone may make any basic unarmed or weapon attack, paying 1 AP per X speed of that action.  
-*Jutsu [Variable AP]* - The clone can perform any Jutsu you know, paying 1 AP per X speed of that action. It uses your DEX to determine Seal Speeds, which have to be paid for by AP as well.
+**Basic Attack [Variable AP]** - The clone may make any basic unarmed or weapon attack, paying 1 AP per X speed of that action.  
+**Jutsu [Variable AP]** - The clone can perform any Jutsu you know, paying 1 AP per X speed of that action. It uses your DEX to determine Seal Speeds, which have to be paid for by AP as well.
 
 ## Akimichi
 Though they are one of the Four Noble Clans of Konoha, the Akimichi are perhaps the most gregarious, altruistic, and downright friendly of the four by a large margin.
