@@ -4,7 +4,7 @@ title: Weapon Taijutsu
 description: 
 img:
 importance: 4
-category: taijutsu
+category: Taijutsu
 
 toc:
  - name: D-Rank
