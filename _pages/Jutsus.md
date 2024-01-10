@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
+title: J
 permalink: /projects/
 description: A growing collection of your cool projects.
 nav: false
-display_categories: [work, fun, taijutsu]
+display_categories: [Rules, taijutsu, ninjutsu, genjutsu, work]
 horizontal: false
 ---
 
