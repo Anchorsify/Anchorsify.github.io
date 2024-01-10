@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Unarmed
-description: another without an image
+description: list of Unarmed Taijutsu.
 img:
 importance: 1
 category: taijutsu
