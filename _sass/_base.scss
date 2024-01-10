@@ -1009,6 +1009,8 @@ progress::-moz-progress-bar {
     background-color: var(--global-bg-color);
   }
 
+  .dropdown-menu a { padding: .25rem, 1.5rem; }
+
   .dropdown-item {
     background-color: var(--global-bg-color);
     color: var(--global-text-color);
