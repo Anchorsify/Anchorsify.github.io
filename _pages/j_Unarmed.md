@@ -2,7 +2,7 @@
 layout: distill
 title: Unarmed Taijutsu
 permalink: /j_Unarmed/
-nav: falses
+nav: false
 
 toc:
  - name: E-Rank
