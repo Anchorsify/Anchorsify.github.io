@@ -19,6 +19,7 @@ You use a burst of wind to blow dust, dirt, or other loose particles up into the
 
 - Chakra: 6
 - Area: 4 wide, 10 long, directly in front of you
+- Accuracy: +1
 - Speed: 6
 - Seal Speed: 8
 - Status: Visibility 4
