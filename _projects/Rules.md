@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: distill
 title: Jutsu Rules
 description: Read this first.
 img:
