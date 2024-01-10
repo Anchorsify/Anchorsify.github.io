@@ -1,6 +1,6 @@
 ---
 layout: page
-title: J
+title: Jutsu
 permalink: /projects/
 description: Links to all the various categories of Jutsu.
 nav: false
