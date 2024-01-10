@@ -4,7 +4,7 @@ title: Jutsus
 permalink: /Jutsu/
 description: A full list of the game's Jutsu.
 nav: true
-display_categories: [taijutsu, ninjutsu, genjutsu, rules]
+display_categories: [rules, taijutsu, ninjutsu, genjutsu]
 horizontal: false
 ---
 
