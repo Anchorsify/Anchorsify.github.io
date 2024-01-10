@@ -2,7 +2,7 @@
 layout: page
 title: Rules
 importance: 1
-category: Tai
+category: rules
 ---
 
 The core of a ninja's supernatural capabilities comes from their jutsu--meaning, literally, techniques. These use chakra, either projected outwards or used to amplify one's physical performance, to perform feats that would be literally impossible for a normal person. These are divided into three broad categories: taijutsu, ninjutsu, and genjutsu.
