@@ -19,7 +19,6 @@ Often stomping beforehand, you then motion forward and either shoot a narrow col
 
 - Chakra: 9
 - Damage: 6d10
-- Accuracy: +2
 - Range: 6
 - Speed: 10
 - Seal Speed: 6
