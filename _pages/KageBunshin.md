@@ -25,6 +25,6 @@ When Kage Bunshin attack, their actions are always considered to be Held Back, a
 Clones do not accumulate AP under any circumstance, but may spend your AP, with the exception that you may not spend AP to reduce the Speed of their actions. They do not have their own Willpower, but you may spend your own Willpower for them.
 
 When created, Shadow Clones have all your equipment, with the following exceptions:
- - 1. Consumable items (flash and smoke bombs, poison, exploding tags, and so on). Anything which, after being used, cannot be reused.
- - 2. Chakra-infused items (such as storage scrolls) are physically replicated, but have no special properties.
- - 3. No electronic items (cameras, comm devices) or items with complex moving parts function.
+ - Consumable items (flash and smoke bombs, poison, exploding tags, and so on). Anything which, after being used, cannot be reused.
+ - Chakra-infused items (such as storage scrolls) are physically replicated, but have no special properties.
+ - No electronic items (cameras, comm devices) or items with complex moving parts function.
