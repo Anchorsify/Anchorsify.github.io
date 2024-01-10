@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: distill
 title: Unarmed
 description: list of Unarmed Taijutsu.
 img:
