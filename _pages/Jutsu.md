@@ -11,37 +11,37 @@ children:
     - title: Taijutsu - Unarmed
       permalink: /j_Unarmed/
     - title: divider
-    - title: Taijutsu: Combo
+    - title: Taijutsu - Combo
       permalink: /j_Combo/
     - title: divider
-    - title: Taijutsu: Grapple
+    - title: Taijutsu - Grapple
       permalink: /j_Grapple/
     - title: divider
-    - title: Taijutsu: Weapon
+    - title: Taijutsu - Weapon
       permalink: /j_Weapon/
     - title: divider
-    - title: Ninjutsu: General
+    - title: Ninjutsu - General
       permalink: /j_NinjutsuGeneral/
     - title: divider
-    - title: Ninjutsu: Doton
+    - title: Ninjutsu - Doton
       permalink: /j_Doton/
     - title: divider
-    - title: Ninjutsu: Fuuton
+    - title: Ninjutsu - Fuuton
       permalink: /j_Fuuton/
     - title: divider
-    - title: Ninjutsu: Katon
+    - title: Ninjutsu - Katon
       permalink: /j_Katon/
     - title: divider
-    - title: Ninjutsu: Raiton
+    - title: Ninjutsu - Raiton
       permalink: /j_Raiton/
     - title: divider
-    - title: Ninjutsu: Suiton
+    - title: Ninjutsu - Suiton
       permalink: /j_Suiton/
     - title: divider
-    - title: Ninjutsu: Medical
+    - title: Ninjutsu - Medical
       permalink: /j_Medical/
     - title: divider
-    - title: Ninjutsu: Sealing
+    - title: Ninjutsu - Sealing
       permalink: /j_Sealing/
     - title: divider
     - title: Genjutsu
