@@ -1,7 +1,7 @@
 ---
 layout: distill
-title: Unarmed
-description: list of Unarmed Taijutsu.
+title: Unarmed Taijutsu
+description:
 img:
 importance: 1
 category: taijutsu
