@@ -3,7 +3,7 @@ layout: distill
 title: Grapple
 description: list of Grapple Taijutsu.
 img:
-importance: 1
+importance: 3
 category: taijutsu
 
 toc:
