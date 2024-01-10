@@ -3,7 +3,8 @@ layout: page
 title: Jutsu
 permalink: /projects/
 description: Links to all the various categories of Jutsu.
-nav: false
+nav: true
+nav_order: 6
 display_categories: [Rules, taijutsu, ninjutsu, genjutsu, work]
 horizontal: false
 ---
