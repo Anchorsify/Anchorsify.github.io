@@ -2,7 +2,7 @@
 layout: page
 title: J
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Links to all the various categories of Jutsu.
 nav: false
 display_categories: [Rules, taijutsu, ninjutsu, genjutsu, work]
 horizontal: false
