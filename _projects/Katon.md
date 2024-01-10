@@ -19,6 +19,7 @@ This jutsu is considered a training exercise among academy students who're quick
 
 - Chakra: 8
 - Damage: 4d6.extra(4)
+- Accuracy: +1
 - Range: 10
 - Speed: 6
 - Seal Speed: 5
