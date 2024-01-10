@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: KageBunshin
+title: Kage Bunshin
 permalink: /KageBunshin/
 nav: false
 ---
