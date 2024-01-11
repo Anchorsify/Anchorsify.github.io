@@ -8,6 +8,7 @@ toc:
  - name: Aburame
  - name: Akimichi
  - name: Hyuuga
+ - name: Inuzuka
  - name: Nara
  - name: Senju
  - name: Uchiha
