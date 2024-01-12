@@ -284,9 +284,9 @@ You can add an extra pair of legs or arms to your puppet.  An extra pair of arms
 Your puppet gains 5 DR.  You can apply this modification to any given puppet a number of times equal to its RES/10.
 
 #### -=[ Puppet Upgrades ]=-
-Each of the following Upgrades requires a free Upgrade slot on the puppet it’s applied to and the expenditure of a Customization Point, and can not be changed between Puppets: Once installed, it’s set.  Upgrades which are not passive require the Puppeteer to use the Attack action to make use of them, and can not be utilized as part of Kugutsu no Jutsu’s Puppet Show action.  Upgrades also have an XP cost, either as an equivalent Jutsu Rank or as an Ability, in which case the cost is listed, but the XP cost for an Upgrade is only paid for once to ‘acquire’ it.
+Upgrades have a listed XP cost (either as an ability, or an XP cost based on the rank of Jutsu it is) which you only need to pay for once, after which you 'know' that Upgrade and can apply it to none, or all, of your puppets as you wish. Installing any given Upgrade on a puppet requires a free Upgrade slot on the puppet (so if it has no more slots, you can't add it to the puppet), and costs 1 Customization Point each time it's installed in any puppet.  Once an Upgrade is installed in a puppet, it's set, and can not be removed.  Upgrades which are not passive require the Puppeteer to use the Attack action to make use of them, and can not be utilized as part of Kugutsu no Jutsu’s Puppet Show action.
 
-#### --( Detachable Arsenal )--  
+#### --( Detachable Arsenal )--
 While most puppets are constructed as complete frames meant to be puppeteered as a whole, this upgrade allows the Kairaishi to separate its arms from its body, leaving the majority of its weight behind while enabling multiple quick attacks with any weapons it has.  The downside, of course, being that the arms themselves are not as durable as the main body, and leaving them exposed can leave you with a half-broken puppet that has lost all its offensive capabilities.
 
 - Type: Ability
