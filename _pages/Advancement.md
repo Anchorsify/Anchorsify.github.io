@@ -109,6 +109,22 @@ Because of this game's constantly-ongoing nature, a lot of people will join afte
 #### Normal Training
 Training XP is a small but consistent amount of XP that represents your character's off-screen training and efforts to improve as a Shinobi. To that end, your character gains 10 EXP per day the game's been going, -1 per 1000 Total EXP, to a minimum of 3 per day.  (Thus when you have 1-999 XP, you'd earn 10 per day passively, from 1000-1999 you'd earn 9 per day passively/etc) This is, thanks to the work of some math ninja, calculated by the sheet automatically! As long as you put your character creation date in properly on the sheet (cell I19 in the Character Profile tab, which is the first one you see), the sheet is properly equipped to automatically calculate your Training XP without you having to do anything at all.
 
+#### Gaining Unique Points and Talent Points
+There are two ways to gain more Unique Points after creation: The first is by ranking up, earning yourself a promotion from Genin to Chuunin, from Chuunin to Jounin, or a few other ranks, detailed below.  The other way to gain additional Unique Points is by having a certain amount of XP, as indicated by on the following chart, which shows both Talent growth and Unique Point acquisition:
+
+1000 Exp - Talent Point 1  
+2000 Exp - Unique Point 1  
+2500 Exp - Talent Point 2  
+3000 Exp - Unique Point 2  
+4500 Exp - Talent Point 3  
+5000 Exp - Unique Point 3  
+6000 Exp - Talent Point 4  
+6000 Exp - Unique Point 4  
+7500 Exp - Talent Point 5  
+9000 Exp - Talent Point 6
+
+Because of the potential to *both* rank up *and* earn enough XP for additional Unique Points, there is a caveat: The first and second Unique Points earned by XP (at 2000 and 3000 XP, respectively), do not stack with those earned by any Chuunin: That is, even if you're a 3k XP Chuunin, you'd have a total of +2 Unique Points, not +4.  Similarly, the Unique Points earned from ranking up to Jounin do not stack with those gained at 5000 and 6000 XP.  The Unique points gained from other ranks stack with any earned from XP, however, you can only have a maximum of +4 Unique Points from Rank and XP Total, ever, which also means the maximum Unique Points you could ever have is 9.
+
 #### Village Status
  - 1. Academy Student
  - 2. Genin
