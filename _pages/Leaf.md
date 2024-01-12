@@ -325,7 +325,7 @@ You gain your full maximum’s worth of CP, and your Fatigue level is reduced by
  - Poison: 8
  - Special: When the Pill’s duration expires, your Fatigue level is increased by 6.
 
- ###### --( Chodan Bakugeki - Butterfly Bullet Bomb )--
+###### --( Chodan Bakugeki - Butterfly Bullet Bomb )--
 This technique is only usable after an Akimichi has consumed a Red Chili Pill, due to its extreme chakra requirements; in fact, that's where it got its name. The amount of chakra produced from consuming it is so excessive that the Akimichi's body has to vent it off, resulting in visible plumes of chakra bursting from their shoulder blades in a display reminiscent of butterfly wings.
 
  - Type: Taijutsu, Rank B
