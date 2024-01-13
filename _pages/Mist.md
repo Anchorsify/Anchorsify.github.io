@@ -8,7 +8,7 @@ toc:
  - name: Hozuki
  - name: Kaguya
  - name: Niou
- - name: Sword Corps
+ - name: Swordsman Corps
  - name: Terumi
  - name: Touu
 ---
