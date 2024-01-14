@@ -484,7 +484,7 @@ One exception to that last paragraph, though: If you fail a technique badly enou
 
 
 
-## Wounds
+## [Wounds](https://anchorsify.github.io/Wounds/)
 Shinobi can, and frequently do, endure beatings that would leave ordinary people as lifeless, mangled pulps--something about the increased flow of chakra and physical conditioning giving them unnatural durability.
 
 Enough of a beating, over a long enough period of time, will still bring a ninja down, but little things like getting knocked off a roof or stabbed with a knife are not nearly so fatal as they'd be for normal people.
