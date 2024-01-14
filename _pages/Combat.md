@@ -491,7 +491,7 @@ Enough of a beating, over a long enough period of time, will still bring a ninja
 
 Even so, some blows are too much to just shrug off. These are called wounds, injuries that have some lasting effect on your ability to fight.
 
-For a list of all the wounds from the various damage types and categories, you can find them [here](https://anchorsify.github.io/Wounds/).  Below is the way in which you determine which wound you inflict (or suffer from!) in combat:
+Below is the way in which you determine which wound you inflict (or suffer from!) in combat:
 
 ### Wound Categories
 Simply put, you acquire wounds by taking too much damage at once. When a single source of damage deals more than a certain percent of your maximum Vitality at once, you suffer a wound of the corresponding severity. Wounds are divided into four severities: Minor, Major, Severe, and Critical.
