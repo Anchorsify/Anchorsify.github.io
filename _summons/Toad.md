@@ -3,7 +3,7 @@ layout: distill
 title: Toad
 description: 
 img:
-importance: 2
+importance: 10
 category: Summons
 
 toc:
