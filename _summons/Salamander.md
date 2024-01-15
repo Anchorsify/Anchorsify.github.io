@@ -207,10 +207,10 @@ Basilisks have a Damage Reduction of 60.
 **Large**  
 Given the Basilisk's building-smashing size, it can make melee attacks at a range of up to 10 yards. Humans, and summons without the Large or Huge attributes, cannot grapple the basilisk.
 
-**Obvious**
+**Obvious**  
 Basilisks are giant amphibians with iridescent skin. They cannot hide.
 
-**Petrifying Gaze** 
+**Petrifying Gaze**  
 Anyone within 50 yards of the basilisk is vulnerable to being petrified by its gaze, including the summoner. Whenever someone sees it, they begin to turn to stone. Every 10 IC they have their Petrify status increased by 1; there is no direct defense, resistance roll, or immunity allowed to this, except as described below.
 
 There are three ways to avoid this. The first is to keep one's eyes closed, applying a -10 visibility penalty. The second is to keep one's eyes focused on the basilisk's feet, applying only a -4 visibility penalty, though comes with a risk. If a ninja is damaged by an attack while doing this, they have a (damage taken /10)% chance to have their Petrify status increased by 1. The final method is for the basilisk or the summoner to be at a -6 visibility penalty.
