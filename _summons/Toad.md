@@ -251,7 +251,7 @@ Against Large summons, they suffer a -4 immobilization penalty that does not red
 **Standard Actions**  
 Kyodai may use the dodge, move, and block actions as described in the Combat chapter without spending any of the summoner's AP.
 
-**Leap** *(Speed 5, 10 AP)*
+**Leap** *(Speed 5, 10 AP)*  
 The Kyodai can leap up to 300 yards horizontally, or 150 yards vertically, or any combination of the two (so, at maximum, a 300 yard horizontal leap that carried them in an arc which, at its highest point, reached 150 yards off the ground). For determining how long this takes to cross the entire length, use whichever distance is greater; during the leap, the toad travels at a rate of 10 yards per IC. While in mid-air the toad is free to take other actions, but cannot move, change direction, or dodge area-of-effect attacks.
 
 **Leap Attack** *(Speed X + Variable, 10 + X AP)*  
