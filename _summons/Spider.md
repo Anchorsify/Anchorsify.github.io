@@ -34,11 +34,11 @@ That, really, is what makes them so frightening. Though the poison plays a role 
 #### --( Orisu - Web Weaving )--
 You summon a supernaturally resilient, sticky, and large spider web. In the case of (relatively) smaller ones, the user actually spits these out as projectiles towards the targets. Larger ones appear above, and fall down onto, the area being covered in webs.
 
-Chakra: 20 + X
-Range: 10 + X
-Area: X*2
-Speed: 14
-Seal Speed: 10 + X
+ - Chakra: 20 + X
+ - Range: 10 + X
+ - Area: X*2
+ - Speed: 14
+ - Seal Speed: 10 + X
 
 Effects: This technique does not affect you or any of your spider summons. Anyone hit suffers a -4 immobilization penalty, which increases by 1 every 10 IC, to a maximum of -10, so long as they remain in the affected area. Anyone who dodges, or enters the area after it's been created, starts with a -2 immobilization penalty (as they are still inside the webbed area) which then increases normally. Every 10 IC spent outside the web, its immobilization penalty decreases by 1. Alternately, you can remove the Area from this technique and target a single person who is already suffering from this technique's immobilization penalty. If they're hit, they're pulled X yards towards you and their immobilization penalty is increased by 1.
 
@@ -273,6 +273,7 @@ Tsuchigumo, also known as Yatsukahagi and Ogumo ("Great Spider"), is an individu
 Though Tsuchigumo takes the form of an enormous spider broodmother (at least, in the memory of shinobi), it's said she can also assume human form. She rarely likes to intervene directly in combat, preferring to send her subordinates and children to handle those matters for her. Tsuchigumo likely has strong associations with the earth (the name, after all, literally means "Earth Spider").
 
 ###### 1. Summoning
+
 
  - Chakra: 50
  - Speed: 30
