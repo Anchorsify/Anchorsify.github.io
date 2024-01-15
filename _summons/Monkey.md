@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: Monkay
+title: Monkey
 description: 
 img:
 importance: 5
