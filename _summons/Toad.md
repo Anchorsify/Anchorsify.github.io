@@ -174,7 +174,7 @@ Guardians can block as a Speed 1 Interrupt by spending 1 AP. Alternately, they c
 **Toad Strike** *(Speed 10, AP 4)*  
 The toad leaps forward and delivers a powerful palm strike inflicting 10d10.extra(6) blunt damage. This counts as a basic unarmed attack.
 
-**Tongue Lash** *(Speed 4, AP 8)*
+**Tongue Lash** *(Speed 4, AP 8)*  
 Once every 20 IC, the toad may lash out with its tongue; this has a range of 10 yards and +2 Accuracy. Used as an attack, this deals 5d20.extra(12) blunt damage. Alternately, it may be used to retrieve an object on the battlefield and hide it in their mouth. This can also be used to strike a weapon or object someone is holding, making a disarm check (with no penalty for large or small weapons). If successfully used as a disarm the toad may either toss the object aside (as per normal disarm rules) or immediately retrieve it and store it in its mouth. Tongue Lash cannot be used while the toad already has something stored in its mouth.
 
 ###### 5. Terms of Contract
@@ -233,19 +233,19 @@ Being toads, they're quite adept at jumping, and frequently do so when they need
 **Kyodai**  
 As befits their rank and skill, the giant toad warriors all bring some form of weapon to battle. When you summon a warrior, choose which of the following weapons they'll be equipped with. You may summon a different sort of weapon-user each time, if you please.
 
-*Mancatcher and Shield*: The toad's mancatcher is a vaguely Y-shaped metal weapon, with short spikes covering each prong. The shield allows this toad to block attacks as a Speed 5 Interrupt by paying 5 AP, which reduces damage by 60% and is fully effective when blocking weapons. The shield will break, however, once the total damage of all attacks it's been used to block reaches 3000. The mancatcher can be used as a Speed 14 attack dealing 16d10 Blunt damage, and has a +1 bonus to Accuracy. Used against human-sized opponents, they suffer a -4 immobilization penalty until their next action.
+ - *Mancatcher and Shield*: The toad's mancatcher is a vaguely Y-shaped metal weapon, with short spikes covering each prong. The shield allows this toad to block attacks as a Speed 5 Interrupt by paying 5 AP, which reduces damage by 60% and is fully effective when blocking weapons. The shield will break, however, once the total damage of all attacks it's been used to block reaches 3000. The mancatcher can be used as a Speed 14 attack dealing 16d10 Blunt damage, and has a +1 bonus to Accuracy. Used against human-sized opponents, they suffer a -4 immobilization penalty until their next action.
 
 Against Large summons, they suffer a -4 immobilization penalty that does not reduce their movement speed until the Kyodai attacks with it again or they move outside of its attack range. Their movement speed is reduced by (Kyodai's STR - that summon's STR)/10 yards per IC. Any summons with a size description other than Large suffer a Stun equal to however many points they were hit by.
 
-*Twin Katana*: The toad appears with two katanas. Using them is a Speed 14 attack dealing 28d8 Slashing damage; if used to parry, they have a +2 bonus. Whenever the toad attacks with these weapons they may select two targets who are both in range, attacking one with each weapon. Both katanas may be used to simultaneously attack any Large or larger summon, in which case the number of damage dice remains unchanged but the toad's damage bonus is increased to 15 for that attack.
+ - *Twin Katana*: The toad appears with two katanas. Using them is a Speed 14 attack dealing 28d8 Slashing damage; if used to parry, they have a +2 bonus. Whenever the toad attacks with these weapons they may select two targets who are both in range, attacking one with each weapon. Both katanas may be used to simultaneously attack any Large or larger summon, in which case the number of damage dice remains unchanged but the toad's damage bonus is increased to 15 for that attack.
 
-*Wakizashi*: The Wakizashi deals 14d12 Slashing damage, and is a Speed 12 attack with +2 Accuracy. The toad may use it to attack without spending the summoner's AP, but if it does so it cannot attack again for 20 IC (instead of 12 IC, based on the attack's Speed); this does not actually change the Speed of the attack.
+ - *Wakizashi*: The Wakizashi deals 14d12 Slashing damage, and is a Speed 12 attack with +2 Accuracy. The toad may use it to attack without spending the summoner's AP, but if it does so it cannot attack again for 20 IC (instead of 12 IC, based on the attack's Speed); this does not actually change the Speed of the attack.
 
-*Tetsubo*: Yes, a huge wooden club, probably made from an actual tree trunk and fitted with metal studs. This attack has -4 Accuracy, but cannot be parried. It is a Speed 20 attack dealing 20d20 Blunt damage, with a damage bonus of 20. If it hits, in inflicts a Stun 8. However, the AP cost to attack with it is increased by 5 (to 10 for Skillful Strike, and 15 + X for Leap Attack).
+ - *Tetsubo*: Yes, a huge wooden club, probably made from an actual tree trunk and fitted with metal studs. This attack has -4 Accuracy, but cannot be parried. It is a Speed 20 attack dealing 20d20 Blunt damage, with a damage bonus of 20. If it hits, in inflicts a Stun 8. However, the AP cost to attack with it is increased by 5 (to 10 for Skillful Strike, and 15 + X for Leap Attack).
 
-*Twin Sai*: A paired set of sai; while they do have a +4 bonus to parrying weapons, it's usually not all that useful for a giant toad. Attacking with them is a Speed 12 action, and they deal 14d10 Blunt damage. If an attack with these weapons misses, the summoner may spend 5 AP for the toad to make a strike with the second sai, in which case an Accuracy roll replaces their normal Accuracy.
+ - *Twin Sai*: A paired set of sai; while they do have a +4 bonus to parrying weapons, it's usually not all that useful for a giant toad. Attacking with them is a Speed 12 action, and they deal 14d10 Blunt damage. If an attack with these weapons misses, the summoner may spend 5 AP for the toad to make a strike with the second sai, in which case an Accuracy roll replaces their normal Accuracy.
 
-*Bare Hands*: Yes! This toad knows martial arts! They make Speed 10 attacks dealing 10d12 Blunt damage. However, if their attacks miss they do not expend any of the summoner's AP. If their attacks hit, the summoner may immediately spend another 4 AP to have the toad perform a flashy series of blows which inflicts a Stun 4 on the victim.
+ - *Bare Hands*: Yes! This toad knows martial arts! They make Speed 10 attacks dealing 10d12 Blunt damage. However, if their attacks miss they do not expend any of the summoner's AP. If their attacks hit, the summoner may immediately spend another 4 AP to have the toad perform a flashy series of blows which inflicts a Stun 4 on the victim.
 
 ###### 4. Abilities
 **Standard Actions**  
