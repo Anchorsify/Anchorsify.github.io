@@ -24,13 +24,14 @@ The five primary attributes make up, in game terms, the core of a character's ca
 Strength is a measurement of your ability to exert physical force on the world around you. Exceptionally strong people may be correspondingly muscular, though ninja have developed many training methods which leave them deceptively lean.
 
 - Your physical damage bonus is STR/15.
-- Your Vitality is (RES*8 + STR*4)
+- Your Vitality is (RES * 8 + STR * 4)
 
 ##### Resilience (RES)
 This is your body's ability to endure hardship without suffering from debilitating injuries. Many ninja believe that it's best to avoid being hit entirely... but nobody will say that not being able to take a blow is a good thing. RES/10 is your bonus to Stamina rolls.
 
-- Your Vitality is (RES*8 + STR*4)
-- Your HP is (RES*3 + CHA)
+- Your Vitality is (RES * 8 + STR * 4)
+- Your HP is (RES * 3 + CHA)
+- You add RES/10 to your Stamina rolls.
 
 ##### Chakra (CHA)
 Every ninja is fueled by chakra, a mystical force that suffuses the world and fills the bodies of all living things, much like 'ki' in certain belief systems. This stat measures both your reserves of raw chakra and your ability to harness them.
@@ -55,12 +56,12 @@ The sister attribute to dexterity, agility is how quickly you can react to dange
 ##### Vitality (Vit)
 Vitality measures your character's ability to shrug off damage, to turn a dangerous blow into a glancing one, and to take a beating without being seriously injured. You have a current and maximum vitality; whenever you take damage, you reduce your current vitality by that amount, though your maximum Vitality is unaffected.
 
-- Your Vitality equals your (RES*8 + STR*4).
+- Your Vitality equals your (RES * 8 + STR * 4).
 
 ##### Hit Points (HP)
 Hit points are like your 'life force', representing injuries that have significantly harmed you and caused serious damage to your body. After your Vitality reaches 0, you take damage to your Hit Points; an attack which depletes your Vitality has the rest of its damage carry over into your HP. When you reach 0 HP, you become incapacitated, leaving you unable to perform any actions and vulnerable to being knocked out or killed; you die automatically if you reach -100% of your Maximum HP.
 
-- You have (RES*3 + CHA) Hit Points.
+- You have (RES * 3 + CHA) Hit Points.
 
 ##### Damage Bonus, Physical (PDB)
 As the name would suggest, this increases the damage you do with physical attacks. Full details on how can be found in the Combat chapter.
