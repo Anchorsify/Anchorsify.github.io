@@ -80,11 +80,11 @@ Following the hare's ideals of nonviolent resolution of conflicts, this techniqu
 
 After the technique is completed, the entire affected area somehow seems lighter and more peaceful. Anyone inside its boundaries instinctively knows that hostility is not welcome, and has a marked aversion to any such actions.
 
-Chakra: 25 + X
-Range: 0
-Area: 100 + X*2
-Speed: 25
-Seal Speed: 80
+ - Chakra: 25 + X
+ - Range: 0
+ - Area: 100 + X*2
+ - Speed: 25
+ - Seal Speed: 80
 
 Effects: Taking any sort of offensive action within the area is prohibited, as is deliberately launching attacks into it. Offensive actions include all attacks and targeted genjutsu, whether or not they deal damage. Setting explosives and modifying the terrain for combat (for example, the A-rank Yomi Numa, or Katon explosive clouds) are offensive actions. However, performing medical jutsu to heal, meditating or seals that cannot be used offensively (CANNOT, not are not) are not.
 
