@@ -342,7 +342,7 @@ Though a Rakshasa's mind is not too different from a human's to affect with genj
 **Spirit Siphon**  
 Unlike most summons, the Rakshasa may spend Willpower-- or, more specifically, its owner's. This can be done any time Willpower would normally be spent, with the usual effects. If the Rakshasa betrays its summoner (see Treachery, below) in combat, it will always use Spirit Siphon on the attack made against them.
 
-**Treachery**
+**Treachery**  
 Unlike most summons, Rakshasa will sometimes turn against the ninja who called upon them--but there's no way of knowing that one is planning to do so until it's too late. Every time the Rakshasa is given a task, or acts in combat, there is a 10% chance that it will somehow turn against the summoner. This could mean informing people who it was sent to spy on that the summoner is nearby, or sabotaging the path it was sent to scout; in combat, this check is made whenever it attacks. If the 10% chance takes place, it instead attacks the summoner with the same technique. After the Rakshasa betrays their summoner this way, it will disappear (often cackling evilly as it does so); after five checks have been made without betraying the summoner, that particular Rakshasa will not do so for the remainder of the time it's summoned. Additionally, Rakshasa will not betray summoners with 6000 or more XP.
 
 ###### 4. Abilities
