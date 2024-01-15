@@ -172,7 +172,7 @@ If hit by an area-of-effect technique, the cat takes only half damage. However, 
 **Ninja Training**  
 Shinobi cats train tirelessly in the ninja arts, up to two hours a day! They'll work just hard enough to keep up with their summoner; any more would simply be an unreasonable amount of effort. For every 500 XP, pick one of the following improvements. You may not select any of them more than once.
 
-**Armor**
+**Armor**  
 Your cat appears in appropriate ninja-armor, such as handguards, a padded vest, and so forth. Whenever it would take more than 25% of its maximum Vitality in damage from an attack, that attack's damage is divided by 4. Neko-ken: Your cat has mastered martial arts! This gives it a +4 bonus to any unarmed parries, and improves its Cat Paw Strike action.
 
 **Ninja Combatant**  
