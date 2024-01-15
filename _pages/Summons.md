@@ -2,8 +2,8 @@
 layout: page
 title: Summoning Contracts
 permalink: /summons/
-nav: true
-nav_order: 12
+nav: false
+nav_order: 
 display_categories: [Summons]
 horizontal: false
 ---
