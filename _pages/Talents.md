@@ -56,7 +56,7 @@ In the human body, there are eight 'gates' along the body's chakra circulatory s
 ##### [Kage Bunshin](https://anchorsify.github.io/KageBunshin/)
 You learn martial ar--Kage Bunshin no Jutsu! It's a not-quite forbidden technique, and probably the most powerful of the cloning techniques usable by ninja without advanced bloodlines. Unfortunately, it's also very draining on the user, almost prohibitively so. Click the header of this section for the rules for this technique.
 
-##### Summoning Contract
+##### [Summoning Contract](https://anchorsify.github.io/summons/)
 You've signed a blood contract with one of the various species of intelligent, super-powered animals that ninja are able to call upon. How this happens varies; some shinobi have mentors who, as part of training an apprentice to be their successor, will offer them the chance to sign one of these contracts. With this talent, however, you probably took the 'natural' approach: a ninja who hasn't signed a contract and attempts to performing the Summoning Technique will instead be "reverse-summoned" to the home of whichever animal species they have the strongest affinity for (which can change over a ninja's life). There, they will usually be given an opportunity to sign a blood contract before being sent back to where they came from. Pick a single summoning contract--you now have access to it, as described in "Summon Contracts." To actually summon any of the creatures, or use any of the techniques, provided by this talent you first need the C-rank ninjutsu "Kuchiyose no Jutsu." If you have this talent, you may purchase that technique without meeting the normal requirements for learning C-rank jutsu.
 
 ##### Medical Training
