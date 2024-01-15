@@ -165,7 +165,7 @@ The Guardian has a large enough mouth that it can fit many small objects within 
 The Guardian Toad works hard to keep up with its summoner, gaining a bonus of (Summoner's XP)/250 to accuracy, defenses, and skill rolls. In addition, the Guardian's damage bonus is increased by (Summoner's XP)/500. Finally, their Vitality is increased by (Summoner's XP / 500)*100.
 
 ###### 4. Abilities
-##### Standard Actions
+**Standard Actions**  
 Guardian Toads may use Dodge, Move, and Parry as described in the Combat chapter of the PHB without spending any of the summoner's AP.
 
 **Defend** *(Speed 1 or 6, Interrupt, AP 1 or 6)*  
@@ -248,7 +248,6 @@ Against Large summons, they suffer a -4 immobilization penalty that does not red
 *Bare Hands*: Yes! This toad knows martial arts! They make Speed 10 attacks dealing 10d12 Blunt damage. However, if their attacks miss they do not expend any of the summoner's AP. If their attacks hit, the summoner may immediately spend another 4 AP to have the toad perform a flashy series of blows which inflicts a Stun 4 on the victim.
 
 ###### 4. Abilities
-
 **Standard Actions**  
 Kyodai may use the dodge, move, and block actions as described in the Combat chapter without spending any of the summoner's AP.
 
