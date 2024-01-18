@@ -400,7 +400,7 @@ Not something you spend points on, this time! Of the three primary feature sets 
 (1) Attempting to parry your sword has a -1 penalty, to a maximum of -3.  
 (1) Your sword deals three more dice of damage but has its Stamina cost increased by 4.
 
-*Top*
+*Top*  
 (2) Your sword deals another STR/20 dice of damage, but has its Stamina cost increased by 2. This can no more than double its base damage dice (from ‘e. Damage’).  
 (2) Your weapon's dice become .extra(die size-2). This can be purchased repeatedly, each time lowering the .extra value by 1 (from .extra(10) to .extra(9), then .extra(8), and so on).
 
