@@ -207,7 +207,7 @@ These are actions that anyone can do in combat, and the rules associated with th
 <br>This is any ordinary attack with a weapon, from throwing shuriken to swinging oversized swords.  The base damage, speed, and stamina cost of using a weapon is listed in its entry, and they can all be found in the Equipment section.
 
 **Block** ***(Speed Variable)***
-<br>As an action, you may declare that you are blocking, and state a Speed for the action. Until your next action, you may use the Block defense (see 'Defending' below) against any incoming attacks.
+<br>As an action, you may declare that you are blocking, and state a Speed for the action. Until your next action, you may use the Block defense (see 'Defending' below) against any incoming attacks.  Blocking reduces the damage of unarmed and ninjutsu attacks by 50%. However, weapon damage is only reduced by 25%; while it's all well and good to keep a punch away from your vitals, a sword cut is nasty business no matter where it lands.
 
 **Dodge** ***(Speed 2, Interrupt)***
 <br>The best defense against any attack is simply not being hit. When you dodge an attack you roll 1d20+(AGI)/10, plus any other bonuses to dodge you may have, such as from abilities or uniques, against the attack's Accuracy. Success means you completely avoid the attack and its effects.
