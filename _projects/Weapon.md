@@ -202,10 +202,10 @@ Effects: X has a maximum of your STR/15, and a minimum of 1. This attack is an a
 #### --( Mawarisuto - Rotation Strike )--
 Extending out a polearm, you hold one end with both hands then commence whirling and spinning the polearm around yourself in large circles! If it has a blade of some sort, this is even better!!
 
-Stamina: As Weapon
-Damage: As Weapon
-Speed: As Weapon +10
-Requires: Polearm
+ - Stamina: As Weapon
+ - Damage: As Weapon
+ - Speed: As Weapon +10
+ - Requires: Polearm
 
 Effects: You may attack anyone you choose within range 3. If you choose to target only one person with this attack it has +2 Accuracy.
 
