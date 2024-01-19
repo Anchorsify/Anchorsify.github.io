@@ -58,7 +58,7 @@ Usually considering a rude thing to do to someone, the user slams their fist int
 - Damage: (STR/10)d8
 - Speed: 14
 
-Effects: If it hits, the target's Stamina penalty is increased by 2, +1 per category of wound it inflicts (3 at Minor, 4 at Major, and so forth).
+Effects: If it hits, the target's Stamina penalty is increased by 2, +1 per severity of wound it inflicts (3 at Minor, 4 at Major, and so forth).
 
 #### --( Reppuu - Gale )--
 With alarming quickness you drop low to the ground and perform a full 360-degree sweeping kick that knocks opponents off their feet when they attempt to close in for an attack of their own.
@@ -68,7 +68,7 @@ With alarming quickness you drop low to the ground and perform a full 360-degree
 - Speed: 6
 - Special: Interrupt, Opener
 
-Effects: This may be used immediately after you have successfully dodged a melee-range attack. Reppuu is an attack against whoever's action you dodged, and uses your dodge roll as its Accuracy. Alternately, you may use Reppuu as a normal attack, using your regular Accuracy (rather than a dodge roll). When used as an Interrupt following a dodge, Reppuu can not have Links added onto it, but as its own attack, Reppuu can have linkes applied as normal.
+Effects: This may be used immediately after you have successfully dodged a melee-range attack. Reppuu is an attack against whoever's action you dodged, and uses your dodge roll as its Accuracy. Alternately, you may use Reppuu as a normal attack, using your regular Accuracy (rather than a dodge roll). When used as an Interrupt following a dodge, Reppuu can not have Links added onto it, but as its own attack, Reppuu can have links applied as normal.
 
 When used as an opener to a combo, any time a non-interrupt combo attack fails to hit your opponent you may choose to perform it again as an interrupt. If this missed attack is a finisher, you may perform the finisher again as an interrupt using the CC of the first, despite the fact that your combo has been broken.
 
@@ -120,7 +120,7 @@ After concentrating chakra in the user's legs, they leap high into the air and c
 - Area: 3 + PDB
 - Speed: 20
 
-Effects: Partial success does not apply to the actual target of this attack. Whether or not this technique hits or is successfully defended against, the target (and everyone else in its area) might still be hit by the shockwave of exploding earth all around them from the impact with the ground, which deals no base damage of its own, but applies this technique's Speed*PDB damage to anyone caught in the area, losing 10% of its damage per point it missed by (so missing by 2 has it deal Speed*PDB*0.8, for example). Successfully parrying the attack does not prevent the shockwave damage, though if someone is airborne, they can avoid this secondary damage (which is typically only applicable against flying puppets or a target knocked airborne by Kage Buyou). Most notably, this does mean that the intended target of this technique, if hit, takes full damage from the shockwave, in addition to the attack's full damage, as a single damage source (defenses and damage reduction applies only once to the combined damage, not separately against the hit and the shockwave).
+Effects: Partial success does not apply to the actual target of this attack. Whether or not this technique hits or is successfully defended against, the target (and everyone else in its area) might still be hit by the shockwave of exploding earth all around them from the impact with the ground, which deals no base damage of its own, but applies this technique's (Speed * PDB) damage to anyone caught in the area, losing 10% of its damage per point it missed by (so missing by 2 has it deal (Speed * PDB * 0.8), for example). Successfully parrying the attack does not prevent the shockwave damage, though if someone is airborne, they can avoid this secondary damage (which is typically only applicable against flying puppets or a target knocked airborne by Kage Buyou). Most notably, this does mean that the intended target of this technique, if hit, takes full damage from the shockwave, in addition to the attack's full damage, as a single damage source (defenses and damage reduction applies only once to the combined damage, not separately against the hit and the shockwave).
 
 #### --( Kage Buyou - Shadow of the Dancing Leaf )--
 The user lowers themselves to get underneath their opponent, and then knocks them into the air with a violent rising kick, leaping after them immediately after it to position themselves in the target's shadow.
