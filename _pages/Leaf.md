@@ -227,7 +227,7 @@ After enlarging with Baika no Jutsu, the Akimichi tucks their arms and legs clos
  - Speed: Variable, Abort
  - Requires: Baika no Jutsu active
 
-Effects: When you use this Jutsu you declare that you are Rolling and for how many IC. You can also declare one other variable speed action (such as Block, or Defensive Formation) to utilize alongside it, which is not ended by any Bowl attacks you make so long as you continue Rolling. Its Chakra Cost is increased by 4 per rank of Power Attack you wish to apply to any of the Bowl attacks you make while Rolling (which doesn't then increase the Stamina cost of Bowl). While Rolling, you take Baika’s X as a penalty to Taijutsu parries and Awareness rolls, and can not perform handseals or hold weapons, but you gain the following special attack action:
+Effects: When you use this Jutsu you declare that you are Rolling and for how many IC. You can also declare one other variable speed action (such as Block, or Defensive Formation) to utilize alongside it, which is not ended by any Bowl attacks you make so long as you continue Rolling. Its Chakra Cost is increased by 4 per rank of Power Attack you wish to apply to any of the Bowl attacks you make while Rolling (which doesn't then increase the Stamina cost of Bowl). While Rolling, you take Baika’s X as a penalty to Taijutsu parries and Awareness rolls, can not perform handseals or hold weapons, and any grapples you are in control of automatically end, but you gain the following special attack action:
 
 **--( Bowl )--**  
 
