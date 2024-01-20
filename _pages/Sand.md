@@ -454,7 +454,7 @@ So long as a Monkasei has access to some sort of solid ground (i.e., is not floa
  - Speed: 5 + X
  - Seal Speed: 8
 
-Effects: You create X gallons of Sand (keeping in mind that ‘Sand’ is more like ‘weathered and eroded bits of dirt and stone’, but it works for a Monkasei’s purposes). This may be used alongside a technique, in which case its Speed is 0, and its cost and Seal Speed are added to that technique’s, and it contributes directly to that technique’s Gallons requirement.  It may also be used alone, in which case the created Sand is deposited on the battlefield.
+Effects: This technique's Chakra cost is an exception to the above rule for Jiton that they must have a minimum chakra cost of 10. You create X gallons of Sand (keeping in mind that ‘Sand’ is more like ‘weathered and eroded bits of dirt and stone’, but it works for a Monkasei’s purposes). This may be used alongside a technique, in which case its Speed is 0, and its cost and Seal Speed are added to that technique’s, and it contributes directly to that technique’s Gallons requirement.  It may also be used alone, in which case the created Sand is deposited on the battlefield.
 
 #### --( Sabaku Kyu - Sand Coffin )--
 No one likes Sand.  It’s coarse, and rough, and irritating.  And it gets everywhere. Which the Monkasei tend to use to their advantage in order to slow down and debilitate their opponents through tactical, frustrating maneuvering that makes everything chafe.

@@ -141,7 +141,7 @@ A relatively simple technique which creates a sudden gust of wind. Its actual fo
 - Speed: 12
 - Seal Speed: 12
 
-Effects: This uses double the user's normal ninjutsu damage bonus, and inflicts Blunt wounds. It also knocks the victim back (NDB)*3 yards.
+Effects: This uses double the user's normal ninjutsu damage bonus for its damage, and inflicts Blunt wounds. It also knocks the victim back (NDB)*3 yards.
 
 #### --( Reppuushou - Violent Wind Palm )--
 After finishing the seals, the user claps their palms together and compresses the air in front of them, transforming it into a powerful gale with enough force to knock over a human or redirect projectile weapons.

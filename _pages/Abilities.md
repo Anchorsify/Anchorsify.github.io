@@ -183,6 +183,33 @@ Ninjas do love their explosions. However, they also like being sneaky and unseen
 
 - Base Cost: 10
 
+##### 2. Weapons, General
+#### -=[ Weapon Focus: (Weapon) ]=-
+You've trained yourself specifically with a single type of weapon. Choose one of the weapons from the Equipment chapter (such as Wakizashi, or Shuriken). You have +1 Accuracy and +1 to your damage bonus when using that weapon to make an attack, per rank. Weapon focus cannot be applied to defensive rolls, nor to any other use that have no assocaited stamina cost. You may take this ability for different weapons, counting as a different ability (with a separate cost, number of ranks, etc.) each time. Any attack which benefits from your Weapon Focus has its Stamina cost increased by 3 per rank; you may choose to use less than your full ranks of Weapon Focus on a given attack if you wish.
+
+- Base Cost: 6
+- Scale: 2
+- Limit: (DEX-30) /30, max 3
+
+#### -=[ Blunt: Stun ]=-
+Your attacks stagger an opponent, club them upside the head, knock the wind out of them, or otherwise keeping them from recovering. Your blunt weapon attacks gain Stun 1 per rank, or increase their existing Stun by 1 per rank.
+
+- Base Cost: 5
+- Scale: 2
+- Limit: STR /20, max 5
+
+#### -=[ Piercing: Penetrate ]=-
+Your piercing weapons ignore half of the Damage Reduction (DR) any enemy might have.
+
+- Base Cost: 20
+- Requires: 40 STR
+
+#### -=[ Slashing: Perfect Cut ]=-
+Normally, when partial defense applies you would deal 20% of your attack's damage per point you hit by. With this ability you do 25% per point you hit by, up to full damage if you hit by 4 points.
+
+- Base Cost: 20
+- Requires: 40 DEX
+
 ##### 2. Weapons, Melee
 #### -=[ Ambidextrous ]=-
 You've trained yourself to use your off-hand just as well as your dominant one, or you really are naturally ambidextrous. Each rank reduces the Accuracy penalty for the Dual Wield Attack action (see below) and derivatives of it such as Centipede Strike by 1, and each even rank (2 and 4) gives you a +1 bonus to parries using those weapons while dual-wielding, though it follows the normal rules for using two weapons (using the lower of the two weapon's Accuracy).
@@ -211,25 +238,12 @@ The speed of your Draw Weapon is reduced by 1 per rank, to a minimum of 0.
 - Scale: 1
 - Limit: DEX / 30
 
-#### -=[ Weapon Focus: (Weapon) ]=-
-You've trained yourself specifically with a single type of weapon. Choose one of the weapons from the Equipment chapter (such as Wakizashi, or Shuriken). You have +1 Accuracy and +1 to your damage bonus when using that weapon to make an attack, per rank. Weapon focus cannot be applied to defensive rolls, nor to any other use that have no assocaited stamina cost. You may take this ability for different weapons, counting as a different ability (with a separate cost, number of ranks, etc.) each time. Any attack which benefits from your Weapon Focus has its Stamina cost increased by 3 per rank; you may choose to use less than your full ranks of Weapon Focus on a given attack if you wish.
-
-- Base Cost: 6
-- Scale: 2
-- Limit: (DEX-30) /30, max 3
-
 #### -=[ Weapon Throw ]=-
 Your hatred of physics gives you improbable powers. You are able to throw any melee weapon you're holding up to STR/4 yards, turning it into a ranged attack. This does the normal damage for that weapon, but increases the action's Stamina cost by 5.
 
 - Base Cost: 15
 - Requires: 40 STR, 40 DEX
 
-#### -=[ Blunt: Stun ]=-
-Your attacks stagger an opponent, club them upside the head, knock the wind out of them, or otherwise keeping them from recovering. Your blunt weapon attacks gain Stun 1 per rank, or increase their existing Stun by 1 per rank.
-
-- Base Cost: 5
-- Scale: 2
-- Limit: STR /20, max 5
 
 #### -=[ Large: Momentum ]=-
 You turn one of the greatest enemies of shinobi--physics--to your own ends. Each rank gives a -1 penalty to any enemy's attempts to parry your weapon.
@@ -238,22 +252,10 @@ You turn one of the greatest enemies of shinobi--physics--to your own ends. Each
 - Scale: 2
 - Limit: STR /30, max 3
 
-#### -=[ Piercing: Penetrate ]=-
-Your piercing weapons ignore half of the Damage Reduction (DR) any enemy might have.
-
-- Base Cost: 20
-- Requires: 40 STR
-
 #### -=[ Polearm: Trip ]=-
 You sweep with the blunt end (or one of the blunt ends) of your weapon, knocking your opponent's feet out from beneath them. This allows you to use Trip (the E-rank Unarmed Taijutsu technique) as a Weapon Taijutsu, as long as you know it.
 
 - Base Cost: 10
-
-#### -=[ Slashing: Perfect Cut ]=-
-Normally, when partial defense applies you would deal 20% of your attack's damage per point you hit by. With this ability you do 25% per point you hit by, up to full damage if you hit by 4 points.
-
-- Base Cost: 20
-- Requires: 40 DEX
 
 #### -=[ Small: Flurry ]=-
 Most of the small weapons rely on something other than overpowering force to deal their damage; accordingly, a dozen quick strikes is often preferable to six slow, powerful ones. Each time you make an attack with a Small weapon, the total Speed of your next attack with that weapon is reduced by 1. This stacks for consecutive attacks; if you make three attacks with your weapon, without taking any non-Interrupt action inbetween, the next attack would have -3 total Speed. As a reminder, total Speed cannot go below half of base Speed. The maximum reduction is your number of ranks in this ability.

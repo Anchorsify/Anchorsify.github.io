@@ -367,7 +367,7 @@ The Inuzuka launches themselves forward toward an opponent while spinning at suc
  - Speed: 12
  - Special: Sudden Attack can not be used with this attack
 
-Effects: This technique’s Range is increased by how far you could move during the attack: That is, you always travel the maximum distance possible, though your target can be anywhere within that range to be a valid target for Tsuga.  Movement speed increases (such as Runner, or Shikyaku) modify this like normal to increase its total range. Despite the listed range, however, Tsuga is considered a melee attack, not a ranged attack.
+Effects: This technique’s Range is increased by how far you could move during the attack: That is, you always travel the maximum distance possible, though your target can be anywhere within that range to be a valid target for Tsuga.  Movement speed increases (such as Shikyaku) modify this like normal to increase its total range. Despite the listed range, however, Tsuga is considered a melee attack, not a ranged attack.
 
 This technique gains Accuracy, and loses damage, according to how close you are to your target when you attack: For every 20% of the listed Range you are within to your target (after calculating the final Range for this technique), you gain +1 Accuracy, but deal 5% less damage. (i.e., if you had a final Range of 30, and attacked someone with Tsuga who was 22 yards from you, they are below 80% of the technique’s maximum range, and thus you’d get +1 Acc and deal 95% normal damage; if you attacked someone within 6 yards of you with Tsuga with the same total Range, you’d gain +5 Acc but deal 25% less damage).
 

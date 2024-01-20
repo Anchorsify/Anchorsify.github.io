@@ -26,19 +26,19 @@ toc:
 
 ## Blunt (Minor)
 ###### (1 - 10) Ringing Noise (Head)
-There's a drumming noise inside my head that starts when... ... uh, right. But, yeah, it's pretty distracting. This inflicts a Stun 4 (extending), +4 per time taken in the same battle, with a -1 to Genjutsu rolls until the Stun ends.
+There's a drumming noise inside my head that starts when... ... uh, right. But, yeah, it's pretty distracting. This inflicts a Stun 4, +4 per time taken in the same battle, with a -2 to Genjutsu rolls until the Stun ends.
 
 ###### (11 - 25) Bruised (Arm)
-Your arm is bruised. It hurts, inflicting a Stun 6 (extending), +2 per time taken in the same battle, with -1 Acc and +2 to Seal Speeds until the Stun ends.
+Your arm is bruised. It hurts, inflicting a Stun 6, +3 per time taken in the same battle, with -1 Acc and +2 to Seal Speeds until the Stun ends.
 
 ###### (26 - 55) Bruised Ribs (Torso)
-As in the bones, not the skin over them. Truth is, ribs hurt a lot more than they have any business doing. Breathing hurts in particular, deep breathing especially so. This inflicts a Stun 8 (extending), +2 per time taken in the same battle, with a Shock 1 status effect which doesn't end until the Stun does.
+As in the bones, not the skin over them. Truth is, ribs hurt a lot more than they have any business doing. Breathing hurts in particular, deep breathing especially so. This inflicts a Stun 8, +2 per time taken in the same battle, with a Shock 1 status effect which doesn't end until the Stun does.
 
 ###### (56 - 80) Winded (Abdomen)
-A good shot to the gut hit your solar plexus or compressed your diaphragm, or both, knocking the wind out of you. You'll be fine, definitely, but this inflicts a Stun 8 (extending), +2 per time taken in the same battle, along with Immobilize 1 which doesn't end until the Stun does.
+A good shot to the gut hit your solar plexus or compressed your diaphragm, or both, knocking the wind out of you. You'll be fine, definitely, but this inflicts a Stun 8, +2 per time taken in the same battle, along with Immobilize 1 which doesn't end until the Stun does.
 
 ###### (81 - 100) Bruised (Leg)
-Something hit your leg and now it hurts! You'll feel better after you walk it off (or just sit down and let the pain fade). This inflicts a Stun 10 (extending), +2 per time taken in the same battle, with a -1 to Dodges and -10% movespeed until the Stun ends.
+Something hit your leg and now it hurts! You'll feel better after you walk it off (or just sit down and let the pain fade). This inflicts a Stun 10, +2 per time taken in the same battle, with a -1 to Dodges and -10% movespeed until the Stun ends.
 
 ## Blunt (Major)
 ###### (1 - 10) Dazed (Head)
