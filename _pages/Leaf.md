@@ -40,7 +40,7 @@ An ability exclusive to the Aburame, wherein they allow their own bodies to beco
  - Scale: 0
  - Limit: 3+CHA/10
 
-Effects: You gain a Swarm the first time this is taken, and add one to it for every rank after the first. As part of the cost of being a host of the Kikaichuu, you gain RES*2 less to your Vitality, and RES less to your Hit Points (making them RES*6+STR*4 and RES*2+CHA, respectively, before any Uniques).
+Effects: You gain a Swarm the first time this is taken, and add one to it for every rank after the first. As part of the cost of being a host of the Kikaichuu, you gain RES * 2 less to your Vitality, and RES less to your Hit Points (making them RES * 6+STR * 4 and RES * 2+CHA, respectively, before any Uniques).
 
 Kikaichuu can be commanded out to a maximum range of CHA*2 yards. Any further than that and you can no longer communicate with them and can only send them to places you know, and can only give them a single, basic command (“Go home and find Ino” would work, but “Search the town for anything suspicious” would not). They will complete it to the best of their ability and then return to you, but for every day in which they are beyond the listed range, its Swarm Size is reduced by one.
 
