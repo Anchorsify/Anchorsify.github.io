@@ -59,6 +59,9 @@ The jutsu's base seal speed.
 ###### Special
 Any special effects the technique has. If a status effect is listed here, it's inflicted automatically.
 
+###### Status Roll
+Status effects listed here are applied by a status roll, which is ordinarily an opposed roll, with the user rolling their Chakra Control against a Resistance roll of anyone hit.
+
 ###### Requires
 Some techniques have special requirements (such as having learned another jutsu, or a certain amount of gallons of water be available for use), which will be listed here.
 

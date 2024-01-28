@@ -238,7 +238,6 @@ This move forms multiple pressurized, spiralling columns of water that have a dr
 - Chakra: 28
 - Damage: 10d20+60
 - Accuracy: +1
-- Speed: 10
 - Range: 30
 - Speed: 14
 - Seal Speed: 16

@@ -39,8 +39,7 @@ You have near-limitless reserves of chakra. Things that should tire people out s
 
 Whenever you rest, your Chakra Exhaustion penalty is lowered by the same amount as your Stamina penalty. Finally, the Upkeeps of all your jutsu are reduced by 1.
 
-*Upgrades From: Expansive Chakra*
-
+*Upgrades From: Expansive Chakra*  
 *Upgrades Into: Regenerative Chakra, Surging Power*
 
 ##### Bruiser
@@ -48,8 +47,7 @@ You hit harder than you have any business doing. You may not be bulky and muscul
 
 You add RES/30 to your physical damage bonus (to one decimal point, as usual), and STR/20 to all grapple rolls. You gain STR/5 DR, and all your Unarmed attacks gain Stun 2, or increase their existing Stun by 2.
 
-*Upgrades From: Martial Prowess*
-
+*Upgrades From: Martial Prowess*  
 *Upgrades Into: Relentless*
 
 ##### Cunning
@@ -60,15 +58,13 @@ The combined Chakra Control and Research requirement for learning Genjutsu is ne
 ##### Elementalist
 Most shinobi have a difficult time mastering the usage of elemental chakra. You do not. It comes naturally to you, and even exceeds the limits of most people's physical capabilities. You are able to use two elements of your choice as if you had the Elemental Aptitude ability for them, though this does not county as ranks in that ability.  Finally, all Status Effects from the five base elements within Elemental Ninjutsu have their severity increased by 1, which is doubled if they're applied with a status roll.
 
-*Upgrades From: Elementally Gifted*
-
+*Upgrades From: Elementally Gifted*  
 *Upgrades Into: Elemental Mastery*
 
 ##### Endless Energy
 You don't get tired. It's just not something you do. Whenever your Stamina penalty increases, it increases by 1 less. The first time in a battle you fail a Stamina roll, you advance one less Fatigue category. You enjoy a +(RES)/40 bonus to all your Stamina rolls. Every 15 IC, your Stamina penalty decreases by 1.
 
-*Upgrades From: Indefatigable*
-
+*Upgrades From: Indefatigable*  
 *Upgrades Into: Surging Power*
 
 ##### Exceptionally Fast
@@ -118,6 +114,5 @@ You are actually good at something--you just haven't figured out what yet. Some 
 
 That's what you keep telling yourself, anyway. It gets a little bit harder to believe that every day, but you didn't get where you are by giving up just because you're no good at whatever it is you keep failing to do. Whenever your Fatigue level increases from failing a Chakra Exhaustion or Stamina roll, you gain 1 temporary Willpower, which is lost (if you haven't spent it yet) the next time your Fatigue increases.  If the Temporary Willpower granted by this unique is spent to reroll a roll, you can choose to reroll the reroll (i.e., get a third roll), but if you elect to do so, you must use its result, even if the first reroll was higher. Finally, your maximum Resistance rank is increased by 3.
 
-*Upgrades From: Hidden Potential*
-
+*Upgrades From: Hidden Potential*  
 *Upgrades Into: Any 3-point unique.*
