@@ -11,90 +11,57 @@ This will serve as a basis for update logs in the future with an easy to fill ou
 
 ***
 ## Creation
-<ul>
-    <li>Update Note One</li>
-    <li>Update Note Two</li>
-</ul>
+ - 
+ - 
 
-#### Villages 
-<ul>
-    <li>Update Note One</li>
-    <li>Update Note Two</li>
-</ul>
+#### Villages
+ - 
+ - 
 
 #### Uniques 
-<ul>
-    <li>Update Note One</li>
-    <li>Update Note Two</li>
-</ul>
+ - 
+ - 
 
 #### Stats
-<ul>
-    <li>Update Note One</li>
-    <li>Update Note Two</li>
-</ul>
+ - 
+ - 
 
 #### Skills
-<ul>
-    <li>Update Note One</li>
-    <li>Update Note Two</li>
-</ul>
+ - 
+ - 
 
 ## Combat
-<ul>
-    <li>Update Note One</li>
-    <li>Update Note Two</li>
-    <li>Update Note Three</li>
-</ul>
+ - 
+ - 
 
 ## Abilities
-<ul>
-    <li>Update Note One</li>
-    <li>Update Note Two</li>
-    <li>Update Note Three</li>
-</ul>
+ - 
+ - 
 
 ## Jutsu
-<ul>
-    <li>Update Note One</li>
-    <li>Update Note Two</li>
-</ul>
+ - 
+ - 
 
 #### Taijutsu
-<ul>
-    <li>Update Note One</li>
-    <li>Update Note Two</li>
-</ul>
+ - 
+ - 
 
 #### Ninjutsu 
-<ul>
-    <li>Update Note One</li>
-    <li>Update Note Two</li>
-</ul>
+ - 
+ - 
 
 #### Genjutsu
-<ul>
-    <li>Update Note One</li>
-    <li>Update Note Two</li>
-</ul>
+ - 
+ - 
 
 ## Equipment
-<ul>
-    <li>Update Note One</li>
-    <li>Update Note Two</li>
-    <li>Update Note Three</li>
-</ul>
+ - 
+ - 
 
 ## Experience
-<ul>
-    <li>Update Note One</li>
-    <li>Update Note Two</li>
-    <li>Update Note Three</li>
-</ul>
+ - 
+ - 
 
 ## Summon Contracts
-<ul>
-    <li>Update Note One</li>
-    <li>Update Note Two</li>
-    <li>Update Note Three</li>
-</ul>
+ - 
+ - 
