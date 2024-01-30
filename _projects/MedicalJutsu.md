@@ -166,7 +166,7 @@ Effects: A medic involved in this technique makes the Chakra roll, and then spen
 #### --( Kyuushou Taisha - Vital Regeneration )--
 The medic-nin focuses their chakra on a specific part of the body and, using what is left of the damaged organ or area, forces a rapid replication of specific types of cells. It is capable of mending broken bones and repairing ruptured organs with astonishing speed.
 
-- >Chakra: 10 + 10 * X
+- Chakra: 10 + 10 * X
 - Range: Touch
 - Speed: 5 + X * 5
 - Requires: Mystical Palm
