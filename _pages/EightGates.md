@@ -23,11 +23,11 @@ Each gate confers its own set of benefits and abilities which you receive and ca
 
 When the gates are opened, you have access to a special, second pool of Action Points, starting at 0 and with a maximum of half your normal AP maximum (in other words, AGI/4).
 
-AP provided by the gates (listed under "AP Gain" in their respective entries) goes into this pool. AP from the gates may only be spent on the following things:
-> Reducing the Speed of Taijutsu attacks
-> Abilities provided by the gates
-> The ability Principle of Motion
-> The ability Surge (though if improving Accuracy, only for unarmed attacks)
+AP provided by the gates (listed under "AP Gain" in their respective entries) goes into this pool. AP from the gates may only be spent on the following things:  
+- Reducing the Speed of Taijutsu attacks
+- Abilities provided by the gates
+- The ability Principle of Motion
+- The ability Surge (though if improving Accuracy, only for unarmed attacks)
 
 Your regular AP may still be spent normally, as well as on abilities provided by the gates. Once you're able to access the gates, you gain the following two actions:
 ###### Open Gates
@@ -41,9 +41,9 @@ You take several moments to calm yourself and stabilize your chakra flow before 
 ## Wounding
 As mentioned above, using the gates is devastating, in no small part because doing so gives the user's body the ability to physically tear itself apart. When Opening the gates, you can only safely open up a number of gates equal to your current Willpower; anymore and you are going beyond your body's natural limitations, and you take one Wound automatically for each gate opened in excess of your current Willpower. If you had 2 willpower and opened five gates, for example, you would suffer three wounds for doing so. If you then spent a point of willpower, however, you would not take a wound retroactively.
 
-Additionally, every time you take an action with a Stamina or Chakra cost while using the gates, you have a chance to wound yourself. That chance is: (gate opened)*2 + base Speed of the action + AP used %
+Additionally, every time you take an action with a Stamina or Chakra cost while using the gates, you have a chance to wound yourself. That chance is: (gate opened) * 2 + base Speed of the action + AP used %
 
-For example, say you had opened the second gate and used a basic unarmed attack (Speed 8), and spent 4 AP to reduce it down to Speed 4. After performing your action you'd roll 1d100, and on a roll of (2*2 + 8 + 4) = 16 or lower, you'd immediately suffer a wound.
+For example, say you had opened the second gate and used a basic unarmed attack (Speed 8), and spent 4 AP to reduce it down to Speed 4. After performing your action you'd roll 1d100, and on a roll of (2 * 2 + 8 + 4) = 16 or lower, you'd immediately suffer a wound.
 
 If you don't receive a wound, then the percentage chance you just rolled is halved, and added to the chance to be wounded the next time you are required to roll for a chance to wound yourself. In the above, you'd add 8 to the chance to wound yourself, meaning if you did the exact same action again, you would have a (16 + 8) = 24% chance of wounding yourself. If you then did the same action a third time, you would have a (16 + 8 + 12) = 36% chance to wound yourself. Once you are wounded, you remove the additive chance from all prior rolls.
 
@@ -89,7 +89,7 @@ Located on the spinal cord between the shoulders, opening the third gate results
 Located below the Gate of Life, the fourth gate got its name for a very simple reason: beyond what's normal even for the other gates, opening causes severe pain across the entire body as the overwhelming flow of chakra begins physically tearing the user's muscle fibers.
 
  - AP Gain: 20
- - Enhanced Power: For every AP you spend reducing an attack's Speed, you may spend another AP to "buy back" the lowered damage bonus. For example, say you spent 4 AP to bring a basic unarmed attack from Speed 8 to Speed 4. Normally you would deal (damage bonus)*(4) damage with this attack, because its Speed is 4. However, with Enhanced Power you could spend up to 4 AP increasing its effective Speed. Thus, if you spent 3 AP on Enhanced Power, you'd deal (damage bonus)*(7) damage.
+ - Enhanced Power: For every AP you spend reducing an attack's Speed, you may spend another AP to "buy back" the lowered damage bonus. For example, say you spent 4 AP to bring a basic unarmed attack from Speed 8 to Speed 4. Normally you would deal (damage bonus * 4) damage with this attack, because its Speed is 4. However, with Enhanced Power you could spend up to 4 AP increasing its effective Speed. Thus, if you spent 3 AP on Enhanced Power, you'd deal (damage bonus * 7) damage.
 
 ###### -=[ The Fifth Gate ]=-
 *Tomon - Gate of Limit*  
