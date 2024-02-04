@@ -34,13 +34,13 @@ All that aside, the slugs themselves tend to be wary of most summoners' intentio
 The summoner secretes a thin layer of clear, slightly glossy liquid from their pores, covering their body with it. Despite being criticized as a 'gross' technique, most users agree that it's really not that bad, and just feels like being slightly wet, like having recently come out of a shower. Then again, they summon slugs, so it's questionable how reliable they are to begin with.
 
  - Chakra: 20
- - Upkeep: 4
+ - Upkeep: X/2
  - Speed: 10
  - Seal Speed: 10
 
-Effects: All offensive grapple rolls involving you, including ones to remain in control of a grapple, have a -X penalty; it does not matter whether you are making them, or the other person in the grapple. Similarly, any Immobilization penalties you suffer from for reasons other than poison are reduced by 2.
+Effects: X has a maximum of half your NDB, rounded down. All offensive grapple rolls involving you, including ones to remain in control of a grapple, have a -X penalty; it does not matter whether you are making them, or the other person in the grapple. Similarly, any Immobilization penalties you suffer from for reasons other than poison are reduced by 2.
 
-While not particularly dangerous to living tissue (which is good, since the user is covered in it), this slime is highly corrosive to certain other materials. Any time a weapon strikes you, its damage dice are reduced by 1; when they reach 0, the weapon is useless and breaks the next time it's used to attack anything.
+While not particularly dangerous to living tissue (which is good, since the user is covered in it), this slime is highly corrosive to certain other materials. Any time a weapon strikes you, its damage dice are reduced by X/2, minimum 1; when they reach 0, the weapon is useless and breaks the next time it's used to attack anything.
 
 #### --( Kuchiyose: Yakuyou Hiru - Summoning: Medicinal Leeches )--
 You summon a number of large leeches, which adhere to either your skin or that of someone willing to have half a dozen giant leeches sucking their blood (a rather small portion of the poulation). These leeches perform two functions: the first, they return some of the extracted blood to the host, but do so after filtering it, cleansing the recipient's system of toxins. Additionally, they convert some of the drained blood into chakra, which the person covered in leeches is able to draw on in order to rejuvenate themselves.

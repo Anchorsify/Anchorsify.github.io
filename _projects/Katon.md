@@ -13,6 +13,7 @@ toc:
  - name: B-Rank
  - name: A-Rank
 ---
+
 ## E-Rank
 #### --( Hinotama no Jutsu - Fireball Technique )--
 This jutsu is considered a training exercise among academy students who're quick to grasp the basics of katon jutsu, but is easy to create and can be fired quickly. After performing the handseals the user focuses chakra in their hand and projects it into a fist-sized ball of fire, which they can then shoot at a target.

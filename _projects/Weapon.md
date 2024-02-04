@@ -13,6 +13,17 @@ toc:
  - name: A-Rank
 ---
 ## D-Rank
+#### --( Ageshio – Rising Tide )—
+The technique itself is simply a strong upward strike utilizing the weapon’s weight to add more leverage to the attack, either by starting from the ground, or bouncing the weapon off of a different surface (such as a wall, to every jounin teacher's dismay) in order to bring it back up with speed. For some it’s a true stance they keep whilst utilizing their weapon, and others it’s just following the movements of their opponents as they swing upward toward them.  Many a kirigakure genin have been found in the training grounds debating the complexity (or lack thereof) of this technique.
+
+-	Stmaina: As Weapon + 4
+-	Damage: As Weapon
+-	Speed: As Weapon
+-	Type: Large, Melee
+
+Effects:  Any negative accuracy your weapon has for this technique is negated (as though the weapon had no bonus or penalty to Accuracy).  If your last attack within 20 IC was using the same weapon you’re using for this technique, and you successfully hit with it, you gain +15% to your PDB for this attack.
+
+
 #### --( Fukumikuchi Hari - Hidden Mouth Needles )--
 The user is able to summon needles from within their mouth and spit them at their opponents with force comparative to have been thrown. It's useful at point-blank range for catching the opponent by surprise, but becomes predictable with repeated use.
 
@@ -41,6 +52,19 @@ Using the principles of Iaijutsu, the user takes up a neutral stance and, using 
 - Requires: Sword
 
 Effects: Make an Initiative roll, opposed by your opponent's; they have a cumulative +2 bonus for each time you've used this (successfully or not) in this battle. If you fail, you perform a regular sword attack. If you succeed, your attack receives the benefits of the Iaijutsu ability, even if you've used it earlier in battle.
+
+#### --( Ichichi - First Blood )--
+Popularized by an Amegakure ANBU who liked to toy with their targets, injuring them quick and then slowly breaking them as they tried to fight back, it is an attack all about deception and timing: Pulling your hidden blade right as they move into a fighting stance, before they can even finish planning how they're going to kill you.
+
+-	Stamina: As Weapon + 3
+-	Damage: As Weapon
+-	Speed: As Weapon
+-	Type: Small, Melee
+-	Special: Interrupt
+
+Effects: You declare this technique in your Initiative roll; after all Initiatives have been rolled, you perform this technique as an Interrupt on IC 0.  Multiple people utilizing this technique have them resolved as simultaneous attacks.  You are able to draw any applicable weapon you have on you when you use this technique, as part of the attack; in fact, you cannot perform it if your weapon is already drawn, as it relies upon an opponent not being prepared for your attack to work.  If you use this against someone who rolled a higher initiative than you, then they do not advance their IC for any defensive interrupt used in response to it; if used against a target whose initiative roll was lower, you gain +0.3 to your damage bonus per point you beat their initiative by, to a maximum of half your PDB.
+
+Because this relies upon the moment shinobi move to strike, it’s of little use if you join a combat already in progress unless you are joining alongside someone else, in which case you could use this technique only against those joining the combat at the same time as you.  In such case, it occurs on the current initiative in which you join.
 
 #### --( Ichi no Hoshi - One Star )--
 By unfolding their fan only a third of the way, the user creates a small but biting gust of wind that is useful for its capacity to strike at targets far away while wielding a weapon.
@@ -73,7 +97,17 @@ Hoisting your weapon into the perfect position, taking your time to figure out t
 - Delay: (Weapon's base Speed)/2
 - Type: Blunt
 
-Effects: Your weapon gains, or increases its existing Stun, by the Delay provided by this technique, along with +0.5 to your PDB per point of Delay, to a maximum of double your PDB. If you miss with this technique, its Speed is increased by 6.
+Effects: Your weapon gains, or increases its existing Stun, by the Delay provided by this technique, along with +0.5 to your PDB per point of Delay, to a maximum of double your PDB. If you miss with this technique, its Speed is increased by 3.
+
+#### --( Kousanami - Cross Wave )--
+A simple but elegant technique, the user brings their weapon up in a sequence of diagonal slashes. It gets its name from the rising swings and the figure-eight motion which is both efficient and simple to perform.
+
+- Stamina: As Weapon + 5
+- Damage: As Weapon
+- Speed: 15 + (weapon's Speed)/2
+- Type: Melee; Slashing
+
+Effects: Cross Wave has only a single Accuracy, and is treated as one attack. However, if the opponent uses a defense where they roll for a result (such as dodge or parry), they must roll twice. If the attack hits the first defense, that roll is used to determine how much partial defense, if any, is applied. If the second defense also fails (partial defense being ignored for this purpose), your attack's dice damage is tripled (from, for example, 5d8 to 5d8*3). If the attack misses against your opponent's first defensive roll, make the second roll. If it hits, this attack deals damage as a regular attack with your weapon (with the higher Speed associated with this technique). Using a two-handed weapon with this technique increases the Stamina cost by an additional +5.
 
 #### --( Kusari no Hebi - Chain Serpent )--
 With sufficient practice, the user can throw their chain weapon in such a way that it ricochets to strike their opponent multiple times, hitting and disarming them or tripping them at the same time, tugging on the chain to redirect it.
@@ -110,7 +144,7 @@ Effects: You may target up to three additional people with this attack; X is the
 #### --( Raikogeki - Thundering Strike )--
 Thundering Strike takes it namesake from the sheer quickness of its strikes, as the technique is meant to deliver lightning-quick stabs that are nonlethal individually, but can quickly overwhelm an opponent if allowed to stack up.
 
-- Stamina: As Weapon +4
+- Stamina: As Weapon +6
 - Damage: As Weapon
 - Speed: As Weapon -2
 - Requires: Melee, Piercing
@@ -128,15 +162,6 @@ You connect a thin, nearly invisible wire to shuriken or kunai when throwing the
 
 Effects: If you miss with this technique you can make an Accuracy roll with a +4 bonus; if this hits, your attack hits but uses only half your total damage bonus (including the extra DB from multi-throwing, and other temporary effects). You can also attack a person who you don't have line of sight on (say, they're around a corner) if you can somehow accurately perceive them; in this case the above paragraph does not apply and this technique has a -2 Accuracy penalty. Used with a multi-throw attack, this increases the total Stamina and Speed of that action by the appropriate amount. The total of Ninja Wire required is the range at which you make this attack, multiplied by the number of weapons thrown. This does not need to be prepared in advance; you do it on the spot and use precisely the right amount of wire, via your ninja trickery.
 
-#### --( Tsubasa Migaku - Blade Honing )--
-Focusing chakra along the edge of a bladed weapon, the user creates a 'second', sharper blade of chakra that essentially increases the weapon's sharpness, at the expense of one's ability to follow-through fully with their attacks.
-
-- Chakra: 16
-- Upkeep: X/2 (round up)
-- Speed: 10
-- Type: Slashing
-
-Effects: Your weapon deals X extra dice of damage, but its damage is reduced by (X*5)% for the purpose of determining wounds. X has a maximum of (your Chakra Control skill ranks)/3. If you're using Dual Weapons, Blade Honing applies to both of them; otherwise, only one weapon benefits from Blade Honing at a time. Any weapon you pick up or draw automatically benefits from Blade Honing. If holding two non-Dual weapons, you may change which one receives this technique's effects as a Speed 0 action.
 
 ## C-Rank
 #### --( Chakura Nagashi - Chakra Flow )--
@@ -157,16 +182,6 @@ Effects: While you maintain this technique, your weapons gain the properties of 
  - Wind: The efficacy of blocking is reduced by 25%, and your damage is considered 15% higher for the purpose of inflicting wounds upon your enemies. If you're successfully parried by another weapon, your attack still does 50% damage; this does not trigger any secondary effects of your attack (like status effects, such as Bleed).
 
 This is complicated slightly when two weapons augmented by Chakra Flow interact, one parrying or being parried by the other. In these cases, if one of the elements is strong against the other, the weaker element's Chakra Flow effects are ignored for the purpose of that parry. As a reminder: Fire beats Wind; Wind beats Lightning; Lightning beats Earth; Earth beats Water; and Water beats Fire. This doesn't apply if the parry fails (if your Water weapon fails to parry their Fire sword, it still does that extra damage to you), but in the case of Earth vs. Water, does allow an Earth weapon to attempt to parry a Water one. If you have an advanced elemental chakra nature (such as a Senju's Mokuton), you choose which of the two appropriate effects you're using when you activated Chakra Flow. For example, as a Senju you could receive either Earth's stunning or Water's accuracy and parry effects. You cannot change which you've chosen without ending and then re-activating Chakra Flow. Despite this, it's still considered to be the advanced element when put up against ninjutsu defenses.
-
-#### --( Kousanami - Cross Wave )--
-A simple but elegant technique, the user brings their weapon up in a sequence of diagonal slashes. It gets its name from the rising swings and the figure-eight motion which is both efficient and simple to perform.
-
-- Stamina: As Weapon + 5
-- Damage: As Weapon
-- Speed: 15 + (weapon's Speed)/2
-- Type: Melee; Sword or Slashing
-
-Effects: Cross Wave has only a single Accuracy, and is treated as one attack. However, if the opponent uses a defense where they roll for a result (such as dodge or parry), they must roll twice. If the attack hits the first defense, that roll is used to determine how much partial defense, if any, is applied. If the second defense also fails (partial defense being ignored for this purpose), your attack's dice damage is tripled (from, for example, 5d8 to 5d8*3). If the attack misses against your opponent's first defensive roll, make the second roll. If it hits, this attack deals damage as a regular attack with your weapon (with the higher Speed associated with this technique). Using a two-handed weapon with this technique increases the Stamina cost by an additional +5.
 
 #### --( Nenten Tsuki - Twisting Stab )--
 The user lunges forward while turning their wrist, drilling their weapon into the opponent, using chakra to enhance their momentum. It is very effective at breaking an opponent's guard as you spin the weapon to go around their defense.
@@ -270,6 +285,16 @@ Attaching Ninja Wire to the end of an arrow, the shinobi fires and uses chakra t
 
 Effects: Every 10 yards you are from the opponent when firing adds +1 to the Accuracy of this attack. Using this technique expends an amount of ninja wire equal to the distance between you and its target. After this attack is resolved, you are automatically removed from stealth (if you were hidden to begin with).
 
+#### --( Tsubasa Migaku - Blade Honing )--
+Focusing chakra along the edge of a bladed weapon, the user creates a 'second', sharper blade of chakra that essentially increases the weapon's sharpness, at the expense of one's ability to follow-through fully with their attacks.
+
+- Chakra: 16
+- Upkeep: X/2 (round up)
+- Speed: 10
+- Type: Slashing
+
+Effects: Your weapon deals X extra dice of damage, but its damage is reduced by (X*5)% for the purpose of determining wounds. X has a maximum of (your Chakra Control skill ranks)/3. If you're using Dual Weapons, Blade Honing applies to both of them; otherwise, only one weapon benefits from Blade Honing at a time. Any weapon you pick up or draw automatically benefits from Blade Honing. If holding two non-Dual weapons, you may change which one receives this technique's effects as a Speed 0 action.
+
 ## B-Rank
 #### --( Hashadan - Blade Breaker )--
 You deliver an overwhelmingly powerful blow, often an overhead strike, with all the force you can muster behind it; what it gains in force it loses in precision, but its real purpose is to destroy any weapons used by the victim for defense.
@@ -325,7 +350,7 @@ This technique coats the tip of a piercing weapon with a thin layer of chakra wh
  - Speed: 10
  - Type: Piercing
 
-Effects: Your weapon inflicts Bleed 1 whenever it deals damage. If the victim has an existing Bleed status, it increases that status by 1. This explicitly stacks with the Crank Thundering Strike (meaning it's Bleed 2, or +2, if paired with Thundering Strike).
+Effects: Your weapon inflicts Bleed 1 whenever it deals damage. If the victim has an existing Bleed status, it increases that status by 1. This explicitly stacks with the Crank Thundering Strike (meaning it's Bleed 3, or +3, if paired with Thundering Strike).
 If you're using Dual Weapons, Bloody Thorns applies to both of them; otherwise, only one weapon benefits from Bloody Thorns at a time. Any weapon you pick up or draw automatically benefits from Bloody Thorns. If holding two non-Dual weapons, you may change which one receives this technique's effects as a Speed 0 action.
 
 #### --( Haruichiban - First Storm of Spring )--

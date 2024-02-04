@@ -129,6 +129,8 @@ When a combo is broken, your combo counter is immediately set to 0, you may not 
  - You attack a new target.
  - You are Stunned.
 
+ Clones count as attacking the same "target" as their creator, and accordingly do not break your combo if they were your intended target.
+
 ## Ninjutsu
 Learning ninjutsu is a great deal of work; a ninja has to learn how to mold their chakra, how to convert it to the right elemental nature, then how to properly project it, along with memorizing all the necessary handseals... for each individual jutsu they know.
 
@@ -168,6 +170,8 @@ In the rare situation that there is no earth available (such as on a boat), thes
 
 ###### Fire (Katon)
 If you ever find yourself completely submerged in water, Katon jutsu won't work.
+
+Most Katon ninjutsu list ".extra" or ".open" in their damage entries.  These are old shorthand to notate exploding damage dice: .extra allows for a single explosion (or additional damage die to be rolled) if any of the original dice roll that number or higher; .open allows for *any* number of additional explosions (or additional damage die to be rolled) if any of the original dice roll that number or higher, until they stop doing so.
 
 ###### Lightning (Raiton)
 Nothing out of the ordinary here! This is chakra-based electricity, not real electricity, so it has no special ability to, say, electrocute everyone in contact with water, or anything like that.

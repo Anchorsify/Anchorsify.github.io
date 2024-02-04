@@ -244,7 +244,7 @@ The pillars can be attacked, and each have 100+(NDB*5) HP, with CHA/2 DR, and do
 #### --( Tesura Karui - Tesla Minor )--
 This generates a semi-stable mass of lightning chakra which you can physically throw. It'll 'stick' to the first surface it comes into contact with (reminder: people are not surfaces). Once placed the ball is stationary, a bright and crackling hemisphere of chakra. Anyone unfortunate enough to wander into range will receive a face-full of electricity.
 
-- Chakra: 35
+- Chakra: 32
 - Upkeep: 4
 - Damage: 100
 - Range: 30
@@ -253,7 +253,9 @@ This generates a semi-stable mass of lightning chakra which you can physically t
 
 Effects: This creates a ball of energy within range on some surface. When it's created, and every 25 IC afterwards, the ball emits bolts of lightning at everyone within CHA /2 yards. Each bolt of a lightning is a separate attack. The ball has 10 'charges'; it can attack 10 times, and then it expires. It will not attack you, and you can specify up to (Chakra Control)/10 other people who it will ignore, but it otherwise discharges against everyone within range.
 
-The ball can be attacked, and is destroyed if it takes 250 damage; Melee attacks against it cause it to discharge against the attacker automatically. This technique uses your base Accuracy for an B-rank Raiton, unmodified by status, wounds, temporary bonuses, and so on, though penalties from Fatigue do apply, with a +1 to its Accuracy for every time it has discharged against the same person, calculated separately per person. The ninjutsu damage bonus is equal to yours at the time you use the technique. Because the attacks are made by the technique, and not you, you cannot modify them further (such as with Willpower or AP). Anyone hit by it who fails a status roll is inflicted with Shock 4.
+When it attacks someone, it uses the final Speed of the technique when it was first used, and its effective NDB is equal to yours at the time you use the technique. Because the attacks are made by the technique, and not you, you cannot modify them further (such as with Willpower or AP). Anyone hit by it who fails a status roll is inflicted with Shock 4.
+
+The ball can be attacked, and is destroyed if it takes 250 damage; Melee attacks against it cause it to discharge against the attacker automatically. This technique uses your base Accuracy for an B-rank Raiton, unmodified by status, wounds, temporary bonuses, and so on, though penalties from Fatigue do apply, with a +1 to its Accuracy for every time it has discharged against the same person, calculated separately per person.
 
 #### --( Hiyaku Raikoui - Chain Lightning )--
 You hold out your fingers and fire a focused bolt of lightning which then, after striking the target, goes to find a new target, then another, amplifying itself each time it passes through someone, 'feeding' off of their chakra.
@@ -317,9 +319,11 @@ Filling both of your arms with an intense and energetic lightning chakra, you th
 
 Effects: The creates a vertical spire of energy on an appropriate surface, CHA/4 yards tall. When created, and every 20 IC afterwards, this shocks anyone except you within (CHA)*3/4 yards. You may designate up to (Chakra Control)/5 other people who will not be targeted by the spire, but everyone else within range who is not hidden will be targetted. This attack receives an Accuracy bonus equal to half the severity of the Paralysis status on its target(s) (meaning that different people may have to defend against different accuracies).
 
+When it attacks someone, it uses the final Speed of the technique when it was first used, and its effective NDB is equal to yours at the time you use the technique. Because the attacks are made by the technique, and not you, you cannot modify them further (such as with Willpower or AP).
+
 The spire has an unlimited number of charges, and 1000+NDB*25 HP. It takes double damage from Fuuton, half from Doton, and if struck by a melee-range attack it immediately discharges against the attacker.
 
-You may 'store' uses of Tesla Minor in the spire, up to a maximum of CHA/20. These will all discharge at the same time as the spire, gaining its range but keeping their own damage. For each simultaneous Tesla strike from the spire (be it a Minor or Major) that strikes someone, they suffer a Paralysis 1; if the spire and three Minors inside of it all hit somebody, that person would suffer a Paralysis 4. This technique uses your base Accuracy for an A-rank Raiton unmodified by status, wounds, temporary bonuses, and so on, though penalties from Fatigue do apply. The ninjutsu damage bonus is equal to yours at the time you use the technique. Because the attacks are made by the technique, and not you, you cannot modify them further (such as with Willpower or AP).
+You may 'store' uses of Tesla Minor in the spire, up to a maximum of CHA/20, by using Tesla Minor and targetting the spire created by Tesla Major. These will all discharge at the same time as the spire, gaining its range but keeping their own damage. For each simultaneous Tesla strike from the spire (be it a Minor or Major) that strikes someone, they suffer a Paralysis 2, replacing Tesla Minor's normal Shock; if the spire and three Minors inside of it all hit somebody, that person would suffer a Paralysis 8. This technique uses your base Accuracy for an A-rank Raiton unmodified by status, wounds, temporary bonuses, and so on, though penalties from Fatigue do apply.
 
 #### --( Raitama - Ball Lightning )--
 Upon completion of the handseals the user forms a ball of raw, condensed lightning chakra between their palms, then encases it in a more stable 'shell' made from hundreds of interwoven chakra strands, creating a mesh-like barrier that prevents the inner chakra from dissipating. After that, they can either leave the resulting ball of chakra hovering where it was made or hide it inside some appropriately sized physical object, typically the ground, where it will lie in wait until someone comes close enough to trigger the mine. When they do, it seeks them out and detonates on contact.

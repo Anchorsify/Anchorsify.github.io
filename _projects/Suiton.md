@@ -262,11 +262,11 @@ Effects: If the victim fails a status roll this inflicts Stun 10. Half the gallo
 #### --( Suijinheki - Water Encampment Wall )--
 This defensive technique creates a wall of water around you, which forms a violently churning defensive perimeter. When lacking water in the environment to use, a talented shinobi can form it in their stomach and spit it out.
 
-- Chakra: 26
-Special: Interrupt, Abort
-Speed: 12
-Seal Speed: 12
-Requires: 10+NDB*2 gallons of water
+ - Chakra: 26
+ - Special: Interrupt, Abort
+ - Speed: 12
+ - Seal Speed: 12
+ - Requires: 10+NDB*2 gallons of water
 
 Effects: If using Suijinheki as an interrupt: Make an accuracy roll against an incoming attack, with a bonus of half your ninjutsu damage bonus or this technique's final, modified Speed, whichever is lower. Once Suijinheki has been deployed, it lasts for your NDB in IC (whether your defense succeeded or failed), stopping any other incoming attacks automatically without having to roll. Anytime after the initial attack, you may Abort this technique, which is necessary if you need to move or attack through it. This technique protects you from any Katon up to A-rank, Doton up to C-rank, and all other techniques (including taijutsu) up to B-rank, and uses up a number of gallons equal to twice the rank of the technique it's first used against, plus 2 gallons per IC it's deployed, which are removed from the battlefield thereafter (basic attacks, however, do not have any gallons of water lost in this way).
 

@@ -118,6 +118,7 @@ The user places themself under a harmless genjutsu, which itself serves no purpo
 - Upkeep: 2
 - Speed: 6
 - Seal Speed: 12
+- Special: Interrupt
 
 Effects: So long as this technique's upkeep is maintained, you have a +4 bonus to defensive genjutsu rolls. This genjutsu does not end when you're wounded. You may declare Iron Curtain as an Interrupt when targeted with genjutsu, following the normal rules for defensive interrupts and giving you its bonus for that defensive genjutsu roll. Iron Curtain does remain active (as if activated normally) after being used this way.
 
