@@ -428,7 +428,7 @@ Any Raiton or Doton technique can be converted into a Jiton technique, with the 
  - Grant 1 Charge, a stacking self-buff which lasts for (20+Rank*5) IC.
  - They gain a ‘Sand’ cost in Gallons, according to the Rank of the jutsu: 2 for E, 4 for D, 8 for C, 16 for B, 32 for A.
  - Any technique with an Upkeep requires an amount of Gallons of Sand equal to its Upkeep to maintain (i.e, Doton: Domu requires 10 Gallons of Sand that become unusable until you end its Upkeep), replacing the rank-based requirement if it is higher.  Similarly, the Charge these techniques grant does not fade until the Upkeep is dismissed (allowing Doton: Domu to grant 1 Charge until you end its Upkeep).
- - Have their base Speed increased by 2 per Rank (E = +2, D = +4, etc, up to A = +10).  Thus, a Jiton Retsudotensho would be treated as a Speed 28 action for all purposes (including its minimum Speed after reductions), rather than 22.
+ - Have their base Speed increased by 2 per Rank (E = +2, D = +4, etc, up to A = +10).  Thus, a Jiton Retsudotensho would be treated as a Speed 26 action for all purposes (including its minimum Speed after reductions), rather than 20.
  - Do not inflict Paralyze, and instead grant the Monkasei an additional Charge.
  - Do not inflict Stun, and instead increase the duration of the Charge they grant by the technique’s (Stun*2).
  - For any technique which would ordinarily end the target’s Shock and/or Paralysis status, the Monkasei can choose to spend 1 Charge (rather than gain any from the technique, as is normal) to prevent either status effect from ending.
