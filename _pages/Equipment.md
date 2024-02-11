@@ -732,10 +732,6 @@ Attempts have been made to raise the animal in captivity, and failed. The common
 
 ## Rank Gear
 #### Genin
-##### Forehead Protector
-- Cost: Free
-
-A rectangular piece of metal with your village's emblem prominently engraved. They're typically worn on the forehead, but can be strapped to any part of the body. When worn, it blocks the effects of the first Minor wound you receive to the body part worn on (which you should declare when rolling Initiative if not on the forehead), but is knocked off in the process.
 
 ##### Exploding Tag
 - Cost: 100 Ryo
@@ -750,13 +746,33 @@ Tags do 5d20.open(10) damage, in Area 20. If multiple tags are set off on the sa
 
 Certain jutsu may cause tags to explode immediately (such as the C-rank Burning Star Shuriken); in this case, the explosion may be dodged normally, using the attack's Speed to determine area-of-effect dodge penalties, if any.
 
+##### Forehead Protector
+- Cost: Free
+
+A rectangular piece of metal with your village's emblem prominently engraved. They're typically worn on the forehead, but can be strapped to any part of the body. When worn, it blocks the effects of the first Minor wound you receive to the body part worn on (which you should declare when rolling Initiative if not on the forehead), but is knocked off in the process.
+
+##### Kusari Katabira 
+ - Cost: 200 Ryo per location, or 500 for a full "suit" 
+
+A form-fitting metallic mesh, it has overthrown the bulky and, frankly, antiquated armors of old that were typically large, layered plates of metal. Samurai now favor such armor, which for most shinobi is about all you need to say to explain why you shouldn’t. While still encumbering, this more modern style of “fishnet” armor is less intrusive and antithetical to a shinobi’s favored tactics.
+
+Due to shinobi fashion being almost as much about personality as it is practicality, designers have made variants of the armor that can fit any combination of parts of the body the user wishes, or simply be made as a “full-body suit”, though they tend to stop a few inches short of the ankles and calves even so, and never are designed to protect the head (don’t ask).
+
+Mechanically, this is tracked with only three “locations”: Arms, Legs, and Torso (which includes Torso and Abdomen, for wounding location).  Armor worn on any given location is assumed to cover both arms or legs, and when damaged, it’s considered damaged on both locations without having to track wounds for left or right.
+
+The first time you would be wounded in any given location sporting this armor, you reduce the wound severity by one (potentially negating it entirely), and lower the total damage taken (after determining if you’re wounded) by 20. The second time, you reduce the wound severity by one, to a minimum of minor, and lower the total damage taken (again, after determining if you’d be wounded) by 10, after which the armor is ‘broken’, and provides no further benefit (but maintains its penalties) until you can get it repaired back at your village.
+
+While wearing this armor, you take a -1 to your Athletics, Stealth and Initiative rolls per location covered.  It is trivial to remove outside of combat, but inside of combat it is a Speed 10 action to remove it from one location, or a Speed 25 action to remove a full suit.
+
+Villages will repair damaged armor for free, but frown upon overzealous (or masochistic) shinobi coming in for repairs excessively often, and will thereby only repair any damaged armor once a week (once per OOC day).
+
 #### Chuunin
 ##### Flak Vest
 - Cost: 400 Ryo
 
 Often referred to as 'chuunin vests', these are what many a genin strives to be allowed to wear. There's a jounin version as well, slightly different in appearance but functionally identical.
 
-Any time your torso or abdomen would be wounded, the vest reduces the wound's severity by 1, and the final damage by 25 (after determining if you're wounded). The next time, this damage reduction is 20; then 15, and so forth. When the damage reduction reaches 0, the vest is damaged too badly to provide any protection and no longer reduces the severity of your wounds.
+Any time your torso or abdomen would be wounded, the vest reduces the wound's severity by 1, and the final damage by 50 (after determining if you're wounded). The next time, this damage reduction is 40; then 30, and so forth. When the damage reduction reaches 0, the vest is damaged too badly to provide any protection and no longer reduces the severity of your wounds.
 
 ##### Custom Smoke Bombs
 - Cost: Level*10 Ryo

@@ -199,7 +199,7 @@ Your attacks stagger an opponent, club them upside the head, knock the wind out 
 - Limit: STR /20, max 5
 
 #### -=[ Piercing: Penetrate ]=-
-Your piercing weapons ignore half of the Damage Reduction (DR) any enemy might have.
+Your piercing weapons ignore any armor your opponent is wearing!
 
 - Base Cost: 20
 - Requires: 40 STR

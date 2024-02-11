@@ -80,12 +80,12 @@ Rock Thrust, except actually meant to do serious harm to people outside of train
 - Seal Speed: 12
 - Status: Stun 4
 
-Effects: Earthen Skewer inflicts Piercing wounds, and has its damage increased by 10% when checking to see if it caused a wound.
+Effects: Earthen Skewer inflicts Piercing wounds, and has its damage increased by 10% for Wounding.
 
 #### --( Tama no Nendo - Clay Bullet )--
 Pushing your chakra into the ground beneath you, you pull up a ball of earth and mud, globby and chakra filled that you then launch or literally throw sometimes at the opponent. Once on them, the mud is held semi-cohesive by the chakra lacing it, which can restrict the victim's movement.
 
-- Chakra: 14
+- Chakra: 15
 - Damage: 8d10
 - Range: 8
 - Speed: 12
@@ -124,7 +124,7 @@ An advanced variation of Bunshin no Jutsu, this jutsu creates solid clones made 
 - Seal Speed: 4, +2 per clone
 - Requires: Bunshin no Jutsu
 
-Effects: These follow all the rules for regular bunshin (limitations of 3, etc), with the following exceptions: If a mud clone is hit by an unarmed attack, their attacker suffers a -4 immobilization penalty. If they are struck by a melee weapon, their attacker must make a grapple roll (as the defender), with your clone using CHA/10 in place of STR/10; if they fail, the weapon is stuck in the clone (which is exposed as a clone), and it must be wrested free from the clone's mud body as a Speed 5 action which allows another grapple roll with a +2 bonus for each prior attempt. Against ranged attacks, these clones can take 50 points of damage before being destroyed (and revealed as clones).
+Effects: These follow all the rules for regular bunshin, with the following exceptions: If a mud clone is hit by an unarmed attack, their attacker suffers a -4 immobilization penalty. If they are struck by a melee weapon, their attacker must make a grapple roll (as the defender), with your clone using CHA/10 in place of STR/10; if they fail, the weapon is stuck in the clone (which is exposed as a clone), and it must be wrested free from the clone's mud body as a Speed 5 action which allows another grapple roll with a +2 bonus for each prior attempt. Against ranged attacks, these clones can take 50 points of damage before being destroyed (and revealed as clones).
 
 #### --( Doryu Ken - Earth Style Fist )--
 By surrounding your arm or leg in a coat of solidified earth, you can attack an opponent while being protected from direct contact with them.
@@ -269,7 +269,7 @@ You direct chakra to flow through the skin over all portions of your body, incre
 - Speed: 16
 - Seal Speed: 17
 
-Effects: You reduce all damage you take by your CHA, and increase your physical damage bonus by half your ninjutsu damage bonus. Raiton bypasses all this technique's effects, and Suiton has its damage lowered by twice as much (a DR of CHA*2, rather than just CHA).
+Effects: You gain (CHA) Damage Reduction, and increase your physical damage bonus by half your ninjutsu damage bonus. Raiton bypasses all this technique's effects, and Suiton has its damage lowered by twice as much (a DR of CHA*2, rather than just CHA).
 
 #### --( Doryuuheki - Earth Style Wall )--
 The most powerful direct Doton-based defense, the user either manipulates the surrounding terrain or generates (using chakra!) and spits out an prodigious amount of flowing earth which forms a wall and solidifies. Either way, this creates a barrier coated with chakra that will stop most attacks totally.
@@ -289,11 +289,13 @@ You either gather animate rocks from you, or actually generate them with chakra 
 - Seal Speed: 10, +3 per clone
 - Requires: Bunshin no Jutsu
 
-Effects: You may create up to 3 clones that can look like yourself or anyone else present. If they look like someone else, that person may then hide amongst your clones to receive the normal benefits of having clones; these can even be added to their own clones. Rock clones can take 100+(your ninjutsu damage bonus)*5 points of damage before being destroyed, or exposed as clones, and take only half damage from AoE attacks. Rock clones use your attributes, even if they're imitating someone else. They may take the following actions:
+Effects: You may create up to 3 clones that can look like yourself or anyone else present. If they look like someone else, that person may then hide amongst your clones to receive the normal benefits of having clones; these can even be added to their own clones. 
+
+Rock clones can take 100 + (your ninjutsu damage bonus) * 5 points of damage before being destroyed, or exposed as clones, and take only half damage from AoE attacks. 
+
+These function like regular bunshin, except that Rock clones use your attributes, even if they're imitating someone else. They may dodge, as well as the following:
  - [ 4 AP ] Attack: The clone may perform a basic unarmed attack. This does benefit from Power Attack or Unarmed Focus, if you have those abilities, but the clone does not need to make a Stamina roll.
  - [ X AP ] Move: Every 3 Speed of the Move action costs 1 AP.
-
-When Rock Clones attack, their actions are always considered to be Held Back, as per the ability in Chapter 5, even if you do not have the Hold Back ability. This means they use only half your damage bonus for dealing damage, and the severity of wounds they inflict is reduced by one category.
 
 ## A-Rank
 #### --( Doryuudan - Earth Dragon Blast )--

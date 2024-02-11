@@ -28,6 +28,8 @@ Effects: You are grappling your opponent. This is not inherently a huge advantag
  - Other Grapple jutsu may be used. Grapple jutsu cannot be defended against normally (i.e. dodging, blocking). Ordinary attacks, such as punching or stabbing the other grappler, can be defended against normally.
  - The attacker must keep one hand on the defender to maintain the grapple, and cannot use handseals without the Single-Handed Seals unique, or use any two-handed weapon.
  - If either person is suffering from the Ignite status, both people take damage from it. If both are on fire, only the more severe Ignite deals damage.
+ - Neither may Hide, or be hidden, from the other.
+ - Neither needs to roll miss chance (such as from Clones) against the other.
 
 Certain situations within a grapple may call for a 'grapple check'. This varies depending on whether you are the attacker or defender: The Attacker rolls 1d20 + STR/10 + DEX/15, while the Defender rolls 1d20 + STR/10 + AGI/15.
 

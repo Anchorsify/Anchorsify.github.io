@@ -65,7 +65,7 @@ Whenever you miss with an attack, you become increasingly frustrated and driven 
 ##### Defender
 Throwing solid blocks, you've honed your reflexes and worked your bones and tendons hard so that your twitch reflex is all you need to keep yourself safe.
 
-You gain RES/4 DR, and you can use the Block defense as a Speed 4 Interrupt. Anytime you are struck by an unarmed attack, your attacker takes RES/2 damage (which can't wound)—Punching you hurts. Finally, you treat any damage you take as 10% lower for determining what Wounds you take, which increases to 25% when you Block.
+You gain RES/4 Damage Reduction, and you can use the Block defense as a Speed 4 Interrupt. Anytime you are struck by an unarmed attack, your attacker takes RES/2 damage (which can't wound)—Punching you hurts. Finally, you treat any damage you take as 10% lower for determining what Wounds you take, which increases to 25% when you Block.
 
 The focus on self-preservation, however, has left you more cautious than most even when attacking. The damage of all your attacks is considered 10% lower for determining what wounds they cause.
 
@@ -86,7 +86,7 @@ Reaching beyond your grasp has a cost: Any jutsu you couldn't perform without Ge
 ##### Juggernaut
 You are a solid, hulking brute. You aren't necessarily tall, but you condition yourself hard and have always had a natural gift at receiving pain: Thick, solid forearm muscles and tendons, strong shins, you are a rough opponent to face and an even harder one to stop.
 
-You use STR/12, rather than STR/15, to calculate your Physical Damage Bonus, you reduce all damage you take by STR/4, and reduce the severity of any Stun you receive by STR/20.
+You use STR/12, rather than STR/15, to calculate your Physical Damage Bonus, you gain STR/4 Damage Reduction, and reduce the severity of any Stun you receive by STR/20.
 
 All your movement is reduced by 10%. This applies to your normal movement speed based on AGI, jutsu which allow you to travel (such as Vaulting Leap or Exploding Water Shockwave), and even knockback effects from your enemies.
 

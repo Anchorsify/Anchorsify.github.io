@@ -217,7 +217,7 @@ If you wish, you may suppress activation of these modifications. Suppressing any
 
 **[ Osteogenesis ]** - The more a Kaguya fights, the easier it becomes for them to do so. Every application of this modification reduces the Chakra costs of clan jutsu by 2. You can apply this up to 5 times.
 
-**[ Realignment ]** - You can recover from any Wound, by investing a number of Realignment modifications equal to the Wound’s severity: 1 for Minor, 2 for Major, 3 for Severe, 4 for Critical. This does mean that you can choose to immediately recover from any Minor wound you receive by spending the Skeletal Modification you gained from being Wounded on Realignment. In the case of Gates, you can not recover from Wounds received by them until all Gates are closed, though you can recover from Wounds gained from other sources while they are open.
+**[ Realignment ]** - You can recover from any Wound, by investing a number of Skeletal Modifications equal to the Wound's severity: 1 for Minor, 2 for Major, 3 for Severe, 4 for Critical. This does mean that you can choose to immediately recover from any Minor wound you receive by spending the Skeletal Modification you gained from being Wounded on Realignment, but also means you can not "save up" Realignment Modifications for later use, and instead lower your Modifications from other categories (between Armor, Blades, Osteogenesis and Spurs) in order to use Realignment, of any combination. In the case of Gates, you can not recover from Wounds received by them until all Gates are closed, though you can recover from Wounds gained from other sources while they are open.
 
 **[ Spurs ]** - Small shards and lengthier spikes of bone gradually cover your body, protruding from beneath your skin and injuring anyone foolish enough to strike you. Anyone who attacks you in melee range takes (your RES)/5 damage if they hit. This damage is also dealt anytime someone uses a Grapple jutsu against you. You can apply this up to 5 times.
 
@@ -315,7 +315,7 @@ Effects: This may only be taken after you already have a clan sword (meaning, yo
 
 #### -=[ Clan Swords ]=-
 
-Upon becoming a Chuunin, a Mist swordsman will receive their own, personalized blade. Most of them will have kept, used, and taken care of a single sword, usually a katana, from their days in the academy--in these cases, they usually opt to have that weapon reforged.
+Upon becoming a Chuunin or reaching 2500 XP, a Mist swordsman will receive their own, personalized blade. Most of them will have kept, used, and taken care of a single sword, usually a katana, from their days in the academy--in these cases, they usually opt to have that weapon reforged.
 
 Though they don't partake in the forging process, the ninja will be there the entire time, and it's followed by a ritual consecration, and a four-day period of solitary meditation in which the shinobi is alone with only their blade, fasting and subsisting off only just enough water to stave off dehydration. The relationship between sword and swordsman is... interesting. Most swordsmen take care of their blade better than their teammates, and it's not even considered unusual for them to name and talk to it (if the sword starts talking back, though, that just means they're crazy).
 
@@ -325,17 +325,15 @@ Many claim their swords are 'loyal' to them (others just say their weapons are u
 
 In the event one of these swords is hopelessly lost (say, tossed to the bottom of the ocean, or thrown into a volcano) a new one can be forged for the swordsman, though this is not done lightly; if given the chance, most would literally fight through hell to get their sword back. It takes four weeks to obtain a replacement sword, after which the original will no longer recognize its former owner. A member of the swordsman corps who accepts a replacement blade when it's in any way possible to reclaim their old one is viewed with severe disdain by their fellow swordsmen. (Using a regular katana in the meanwhile, however, is perfectly acceptable).
 
-Upon reaching Chuunin rank all members of the Swordsman Corps receive their own weapon automatically. Once you've reached that rank, use the rules here to customize your personal weapon.
-
 Your sword begins with 20 points which you can spend on it at your discretion. The first thing for you to do is choose its Structure features; this is its basic shape and so on. There are 5 primary characteristics to select here, and each one has a point cost listed next to it; for example, "(2) Small" means it costs 2 of your 20 points to make your weapon have the ‘Small’ tag added to it.
 
 After selecting all your Structure options, you move on to Features. Although prices are in the same format, the layout is different.
 
-Features relate to three key components of your weapon: its balance (how easy it is to handle), its blade (how sharp, and other special characteristics), and its body (its weight and sturdiness). They are also divided into three tiers: Bottom, Middle, and Top. To take features in the Middle tier, you must have spent at least 5 of your sword customization points in that group; to take features from the Top tier, you must have spent at least 10 points in that tree.
+Features relate to the true nature of your weapon, as measured by its favorance and balance between Yin and Yang Chakra, according to its chosen construction of its Blade, Hilt, and Tassel, three tiers that you can choose to spend points on.  Blade features can be taken at will, while Hilt features require at least 5 of your sword customization points in the associated group; to take a Tassel feature, you must have spent 10 points in that group, and may only take one Tassel feature for your sword in total, even from the same group.
 
-For example, if you spent 7 points on Bottom-tier and 3 points on Middle-tier features in Balance, you could take the top-tier Balance features. You would still be restricted to Bottom-tier Blade and Body features, unless you also spent enough points in those trees.
+For example, if you spent 7 points on Blade features and 3 points on Hilt features in Yin, you could take either of the Tassel Yin features. You would still be restricted to Blade features for Balance and Yang features, unless you also spent enough points in those trees.
 
-You must spend at least 1 point in one of the three primary trees of Features. There are also Special Features, which have two differences from regular features. The first, they only have Bottom and Middle tiers. The second, they will not determine your sword's number of damage dice.
+You must spend at least 1 point in one of the three primary trees of Features, and any unused points can not be spent after its construction, and are simply lost.
 
 #### -=[ 1. Structure ]=-
 
@@ -351,15 +349,15 @@ Every weapon must have at least one damage type. If it has more than one type, y
 ###### b. Size
 A weapon may have only one size. Size determines both which jutsu and abilities it functions with, as well as its die size.
 
- - (3) Small: *d6 damage, +1 Acc, -2 base Speed
+ - (2) Small: *d6 damage, -2 base Speed
  - (0) Medium: *d10 damage
- - (3) Large: *d12 damage, -1 Acc, +2 base Speed
+ - (2) Large: *d12 damage, +2 base Speed
 
 ###### c. Two-Handed
-Only Large weapons may be two-handed. If a weapon is two-handed, it can't be used one-handed unless you have the Monkey Grip ability. You may only choose one of these options.
+Only Medium and Large weapons may be two-handed. If a weapon is two-handed, it can't be used one-handed unless you have the Monkey Grip ability. You may only choose one of these options.
 
  - (0) One-Handed
- - (2) Two-Handed
+ - (3) Two-Handed
 
 ###### d. Number
 Some swordsmen have more than one weapon. The Dual tag does not actually grant you an additional sword, just means your weapon is optimized for dual wielding (as per the ability). If you take Paired, you get a second weapon which has 15 points to spend normally, and may not take Paired itself.
@@ -368,83 +366,63 @@ Some swordsmen have more than one weapon. The Dual tag does not actually grant y
  - (5) Paired
 
 ###### e. Damage
-Not something you spend points on, this time! Of the three primary feature sets below (Balance, Blade, and Body), determine which one you have the most points in. If there's a tie, choose one. That determines your sword's Speed, Stamina cost, and damage dice.
+Not something you spend points on, this time! Of the three primary feature sets below (Yin, Balance, and Yang), determine which one you have the most points in. If there's a tie, choose one. That determines your sword's Speed, Stamina cost, and damage dice.
 
- - Balance: Speed 10, Stamina 8, 7d_ damage
- - Blade: Speed 12, Stamina 12, 10d_ damage
- - Body: Speed 15, Stamina 14, 12d_ damage
+ - Yin: Stamina 9, Speed 11, 6d_ damage
+ - Balance: Stamina 12, Speed 13, 8d_ damage
+ - Yang: Stamina 14, Speed 15, 10d_ damage
 
 #### -=[ 2. Features ]=-
 
-###### a. Balance
-*Bottom*  
-(1) +1 Bleed, -1 die of damage. Your sword must deal at least 1d_ damage. This does require a status roll.  
-(1) If you spend AP on a sword attack, and miss, half the AP spent (rounded down) is refunded.  
-(1) Your sword deals +1d_ damage, to a maximum of +4d_.
+###### a. Yin
+*Blade Features*   
+(2) (Small Only) +1 Accuracy, -1 Damage Bonus.  Can be taken twice.  
+(2) -1 Stamina Cost.  Can be taken three times.  
+(1) +1 Bleed.  Can be taken twice.  
+(2) You use CHA/15 to determine your Sword Damage Bonus, instead of normal, with your sword. You can take this feature a second time, lowering the divisor by the Precision ability (to a minimum of CHA/12).  
+(1) When you Parry with your sword, you gain (SDB) Damage Reduction (which is typically only relevant if you fail); Can be taken four times.
 
-*Middle*  
-(2) -1 base Speed, maximum of -2.  
-(1) +1 Parry, to a maximum of +2.
+*Hilt Features*
+(1) +1 Bleed.  Can be taken three times.  
+(2) (Requires CHA-based SDB Feature) You use your CHA in place of your DEX for the Blademaster ability with your sword.
 
-*Top*  
-(1) Your Parry has its base Speed reduced by 1. This can only be taken once.  
-(1) The weapon may be held with one less hand than normal. This allows a two-handed weapon to be one-handed without difficulty (though does mean it loses its two-handed damage bonus). A weapon that requires "no hands'' can be strapped to your body somehow.
+*Tassel Features*
+(4) While using Chakra Flow (either version) with your sword, you can parry attacks from your current Chakra Flow elemental strength in the same way you can parry Taijutsu.  
+(4) As a Chakra +5, Speed +3 link you can replace your sword's 'Sword' tag with any of the following: Polearm, Fan, Chain, by forming chakra over your blade to take the shape of another type of weapon, allowing you to potentially use different jutsu dependent upon other weapon types.
 
-###### b. Blade
-*Bottom*  
-(2) Your sword's damage is increased by 10% for the purposes of determining wounds; this can be taken up to 5 times.  
-(1) Your sword attacks have their damage bonus increased by 1, but their Accuracy decreases by 1 as well.  
-(2) Your sword's die size is increased by 2, to a maximum of _d20.
+###### b. Balance
+*Blade Features*
+(1) +1d_ damage. Can be taken four times.  
+(1) +5% Wounding. Can be taken ten times.  
+(2) Attempts to parry your sword take a -1 penalty. Can be taken three times.  
+(2) Blocking reduces your sword's damage by 10% less; taken a second time, 25% less.  
+(1) Your sword bypasses (SDB) Damage Reduction.  Can be taken three times.
 
-*Middle*  
-(1) Attempting to parry your sword has a -1 penalty, to a maximum of -3.  
-(1) Your sword deals three more dice of damage but has its Stamina cost increased by 4.
+*Hilt Features*
+(1) Immobility 1 on hit.  You can take this up to four times, which doesn't change the amount of Immobility applies, but lets it stack up to the amount of times taken.  
+(2) +1 to Parry rolls.  Can be taken twice.  
+(2) Your sword's dice gain .extra(die size-2).  This can be taken repeatedly, each time lowering the .extra value by 1 (from .extra(10) to .extra(9), etc), to a maximum of .extra(4).
 
-*Top*  
-(2) Your sword deals another STR/20 dice of damage, but has its Stamina cost increased by 2. This can no more than double its base damage dice (from ‘e. Damage’).  
-(2) Your weapon's dice become .extra(die size-2). This can be purchased repeatedly, each time lowering the .extra value by 1 (from .extra(10) to .extra(9), then .extra(8), and so on).
+*Tassel Features*
+(4) The sword may be held with one less hand than normal. This allows a two-handed sword to be one-handed without difficulty (though does mean it loses its two-handed damage bonus). A sword that requires "no hands" can be strapped to your body somehow.
+(4) Parrying with this sword hase its base Speed reduced by 1, and you may parry any disarm attempts with this sword with a +3 bonus, which replaces the normal penalty for parrying a disarm attempt.
 
-###### c. Body
-*Bottom*  
-(1) You have a +1 bonus to rolls made to disarm an opponent's weapon, and a +1 bonus to any of your defenses against being disarmed. Your sword's base Speed is increased by 1.  
-(1) If you block while holding your sword, you gain DR equal to your Sword Damage Bonus; this is multiplied by the number of times you've taken this feature, and doubled if used with the mid-tier Weapon Block ability. This can be taken up to 5 times.  
-(2) Your sword gains a Stun 1, to a maximum of Stun 4.
+###### c. Yang
+*Blade Features*  
+(2) (Large Only) +2 Range; attacks with this weapon don't trigger on-contact effects.  
+(2) Your sword’s die size is increased by 2, to a maximum of _d20.  
+(1) Stun 1.  Can be taken twice.  
+(2) Your Sword's base Speed is increased by 1, it gains Delay 2, and your Sword Damage Bonus is increased by 2 when attacking. Can be taken twice.  
+(1) When you block while holding your sword, you gain DR equal to your Sword Damage Bonus; this is multiplied by the number of times you’ve taken this feature. Can be taken up to six times.
 
-*Middle*  
-(2) Weapon Block: While wielding your sword, you can block weapon attacks as a Speed 4 Interrupt.  
-(2) You may declare when you make your attack that you are reducing its damage by 50%. If it hits, it gains a Stun of (damage dealt)/50. If you purchase this feature a second time, you reduce your damage by only 25%. It cannot be taken more than twice. This adds to the low-tier Stun effect if you have it.  
-(1) Anyone attempting to parry your sword does so at a -1 penalty. This can be taken up to 4 times.
+*Hilt Features*
+(1) Stun 1.  Can be taken three times.
+(2) While wielding your sword, you can Block as a Speed 4 Interrupt.  Taken a second time, your Block's effectiveness is not reduced by weapons, and any Damage Reduction you gain when blocking from the Yang Blade Feature is doubled.
 
-*Top*  
-(3) While blocking, you can declare Block as your defense against a disarm attempt. This allows you to use your normal Accuracy value, or make an accuracy roll, against the disarm attempt, with a +5 bonus (in addition to all other Body bonuses against being Disarmed).  
+*Tassel Features*
+(3) Your sword's Stamina cost is increased by 2, and its damage is increased by +4d_.
+(4) Anyone who successfully parries your sword still takes half damage (but no secondary effectS); Your sword's Stun value is increased by 50% against anyone who blocks your sword.
 
-#### -=[ 3. Special Features ]=-
-
-###### Small
-*Bottom*  
-(3) Your sword has +1 Accuracy, but -0.5 to your damage bonus. This has a maximum of +2 / -1.0  
-(1) Someone trying to parry your sword with a weapon does so as if your attack's Speed was 1 lower. This can be taken twice.  
-
-*Middle*  
-(2) Your sword's base Speed is reduced by 1. This can be taken twice.  
-(1) The sword has a compartment in the handle for poison. It can hold up to three doses, which must be of the same type of poison. This allows you to, as a Speed 0 action, coat your blade with poison for a single attack.  
-(2) Your sword gains a Stun 1, to a maximum of Stun 4.
-
-###### Large
-*Bottom*  
-(2) Your sword's base Speed is increased by 2, it gains Delay 2, and your sword damage bonus is also increased by 2 when using it. This may be taken twice.  
-(1) Anyone trying to parry or disarm your sword does so at a -1 penalty. However, your parries with your weapon similarly have a -1 penalty.
-
-*Middle*  
-(1) Your sword inflicts a Stun 2 to anyone who successfully parries or blocks it. This stacks with any other stuns applied by your weapon.
-
-###### Spiritual
-*Bottom*  
-(2) You use CHA/15 to determine your damage bonus while using your sword. If you take this feature a second time, the divisor is lowered by the Precision ability (to a minimum of CHA/12).  
-(2) When rolling accuracy with your sword, you use CHA/10 rather than DEX/10.  
-
-*Middle*  
-(4) Twice a day you may call your sword to you so long as it's in a one mile radius. If it's nearby it will fly to your grasp; if not, it will appear in your grasp as if summoned. This can count as drawing it for Iaijutsu. Additionally, you have a permanent +3 bonus to any attempts to resist your sword being disarmed.
 
 ## Terumi
 One of the few clans in Kirigakure that was never victim of the extensive bloodline purges in the village’s past, the Terumi clan came about only after they had concluded.  Most of the clan is descended directly from the Fifth Mizukage, from whom they take their name.

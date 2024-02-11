@@ -424,18 +424,17 @@ Though commonly referred to as ‘magnetic’ Chakra, in actuality it is a littl
 
 Any Raiton or Doton technique can be converted into a Jiton technique, with the following changes:
  - +5 Chakra cost
- - Jiton Techniques can not be reduced below Chakra 10.
- - Grant 1 Charge, a stacking self-buff which lasts for (20+Rank*5) IC.
+ - Grant 1 Charge, a stacking self-status effect which lasts for (20+Rank*5) IC.
  - They gain a ‘Sand’ cost in Gallons, according to the Rank of the jutsu: 2 for E, 4 for D, 8 for C, 16 for B, 32 for A.
  - Any technique with an Upkeep requires an amount of Gallons of Sand equal to its Upkeep to maintain (i.e, Doton: Domu requires 10 Gallons of Sand that become unusable until you end its Upkeep), replacing the rank-based requirement if it is higher.  Similarly, the Charge these techniques grant does not fade until the Upkeep is dismissed (allowing Doton: Domu to grant 1 Charge until you end its Upkeep).
- - Have their base Speed increased by 2 per Rank (E = +2, D = +4, etc, up to A = +10).  Thus, a Jiton Retsudotensho would be treated as a Speed 26 action for all purposes (including its minimum Speed after reductions), rather than 20.
+ - Have their base Speed increased by 1 per Rank (E = +1, D = +2, etc, up to A = +5).  Thus, a Jiton Retsudotensho would be treated as a Speed 23 action for all purposes (including its minimum Speed after reductions), rather than 20.
  - Do not inflict Paralyze, and instead grant the Monkasei an additional Charge.
  - Do not inflict Stun, and instead increase the duration of the Charge they grant by the technique’s (Stun*2).
  - For any technique which would ordinarily end the target’s Shock and/or Paralysis status, the Monkasei can choose to spend 1 Charge (rather than gain any from the technique, as is normal) to prevent either status effect from ending.
  - Jiton is strong against Doton and Katon, but weak against Fuuton.
 
 ###### --( Charge )--
-This is a status effect, applied to the Monkasei.  Charge stacks fully with itself, but every source of Charge the Monkasei acquires is tracked individually (sorry).  Thus, a Monkasei who gains 1 Charge on IC 45, 2 Charge on IC 55, and another 1 Charge on IC 63 would be at Charge 4 until IC 70, at which point the first would fade and they would be at Charge 3.  At IC 80 they would go down to Charge 1, and at IC 88 they would lose their last point of Charge unless they used another Jiton technique in that time.
+This is a status effect, applied to the Monkasei when they utilize Jiton.  Charge stacks fully with itself, but every source of Charge the Monkasei acquires is tracked individually (sorry).  Thus, a Monkasei who gains 1 Charge on IC 45, 2 Charge on IC 55, and another 1 Charge on IC 63 would be at Charge 4 until IC 70, at which point the first would fade and they would be at Charge 3.  At IC 80 they would go down to Charge 1, and at IC 88 they would lose their last point of Charge unless they used another Jiton technique in that time.
 
 Charge grants the following changes to any Jiton technique which it’s applied to:
  - -1 Chakra Cost
@@ -452,21 +451,20 @@ So long as a Monkasei has access to some sort of solid ground (i.e., is not floa
 
  - Type: Jiton Ninjutsu, Rank E
  - Chakra: 5 + X/4
- - Speed: 5 + X
- - Seal Speed: 8
+ - Speed: 5 + X/2
 
-Effects: This technique's Chakra cost is an exception to the above rule for Jiton that they must have a minimum chakra cost of 10. You create X gallons of Sand (keeping in mind that ‘Sand’ is more like ‘weathered and eroded bits of dirt and stone’, but it works for a Monkasei’s purposes). This may be used alongside a technique, in which case its Speed is 0, and its cost and Seal Speed are added to that technique’s, and it contributes directly to that technique’s Gallons requirement.  It may also be used alone, in which case the created Sand is deposited on the battlefield.
+Effects: You create X gallons of Sand (keeping in mind that ‘Sand’ is more like ‘weathered and eroded bits of dirt and stone’, but it works for a Monkasei’s purposes). This may be used alongside a technique, in which case its Speed and its cost is added to that technique’s as a link, and it contributes directly to that technique’s Gallons requirement.  It may also be used alone, in which case the created Sand is deposited on the battlefield.
 
 #### --( Sabaku Kyu - Sand Coffin )--
 No one likes Sand.  It’s coarse, and rough, and irritating.  And it gets everywhere. Which the Monkasei tend to use to their advantage in order to slow down and debilitate their opponents through tactical, frustrating maneuvering that makes everything chafe.
 
  - Type: Jiton Ninjutsu, Rank D
  - Chakra: +(2+X/4)
- - Speed: +X
+ - Speed: +(2 * Y)
 
-Effects:  This can be added onto any Jiton Ninjutsu which is an attack; X is the Gallons of Sand utilized in the Jutsu.  In addition to the attack’s normal damage and effects, you inflict the target with a -1 Immobilization Penalty per Rank of the Jutsu (1 for E, 2 for D, etc), though in doing so you ‘use up’ the Gallons of Sand which stick to, and slow down, the movement of your target.  Repeated applications of Sand Coffin stack the Immobilization as a single penalty.  Once the Sand is no longer applying a penalty to someone, it is added back to the battlefield for use.
+Effects:  This can be added onto any Jiton Ninjutsu which is an attack; X is the Gallons of Sand utilized in the Jutsu, while Y is the Rank of the jutsu it's applied to.  In addition to the attack’s normal damage and effects, you inflict the target with a -Y Immobilization Penalty, though in doing so you ‘use up’ the Gallons of Sand which stick to, and slow down, the movement of your target.  Repeated applications of Sand Coffin stack the Immobilization as a single penalty.  Once the Sand is no longer applying a penalty to someone, it is added back to the battlefield for use.
 
-If used on a Jutsu which already applies an Immobilization Penalty (such as a Jiton-converted Clay Bullet), you use the higher of the two penalties, as is preferable.
+If used with a Jutsu which already applies an Immobilization Penalty (such as a Jiton-converted Clay Bullet), you replace Sand Coffin's penalty with its regular one, although any special rules regarding the Immobility status remain: a Clay Bullet with Sabaku Kyu could be removed with a grapple roll, while a Retsudotensho with Sabaku Kyu will have anyone in its effect retaining their Immobility status until they leave the area. 
 
 #### --( Sabaku Sousou - Sand Burial )--
 Once a target is encased in enough Sand, it’s a simple, yet devastating, measure to utilize their control over Jiton to crush a person in much the same way they crush up rocks or dirt.
@@ -475,10 +473,11 @@ Once a target is encased in enough Sand, it’s a simple, yet devastating, measu
  - Chakra: 10 + X * 3
  - Damage: (X * 4)d20
  - Speed: 20
+ - Delay: 10
  - Seal Speed: 20
  - Requires: Target to have an Immobilization Penalty from Sand Coffin
 
-Effects: X is the current Immobilization Penalty of your target from Sand Coffin, which ends immediately when you use this technique. This technique can not be dodged (as the sand is already stuck to, and on, the target), though other defenses could be utilized (such as Block, if you were doing so when targeted by this technique); the target is simply crushed from all sides by the sand that’s been piled onto them. If you inflict a Wound, you inflict a Blunt, Piercing, and Slashing Wound of one tier lower, to a minimum of Minor.
+Effects: X is the current Immobilization Penalty of your target from Sand Coffin, which ends immediately when you use this technique. This technique can not be dodged (as the sand is already stuck to, and on, the target), though other defenses could be utilized (such as Block, if you were doing so when targeted by this technique); the target is simply crushed from all sides by the sand that’s been piled onto them. If you inflict a Wound, you inflict a Blunt, and Slashing Wound of one tier lower, to a minimum of Minor.
 
 ## Sabechi
 When Sunagakure initially organized itself into a formal village of Ninja, the Sabechi were the tribe most resistant to allying themselves with those who had been their rivals for generations. They fought against change and the alliances that were being made, relying upon nature for their survival against what quickly became a much larger force.

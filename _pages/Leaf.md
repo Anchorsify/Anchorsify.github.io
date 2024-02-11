@@ -164,13 +164,13 @@ Using thousands of Kikaichuu, the Aburame creates a replica of themselves made o
  - Seal Speed: 10
  - Special: X Swarm Size, Y Willpower, Y Female Kikai
 
-Effects: You create Y clone(s) of yourself (Max 2), dedicating one or more ranks of your Swarm Size to each clone.  Your clones inherit all the properties of a normal swarm. X equal to the Swarm Size dedicated to each clone (and thus can be different per clone), and has a minimum of Y, as each clone must have one Swarm Size.
+Effects: You create Y clone(s) of yourself (Max 2), dedicating one or more ranks of your Swarm Size to each clone.  Your clones inherit all the properties of a normal swarm. X is equal to the Swarm Size dedicated to each clone (and thus can be different per clone), and has a minimum of Y, as each clone must have one Swarm Size.
 
 Once the Swarm Size used to make a clone is reduced to 0, the clone is destroyed (as is the Female Kikai). You can voluntarily dismiss any clones as a Speed X + Y * 2 action to turn one or more clones back into regular Swarm(s), but you can never regain any Willpower spent on creating Mushi Bunshin. The Swarm Size used to create these clones reduces your current and maximum Swarm Size (you can’t ‘replace’ swarm size for this jutsu with Insect Cocoon).
 
 These clones can perform any jutsu you know, but have no chakra of their own, and you pay any costs (CE, Stamina, Upkeeps) associated with their actions.  They act only when you spend AP for them to do so, and can’t act again until an IC has passed equal to the speed of their action. You may hide amongst your clones (and others may Observe them) as normal, but if they act or react in a way that makes it obvious they’re bugs (such as taking less damage from a Taijutsu attack, or being immune to grapples or various status effects), it’s obvious they’re a clone.
 
-When Bug Clones attack, their actions are always considered to be Held Back, as per the ability in Chapter 5, even if you do not have the Hold Back ability.  This means they use only half your damage bonus for dealing damage, and the severity of wounds they inflict is reduced by one category.  Bug Clones can attempt basic dodges and parries without costing any AP, but are performed at their normal Speed (of 2 and 3, respectively).
+Bug Clones can attempt basic dodges and parries, along with the following actions:
 
 **Basic Attack [Variable AP]** - The clone may make any basic unarmed or weapon attack, paying 1 AP per X speed of that action.  
 **Jutsu [Variable AP]** - The clone can perform any Jutsu you know, paying 1 AP per X speed of that action. It uses your DEX to determine Seal Speeds, which have to be paid for by AP as well.
@@ -710,11 +710,9 @@ This technique takes advantage of mokuton's ability to accelerate plant growth b
 - Cost: 1 Willpower per clone
 - Speed: 10, +3 per clone
 
-Effects: Wood clones follow most normal rules for clones, but have CHA*2 HP, and your attributes. They do not suffer wounds and you may only ever have up to three at once in existence. They may perform any action you normally could, by spending 1 AP per 2 Speed of that action; however, after reaching Fatigue 3 they decay into lifeless wood pulp and fall apart. Wood clones may not take actions with a chakra or stamina cost greater than 18+(RES for Taijutsu, or CHA for Ninjutsu or Genjutsu)/10.
+Effects: These function like regular bunshin, but have CHA*2 HP, and your attributes. They do not suffer wounds and you may only ever have up to three at once in existence. They may dodge, parry, and perform any other action you normally could, by spending 1 AP per 2 Speed of that action; however, after reaching Fatigue 3 they decay into lifeless wood pulp and fall apart. Wood clones may not take actions with a chakra or stamina cost greater than 18+(RES for Taijutsu, or CHA for Ninjutsu or Genjutsu)/10.
 
 Wood clones have your mind, and can act independently. You are aware of their location, and they yours, though your senses are not linked. You may reabsorb a 'living' wood clone by touching it, in which case you 'download' all its memories.
-
-When Wood Clones attack, their actions are always considered to be Held Back, as per the ability in Chapter 5, even if you do not have the Hold Back ability. This means they use only half your damage bonus for dealing damage, and the severity of wounds they inflict is reduced by one category.
 
 #### --( Mokuton: Shichuurou no Jutsu - Wood Release: Four Pillars Prison Technique )--
 After completing the handseals, you place your hands on the ground and channel your chakra beneath your target, where it bursts from the ground as timbers which grow rapidly and form a wooden, usually cubic, prism. The timbers used in this technique are heavily infused with chakra, making them very resilient.
@@ -766,7 +764,7 @@ The Sharingan’s greatest weakness is that it is dependent upon unimpeded visib
 
 Unfortunately for the Uchiha, they are not inherently able to access this power.  Rather, in times of need—generally when under severe combat-related stress—the doujutsu will activate itself.  This is GM-regulated; you’ll be informed if this takes place.  When it does, your Sharingan immediately activates at the stage above the highest you’ve achieved, and from then on you may activate that stage at will.
 
-However, with enough training and persistence, a shinobi can unlock the Sharingan’s higher stages without the need for external stimulus, though it can take a while.  At 1000, 2000, and 3000 XP you automatically gain access to the First, Second, and Third Stage Sharingan, respectively, if you haven’t already.  Legends speak of a fourth, higher stage, but no one in recent memory has obtained it.
+PC Uchiha are considered better than your average Uchiha and begin with Stage 1 unlocked at creation. Unfortunately, to unlock its higher stages requires training and persistence. A shinobi can unlock the Sharingan’s higher stages without the need for external stimulus, though it can take a while.  At 1000, and 2000 XP you automatically gain access to the Second, and Third Stage Sharingan, respectively, if you haven’t already.  Legends speak of a fourth, higher stage, but no one in recent memory has obtained it.
 
 Activating Sharingan is a Speed 0 action, which can be performed alongside another technique or Interrupt, and it has an Upkeep of 2.
 

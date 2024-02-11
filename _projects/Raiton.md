@@ -48,7 +48,7 @@ Charging up electricity between two weapons, you harness it into a ball and then
 #### --( Shuurai - Lightning Strike )--
 You focus energy to the tips of your fingers on either hand, then point at an opponent, releasing a reasonably sized bolt of electricity. This is nothing like real lightning, but it looks similar!
 
-- Chakra: 15
+- Chakra: 14
 - Damage: 2d6*4d4
 - Range: 15
 - Speed: 13
@@ -208,13 +208,14 @@ This technique creates a powerful, not-quite-fully independent copy of yourself.
 - Seal Speed: 12, +4 per clone
 - Requires: Bunshin no Jutsu
 
-Effects: You can create up to two clones. These function like regular bunshin, but may take the actions listed below. Additionally, anyone who destroys a Lightning Clone with a melee attacks takes this technique's damage automatically.
+Effects: You can create up to two clones. Anyone who destroys a Lightning Clone with a melee attack takes this technique's damage automatically. These function like regular bunshin, except that they have (and pay for) their own Fatigue costs, and may perform the following additional actions:
 
  - [ X AP ] Move: Your clones can move, with X being half the speed of the Move action they take.
- - [ 4 AP ] Basic Unarmed: A basic unarmed attack, using your attributes.
+ - [ X AP ] Basic Unarmed: A basic unarmed attack, using your attributes. X is half the Speed of the attack.
  - [ X AP ] Basic Weapon: You may transfer any number of weapons to your Raiton Bunshin when you create them. They may attack with those weapons, using your abilities. X is half the Speed of the attack.
  - [ X AP ] Multi-Throw: Should be self-explanatory. X is half the Speed of the multi-throw.
- - [ X AP ] Raiton Ninjutsu: The clone must first perform the handseals, at the regular speed, costing AP equal to half the technique's modified Seal Speed. It then costs X AP, where X is half the technique's Speed. They cannot, however, use Raiton Bunshin.
+ - [ X AP ] Raiton Ninjutsu: The clone must first perform the handseals, at the regular speed, costing AP equal to half the technique's modified Seal Speed. It then costs X AP, where X is half the technique's Speed.
+
 
 #### --( Gian - False Darkness )--
 After completing the handseals the user forms a large, spear shaped bolt of lightning which can be directed at distant targets. One of this technique's advantages is its ability to be used in rapid succession, allowing for rapid long-range bombardment.
