@@ -382,29 +382,29 @@ Not something you spend points on, this time! Of the three primary feature sets 
 (2) You use CHA/15 to determine your Sword Damage Bonus, instead of normal, with your sword. You can take this feature a second time, lowering the divisor by the Precision ability (to a minimum of CHA/12).  
 (1) When you Parry with your sword, you gain (SDB) Damage Reduction (which is typically only relevant if you fail); Can be taken four times.
 
-*Hilt Features*
+*Hilt Features*  
 (1) +1 Bleed.  Can be taken three times.  
 (2) (Requires CHA-based SDB Feature) You use your CHA in place of your DEX for the Blademaster ability with your sword.
 
-*Tassel Features*
+*Tassel Features*  
 (4) While using Chakra Flow (either version) with your sword, you can parry attacks from your current Chakra Flow elemental strength in the same way you can parry Taijutsu.  
 (4) As a Chakra +5, Speed +3 link you can replace your sword's 'Sword' tag with any of the following: Polearm, Fan, Chain, by forming chakra over your blade to take the shape of another type of weapon, allowing you to potentially use different jutsu dependent upon other weapon types.
 
 ###### b. Balance
-*Blade Features*
+*Blade Features*  
 (1) +1d_ damage. Can be taken four times.  
 (1) +5% Wounding. Can be taken ten times.  
 (2) Attempts to parry your sword take a -1 penalty. Can be taken three times.  
 (2) Blocking reduces your sword's damage by 10% less; taken a second time, 25% less.  
 (1) Your sword bypasses (SDB) Damage Reduction.  Can be taken three times.
 
-*Hilt Features*
+*Hilt Features*  
 (1) Immobility 1 on hit.  You can take this up to four times, which doesn't change the amount of Immobility applies, but lets it stack up to the amount of times taken.  
 (2) +1 to Parry rolls.  Can be taken twice.  
 (2) Your sword's dice gain .extra(die size-2).  This can be taken repeatedly, each time lowering the .extra value by 1 (from .extra(10) to .extra(9), etc), to a maximum of .extra(4).
 
-*Tassel Features*
-(4) The sword may be held with one less hand than normal. This allows a two-handed sword to be one-handed without difficulty (though does mean it loses its two-handed damage bonus). A sword that requires "no hands" can be strapped to your body somehow.
+*Tassel Features*  
+(4) The sword may be held with one less hand than normal. This allows a two-handed sword to be one-handed without difficulty (though does mean it loses its two-handed damage bonus). A sword that requires "no hands" can be strapped to your body somehow.  
 (4) Parrying with this sword hase its base Speed reduced by 1, and you may parry any disarm attempts with this sword with a +3 bonus, which replaces the normal penalty for parrying a disarm attempt.
 
 ###### c. Yang
@@ -415,12 +415,12 @@ Not something you spend points on, this time! Of the three primary feature sets 
 (2) Your Sword's base Speed is increased by 1, it gains Delay 2, and your Sword Damage Bonus is increased by 2 when attacking. Can be taken twice.  
 (1) When you block while holding your sword, you gain DR equal to your Sword Damage Bonus; this is multiplied by the number of times you’ve taken this feature. Can be taken up to six times.
 
-*Hilt Features*
-(1) Stun 1.  Can be taken three times.
+*Hilt Features*  
+(1) Stun 1.  Can be taken three times.  
 (2) While wielding your sword, you can Block as a Speed 4 Interrupt.  Taken a second time, your Block's effectiveness is not reduced by weapons, and any Damage Reduction you gain when blocking from the Yang Blade Feature is doubled.
 
-*Tassel Features*
-(3) Your sword's Stamina cost is increased by 2, and its damage is increased by +4d_.
+*Tassel Features*  
+(3) Your sword's Stamina cost is increased by 2, and its damage is increased by +4d_.  
 (4) Anyone who successfully parries your sword still takes half damage (but no secondary effectS); Your sword's Stun value is increased by 50% against anyone who blocks your sword.
 
 
