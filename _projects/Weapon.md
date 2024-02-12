@@ -271,7 +271,7 @@ Extending out a polearm, you hold one end with both hands then commence whirling
  - Stamina: (Weapon) + 6
  - Damage: (Weapon)
  - Speed: (Weapon) + 4
- - Requires: Polearm
+ - Type: Polearm
 
 Effects: You may attack anyone you choose within Range 4. If you use this technique and attack only one person, you gain +2 to your Accuracy for the attack.
 
@@ -371,7 +371,7 @@ This technique coats the tip of a piercing weapon with a thin layer of chakra wh
  - Chakra: 20
  - Upkeep: 5
  - Speed: 10
- - Type: Piercing
+ - Type: Melee Piercing
 
 Effects: Your weapon inflicts Bleed 1 whenever it deals damage. If the victim has an existing Bleed status, it increases that status by 1. This explicitly stacks with the Crank Thundering Strike (meaning it's Bleed 3, or +3, if paired with Thundering Strike).
 If you're using Dual Weapons, Bloody Thorns applies to both of them; otherwise, only one weapon benefits from Bloody Thorns at a time. Any weapon you pick up or draw automatically benefits from Bloody Thorns. If holding two non-Dual weapons, you may change which one receives this technique's effects as a Speed 0 action.
