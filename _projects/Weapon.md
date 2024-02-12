@@ -198,6 +198,7 @@ Invariably a swordsman will find themselves at a disadvantage due to range.  Mos
  - Damage: (Weapon)
  - Range: NDB * 2
  - Speed: (Weapon) + (Weapon)/2
+ - Type: Sword
 
 Effects: Because you are attacking with a wave of chakra, this attack can not be parried except by things which are capable of parrying ninjutsu (such as Ocean Shield, or Kaiten). By default this is a projectile wave of pure chakra, but if it is performed with a weapon that has an active Chakra Flow, the attack is converted to the appropriate element as it relates to interactions based on other elements.
 
