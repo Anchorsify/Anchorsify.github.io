@@ -238,7 +238,7 @@ This technique uses your base Accuracy for an C-rank Weapon Taijutsu, unmodified
 
 It uses your physical damage bonus at the time you initially launched the umbrella. You can receive the benefits of your Weapon Focus: Umbrella or Weapon Focus: Senbon, but not both. Because the attacks are made by the umbrella, and not you, you cannot modify them further (such as with Willpower or AP).
 
- #### --( Kashiwa no Hishou - Oak Flight )--
+#### --( Kashiwa no Hishou - Oak Flight )--
 After twirling your weapon dramatically over your head to build momentum, you slam it into your opponent and completely daze them. A powerful enough strike put in the right place makes it hard for the enemy to focus on you, or even gives them a bit of double-vision.
 
  - Stamina: (Weapon) + 6
@@ -248,7 +248,7 @@ After twirling your weapon dramatically over your head to build momentum, you sl
 
 Effects: You increase your weapon's die size by one step for this technique (d4 -> d6 -> d8 -> d10 -> d12, max d12), and gain +3d_. If you hit your target and Partial Success does not apply, they become Dazed by the blow, and take a -2 Immobilization penalty.  Unlike other sources of Immobility, the penalty applied by being dazed can stack with itself (but not other sources of Immobility), to a maximum of -6.  Someone who is Dazed can clear their entire Dazed status by taking the Rest action.
 
- #### --( Kuro Budounoki - Black Vines )--
+#### --( Kuro Budounoki - Black Vines )--
 A technique popularized by a Nara who liked to utilize a black-painted Kusari-Gama to strike from the shadows with a weapon when his opponents waited for them to move, you channel a small amount of chakra within your weapon and temporarily disconnect portions of it in order to extend its range beyond what an opponent would expect, grabbing hold and forcibly pulling them back to you for a follow-up strike.
 
  - Stamina: (Weapon) + 10
