@@ -181,7 +181,7 @@ Effects: While you maintain this technique, your weapons gain the properties of 
 
 This is complicated slightly when two weapons augmented by Chakra Flow interact, one parrying or being parried by the other. In these cases, if one of the elements is strong against the other, the weaker element's Chakra Flow effects are ignored for the purpose of that parry. As a reminder: Fire beats Wind; Wind beats Lightning; Lightning beats Earth; Earth beats Water; and Water beats Fire. This doesn't apply if the parry fails (if your Water weapon fails to parry their Fire sword, it still does that extra damage to you), but in the case of Earth vs. Water, does allow an Earth weapon to attempt to parry a Water one. If you have an advanced elemental chakra nature (such as a Senju's Mokuton), you choose which of the two appropriate effects you're using when you activated Chakra Flow. For example, as a Senju you could receive either Earth's stunning or Water's accuracy and parry effects. You cannot change which you've chosen without ending and then re-activating Chakra Flow. Despite this, it's still considered to be the advanced element when put up against ninjutsu defenses.
 
- #### --( Hamukau Kanjin - Vital Strike )--
+#### --( Hamukau Kanjin - Vital Strike )--
 Whether it be to cut someone's achilles tendon, or to lop their head off, blades have many ways to disable or execute their wielder's opponents. Sneaking into your opponents defenses and getting in even one good attack can change a fight, or end a life!
 
 - Stamina: +8
