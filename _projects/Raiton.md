@@ -181,8 +181,6 @@ After making contact with an enemy, you send a powerful pulse of electricity thr
 
 Effects: This inflicts Paralysis 4 for 40 IC.
 
-for If you hit with this technique (using your Taijutsu accuracy to touch your target), you inflict a Shock 4, and if they fail a status roll, they're inflicted with Paralysis 4. If they already have either status, they have their existing status increased by 2, instead.
-
 #### --( Fukushuu Kaminarikami - Avenging Lightning God )--
 You divert your chakra to surge across your skin, building up something akin to a strong static charge. Unlike actual static electricity, this is incredibly dangerous.
 
