@@ -214,14 +214,17 @@ cloud.
  - Seal Speed: 16
  - Requires: 25 Chakra Control, 25 Medicine, 25 Research, 25 Toxicology
 
-Effects: When you create the mist, roll the lower of your Chakra Control, Medicine, Research, or Toxicology skill rolls (all of those factor into creating the poison properly, and a deficiency in any of them will weaken it). This is the TN to avoid being poisoned while in the cloud. Anyone inside the mist when it's created, or who passes through it, must make a Resistance roll against that number, and another one every 10 IC that they spend inside the cloud, as well as one any time they make a Stamina roll inside it. The cloud is a poison with the following effects:
+Effects: When you create the mist, roll the lower of your Chakra Control, Medicine, Research, or Toxicology skill rolls (all of those factor into creating the poison properly, and a deficiency in any of them will weaken it). This is the TN to avoid being poisoned while in the cloud. Anyone inside the mist when it's created, or who passes through it, must make a Resistance roll against that number, and another one every 10 IC that they spend inside the cloud, as well as one any time they make a Stamina roll inside it. 
+
+The cloud is a poison with the following effects:
  - Poison: (Toxicology)/5
- - Paralysis: (Medicine)/6
+ - Paralysis: (Medicine)/6, which lasts until you leave the cloud
+ - Shock: (Medicine)/6, which lasts until you leave the cloud
  - Suffocation: (Research)/10, applied every 20 IC
 
 Additionally, the cloud itself has a (Chakra Control)/5 visibility penalty throughout its entire area.
 
-The duration of this poison (how long it will last once somebody's exited the cloud) is the sum of your ranks in all those skills. The cloud itself will last twice that long, after which point it will harmlessly dissipate. You are not immune to your own poison mist, though you do get a +5 to Resistance rolls made against it.
+The duration of this poison (how long it will last once somebody's exited the cloud) is the sum of your ranks in all those skills. The cloud itself will last twice that long, after which point it will harmlessly dissipate. You are not immune to your own poison mist.
 
 #### --( Hari Jizou - Needle Jizo )--
 By directing chakra into their hair, the shinobi causes it to grow rapidly. This results in their hair not only getting longer, but also growing in volume and hardening into what amounts to a forest of sharp, needle-thin and iron-hard spikes. Even the best-groomed hair becomes wild and spiky under the effects of this technique! This can be used for a number of derivative techniques, and on its own provides a surprisingly strong defense, as the hair will wrap around its owner to protect them from attacks. When this technique ends, the user's hair returns to its normal length.
@@ -304,7 +307,7 @@ Anyone hit suffers a Bleed status of 3/clone, and a Stun of 6/clone.
 ###### Lightning Clones
 - Chakra: 15, +10/clone
 - Damage: 10d20*1d4 per clone
-Anyone hit suffers a Shock 4 if one clone was used, along with a Paralysis 4 if two clones were used.
+Anyone hit suffers a Shock 4 for 20 IC if one clone was used, along with a Paralysis 4 for 20 IC if two clones were used.
 
 ###### Water Clones
 - Chakra: 10 +10/clone

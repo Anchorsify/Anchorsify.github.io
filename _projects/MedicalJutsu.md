@@ -123,7 +123,7 @@ An advanced technique in which, with a touch, the user sends a pulse of chakra t
 - Speed: 8
 - Seal Speed: 12
 
-Effects: This clears the person touched of immobilization, paralysis and shock penalties which are internal (Poison, clay bullet, etc. would not apply, but notably, Combat Acupuncture and Nervous System Derangement would). It immediately ends any stuns which are presently affecting them. It is also strong enough to disrupt weaker Genjutsu, granting another defensive roll against a single Genjutsu affecting them of C rank or lower, with a +5 bonus.
+Effects: This clears the person touched of immobilization, paralysis and shock penalties which are internal (Clay bullet and Four Pillar Bind would not apply, but notably Combat Acupuncture and Nervous System Derangement would, as well as any such effects from Poison, though it doesn't clear the Poison itself). It immediately ends any stuns which are presently affecting them. It is also strong enough to disrupt weaker Genjutsu, granting another defensive roll against a single Genjutsu affecting them of C rank or lower, with a +5 bonus.
 
 #### --( Saikan Chuushutsu no Jutsu - Delicate Illness Extraction Technique )--
 An delicate and advanced technique even among medical ninjutsu, this is nonetheless exceptionally useful. The medic makes an incision on the patient's body (usually the torso, but other locations are possible) and then uses chakra to draw out any poisons, toxins, or other pathogens that may be afflicting the person.

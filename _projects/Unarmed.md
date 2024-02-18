@@ -39,7 +39,7 @@ In one smooth motion, the user extends their arm and pushed aside an oncoming bl
 - Speed: 5
 - Special: Interrupt
 
-Effects: You make an unarmed parry, with a +3 Accuracy bonus. If you successfully defend, then this becomes an attack which uses the result of your parry roll as its Accuracy. Any links you wish to add to the attack portion of this technique must be added at the time you use it as a defense, and follow normal limitations for interrupts. Similarly, you pay the cost even if you don't successfully defend.
+Effects: You make an unarmed parry against a melee attack, with a +3 Accuracy bonus. If you successfully defend, then this becomes an attack which uses the result of your parry roll as its Accuracy. Any links you wish to add to the attack portion of this technique must be added at the time you use it as a defense, and follow normal limitations for interrupts. Similarly, you pay the cost even if you don't successfully defend.
 
 #### --( Senpuu - Whirlwind )--
 The user rotates while extending one leg, starting with a high roundhouse that's used partially as a feint. Whether it hits or misses, they continue to rotate into a second spin aimed at the lower part of the body.

@@ -175,7 +175,7 @@ Effects: While you maintain this technique, your weapons gain the properties of 
 
  - **Earth**: Your weapon gains Stun 2, or +2 to its existing Stun. Every time somebody already stunned is struck by your weapon, their Stun is increased by 1. Anyone who parries your weapon successfully suffers the Stun 2 (or +1).
  - **Fire**: You add 25% of your ninjutsu damage bonus to your regular damage bonus when using your weapon. To determine damage you multiply your attack's damage by its base speed, rather than modified speed.
- - **Lightning**: You weapon gains Paralysis 2, and you ignore the effects of any armor they're wearing.
+ - **Lightning**: You weapon gains Paralysis 2 for 20 IC, and you ignore the effects of any armor they're wearing.
  - **Water**: Your chakra can momentary liquify your weapon's physical structure, allowing it to pass through other weapons: it can not be parried by other weapons. Additionally, water's inherent fluidity and adaptability give you +2 Accuracy, and an additional +2 when parrying.
  - **Wind**: The efficacy of blocking is reduced by 25%, and your damage is considered 15% higher for the purpose of inflicting wounds upon your enemies. If you're successfully parried by another weapon, your attack still does 50% damage; this does not trigger any secondary effects of your attack (like status effects, or wounds).
 

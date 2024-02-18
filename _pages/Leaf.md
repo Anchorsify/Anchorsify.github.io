@@ -541,9 +541,9 @@ Effects: You may not reduce Kaiten’s Speed by spending AP, and Kaiten uses its
 
 Kaiten lasts for its full Speed in IC after being used.  For example, if you used it on IC 22 when attacked, paying 8 Chakra and Stamina, it would last until IC (22+6+3) = 31.  Anytime after the first 6 IC have passed (on IC 28), you may abort Kaiten.
 
-Kaiten flawlessly deflects any Ninjutsu or Taijutsu while you are spinning.  Though it can not be used to interrupt Genjutsu, you cannot be targeted by them while Kaiten is in progress.
+Kaiten flawlessly deflects any Ninjutsu (including Area of Effect Ninjutsu) or Taijutsu while you are spinning.  Though it can not be used to interrupt Genjutsu, you cannot be targeted by them while Kaiten is in progress.
 
-Anyone within Kaiten’s Area when it’s activated who fails to dodge takes its damage and is knocked to the edge of the radius.  If Kaiten is activated inside of a persistent AoE effect (such as a cloud, or water slick) with an area equal to or less than its own, Kaiten ends that effect.
+Anyone within Kaiten’s Area when it’s activated must defend against it as an area of effect ninjutsu attack, and those who fail are moved to the edge of its Area. If Kaiten is activated inside of a persistent AoE effect (such as a cloud, or water slick) with an area equal to or less than its own, Kaiten ends that effect.
 
 This technique’s only true weakness is that it is ineffective if the user cannot spin: If you are suffering from a -5 or greater Immobilization Penalty, you may not utilize Kaiten.
 
@@ -567,10 +567,12 @@ A devastating series of Jyuuken strikes carried out in rapid succession, sealing
  - Damage: (CHA/4+12)d4
  - Speed: 16
  - Special: Finisher
- - Requires: Byakugan active
+ - Requires: Byakugan active, Jyuuken Combo
  - Combo Bonus: +4d4 damage, +2 Stun, +1 Sealed Tenketsu, +0.5 Immobilize
 
- #### --( Hakke Hyaku Nijuuhachi Shou – Eight Trigrams One Hundred Twenty-Eight Palms )--
+ Effects: This attack uses your NDB and inflicts Sealed Tenketsu 3, reduces Blocking's effectiveness by 25%, ignores armor, bypasses half of an opponent's DR, and deals Energy wounds.
+
+#### --( Hakke Hyaku Nijuuhachi Shou – Eight Trigrams One Hundred Twenty-Eight Palms )--
 The ultimate and most lethal usage of Jyuuken, and the final development of Hakke Rokujuyon Shou.  The Hyuuga’s speed and chakra control have reached truly amazing levels, adding a seventh series of strikes which doubles the number of strikes made from sixty-four to one hundred twenty-eight.
 
  - Type: Taijutsu, Rank B
@@ -580,6 +582,8 @@ The ultimate and most lethal usage of Jyuuken, and the final development of Hakk
  - Speed: 20
  - Requires: Byakugan Active
  - Combo Bonus:  +8d4 damage, +4 Stun, +2 Sealed Tenketsu, +1 Immobilize
+
+  Effects: This attack uses your NDB and inflicts Sealed Tenketsu 4, reduces Blocking's effectiveness by 25%, ignores armor, bypasses half of an opponent's DR, and deals Energy wounds.
 
 ###### -=[ Sealed Tenketsu ]=-
 This is a Status Effect that applies a penalty to Chakra Exhaustion and Chakra Control rolls equal to its Severity, and half that (rounding down) to Stamina rolls. If you ever fail a Chakra Exhaustion roll while you have this status, whatever technique you were trying to use fails (but you advance in Fatigue as normal), and you lose Hit Points (not Vitality) equal to the Chakra cost of that technique.

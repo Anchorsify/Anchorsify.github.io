@@ -57,7 +57,7 @@ The shinobi of the world recognize five primary elements of chakra: fire, water,
 ##### 2. Shape Control
 #### -=[ Homing ]=-
 -=[ Homing ]=-
-With precise chakra control, you can learn to curve and aim your ninjutsu in such a way to ensure they hit more effectively. You may give your ninjutsu a bonus of +1 Accuracy per rank, by increasing the Chakra and/or Stamina cost(s) of the ninjutsu by 2 per +1 added. Ninjutsu with a range of Touch, and those which have an Area (e.g., are Area of Effect), can not have this ability applied to them.
+With precise chakra control, you can learn to curve and aim your ninjutsu in such a way to ensure they hit more effectively. You may give your damage dealing ninjutsu a bonus of +1 Accuracy per rank, by increasing the Chakra and/or Stamina cost(s) of the ninjutsu by 2 per +1 added. Ninjutsu with a range of Touch, and those which have an Area (e.g., are Area of Effect), can not have this ability applied to them.
 
 - Base Cost: 8
 - Scale: 4
@@ -555,7 +555,7 @@ You may simultaneously declare any two of: Block, Guard, Total Defense, Defensiv
 - Base Cost: 25
 
 #### -=[ Guard ]=-
-You ready yourself for an impending attack. Guard is an action declared similar to blocking. While Guarding, you have a +5 bonus to accuracy when parrying enemy attacks (including with jutsu, such as Halting Blow and Crossroads of Heaven). Your Parry action itself becomes a Speed 0 Interrupt.
+You ready yourself for an impending attack. Guard is an action declared similar to blocking. While Guarding, you have a +5 bonus to accuracy when parrying enemy attacks (including with jutsu, such as Halting Blow). Your Parry action itself becomes a Speed 0 Interrupt.
 
 You may simultaneously declare any two of: Block, Guard, Total Defense, Defensive Formation, and similar actions not listed in this chapter (such as the Uchiha's Observe).
 

@@ -277,7 +277,7 @@ This technique partially hijacks the victim's nervous system, reacting in respon
 - Speed: 18
 - Seal Speed: 27
 
-Effects: Whenever the target takes a non-interrupt action while under this technique's effects, they suffer a Paralysis and Shock of X/5. X is the speed of the action taken X is that action's Speed. Every time they take the listed status effects from this genjutsu, they are allowed another genjutsu defense with a cumulative +1 bonus against the original genjutsu offense. Success ends this genjutsu and prevents further Paralysis and Shock status effects from being applied by it, but does not remove any status effects currently applied unless they beat the original roll by 10 or more.
+Effects: Whenever the target takes a non-interrupt action while under this technique's effects, they suffer a Paralysis and Shock of X/5, which lasts for (X*2) IC. X is the speed of the action taken. Every time they take the listed status effects from this genjutsu, they are allowed another genjutsu defense with a cumulative +1 bonus against the original genjutsu offense. Success ends this genjutsu and prevents further Paralysis and Shock status effects from being applied by it, but does not remove any status effects currently applied unless they beat the original roll by 10 or more.
 
 #### --( Sennou Sousa no Jutsu - Memory-Concealing Manipulative Sand Technique )--
 This technique allows the user to alter or conceal the subject's memories. While it's not permanent, the change can be either subtle (believing they were incapacitated and left unconscious, rather than incapacitated and then interrogated), or about as much so as a sledgehammer (erasing the past two days of their memory).

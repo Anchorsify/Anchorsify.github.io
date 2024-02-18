@@ -542,7 +542,7 @@ Ingestion poisons are effectively useless in combat, but can be used to lace som
 
 No matter how many poisons you're afflicted by, their effects do not stack. Thus, if you had Poison 4 for Duration 25, and Poison 2 for Duration 50, you would take 4 damage per initiative count for 25 IC, and then for the next 25 you'd take 2 damage per IC. Any additional effects apply regardless, as long as they don't overlap (Paralysis 1 and Paralysis 3 is just Paralysis 3, as normal).
 
-Poisons which inflict Suffocation, Paralysis, and/or Shock have each of those effects applied when first poisoned, and then again 20 IC later, continually refreshing those status effects until the Poison's duration itself ends (which also ends all of these status effects immediately).
+Poisons which inflict Suffocation do so when first poisoned, and then again 20 IC later until the Poison's duration ends (which ends the Suffocation immediately).
 
 #### Identifying Poisons
 When you or someone else has been poisoned, it's possible to identify the venom just based on the symptoms. You may do so after 1/10 of the poison's total duration has passed. At that point, you can roll a Research, Toxicology, or Medicine skill check (your preference) against 20 + the poison's Toxicology rating. Success means you've identified the poison.

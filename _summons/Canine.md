@@ -71,7 +71,7 @@ Not only is the Inugami able to curse an enemy but it can also take over a perso
  - Speed: 8
  - Seal Speed: 20
 
-Effects: The severity of any Bleed, Paralysis, and Poison effects you are suffering from is reduced by X for the duration of the possession. If this reduces a Poison to 0, it will not automatically negate any other effects of that poison. Every 10 IC you recover X Hit Points, or X Vitality if you aren't missing any Hit Points.
+Effects: The severity of any Bleed, Paralysis, Shock, and Poison effects you are suffering from is reduced by X for the duration of the possession. If this reduces a Poison to 0, it will not automatically negate any other effects of that poison. Every 10 IC you recover X Hit Points, or X Vitality if you aren't missing any Hit Points.
 
 Any time you take an action and roll a 5 or less on a d20, you suffer from a Stun 5 effect after the action is completed, as you must contend with keeping your canine instincts under control.
 

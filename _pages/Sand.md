@@ -233,9 +233,9 @@ You can change the value of X (i.e., how many puppets you are controlling) as a 
 
 While maintaining this technique’s Upkeep, you may use your Puppets in the following ways:
 
-*Chakra no Ito: Attack (Speed Variable)* - You direct one of your puppets to attack.  You may direct your puppet to perform any Unarmed or Grapple Taijutsu you know, as well as any Weapon Taijutsu you know and they have the proper weapon for.  The Speed of this action is the Speed of the action you direct your puppet to take, and you pay a Chakra cost equal to the normal Stamina cost of the action you direct your puppet to perform. If it has both, you combine them into a singular Chakra cost. 
+*Chakra no Ito: Attack (Speed Varies)* - You direct one of your puppets to attack.  You may direct your puppet to perform any Unarmed or Grapple Taijutsu you know, as well as any Weapon Taijutsu you know and they have the proper weapon for.  The Speed of this action is the Speed of the action you direct your puppet to take, and you pay a Chakra cost equal to the normal Stamina cost of the action you direct your puppet to perform. If it has both, you combine them into a singular Chakra cost. 
 
-*Chakra no Ito: Move (Speed Variable)* - You move one or more of your puppets.  By default, the speed of your puppets is determined by their AGI, but you use /40 (instead of the normal /50) to determine how many yards they can move per IC; abilities you have do not modify this.  For every puppet after the first you use this action to move at the same time, you increase the divisor for determining the movement of all puppets by 5 (so moving two puppets would be using each puppet’s AGI/45, three would be AGI/50, etc).  Alternatively, you can spend 1 AP per IC spent on this action to move a puppet without lowering the divisor.
+*Chakra no Ito: Move (Speed Varies)* - You move one or more of your puppets.  By default, the speed of your puppets is determined by their AGI, but you use /40 (instead of the normal /50) to determine how many yards they can move per IC; abilities you have do not modify this.  For every puppet after the first you use this action to move at the same time, you increase the divisor for determining the movement of all puppets by 5 (so moving two puppets would be using each puppet’s AGI/45, three would be AGI/50, etc).  Alternatively, you can spend 1 AP per IC spent on this action to move a puppet without lowering the divisor.
 
 *Chakra no Ito: Defend (Speed 3, 1 + X AP)* - While controlling your puppets, you can use them to protect yourself.  This is in all ways the same as the Take the Hit action, except that its Speed is lower, and you can utilize AP to move a puppet to get them into range to protect you; you can alternatively spend no AP to utilize the standard Take the Hit action using your puppet, but in that case you use its normal Speed (of 6).
 
@@ -258,7 +258,7 @@ Effects: The first time you take this ability you learn how to maintain Kugutsu 
 #### -=[ Puppets ]=-
 The weapons of choice of puppeteers, which can range from the size of a small human to that of a towering animal.  While each Kairaishi is given a basic puppet frame with which to utilize, every puppeteer takes the time to modify them, aesthetically and functionally, to fit their purposes.  It is considered a rite of passage for defunct and shabbily-repaired puppets of former Kairaishi to be handed down to new genin with an expectation that their creativity and ingenuity will bring life to a puppet which would otherwise remain in disuse.
 
-All Puppets acquired begin with 30 RES and AGI, with a basic frame of a head, torso, and a pair of arms and legs, and has three slots for upgrades.  When in use, a puppet uses their controller’s DEX, and their controller’s CHA in place of STR.  Regardless of a puppet’s attributes, they are only as good as the Kairaishi which utilizes them: A puppet’s RES is limited by, and can never be higher than, their controller’s DEX, and a puppet’s AGI is similarly restricted by their controller’s CHA.  Puppets use their controller’s uniques, abilities and skills, but puppets may never make Medicine, Research or Chakra Control rolls, and are never considered to have ranks in those three skills.
+All Puppets acquired begin with 30 RES and AGI, with a basic frame of a head, torso, and a pair of arms and legs, and has three slots for upgrades.  When in use, a puppet uses their controller’s DEX, and their controller’s CHA in place of STR.  Regardless of a puppet’s attributes, they are only as good as the Kairaishi which utilizes them: A puppet’s RES is limited by, and can never be higher than, their controller’s DEX, and a puppet’s AGI is similarly restricted by their controller’s CHA.  Puppets use their controller’s abilities and skills, but can never make Medicine, Research or Chakra Control rolls, and effects which modify derived stats (such as changing your damage bonus from /15 to /12) that the puppeteer might have do not apply to them, nor do upkeeps or effects which are personal to the Kairaishi (such as Chakra Strengthening, or Domu).
 
 By default you can equip Puppets with any Small weapon, paying half the normal Ryo cost to equip them with it. This reflects adjustments made to attach the weapon to the puppet’s body and breaking it down as necessary to remove unneeded hilt space to integrate it into the Puppet’s frame, thereby making it impossible to use for anyone else, but grants a +3 to resist Disarm attempts.  Puppets can not, by default, ‘two hand’ any weapon, or gain any bonuses for doing so. Puppets also have a basic slam attack you can utilize, which is a Chakra 8, Speed 8 action that inflicts (RES/10)d6 blunt damage; Puppets can not have Unarmed Focus or Power Attack applied to them, but you can apply Weapon Focus to any weapons your Puppets use, increasing your Chakra cost for their attack.
 
@@ -285,7 +285,7 @@ You can add an extra pair of legs or arms to your puppet.  An extra pair of arms
 Your puppet gains 5 DR.  You can apply this modification to any given puppet a number of times equal to its RES/10.
 
 #### -=[ Puppet Upgrades ]=-
-Upgrades have a listed XP cost (either as an ability, or an XP cost based on the rank of Jutsu it is) which you only need to pay for once, after which you 'know' that Upgrade and can apply it to none, or all, of your puppets as you wish. Installing any given Upgrade on a puppet requires a free Upgrade slot on the puppet (so if it has no more slots, you can't add it to the puppet), and costs 1 Customization Point each time it's installed in any puppet.  Once an Upgrade is installed in a puppet, it's set, and can not be removed.  Upgrades which are not passive require the Puppeteer to use the Attack action to make use of them, and can not be utilized as part of Kugutsu no Jutsu’s Puppet Show action.
+Upgrades have a listed XP cost (either as an ability, or an XP cost based on the rank of Jutsu it is) which you only need to pay for once, after which you can apply that Upgrade to none, or all, of your puppets as you wish. Installing any given Upgrade on a puppet requires a free Upgrade slot on the puppet (so if it has no more slots, you can't add it to the puppet), and costs 1 Customization Point each time it's installed in any puppet.  Once an Upgrade is installed in a puppet, it's set, and can not be removed.  Upgrades which are not passive require the Puppeteer to use the Attack action to make use of them, and can not be utilized as part of Kugutsu no Jutsu’s Puppet Show action.
 
 #### --( Detachable Arsenal )--
 While most puppets are constructed as complete frames meant to be puppeteered as a whole, this upgrade allows the Kairaishi to separate its arms from its body, leaving the majority of its weight behind while enabling multiple quick attacks with any weapons it has.  The downside, of course, being that the arms themselves are not as durable as the main body, and leaving them exposed can leave you with a half-broken puppet that has lost all its offensive capabilities.
@@ -320,7 +320,7 @@ A special contraption which essentially utilizes a special variant of an Explodi
  - Range: 15
  - Special: Burns 3
 
-Effects: This technique targets everyone in a Line 5 in front of it.
+Effects: This hits everyone in a Line 5 yards wide in front of it, out to its maximum Range.
 
 #### --( Glider )--
 Special, foldable wings can be installed inside the arms and/or legs of a puppet to allow them to glide and lift up with the wind, allowing for safe ranged bombardment by puppets ill equipped for close combat exchange.
@@ -464,7 +464,7 @@ No one likes Sand.  It’s coarse, and rough, and irritating.  And it gets every
 
 Effects:  This can be added onto any Jiton Ninjutsu which is an attack; X is the Gallons of Sand utilized in the Jutsu, while Y is the Rank of the jutsu it's applied to.  In addition to the attack’s normal damage and effects, you inflict the target with a -Y Immobilization Penalty, though in doing so you ‘use up’ the Gallons of Sand which stick to, and slow down, the movement of your target.  Repeated applications of Sand Coffin stack the Immobilization as a single penalty.  Once the Sand is no longer applying a penalty to someone, it is added back to the battlefield for use.
 
-If used with a Jutsu which already applies an Immobilization Penalty (such as a Jiton-converted Clay Bullet), you replace Sand Coffin's penalty with its regular one, although any special rules regarding the Immobility status remain: a Clay Bullet with Sabaku Kyu could be removed with a grapple roll, while a Retsudotensho with Sabaku Kyu will have anyone in its effect retaining their Immobility status until they leave the area. 
+If used with a Jutsu which already applies an Immobilization Penalty (such as a Jiton-converted Clay Bullet), you replace it with Sand Coffin's penalty, although any special rules regarding the Immobility status remain: a Clay Bullet with Sabaku Kyu could be removed with a grapple roll, while a Retsudotensho with Sabaku Kyu will have anyone in its effect retaining their Immobility status until they leave the area. 
 
 #### --( Sabaku Sousou - Sand Burial )--
 Once a target is encased in enough Sand, it’s a simple, yet devastating, measure to utilize their control over Jiton to crush a person in much the same way they crush up rocks or dirt.
@@ -551,47 +551,52 @@ You choose one of the following mutations below at creation.  For every 2000 XP 
 
 You may take the Weapon Focus ability for “mutations”, allowing it to apply to any attacks made with your Sabechi clan mutations.
 
-#### --( Stinger )--  
+The Stinger and Quills mutations are essentially weapons that in certain ways behave like basic unarmed taijutsu: They can not be disarmed or destroyed, they can be parried as either unarmed or as a weapon (as the defender prefers), they do not reduce the effectiveness of blocking, and they can be used with uniques, abilities, and weapon taijutsu of the appropriate type(s) they count as (which is listed in the their entries). Because they are a sort of weapon, they can never be used to perform unarmed jutsu, nor do they gain benefits from anything specific to unarmed attacks.
+
+Saliva is treated by the Sabechi as a Ranged Taijutsu attack, but is considered a ninjutsu projectile for the purposes of defending against it.  Like the Stinger and Quills, they do not reduce the effectiveness of blocking, and it can benefit from any unique or ability which modifies Ranged Taijutsu. Because it does not have any specific Type, Weapon jutsu are incompatible with it.
+
+#### --( Stinger )--
 The most obvious of all the mutations and the signature feature of the clan, a Sabechi's stinger is far more potent than a scorpion's, even though they look about the same. It's much longer than it looks, able to extend over the Sabechi's shoulder or around their side to strike those in front of them.
 
- - Type: Taijutsu, Rank E
  - Stamina: 10
  - Damage: (STR/8)d10
  - Speed: 11
  - Special: -3 Accuracy
+ - Type: Large, Piercing
 
-Effects: You have a flexible tail with a curved tip. You can attack with the Stinger in a Grapple and if you do so you don’t suffer its regular Accuracy penalty, and can make automatic called shots at no penalty.  On hit you can inflict a dose of your poison, and when poisoning someone with your Stinger, you take no Vitality or HP damage from its use. Stingers inflict Piercing Wounds.
+Effects: You have a flexible tail with a curved tip.  It grants you an extra limb for use in grapples, grants you a +2 to Grapple rolls, and you can make attacks with it against someone you're grappling without suffering its regular accuracy penalty.  Attacking someone you're grappling with it also allows you to make called shots against them at no penalty to your Accuracy.  You can inflict your Sabechi clan poison on hit with your Stinger, and do not have to pay its normal Vitality cost for doing so.
 
 #### --( Quills )--  
 While not true ‘needles’, some Sabechi actually have the ability to straighten the hairs on their head, which tend to be much thicker than normal hair, enough so to inject trivial amounts of their poison.  When used in groups, however, it can be quite deadly.
 
- - Type: Taijutsu, Rank E
  - Stamina: 5
  - Damage: 1d4
  - Accuracy: -2
- - Range: 5+STR/5
+ - Range: 5 + STR/5
  - Speed: 10
- - Special: Armor Piercing; see below.
+ - Special: Armor Piercing
+ - Type: Small, Thrown, Senbon, Piercing
 
-Effects: You can throw a single Quill, using the above stats, or throw multiple at once, in which case you treat it as a standard Senbon Multithrow, though it does not require the normal ability to do so. If you use at least three Quills, you can deliver a dose of your poison with them.
+Effects: You can throw a single Quill, using the above stats, or throw multiple at once, in which case you treat it as a standard Multithrow. If you use at least three Quills, you can deliver a dose of your poison with them.
+
+These are considered Senbon and may be used in all the same ways Senbon can, although they do not retain their shape for long once thrown and thus can't be stored for any jutsu or usage that requires them to be prepared ahead of time (like Raining Needles).  This also means that quills are considered expended after use and thus unable to be retrieved and reused.
 
 While these are not actual Senbon and may not be used for Jutsu that require Senbon to be prepared (like Raining Needles), you may utilize Senbon-specific abilities as if they were (meaning Combat Acupuncture, Senbon User, and Surgial Precision apply to them if you have them), although Senbon User allows you to use RES, rather than DEX, in place of STR to determine your damage bonus with your Quills (regular Senbon still use DEX in place of STR).
 
 #### --( Saliva )--  
 Your saliva is poisonous in addition to your blood, which while it tends to hamper relationships in a lethal way, does give you another way in which to utilize your body’s toxicity.  Those that have it swear by its usefulness.
 
- - Type: Taijutsu, Rank E
+
  - Chakra: 12
  - Damage: (CHA/10)d6
  - Range: 10 + Special
  - Speed: 8
 
-Effects: You can apply a dose of your poison with this attack, by spitting on them.  This is a Ranged Taijutsu attack, but it uses your Ninjutsu Damage Bonus, and can only be parried as if it were a Ninjutsu technique. It deals Energy wounds (due to its caustic nature), and can benefit from the Improved Ranged ability if you have it.
+Effects: This attack uses your Ninjutsu Damage Bonus, and you can apply a dose of your poison with this attack. It deals Energy wounds (due to its caustic nature), and can benefit from the Improved Ranged ability if you have it.
 
 #### --( Oily Skin )--  
 Frequently mistaken for sweat by their enemies in battle, Sabechi with this mutation tend to enjoy trading blows with their opponents, crippling them as the fight goes on.
 
- - Type: Ninjutsu, Rank E
  - Stamina: 12
  - Upkeep: 0
  - Speed: 12

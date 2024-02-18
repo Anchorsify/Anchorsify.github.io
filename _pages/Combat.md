@@ -367,9 +367,7 @@ When paralyzed, you treat the damage from your attacks as if they were (Paralysi
 
 For example, at Paralysis 3 your Speed 8 Basic Attack would deal damage as if it were a Speed 5 attack; if you spent AP to reduce its Speed to 4, it would then be treated as a Speed 2 attack for its damage (because it can't reduce it by more than half, and its Speed is 4).
 
-Paralysis effects do not combine unless the source itself states it does (such as some Raiton specifically meant to apply this status effect); otherwise, the more severe effect replaces the less severe one.
-
-Paralysis is reduced as you suffer from it: In the above example, the Speed 8 attack would have your Paralysis completely cleared after reducing the attack's damage to Speed 5, however in the case of the Speed 4 basic, you would still suffer a Paralysis 1 since you only reduced an attack by 2.  Additionally, when you advance a Fatigue level, you clear your Paralysis status automatically.
+Paralysis effects do not combine. If you are afflicted with two paralysis effects at once, the more potent one overwrites the less severe one. If they both have the same severity, the one with the longer duration overwrites the other.
 
 ### Poison
 When affected by a poison, you make a Resistance roll against some roll of the opponent's. Success means that you shrug off the effects of the poison. Failure means that you have been poisoned.
@@ -385,7 +383,8 @@ Shock increases the effective Speed of all non-Variable Speed Actions by its Sev
 
 Shock does apply to Interrupt actions, but at only half its severity, rounded down. Performing a Dodge (normally Speed 2) with a Shock 4 would increase it's Speed to 4 (meaning that some extremely quick, previously-avoidable attacks might become undodgeable).
 
-Shock stacks fully with itself, but no action can have its speed more than doubled regardless of your Shock amount. After each action in which you suffer from the Shock status, you reduce its severity by two.
+Shock effects do not combine. If you are afflicted with two Shock effects at once, the more potent one overwrites the less severe one. If they both have the same severity, the one with the longer duration overwrites the other.
+
 
 ### Sleep
 People sleep, generally because it's a necessary bodily function, but sometimes because they've been influenced by mind-affecting genjutsu. In reality, sleeping people are pretty much helpless. However, ninja develop a sixth sense that warns them of impending danger and functions even when not awake.

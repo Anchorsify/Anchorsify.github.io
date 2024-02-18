@@ -97,8 +97,7 @@ Effects: After completing the seals, you perform any non-grapple unarmed taijuts
 #### --( Ryuuseiu no Jutsu - Meteor Shower Technique )--
 The user gathers intense fire chakra in their palms or fingertips before throwing several weapons which ignite in mid-air. Aside from being painful, being hit by flaming bits of metal carries other risks.
 
-- Chakra: 8 + X/2
-- Stamina: As multi-throw
+- Chakra: +(8 + X/2)
 - Speed: +X/4
 - Seal Speed: X
 
@@ -109,8 +108,7 @@ Effects: This technique acts as a link to a multithrow attack, with X being the 
 #### --( Housenka no Jutsu - Phoenix Sage Fire Technique )--
 After performing the handseals, the user exhales a cluster of small fireballs, each concealing one or more shuriken.
 
-- Chakra: 12 + X
-- Stamina: As multi-throw
+- Chakra: +(12 + X)
 - Damage: +Xd6
 - Speed: +X/2
 - Seal Speed: 4+X

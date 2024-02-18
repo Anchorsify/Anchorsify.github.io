@@ -44,7 +44,7 @@ Effects: Liquifying is a Speed 5 Interrupt (which does not require a roll to suc
 
  - You take only 25% damage from Suiton, 50% from Katon and Doton, and 75% from Fuuton.
  - You cannot block Doton or Raiton.
- - You take +25% damage from Raiton, and any Shock status effects they apply also inflict you with a Stun of twice their  severity.
+ - You take +25% damage from Raiton, and any Shock status effects they apply also inflict you with a Stun of twice their severity.
  - You are immune to all non-Energy-wound dealing Taijutsu, and medical ninjutsu.
  - Nintaijutsu (such as a weapon with Chakra Flow, or Rock Smashing Staff) deal damage based on their respective element.
  - You are immune to, and do not suffer the penalties of existing, Wounds.
@@ -445,7 +445,7 @@ Any Suiton or Katon technique can be converted to Futton, with the following cha
  - Suiton techniques inflict Burns equal to 1/8 of their Chakra cost if their target(s) fail a Status roll
  - Suiton techniques that have a gallons of water requirement can have the water utilized boiled off, increasing their damage by 4% per gallon ‘destroyed’ (this also applies to Suiton which normally remove water from the battlefield)
  - Blocking Futton reduces its damage normally, however for Wounding purposes, Futton is calculated based off of its unreduced damage
- - Partial Success is reduced by 3 for Futton (meaning if you hit by 1, you deal 50% damage; if you hit by two or more, you deal 100% damage)
+ - If partial success applies, Futton deal 50% of their normal damage per point it hits by, rather than 20% (meaning if they hit by more than one, they deal full damage)
  - Futton cannot inflict Ignite; techniques with Ignite deal 5% more damage per point of Ignite they would inflict
  - Futton is weak to Doton, and strong against Katon and Fuuton
 

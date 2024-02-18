@@ -104,7 +104,6 @@ When a combo jutsu references your Basic Unarmed Attack, it includes any ranks o
 ###### Openers
 Openers are not, themselves, combo moves. However, after an opener hits, you may launch into a combo (i.e. use a Combo jutsu). Openers are marked as such in their entry, usually by "Special: Opener."
 
-
 ###### Combos
 Combo moves indicate as much in their name (typically being named "___ Combo"), or by being in the Taijutsu Combo category. You cannot use a combo jutsu unless the last non-Interrupt action you took was a Combo or Opener; similarly, if your combo is broken (see below), you have to start with a new opener. When you begin a combo, you have a "Combo Counter"-- basically, the number of combo moves you've strung together. This starts at 1 when you hit with an opener. Each time you hit with a combo, the combo counter increases by 1.
 
