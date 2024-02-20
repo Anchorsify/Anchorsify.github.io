@@ -383,7 +383,7 @@ Shock increases the effective Speed of all non-Variable Speed Actions by its Sev
 
 Shock does apply to Interrupt actions, but at only half its severity, rounded down. Performing a Dodge (normally Speed 2) with a Shock 4 would increase it's Speed to 4 (meaning that some extremely quick, previously-avoidable attacks might become undodgeable).
 
-Shock effects do not combine. If you are afflicted with two Shock effects at once, the more potent one overwrites the less severe one. If they both have the same severity, the one with the longer duration overwrites the other.
+Shock effects do not combine, and no action can have its speed more than doubled regardless of your Shock severity. If you are afflicted with two Shock effects at once, the more potent one overwrites the less severe one. If they both have the same severity, the one with the longer duration overwrites the other.
 
 
 ### Sleep
