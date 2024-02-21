@@ -136,12 +136,12 @@ Effects: This technique may differentiate between enemies and allies within its 
 A relatively simple technique which creates a sudden gust of wind. Its actual force varies wildly based upon the strength of the user. A superior shinobi will produce alarmingly destructive results, while a weaker one would be better off finding other methods to attack.
 
 - Chakra: 20
-- Damage: 5d4*5
-- Range: 15, +(NDB)*2
+- Damage: 5d4 * 5
+- Range: 15, +(NDB* 2)
 - Speed: 12
 - Seal Speed: 12
 
-Effects: This uses double the user's normal ninjutsu damage bonus for its damage, and inflicts Blunt wounds. It also knocks the victim back (NDB)*3 yards.
+Effects: This uses double the user's normal ninjutsu damage bonus for its damage, and inflicts Blunt wounds. It also knocks the victim back (NDB * 3) yards.
 
 #### --( Reppuushou - Violent Wind Palm )--
 After finishing the seals, the user claps their palms together and compresses the air in front of them, transforming it into a powerful gale with enough force to knock over a human or redirect projectile weapons.
@@ -151,11 +151,11 @@ After finishing the seals, the user claps their palms together and compresses th
 - Speed: 8
 - Seal Speed: 8
 
-Effects: This can be used as an attack, as an interrupt, or in combination with a multi-throw. As an attack, it does 4d6*5 damage and if you hit, you make an opposed roll of your Chakra Control vs your target's Athletics; if they fail, they're knocked prone.
+Effects: This can be used as an attack, as an interrupt, or in combination with a multi-throw. As an attack, it does 4d6 * 5 damage and if you hit, you make an opposed roll of your Chakra Control vs your target's Athletics; if they fail, they're knocked prone.
 
 As an interrupt, it can be used in response to a thrown weapon attack, allowing you to make a ninjutsu parry roll against the attack. If you succeed, you redirect their attack at them, using your parry roll's result as the attack's new Accuracy TN, adding 2d6 * 5 to the attack's damage plus your interrupt's Speed * NDB. Wounds inflicted are based off of the combined damage total, and the damage type is based on the thrown attack.
 
-In combination with a multi-throw, this acts as a link, making this technique Speed +6 and Seal Speed +8 (which, as a reminder, does not have the Speed or Seal speed adding to damage, as is normal for links). The attack uses the combined range of the thrown weapons and this technique to determine its maximum range, and adds 4d6*5 to its damage. Wounds inflicted are based off of the combined damage total, and the damage type is based on the thrown attack.
+In combination with a multi-throw, this acts as a link, making this technique Speed +6 and Seal Speed +8 (which, as a reminder, does not have the Speed or Seal speed adding to damage, as is normal for links). The attack uses the combined range of the thrown weapons and this technique to determine its maximum range, and adds 4d6 * 5 to its damage. Wounds inflicted are based off of the combined damage total, and the damage type is based on the thrown attack.
 
 #### --( Kazekame Kaigara no Jutsu - Wind Turtle's Shell Technique )--
 The technique creates a rotating dome of wind around the user, chakra-infused air moving quickly enough to blur the image of the person inside, and deflect many incoming attacks. However, the technique is a far cry from being a true absolute defense.
@@ -180,7 +180,7 @@ After performing the seals for this jutsu you amass chakra in your feet, then ex
 - Seal Speed: 8
 - Special: This technique may not have its seal speed removed with a fan
 
-Effects: When you activate this technique you can jump (STR/10 - Y * 2)*(ninjutsu damage bonus) yards vertically, or half that distance horizontally. Alternately, you may choose to 'charge' your jump, gathering enough chakra at your feet to launch yourself a prodigious distance. This changes the distance moved to (X + STR /10 - Y * 2)*(ninjutsu damage bonus). If X is 5 or greater, the horizontal leap distance is not halved. X has a maximum value of 10. If you are suffering from an Immobilization penalty, the distance you're able to travel with Vaulting Leap is reduced by 5% per point of Immobilization. This technique's Y value starts at 0. Every time you use Vaulting Leap, it's increased by 1. After you go 50 IC without using Vaulting Leap, it's reset to 0.
+Effects: When you activate this technique you can jump (STR/10 - Y * 2) * (ninjutsu damage bonus) yards vertically, or half that distance horizontally. Alternately, you may choose to 'charge' your jump, gathering enough chakra at your feet to launch yourself a prodigious distance. This changes the distance moved to (X + STR /10 - Y * 2) * (ninjutsu damage bonus). If X is 5 or greater, the horizontal leap distance is not halved. X has a maximum value of 10. If you are suffering from an Immobilization penalty, the distance you're able to travel with Vaulting Leap is reduced by 5% per point of Immobilization. This technique's Y value starts at 0. Every time you use Vaulting Leap, it's increased by 1. After you go 50 IC without using Vaulting Leap, it's reset to 0.
 
 ## B-Rank
 #### --( Daikamaitachi no Jutsu - Great Sickle Wind Technique )--
@@ -200,7 +200,7 @@ As devastating as it is impractical, this technique earned its name for a reason
 
 - Chakra: 38
 - Damage: Weapon's damage, +(ninjutsu damage bonus) dice
-- Range: As thrown weapon, +(ninjutsu damage bonus)*2 yards
+- Range: As thrown weapon, +(ninjutsu damage bonus * 2) yards
 - Speed: Weapon's Speed + 16
 - Seal Speed: 22
 - Special: This technique may not have its seal speed removed with a fan
@@ -211,26 +211,26 @@ Effects: Choose a type of shuriken to use with this technique; you may not multi
 The user exhales their breath as several small blasts of wind chakra, each not much larger than a marble but traveling at extreme speeds and possessing incredible penetrating power. Their small size can make them difficult to land a strong blow with, which is compensated for by dispersing them over a significant area.
 
 - Chakra: 32
-- Damage: 8d8*8
+- Damage: 8d8 * 8
 - Range: 40
 - Area: Special
 - Speed: 20
 - Seal Speed: 20
 - Special: This technique may not have its seal speed removed with a fan
 
-Effects: Shinkuugyoku targets everything in a line 30 yards wide, between you and its maximum range. You may divide the width by any whole number between 1 and 5 to multiply the length by half that much. (For example, you could reduce it to 20/5 = 4 yards wide, and increase its range to 30*2.5 = 75). The Improved Area ability provides only half its normal benefit to Shinkuugyoku. The effects of partial defense a doubled against this technique: for every point it hits by, it deals only 10% of its full damage. However, to determine wounds inflicted Shinkuugyoku's damage is 100% higher. Shinkuugyoku inflicts Piercing wounds. If someone Takes the Hit for Shinkuugyoku, whoever they were defending will still take 75% damage, so long as the defender received a Major or greater wound.
+Effects: Shinkuugyoku targets everything in a line 30 yards wide, between you and its maximum range. You may divide the width by any whole number between 1 and 5 to multiply the length by half that much. (For example, you could reduce it to 20/5 = 4 yards wide, and increase its range to 30 * 2.5 = 75). The Improved Area ability provides only half its normal benefit to Shinkuugyoku. The effects of partial defense a doubled against this technique: for every point it hits by, it deals only 10% of its full damage. However, to determine wounds inflicted Shinkuugyoku's damage is 100% higher. Shinkuugyoku inflicts Piercing wounds. If someone Takes the Hit for Shinkuugyoku, whoever they were defending will still take 75% damage, so long as the defender received a Major or greater wound.
 
 #### --( Shinkuu Renpa - Vacuum Serial Waves )--
 This technique's user takes a deep breath in, and then exhales several blades of high-speed, chakra-infused wind at varying angles. This technique's power can vary greatly depending on the amount of chakra put into the formation of those wind blades, the number created, and how the user chooses to focus them.
 
 - Chakra: 10 + 5 * X
-- Damage: (X*2)d10*7
+- Damage: (X * 2)d10 * 7
 - Accuracy: +X
 - Range: 25
 - Speed: 22
 - Seal Speed: 12 + X * 2
 
-Effects: X may not exceed 5. You may target up to X people with Shinkuu Renpa as a single action. While the base damage remains the same no matter how many targets you have, your (ninjutsu damage bonus)*(Shinkuu Renpa's Speed) is divided by the number of targets. Against ninjutsu-based defenses, Shinkuu Renpa is considered one rank higher, or to deal twice as much damage, as applicable. (For example, a 200 damage Shinkuu Renpa against a 100 damage wall would destroy the wall and still deal 150 damage to whatever was behind it).
+Effects: X may not exceed 5. You may target up to X people with Shinkuu Renpa as a single action. While the base damage remains the same no matter how many targets you have, your (ninjutsu damage bonus) * (Shinkuu Renpa's Speed) is divided by the number of targets. Against ninjutsu-based defenses, Shinkuu Renpa is considered one rank higher, or to deal twice as much damage, as applicable. (For example, a 200 damage Shinkuu Renpa against a 100 damage wall would destroy the wall and still deal 150 damage to whatever was behind it).
 
 #### --( Fuujin Kokyuu - Wind God's Breath )--
 You unleash a wave of chakra converted into gale-force winds, knocking away everyone and everything around you. So long as the winds remain, approaching you is exceedingly difficult. At the same time, those winds will whip any nearby fires into a raging fury.
@@ -269,7 +269,7 @@ A rarely-used technique, not because it isn't powerful but because it doesn't ap
 
 - Chakra: 35
 - Upkeep: 0
-- Damage: 5d8*10
+- Damage: 5d8 * 10
 - Accuracy: +5
 - Range: Melee
 - Speed: 14
@@ -282,7 +282,7 @@ Effects: This technique's damage cannot be blocked, and the effectiveness of an 
 A technique originated in Sand, supposedly derived from what was alleged to be a power wielded by a 'monster' that terrorized that country more than a century and a half ago. The user draws in a deep breath and begins pouring chakra into the air in their lungs, thickening it until it reaches an almost-liquid consistency before ejecting it into a high-power blast of air.
 
 - Chakra: 35 + X / 5
-- Damage: (2 + X / 2)d12*5
+- Damage: (2 + X / 2)d12 * 5
 - Accuracy: + X / 5
 - Range: 30 + X
 - Speed: 10 + X, Delay X
@@ -294,7 +294,7 @@ Effects: After completing this technique's seals you may use it immediately (as 
 Almost always used with a fan, this technique creates a vast number of heavy air currents and vacuum pockets, varying greatly in speed, width, and angle, with their integrity maintained by chakra. Where they intersect, the crossing currents tear apart anything unfortunate enough to be in their way. As effective as this technique is, slicing and smashing anything short of fortified stonework, it can be somewhat unreliable, as there's an element of chance about just how many different ways a victim will be shredded.
 
 - Chakra: 36
-- Damage: 4d10*10
+- Damage: 4d10 * 10
 - Range: 40
 - Speed: 24
 - Seal Speed: 28
@@ -305,7 +305,7 @@ Effects: This may target any number of people in front of you, so long as they a
 If the Vacuum Sphere technique can be considered a spray of wind-chakra bullets (not that ninja actually know what such things are!), then the Great Vacuum Sphere is a gigantic wind-chakra cannon ball. In terms that ninja actually do understand, this creates a large sphere-shaped vacuum, which is then launched forwards. Anyone who comes in contact with the vacuum is sucked inside, and then either slammed against either the first solid object it encounters or just hit by what amounts to a wall of high-velocity air from every direction as the chakra in the technique dissipates and the technique collapses on them.
 
 - Chakra: 38
-- Damage: 5d6*10
+- Damage: 5d6 * 10
 - Accuracy: +3
 - Range: 30
 - Area: 20
@@ -322,7 +322,7 @@ A powerful wind technique, this emanates an incredibly powerful wind, starting a
 - Speed: 14
 - Seal Speed: 24
 
-Effects: The tornado provides a Damage Reduction of (your ninjutsu damage bonus)*10. Any time you use a Fuuton jutsu, this DR is increased by (the technique's Speed) * (your damage bonus, -2 for each rank the technique is below A). This DR doesn't apply to Katon, and is considered 50% higher against Raiton. Non-projectile ranged attacks (such as Retsudotensho) only have their damage reduced by half the normal amount. X is the current amount of DR this technique is granting you--its Upkeep steadily increases as its power does. Its primary downside, however, is the difficulty in dragging a raging tornado along: so long as it's maintained, the user's movement speed is reduced by 10% for every 100 DR, to a minimum of 0%. Additionally, the surge of wind each time this tornado is empowered pushes enemies (along with anyone and everything else) away from you. Anyone within (your ninjutsu damage bonus) yards is knocked back (1 per rank of the jutsu; 1 for E, 5 for A, etc.) * (your ninjutsu damage bonus)/3 yards. So long as this technique's maintained, it's impossible to grapple you. You may choose to end it at will, or when making any Fuuton attack (whose Chakra roll will still be penalized by Taifuu no Me's upkeep), adding your total amassed damage reduction to that technique's damage.
+Effects: The tornado provides a Damage Reduction of (your ninjutsu damage bonus) * 10. Any time you use a Fuuton jutsu, this DR is increased by (the technique's Speed) * (your damage bonus, -2 for each rank the technique is below A). This DR doesn't apply to Katon, and is considered 50% higher against Raiton. Non-projectile ranged attacks (such as Retsudotensho) only have their damage reduced by half the normal amount. X is the current amount of DR this technique is granting you--its Upkeep steadily increases as its power does. Its primary downside, however, is the difficulty in dragging a raging tornado along: so long as it's maintained, the user's movement speed is reduced by 10% for every 100 DR, to a minimum of 0%. Additionally, the surge of wind each time this tornado is empowered pushes enemies (along with anyone and everything else) away from you. Anyone within (your ninjutsu damage bonus) yards is knocked back (1 per rank of the jutsu; 1 for E, 5 for A, etc.) * (your ninjutsu damage bonus)/3 yards. So long as this technique's maintained, it's impossible to grapple you. You may choose to end it at will, or when making any Fuuton attack (whose Chakra roll will still be penalized by Taifuu no Me's upkeep), adding your total amassed damage reduction to that technique's damage.
 
 #### --( Fuuton: Kitakaze - Wind Release: The North Wind )--
 The north wind wind cleanses the world of its impurities and soothes the raging elements. Once its handseals are completed, a calm but strong wind blows in from the north.
