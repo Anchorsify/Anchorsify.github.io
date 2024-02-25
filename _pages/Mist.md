@@ -42,16 +42,16 @@ The Hozuki clan’s pride is the ability to liquify their entire body, from bone
 
 Effects: Liquifying is a Speed 5 Interrupt (which does not require a roll to succeed), while solidifying is a Speed 0 action.  While in water form, the following effects are applied:
 
- - You take only 25% damage from Suiton, 50% from Katon and Doton, and 75% from Fuuton.
+ - You take only 25% damage from Suiton, and 50% from Katon.
  - You cannot block Doton or Raiton.
- - You take +25% damage from Raiton, and any Shock status effects they apply also inflict you with a Stun of twice their severity.
- - You are immune to all non-Energy-wound dealing Taijutsu, and medical ninjutsu.
- - Nintaijutsu (such as a weapon with Chakra Flow, or Rock Smashing Staff) deal damage based on their respective element.
+ - You take +50% damage from Raiton, and any Shock status effects they apply also inflict you with a Stun of twice their severity.
+ - You are immune to all non-Energy-wound dealing Taijutsu, and medical ninjutsu (except for Ranshinshou).
+ - Taijutsu enhanced by Ninjutsu (such as a weapon created by ninjutsu, or enhanced by Chakra Flow) deal damage based on their respective element.
  - You are immune to, and do not suffer the penalties of existing, Wounds.
  - You can breathe underwater.
  - Your Physical Damage Bonus is set to 0.
  - You cannot be grappled (or grapple other people), and ignore Immobilization penalties and effects which work by restraining or caging you.
- - You always have an additional 10+(Chakra Control ranks/2) gallons of water to use with Suiton techniques, which nobody else may access. If you figure out why, you get a cookie. This water is never used up, or considered to be added to the battlefield.
+ - You always have an additional 10+(Chakra Control ranks/2) gallons of water to use with Suiton techniques, which nobody else may access. If you figure out why, you get a cookie. This water is never used up, or considered to be added to the battlefield, and can not be utilized for techniques with an Upkeep, or for clones.
  - You cannot be burnt, poisoned, or ignited, and ignore the effects of those statuses while in liquid form; their durations still decrease normally (and Ignite automatically ends).
  - You cannot open any Gates, do not gain any bonuses from having any Gates open and while liquified, you can’t generate or spend Gate-specific AP, nor do you suffer the normal Wounding chance. You regain all benefits of Gates once you solidify and do not have to re-open any Gates opened before liquifying, however.
 
@@ -437,9 +437,9 @@ Terumi begin with Elemental Aptitude for Fire and Water, along with the first ra
 
 #### -=[ Futton - Boil Release ]=-
 Combining Fire and Suiton chakra produces the aptly-named Boil Release, though not all Futton techniques necessarily use boiling water.  Some converted Katon instead manifest as superheated blasts of corrosive mist.
-Any Suiton or Katon technique can be converted to Futton, with the following changes:
 
- - +5 Chakra cost
+Any Suiton or Katon technique can be converted to Futton as a Chakra +5, Speed +0 link, with the following changes: 
+
  - Futton always inflicts Energy wounds
  - Katon techniques add 1/4 of their Chakra cost as gallons of water to the battlefield after resolving
  - Suiton techniques inflict Burns equal to 1/8 of their Chakra cost if their target(s) fail a Status roll
@@ -447,7 +447,8 @@ Any Suiton or Katon technique can be converted to Futton, with the following cha
  - Blocking Futton reduces its damage normally, however for Wounding purposes, Futton is calculated based off of its unreduced damage
  - If partial success applies, Futton deal 50% of their normal damage per point it hits by, rather than 20% (meaning if they hit by more than one, they deal full damage)
  - Futton cannot inflict Ignite; techniques with Ignite deal 5% more damage per point of Ignite they would inflict
- - Futton is weak to Doton, and strong against Katon and Fuuton
+
+Futton is weak to Doton, and strong against Katon and Fuuton.
 
 #### --( Kiri no Ora - Fog Aura )--
 While letting superheated fog roll over oneself isn’t ordinarily beneficial, Terumi have developed a use for the Futton variant of Mekkyaku that is more than just a flamboyant effect, holding the veiling mist in place around themselves to create a personal shield of their element which combines perfectly with Kirigakure’s natural climate.
@@ -492,16 +493,16 @@ Touu begin with Elemental Aptitude for Water and Wind, along with the first rank
 #### -=[ Hyouton - Ice Release ]=-
 Touu have the ability to use one of the coveted advanced chakra natures: Ice Release, combining the flexibility of water with the penetrating power of wind.
 
-You may convert any Suiton or Fuuton into a Hyouton technique, with the following changes:
+Any Suiton or Fuuton technique can be converted to Fuuton as a Chakra +5, Speed +0 link, with the following changes: 
 
- - +5 Chakra cost
  - Hyouton inflicts Piercing wounds, and blocking reduces the damage of Hyouton techniques by 25% less.
  - Hyouton’s damage for the purpose of wounding is considered 25% higher, which stacks additively with other increases on converted techniques (50% + 25% = 75%)
  - You may forego rolling any or all of the damage dice when using a Hyouton technique, treating the result of those dice as equal to one higher than half the die size (d4’s become 3, d6’s become 4, d8’s become 5, etc).  You must declare how many dice you are applying this to before rolling damage.
  - Fuuton converted to Hyouton may not be used with a fan, and gain a gallons of water requirement equal to 1/5 their Chakra cost.
  - Any technique which would add gallons of water to the battlefield instead leave behind an equivalent amount of ice, as if it had been frozen by Water Sky Convergence (this doesn’t include the gallons needed to perform the technique, but does apply to the water created by a Hyouton Water Creation technique); this works the same with techniques which remove water, removing the same amount of Ice
  - Hyouton techniques inflict Frostbite equal to the rank of the jutsu (E = 1, D = 2, etc)
- - Hyouton is weak against Katon, and strong against Doton and Suiton
+
+Hyouton is weak against Katon, and strong against Doton and Suiton
 
 ###### --( Frostbite )--
 This is a status effect. As someone is struck by Hyouton, their core body temperature begins to lower from the extreme cold, slowing their movements and actions.  Frostbite inflicts an Immobilization penalty equal to its severity, and for each point of Frostbite someone has, they take 1% of their current Vitality in damage every 10 IC.  If they have no Vitality remaining, the damage is calculated and done to their HP, instead.

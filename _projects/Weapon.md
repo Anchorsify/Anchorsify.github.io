@@ -74,7 +74,7 @@ By unfolding their fan only a third of the way, the user creates a small but bit
  - Range: CHA/4
  - Type: Fan
 
-Effects: This attack uses your ninjutsu damage bonus, rather than your physical damage bonus. The Chakra cost of this technique is the same as, and replaces, the Fan's normal Stamina cost.
+Effects: This attack uses your ninjutsu damage bonus, rather than your physical damage bonus. The Chakra cost of this technique is the same as, and replaces, the Fan's normal Stamina cost.  This attack can only be parried by things which state they can parry Ninjutsu.
 
 #### --( Kage Shuriken no Jutsu - Shadow Shuriken Technique )--
 The user throws multiple Shuriken at the same time, positioning them in such a way that one or more weapons can hide within the shadow of another in flight, making the lower one(s) virtually invisible.
@@ -294,7 +294,7 @@ Opening the fan two-thirds of the way for this attack, the user lets out a stron
  - Speed: (Weapon) + 3
  - Type: Fan
 
-Effects: This uses your ninjutsu damage bonus, plus one-fourth of your physical damage bonus, and knocks your target back (PDB/2) yards on hit. The Chakra cost of this technique is (the Fan's normal Stamina Cost) + 5.
+Effects: This uses your ninjutsu damage bonus, plus one-fourth of your physical damage bonus, and knocks your target back (PDB/2) yards on hit. The Chakra cost of this technique is (the Fan's normal Stamina Cost) + 5. This attack can only be parried by things which state they can parry Ninjutsu.
 
 #### --( Nenshou Hoshi Shuriken - Burning Star Shuriken )--
 Taking a large throw weapon, you slap several explosive tags onto it and huck it at your enemies! Pretty simple, and pretty awesome!

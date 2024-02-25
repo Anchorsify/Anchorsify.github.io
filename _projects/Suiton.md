@@ -132,14 +132,13 @@ After creating the handseals, you launch water in projectile form at an opponent
 - Seal Speed: 13
 - Requires: 8 gallons of water
 
-Effects: This technique travels in a line from you to its target (or its maximum range). You may move a number of yards equal to the final Speed of this attack along that line as part of this technique, unhindered by anything which would normally prevent you from moving. The gallons of water used in this technique are removed from the battlefield.
+Effects: This technique travels in a line from you to its target. You may move a number of yards equal to the final Speed of this attack along that line as part of this technique (in place of your normal attack-move distance), unhindered by anything which would normally slow (but not prevent) you from moving. The gallons of water used in this technique are removed from the battlefield.
 
 #### --( Mizurappa - Violent Water Wave )--
 Inhaling a large amount of air and performing the necessary seals, the user will expel a copious amount of water from his/her mouth. The wave of water produced will slam against its opponent and can then be utilized for other techniques.
 
 - Chakra: 16
 - Damage: 12d10+30
-- Accuracy: +2
 - Range: 15
 - Speed: 12
 - Seal Speed: 12
@@ -155,7 +154,7 @@ This creates, as its name suggests, a whip made from water which is held togethe
 - Seal Speed: 14
 - Requires: 8 gallons of water
 
-Effects: You create a whip made out of water. It is a a Stamina 11, Damage 6d10, Speed 10, Range 8 Melee Slashing Chain weapon. It uses the higher of your Ninjutsu or Physical Damage Bonus, and you can change which you apply to any given attack (chosen when you make the attack). You may perform handseals while holding the whip at no penalty.
+Effects: You create a whip made out of water. It is a a Stamina 11, Damage 6d10, Speed 10, Range 8 Melee Slashing Chain weapon. It uses the higher of your Ninjutsu or Physical Damage Bonus. You may perform handseals while holding the whip at no penalty.
 
 As a Speed 10 action, you may use the whip to grab hold of someone, as per the E-rank Grapple technique. You use your CHA rather than your STR for grapple checks using the whip. Your opponent is considered to be 'grappling' the whip, not you. Although the whip itself can not be targeted by the person grappled by it, it has HP equal to your CHA, and can be attacked by outside sources (or struck by area of effect attacks), and reducing the whip's HP to 0 ends the grapple immediately. The whip can not be attacked and is not caught by area of effect attacks when not being used to grapple someone, however. The victim can not shift a grapple with a water whip, only break it. You can use the whip to perform any valid Grapple techniques which you know of C-rank or below, using your CHA in place of your STR, except for Headbutt, Suplex, and Pressure Point, replacing the Grapple technique's normal Stamina cost with a Chakra cost. It is considered to have unlimited limbs, using your chakra to reshape the whip as necessary. Additionally, you may direct Raiton techniques through the whip. This may be done with techniques of E- and D-rank. It may done with a C-rank technique, but doing so destroys the whip in the process. These techniques can not be dodged (as they're being grappled by the whip), but can be blocked.
 
@@ -236,7 +235,6 @@ This move forms multiple pressurized, spiralling columns of water that have a dr
 
 - Chakra: 28
 - Damage: 10d20+60
-- Accuracy: +1
 - Range: 30
 - Speed: 14
 - Seal Speed: 16
@@ -249,14 +247,13 @@ This technique shapes a large amount of water into a giant, dragon-shaped projec
 
 - Chakra: 33
 - Damage: 14d20+140
-- Accuracy: +1
 - Range: 40
-- Special: Stun 10
 - Speed: 18
 - Seal Speed: 22
+- Status: Stun 10
 - Requires: 24 gallons of water
 
-Effects: If the victim fails a status roll this inflicts Stun 10. Half the gallons of water used in this technique are removed from the battlefield.
+Effects: Half the gallons of water used in this technique are removed from the battlefield.
 
 #### --( Suijinheki - Water Encampment Wall )--
 This defensive technique creates a wall of water around you, which forms a violently churning defensive perimeter. When lacking water in the environment to use, a talented shinobi can form it in their stomach and spit it out.
@@ -272,15 +269,14 @@ Effects: If using Suijinheki as an interrupt: Make an accuracy roll against an i
 #### --( Bakusui Shouha - Exploding Water Shockwave )--
 The user creates an enormous amount of water by spewing it from their mouth, flooding the battlefield and potentially crushing foes in its path. Best of all, they get to look awesome while doing it! The wave rises up from beneath the user, and they can 'ride' it to its destination.
 
-- Chakra: 18+X
-- Damage: Xd12+X*8
-- Range: 10 + X*2
-- Area: 10 + X*2
-- Special: Stun X
+- Chakra: 18 + X
+- Damage: Xd12 + X * 8
+- Area: 10 + X * 2
 - Speed: 16
 - Seal Speed: 26
+- Status: Stun X 
 
-Effects: Adds X*4 gallons of water to the battlefield. X has a maximum of your Chakra Control ranks. This technique travels in a line from you to its target (or its maximum range). You may move a number of yards equal to the final Speed of this attack along that line as part of this technique, unhindered by anything which would normally prevent you from moving. Anyone other than yourself within the area must defend against this technique.
+Effects: Adds X * 4 gallons of water to the battlefield. X has a maximum of your Chakra Control ranks. You may move a number of yards equal to the final Speed of this attack toward your opponent (in place of your normal attack-move distance), unhindered by anything which would normally slow (but not prevent) you from moving.  Anyone other than yourself within the area must defend against this technique.
 
 #### --( Benzaiten no Jutsu - River Goddess Technique )--
 Named after the deity who supposedly watches over a major river, this technique coats the user's body with a thin layer of chakra-infused water. It offers no real protection from impacts or weapons, but can be an effective supplement to one's defenses against heat and other unpleasantness.
@@ -325,10 +321,10 @@ This is one of the most powerful water ninjutsu in existence; once the appropria
 - Damage: 24d20+300
 - Range: 80
 - Area: 20 wide, up to max range in length; may be used as a smaller area if you wish
-- Special: Stun 18
 - Speed: 36
 - Seal Speed: 30
 - Requires: 200 gallons of water
+- Status: Stun 18
 
 Effects: Half the gallons of water used in this technique are removed from the battlefield, scattered as a fine mist over the area; if the gallon requirement is somehow removed, this technique's Chakra cost is increased by 18. Blocking reduces this technique's Stun by half.
 
@@ -347,7 +343,7 @@ The technique's true secret, however, is its ability to absorb any chakra it com
 
 Effects: If used as an Interrupt, you may choose to reduce this technique's Seal Speed by 10 and increase its Chakra cost by 10. You can choose to use more than the required amount of gallons of water for this technique, adding 2 points of damage per extra gallon used; all gallons of water used in this technique are removed from the battlefield afterward. Used as a normal attack, it does full damage to a single target, and half damage to everyone within its Area.
 
-As an Interrupt, it can be used to counter any ranged ninjutsu attack. Daikoudan may be used to Interrupt techniques so long as its Speed is equal to or less than theirs. The two attacks collide, and their damage is compared. For this comparison, treat Katon technqiues as dealing 25% less damage, and Doton as dealing 25% more. If the incoming attack does more damage, you are hit by it, but it has its damage reduced by half. If Daikoudan's damage is greater, it becomes an attack against the opponent with +5 Accuracy, along with any Accuracy bonuses (but not penalties) of the attack it countered. It does an additional (X)*10 damage, where X is the Chakra cost of the move it countered. Similarly, if a ninjutsu-based defense is used against Daikoudan, and fails to stop it completely, it does full damage (bypassing even partial defense) and adds (X)*10 damage, with X being the Chakra cost of the failed defense.
+As an Interrupt, it can be used to counter any ranged ninjutsu attack. Daikoudan may be used to Interrupt techniques so long as its Speed is equal to or less than theirs. The two attacks collide, and their damage is compared. For this comparison, treat Katon technqiues as dealing 25% less damage, and Doton as dealing 25% more. If the incoming attack does more damage, you are hit by it, but it has its damage reduced by half. If Daikoudan's damage is greater, it becomes an attack against the opponent with +5 Accuracy, along with any Accuracy bonuses (but not penalties) of the attack it countered. It does an additional (X * 10) damage, where X is the Chakra cost of the move it countered. Similarly, if a ninjutsu-based defense is used against Daikoudan, and fails to stop it completely, it does full damage (bypassing partial success) and adds (X * 10) damage, with X being the Chakra cost of the failed defense.
 
 #### --( Dai Bakusui Shouha - Great Exploding Water Shockwave )--
 A stronger version of the B-rank Exploding Water Shockwave, the user spits out a truly prodigious amount of water.
@@ -356,9 +352,9 @@ A stronger version of the B-rank Exploding Water Shockwave, the user spits out a
 - Upkeep: 8
 - Range: 20 + X * 4
 - Area: 20 + X * 4
-- Special: Stun 10 + X
 - Speed: 26
 - Seal Speed: 32
+- Status: Stun (10 + X)
 
 Effects: This adds 200+X*20 gallons of water to the battlefield. X has a maximum of your Chakra Control ranks. Unlike other Suiton techniques, you can use the water from this technique even while maintaining its upkeep. So long as you maintain its Upkeep and there are least 200 gallons of water on the battlefield, any techniques which function by altering the condition of the ground (such as Syrup Capture Field, or Retsudotensho) are effectively useless, as the water forms a flattened orb over the affected area, with the user anchored at its center. The water orb will follow them, and the below effects will be maintained (when the upkeep ends, so do they, as the water disperses over a much larger area): Anyone who can't stand on water will begin to sink into the orb, and is forced to swim (at half their normal movement speed, unaided by normal movement-increasing techniques), and until they exit the area, they suffer a Suffocation 1 every 10 IC. Someone forced to swim in this way can take a Speed 5 action to keep themselves at the surface of the water, preventing them from gaining any Suffocation status from this technique for 15 IC.
 

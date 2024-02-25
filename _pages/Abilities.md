@@ -280,11 +280,11 @@ You've got a good eye for causing bodily harm to people from a distance. In any 
 - Requires: Enhanced Sight 3
 
 #### -=[ Combat Acupuncture ]=-
-You can throw senbon to target vital points on an opponent's body. Whenever making a called shot with senbon, if you deal damage you inflict a -2 immobilization penalty on your foe. Using this on somebody already suffering from it increases the Immobilization penalty by 1 each time. The maximum penalty is your rank in this ability.
+You can throw senbon to target vital points on an opponent's body. Whenever making a called shot with senbon, if you deal damage you inflict a -2 immobilization penalty on your foe. Using this on somebody already suffering from it increases the Immobilization penalty by 1 each time. The maximum penalty is (your rank in this ability + 1).
 
 - Base Cost: 2
 - Scale: 2
-- Limit: DEX /10
+- Limit: DEX /20, max 5
 - Requires: Medicine 10
 
 #### -=[ Explosive Tag Connection ]=-

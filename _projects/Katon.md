@@ -83,16 +83,18 @@ This jutsu creates a polearm out of pure flame, which the user can hold unharmed
 - Upkeep: 2
 - Speed: 8
 - Seal Speed: 12
+- Status: Ignite 4
 
-Effects: You acquire a naginata or yari made out of fire. It uses your NDB +33% instead of your PDB for its damage. Whenever someone is struck by it, they must make a status roll. On a success, they suffer a Burns 2; on a failure, they suffer Ignite 4. You may perform handseals while holding this weapon, but doing so increases the Seal Speed by 6. The weapon persists until you let go of it or end the Upkeep.
+Effects: You acquire a naginata or yari made out of fire. It uses your NDB +33% instead of your PDB for its damage. Whenever someone is struck by it, they suffer Burns 2. You may perform handseals while holding this weapon, but doing so increases the Seal Speed by 6. The weapon persists until you let go of it or end the Upkeep.
 
 #### --( Houyoku - Phoenix Wings )--
 This technique wreathes part of your body--generally a forearm and hand, but it can vary depending on the needs of the technique--with chakra-based flames! It's quite flashy, and could be considered low-grade nintaijutsu, as it then combined those flames with a physical attack of your choice.
 
-- Chakra: 8
-- Seal Speed: 5
+ - Chakra: +8
+ - Seal Speed: +5
+ - Status: Burns 4
 
-Effects: After completing the seals, you perform any non-grapple unarmed taijutsu attack. The technique uses your ninjutsu, rather than physical damage bonus, and increases it by 25%, unless the technique itself increases it further in which case, you use whichever is preferable. If the opponent fails a status roll after being hit by this technique, it inflicts Burns 4.
+Effects: After completing the seals, you perform any non-grapple unarmed taijutsu attack. The technique uses your ninjutsu, rather than physical damage bonus, and increases it by 25%, unless the technique itself increases it further in which case, you use whichever is preferable.
 
 #### --( Ryuuseiu no Jutsu - Meteor Shower Technique )--
 The user gathers intense fire chakra in their palms or fingertips before throwing several weapons which ignite in mid-air. Aside from being painful, being hit by flaming bits of metal carries other risks.
@@ -100,8 +102,9 @@ The user gathers intense fire chakra in their palms or fingertips before throwin
 - Chakra: +(8 + X/2)
 - Speed: +X/4
 - Seal Speed: X
+- Status: Burns (lower of NDB or X)
 
-Effects: This technique acts as a link to a multithrow attack, with X being the number of weapons thrown. On hit, the target makes a status roll: If they fail, they suffer Burns equal to your NDB or X, whichever is lower. The weapons used in this technique are ruined by the intense heat, and can not be retrieved or reused.
+Effects: This technique acts as a link to a multithrow attack, with X being the number of weapons thrown. The weapons used in this technique are ruined by the intense heat, and can not be retrieved or reused.
 
 
 ## C-Rank
@@ -112,8 +115,9 @@ After performing the handseals, the user exhales a cluster of small fireballs, e
 - Damage: +Xd6
 - Speed: +X/2
 - Seal Speed: 4+X
+- Status: Ignite (lower of NDB or X)
 
-Effects: This technique acts as a link to a multithrow attack, with X being the number of weapons thrown. On a hit, the target makes a status roll: If they fail, they suffer Ignite equal to your NDB or X, whichever is lower. The weapons used in this technique are ruined by the intense heat, and can not be retrieved or reused.
+Effects: This technique acts as a link to a multithrow attack, with X being the number of weapons thrown. The weapons used in this technique are ruined by the intense heat, and can not be retrieved or reused.
 
 #### --( Goukyaku no Jutsu - Grand Fireball Technique )--
 Generations ago, this technique was passed down from father to son within the Uchiha clan as an informal, but sometimes very serious, rite of passage. As time passed its use spread first to other Konoha ninja, and then much further.
@@ -124,8 +128,7 @@ Generations ago, this technique was passed down from father to son within the Uc
 - Area: 10
 - Speed: 14
 - Seal Speed: 10
-
-Effects: If you hit, your target makes a status roll: On a failure, they suffer Burns 6.
+- Status: Burns 6
 
 #### --( Ryuuka no Jutsu - Dragon Fire Technique )--
 This jutsu is painfully slow and inaccurate, making its usefulness situational at best. Most users of the technique find some way to bind or disable their opponents before trying to attack with it. On the other hand, if it manages to connect it can be astonishingly devastating.
@@ -138,7 +141,7 @@ This jutsu is painfully slow and inaccurate, making its usefulness situational a
 - Seal Speed: 16
 - Special: Burns 4, Ignite 8
 
-Effects: This technique benefits from double the user's ninjutsu damage bonus. If you hit, your target makes a status roll: On a failure, the Burns and Ignite are both doubled.
+Effects: This technique benefits from double the user's ninjutsu damage bonus. If you hit, you inflict Burns 4 and Ignite 8, and the target makes a status roll: On a failure, the Burns and Ignite are both doubled.
 
 #### --( Kasumi Enbu no Jutsu - Mist Blaze Dance Technique )--
 Once you perform the handseals, this jutsu allows you to exhale a slightly translucent cloud of potentially flammable gas. Even so much as a spark will spell trouble for anyone unfortunate enough to be within it. As an added effect, the glass is ever-so-slightly toxic.
@@ -178,7 +181,7 @@ The shinobi gathers chakra in their mouth, before converting it to fire and shoo
 - Chakra: 34
 - Damage: 22d20.extra(11)
 - Range: 40
-- Special: Ignite 7, Burns 5
+- Special: Burns 5, Ignite 7
 - Speed: 18
 - Seal Speed: 22
 

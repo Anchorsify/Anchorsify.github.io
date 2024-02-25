@@ -44,7 +44,7 @@ While most shinobi struggle to learn the basics of elemental control, you took t
 *Upgrades Into: Elementalist*
 
 ##### Expansive Chakra
-Chakra flows readily through your body and into your jutsu, allowing you to effortlessly mold it into techniques. The Chakra costs for all your jutsu are reduced by 1, +1 per rank (2 for E-rank, 3 for D-rank, etc), and your ninjutsu damage bonus is increased by half that amount (1 for E-rank, 1.5 for D-rank, etc).
+Chakra flows readily through your body and into your jutsu, allowing you to effortlessly mold it into techniques. The Chakra costs for all your jutsu are reduced by 1 per rank (1 for E-rank, 2 for D-rank, etc), and your ninjutsu damage bonus is increased by half that amount (0.5 for E-rank, 1 for D-rank, etc).
 
 *Upgrades Into: Boundless Chakra*
 
@@ -64,7 +64,7 @@ That's what you are! You have a bonus to Stamina rolls of 1, + 1 per rank of the
 *Upgrades Into: Endless Energy*
 
 ##### Killing Intent
-You have what it takes to end a person's life. Even if you personally would choose not to, it's not because you lack the capacity. Something about you gives that away, that killer's instinct having seeped into your very chakra. Whenever you inflict a wound upon someone, you and your victim roll 1d20+XP/100, with +1 to your roll for every previous wound you've inflicted in that battle. If they fail, they receive a Stun with a severity of how much you beat their roll by.
+You have what it takes to end a person's life. Even if you personally would choose not to, it's not because you lack the capacity. Something about you gives that away, that killer's instinct having seeped into your very chakra. Whenever you inflict a wound upon someone, you and your victim roll 1d20+XP/100, with +1 to your roll for every previous wound you've inflicted in that battle. If they fail, they receive a Stun with a severity of how much you beat their roll by, to a maximum of 15.
 
 ##### Lightfoot
 You've always been talented at sneaking and hiding in almost any and all places. Whether a dark shadow or henge'd as a tissue box in a room, you know how make your presence scarce.  You have a +3 bonus to Stealth rolls, and the speed of your Hide action is reduced by 3. You can move when in Stealth 2 without lowering the level of your stealth.
@@ -84,13 +84,13 @@ You have always been able to pick things up, spin them between your fingers, thr
 ##### Restrained
 You know just how much force you're applying, and how to, when necessary, apply less. This is good when doing handiwork, but also when fighting someone who you don't want to kill or maim.
 
-You gain all five ranks of the Holding Back ability for free, and when using the ability, your damage bonus is not decreased (as is normal). You can elect to take up to a -2 to the Accuracy or Damage Bonus of any attack in which you use Holding Back with to then gain up to a +2 to the attack's Accuracy and/or Damage Bonus the next time you perform the same attack without holding back (the bonuses do not stack). Any time you inflict a wound upon someone, you can elect to reduce the wound's severity by one.
+You gain all five ranks of the Holding Back ability for free, and when using the ability, your damage bonus is not decreased (though this does not affect your clones). You can elect to take up to a -2 to the Accuracy or Damage Bonus of any attack in which you use Holding Back with to then gain up to a +2 to the attack's Accuracy and/or Damage Bonus the next time you perform the same attack without holding back (the bonuses do not stack). Any time you inflict a wound upon someone, you can elect to reduce the wound's severity by one.
 
 When an attack you make would prove lethal, you may opt to hold back at the last moment. This leaves your victim at 0 HP (or, if they were below 0 HP, they aren't reduced any further), raises the severity of any wounds you inflicted by 1 (and cannot be combined with a normal activation of this unique), but prevents your attack from being fatal.
 *Upgrades Into: Avenger, Protector*
 
 ##### Seal Master
-You're really, really good with handseals. You make them fast, and mold your chakra just as rapidly. It could be natural talent... but, honestly, you know what it probably was? Probably when you were a kid you were incredibly obsessed with being a super-cool ninja, so you spent all your free time making fake handseals and pretending to shoot fireballs at your friends. You reduce all Seal Speeds by Dex/6 (instead of Dex/10), and for every 30 DEX over what is needed to reduce a jutsu's Seal Speed to 0 you have, you can choose to lower that technique's Speed by 1 (as if you'd spent AP to do so).
+You're really, really good with handseals. You make them fast, and mold your chakra just as rapidly. It could be natural talent... but, honestly, you know what it probably was? Probably when you were a kid you were incredibly obsessed with being a super-cool ninja, so you spent all your free time making fake handseals and pretending to shoot fireballs at your friends. You reduce all Seal Speeds by Dex/8 (instead of Dex/10), and for every 40 DEX over what is needed to reduce a jutsu's Seal Speed to 0 you have, you can choose to lower that technique's Speed by 1 (as if you'd spent AP to do so).
 
 *Upgrades Into: Jutsu Master, Single-Handed Seals*
 

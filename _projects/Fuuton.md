@@ -53,12 +53,11 @@ Effects: This technique's damage is considered 100% higher for Wounding purposes
 Holding their hand half-grasped, the user blows a constant stream of wind into their hand which begins to spiral around in a ball or small tornado shape. The tornado is then sent out toward the target as the hand is opened.
 
 - Chakra: 12
-- Damage: 5d4*5
+- Damage: 4d4*5
 - Range: 15
 - Speed: 10
 - Seal Speed: 8
-
-Effects: If you hit and your target fails a status roll, they are knocked back 5 yards.
+- Status: 5 yard Knockback
 
 #### --( Shikisetsufuu Shou - Four Seasonal Winds Palm )--
 In a fashion similar to how ninja knead chakra into their palms and feet to stick to walls and ceilings, you gather wind elemental chakra, but project and hold it just beyond your body to supplement your unarmed strikes.
@@ -130,7 +129,7 @@ The user takes in a deep breath an spins while exhaling, forming several rotatin
 - Speed: 16
 - Seal Speed: 14
 
-Effects: This technique may differentiate between enemies and allies within its area of effect. It ignores armor, and its damage is considered 25% higher for the purpose of causing wounds.
+Effects: This technique may differentiate between enemies and allies within its area of effect, but does not penalize dodges based on its Area. It ignores armor, and its damage is considered 25% higher for the purpose of Wounding.
 
 #### --( Daitoppa - Great Breakthrough )--
 A relatively simple technique which creates a sudden gust of wind. Its actual force varies wildly based upon the strength of the user. A superior shinobi will produce alarmingly destructive results, while a weaker one would be better off finding other methods to attack.
@@ -151,11 +150,11 @@ After finishing the seals, the user claps their palms together and compresses th
 - Speed: 8
 - Seal Speed: 8
 
-Effects: This can be used as an attack, as an interrupt, or in combination with a multi-throw. As an attack, it does 4d6 * 5 damage and if you hit, you make an opposed roll of your Chakra Control vs your target's Athletics; if they fail, they're knocked prone.
+Effects: This can be used as an attack, as an interrupt, or in combination with a multi-throw. As an attack, it does 3d6 * 5 damage and if you hit, you make an opposed roll of your Chakra Control vs your target's Athletics; if they fail, they're knocked prone.
 
 As an interrupt, it can be used in response to a thrown weapon attack, allowing you to make a ninjutsu parry roll against the attack. If you succeed, you redirect their attack at them, using your parry roll's result as the attack's new Accuracy TN, adding 2d6 * 5 to the attack's damage plus your interrupt's Speed * NDB. Wounds inflicted are based off of the combined damage total, and the damage type is based on the thrown attack.
 
-In combination with a multi-throw, this acts as a link, making this technique Speed +6 and Seal Speed +8 (which, as a reminder, does not have the Speed or Seal speed adding to damage, as is normal for links). The attack uses the combined range of the thrown weapons and this technique to determine its maximum range, and adds 4d6 * 5 to its damage. Wounds inflicted are based off of the combined damage total, and the damage type is based on the thrown attack.
+In combination with a multi-throw, this acts as a link, making this technique Speed +6 and Seal Speed +8 (which, as a reminder, does not have the Speed or Seal speed adding to damage, as is normal for links). The attack uses the combined range of the thrown weapons and this technique to determine its maximum range, and adds 2d6 * 5 to its damage. Wounds inflicted are based off of the combined damage total, and the damage type is based on the thrown attack.
 
 #### --( Kazekame Kaigara no Jutsu - Wind Turtle's Shell Technique )--
 The technique creates a rotating dome of wind around the user, chakra-infused air moving quickly enough to blur the image of the person inside, and deflect many incoming attacks. However, the technique is a far cry from being a true absolute defense.
@@ -187,7 +186,7 @@ Effects: When you activate this technique you can jump (STR/10 - Y * 2) * (ninju
 The user of this technique releases a powerful burst of wind, chakra concentrating the air into several layered air streams. This creates pockets of both vacuums and high-speed air which have enough focused force behind them to cut down trees.
 
 - Chakra: 28
-- Damage: 6d8*6
+- Damage: 6d8 * 6
 - Range: 25
 - Speed: 12
 - Seal Speed: 14
@@ -218,14 +217,13 @@ The user exhales their breath as several small blasts of wind chakra, each not m
 - Seal Speed: 20
 - Special: This technique may not have its seal speed removed with a fan
 
-Effects: Shinkuugyoku targets everything in a line 30 yards wide, between you and its maximum range. You may divide the width by any whole number between 1 and 5 to multiply the length by half that much. (For example, you could reduce it to 20/5 = 4 yards wide, and increase its range to 30 * 2.5 = 75). The Improved Area ability provides only half its normal benefit to Shinkuugyoku. The effects of partial defense a doubled against this technique: for every point it hits by, it deals only 10% of its full damage. However, to determine wounds inflicted Shinkuugyoku's damage is 100% higher. Shinkuugyoku inflicts Piercing wounds. If someone Takes the Hit for Shinkuugyoku, whoever they were defending will still take 75% damage, so long as the defender received a Major or greater wound.
+Effects: Shinkuugyoku targets everything in a line 20 yards wide, between you and its maximum range. You may divide the width by any whole number between 1 and 5 to multiply the length by half that much. (For example, you could reduce it to 20/5 = 4 yards wide, and increase its range to 40 * 2.5 = 100). The Improved Area ability provides only half its normal benefit to Shinkuugyoku, and both it and Improved Range are applied before you choose to modify (divide) its width. The effects of partial defense a doubled against this technique: for every point it hits by, it deals only 10% of its full damage. However, to determine wounds inflicted Shinkuugyoku's damage is 100% higher. Shinkuugyoku inflicts Piercing wounds. If someone Takes the Hit for Shinkuugyoku, whoever they were defending will still take 75% damage, so long as the defender received a Major or greater wound.
 
 #### --( Shinkuu Renpa - Vacuum Serial Waves )--
 This technique's user takes a deep breath in, and then exhales several blades of high-speed, chakra-infused wind at varying angles. This technique's power can vary greatly depending on the amount of chakra put into the formation of those wind blades, the number created, and how the user chooses to focus them.
 
-- Chakra: 10 + 5 * X
+- Chakra: 15 + 5 * X
 - Damage: (X * 2)d10 * 7
-- Accuracy: +X
 - Range: 25
 - Speed: 22
 - Seal Speed: 12 + X * 2
@@ -311,8 +309,9 @@ If the Vacuum Sphere technique can be considered a spray of wind-chakra bullets 
 - Area: 20
 - Speed: 12
 - Seal Speed: 28
+- Status: Stun 15, (Range) Knockback
 
-Effects: In addition to targeting anyone in its area, anyone between the user and its eventual destination is also a target. Shinkuu Taigyoku is unblockable, and enemies do not receive the benefit of partial defense against it. Anyone hit is knocked back to the far end of its range. Shinkuu Taigyoku inflicts Blunt wounds, and the severity of any wounds it inflicts is increased by one category (minor to major, severe to critical, and so forth). Anyone hit who fails a status roll is inflicted with a Stun 15.
+Effects: In addition to targeting anyone in its area, anyone between the user and its eventual destination is also a target. Shinkuu Taigyoku is unblockable. Anyone hit is knocked back to the far end of its range. Shinkuu Taigyoku inflicts Blunt wounds, and the severity of any wounds it inflicts is increased by one category (minor to major, severe to critical, and so forth).
 
 #### --( Taifuu no Me - Eye of the Storm )--
 A powerful wind technique, this emanates an incredibly powerful wind, starting about a foot away from you and pushing away in all directions. Though not directly harmful itself, it's incredibly difficult to fight through, and will only grow more so as each wind jutsu you perform strengthens the storm.

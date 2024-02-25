@@ -103,9 +103,7 @@ With a quick burst of lightning natured chakra, you force it through a metallic 
  - Speed: +4
  - Requires: Melee weapon
 
-Effects: This technique acts as a link to any melee weapon attack, allowing it to bypass half of its target(s) Damage Reduction, as well as adding one-third your NDB to its damage. The attack is defended against as both a Weapon Taijutsu attack and a Raiton technique (for determining the efficacy of jutsu-based defenses), which overrides any and all other elements that the weapon might otherwise have (such as those with an active Chakra Flow).  
-
-This technique can not be used with any sort of weapon created by a ninjutsu element other than Raiton.
+Effects: This technique acts as a link to any melee weapon attack, and allows the attack to bypass half the damage reduction of those hit by it, as well as adding one-third your NDB to its damage. This technique can not be used with any sort of weapon created by a ninjutsu element other than Raiton.
 
 #### --( Raisen - Lightning Flash )--
 The ranged variant of Kaminari, Raisen charges a metallic thrown weapon with Raiton chakra that crackles and sparks along the edges of the weapon mid-flight, giving it enhanced cutting power and debilitating anyone hit.
@@ -115,7 +113,7 @@ The ranged variant of Kaminari, Raisen charges a metallic thrown weapon with Rai
  - Requires: Large or Small Thrown Weapon(s)
  - Status: X Paralysis for 20 IC
 
-Effects: This technique acts as a link to any thrown weapon attack, and allows the attack to bypass half the damage reduction of those hit by it.  The attack is defended against  X is equal to the amount your Accuracy beats your opponent's defensive roll by, to a maximum of 3. Against defenses which are not rolled, or if the opponent elects not to defend, the maximum Paralysis is inflicted.
+Effects: This technique acts as a link to any thrown weapon attack, and allows the attack to bypass half the damage reduction of those hit by it. X is equal to the amount your Accuracy beats your opponent's defensive roll by, to a maximum of 3. Against defenses which are not rolled, or if the opponent elects not to defend, the maximum Paralysis is inflicted.
 
 ## C-Rank
 #### --( Jinraisen - Thunderclap Arrow )--

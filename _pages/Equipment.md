@@ -108,7 +108,7 @@ A martial arts weapon, the sai consists of a single main, dagger-like spike, wit
 - Damage: 4d8
 - Accuracy: +1
 - Speed: 9
-- Special: +2 Parry. If you successfully parry any weapon with your sai, you may elect to perform the Disarm action as an Interrupt against your opponent as a Stamina 12 action, using your parry roll as your attack roll for the disarm. If you successfully Disarm your opponent in this way, you can elect to catch their weapon in your other hand rather than send it flying, so long as you aren't holding anything in it already.
+- Special: +2 Parry. After you successfully parry any non-Large weapon with your sai, you may elect to perform the Disarm action as an Interrupt against your opponent as a Stamina 12 action, using your parry roll as your attack roll for the disarm. If you successfully Disarm your opponent in this way, you can elect to catch their weapon in your other hand rather than send it flying, so long as you aren't holding anything in it already.
 
 ###### Tetsubo (Large, Blunt, Polearm, Two-Handed)
 Rarely used among ninja, except ones who want to demonstrate how overpoweringly strong they are, the tetsubo is a large wooden pole, often with iron studs on the business end.
@@ -369,9 +369,10 @@ A large gourd or other sort of container, several feet long and usually worn on 
  - Cost: 150 Ryo
 
 ##### Flash Bomb
-Flash bombs are devices which, when ignited, produce brilliant flashes of light. You can throw one on its own, in which case it's a Speed 4 action to throw one up to STR/5 yards that imposes a -4 Visibility Penalty for 10 IC to everyone within 5 yards of where it lands if they fail a status roll against your Athletics with a +4 bonus. You can alternatively choose to use a Flash Bomb alongside an attack or dodge interrupt as a Speed +4 action, imposing the visibility penalty on whomever you're rolling against if they fail the above status roll. When used in this fashion, the penalty applies only to the roll in which it's used against instead of its normal duration. Each time someone has a Flash Bomb used against them in battle after the first, the Visibility Penalty applied is reduced by 1 (whether they pass the status roll or not), to a minimum of 1.
+Flash bombs are devices which, when ignited, produce brilliant flashes of light. Anyone who doesn't know to close their eyes when you throw one suffers a -4 visibility penalty for the next 10 IC. You can throw these up to STR/5 yards. Throwing one is a Speed 4 action.
 
- - Cost: 30 Ryo
+You may also drop a flash bomb when dodging, in which case your dodge's Speed is increased by 4.  
+  -  Cost: 50 Ryo
 
 ##### Ninja Wire
 High tension 16-gauge wire. It is generally only available in ninja villages, and comes in spools with various lengths of wire.

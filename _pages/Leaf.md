@@ -329,7 +329,7 @@ You gain your full maximum’s worth of CP, and your Fatigue level is reduced by
 This technique is only usable after an Akimichi has consumed a Red Chili Pill, due to its extreme chakra requirements; in fact, that's where it got its name. The amount of chakra produced from consuming it is so excessive that the Akimichi's body has to vent it off, resulting in visible plumes of chakra bursting from their shoulder blades in a display reminiscent of butterfly wings.
 
  - Type: Taijutsu, Rank B
- - Chakra: 250 + Special
+ - Chakra: 150 + Special
  - Damage: (STR/4)d12
  - Speed: 20
  - Area: PDB * 3
@@ -492,7 +492,7 @@ Finally, you are immune to all Visibility Penalties from external sources, such 
 #### --( Jyuuken – Gentle Fist )--
 The Hyuuga’s signature fighting style which makes use of Byakugun's ability to see an opponent's chakra flow alongside graceful taijutsu strikes.  With every contact the Hyuuga injects small bursts of chakra into calculated points within the opponent's chakra flow, sealing them off and damaging internal organs directly.  Save for unique physiology or other abilities, Jyuuken is notoriously difficult to defend against once contact is made.
 
- - Type: Taijutsu, Rank E
+ - Type: Unarmed Taijutsu, Rank E
  - Chakra: 5
  - Damage: (CHA/10)d4
  - Special: Opener
@@ -522,8 +522,7 @@ One offensive counterpart to the defensive Hakkeshou Kaiten.  Rather than releas
  - Speed: +2
  - Requires: Byakugan active
 
-Effects: This is added to any Jyuuken or Jyuuken-converted Unarmed or Combo attack, increasing its Chakra cost and Speed accordingly (though its damage does not increase). It allows those techniques to be performed at the listed range (and, accordingly, does not break combos).  Because this changes the technique into what is essentially a wave of force, it prevents them from being parried as a normal Unarmed Taijutsu (though most ninjutsu-based defenses will apply normally).
-It cannot, however, be used to extend the range of the various Gentle Fist finishers.
+Effects: This is added to any Jyuuken or Jyuuken-converted Unarmed or Combo attack, increasing its Chakra cost and Speed accordingly (though its damage does not increase). It allows those techniques to be performed at the listed range (and, accordingly, does not break combos).  Because this changes the technique into what is essentially a wave of force, it prevents them from being parried as a normal Unarmed Taijutsu (though most ninjutsu-based defenses will apply normally).  It cannot, however, be used to extend the range of the various Gentle Fist finishers.
 
 #### --( Hakkeshou Kaiten – Eight Trigrams Palm Revolving Heaven )--
 The absolute defense of the Hyuuga clan, to use this technique the Hyuuga simultaneously releases chakra from every tenketsu in their body and begins spinning rapidly.  The combined effect is to generate a virtually impervious shield of rotating chakra; what makes it truly effective is that the chakra used won't dissipate until the user finally comes to a stop.
@@ -550,7 +549,7 @@ This technique’s only true weakness is that it is ineffective if the user cann
 #### --( Juukenpo Ichigekishin – Gentle Fist Art One Blow Body )--
 Another offensive use of the Hyuuga's ability to release chakra from his tenketsu.  Here a force is created and directed against an opponent, or even against the espied weakness of some technique in order to dispel it, using the Byakugan's ability to see chakra.  In either case, the force created can easily send most opponents flying.
 
- - Type: Taijutsu, Rank C
+ - Type: Unarmed Taijutsu, Rank C
  - Chakra: 10 + X
  - Speed: 10
  - Requires: Byakugan Active
@@ -562,7 +561,7 @@ You can also use this Jutsu to end any effect which restrains you externally, fr
 #### --( Hakke Rokujuyon Shou – Eight Trigrams Sixty-Four Palms )--
 A devastating series of Jyuuken strikes carried out in rapid succession, sealing many of an opponent’s Tenketsu in the process. The strikes are made in increasing powers of two: two strikes, followed by another two, then four, then eight, then sixteen, then thirty-two, for a total of sixty-four strikes. The damage to internal organs and chakra flow is often so debilitating that the victim can no longer stand.
 
- - Type: Taijutsu, Rank C
+ - Type: Unarmed Taijutsu, Rank C
  - Stamina: 20
  - Damage: (CHA/4+12)d4
  - Speed: 16
@@ -575,7 +574,7 @@ A devastating series of Jyuuken strikes carried out in rapid succession, sealing
 #### --( Hakke Hyaku Nijuuhachi Shou – Eight Trigrams One Hundred Twenty-Eight Palms )--
 The ultimate and most lethal usage of Jyuuken, and the final development of Hakke Rokujuyon Shou.  The Hyuuga’s speed and chakra control have reached truly amazing levels, adding a seventh series of strikes which doubles the number of strikes made from sixty-four to one hundred twenty-eight.
 
- - Type: Taijutsu, Rank B
+ - Type: Unarmed Taijutsu, Rank B
  - Stamina: 35
  - Damage: (CHA/2 + 28)d4
  - Special: Finisher
@@ -696,16 +695,17 @@ Once known as the Senju Clan of the Forest, and allegedly descended from the Sag
 Senju begin with Elemental Aptitude for Water and Earth, along with the first rank of Elemental Affinity: Mokuton, which includes Suiton and Doton.
 
 #### -=[ Mokuton - Wood Release ]=-
-The Senju bloodline, once famed for their limitless talents, have fallen far, but one trait remains--or, rather, it's the only one that can be recognized as a sign of Senju heritage. That is Mokuton, combining Water and Earth natured chakra to produce wood-related jutsu. It should be noted that this is wood, specifically, and to a lesser extent, trees--they don't have (despite what legends claim) plant empathy, the ability to restore life to wilting flowers, or anything similar. Any Suiton or Doton technique can be converted to Mokuton, with the following effects:
+The Senju bloodline, once famed for their limitless talents, have fallen far, but one trait remains--or, rather, it's the only one that can be recognized as a sign of Senju heritage. That is Mokuton, combining Water and Earth natured chakra to produce wood-related jutsu. It should be noted that this is wood, specifically, and to a lesser extent, trees--they don't have (despite what legends claim) plant empathy, the ability to restore life to wilting flowers, or anything similar. 
 
-- +5 Chakra cost
+Any Suiton or Doton technique can be converted to Mokuton as a Chakra +5, Speed +0 link, with the following changes:
 - Suiton which add or require gallons of water do not do so, however certain jutsu which gain an additional effect from using up water can still be used (if there is enough gallons to do so), if you wish.
 - Suiton techniques which normally apply visibility penalties to any area instead apply Immobilization penalties with a severity equal to half (rounded down) that of the normal visibility penalty, and are considered terrain-based effects (rather than clouds).
 - Any applied immobilization penalties that normally fade over time take twice as long to fade.
 - All Mokuton techniques can distinguish between allies and enemies and allow you to pick who they will affect. In the case of environmental effects (or those with an upkeep, or which affect an area), you can only distinguish allies and enemies so long as you maintain its Upkeep, and once you stop doing so, it affects everyone equally (including you).
 - The Upkeep of Mokuton techniques are reduced by CHA/30, to a minimum of half its original value.
 - The Chakra Exhaustion penalties incurred by using Mokuton techniques are reduced by 1, to a minimum of 1.
-- Mokuton is weak to Raiton, but strong against Doton and Katon.
+
+Mokuton is weak to Raiton, but strong against Doton and Katon.
 
 #### --( Moku Bunshin no Jutsu - Wood Clone Technique )--
 This technique takes advantage of mokuton's ability to accelerate plant growth by converting some of the user's cells into, essentially, plant matter; the wood clone physically buds off the user before taking on their appearance.
@@ -780,12 +780,12 @@ At the first stage, you are able to acquire the Dousatsugan and Saimingan techni
 ###### -=[ Sharingan, Stage 2 ]=-
 The second stage adds a second tomoe to each eye, and is when the bulk of the doujutsu’s power begins to manifest. Their ability to copy techniques and actions becomes refined, to the level of being able to extrapolate from fine details and mimic even small mannerisms.
 
-You may obtain Yogengan and Shouningan. Both are learned as C-rank jutsu. You also gain +1 to all Defensive Rolls while Sharingan is active.
+You may obtain Yogengan and Shouningan. Both are learned as C-rank jutsu.  You also gain a +1 to all Skill rolls while Sharingan is active.
 
 ###### -=[ Sharingan, Stage 3 ]=-
 The final tomoe appears at this stage, with the trio forming a ring halfway between the pupil and the rim of the iris, equidistant from one another. Upon reaching this stage, you can copy any Genjutsu used upon you by another Uchiha with their Eye of Hypnotism power, despite its lack of handseals (again, assuming you meet the proper requirements).
 
-You may obtain Magen: Kyouten Chiten and Senchigan. Both are learned as B-rank techniques. Finally, you gain +1 to Accuracy while Sharingan is active.
+You may obtain Magen: Kyouten Chiten and Senchigan. Both are learned as B-rank techniques. Finally, your bonus to Skill rolls while Sharingan is active increases to +2.
 
 #### --( Dousatsugan - Eye of Insight )--
 *Requires: Stage 1 Sharingan*

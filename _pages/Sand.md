@@ -47,7 +47,6 @@ Effects: You reduce the severity of any Poison you’re afflicted with by 1 per 
 Anytime you are given a Bleed status, you immediately take damage from it and reduce it (instead of doing so 5 and 20 IC later, respectively); a dramatic, grotesque spray of blood is optional to indicate this. Thereafter, you take damage from the Bleed status every 10 IC, rather than every 5, and reduce your Bleed statuses every 10 IC (rather than 20). Bleeding from sources other than the Bleed status is halved, and has its duration halved; if it does not have a set duration, it stops after 100 IC.
 
 Suffocation effects do not force you to make Stamina rolls, but still apply normally. Even if you’re killed, you won’t truly ‘die’ until reduced to -200% HP; you’ll seem dead, all vital signs stopped, but will revive once you return to 1 HP.
-Finally, you gain +1 to Stamina rolls per rank.
 
 #### --( Regeneration )--
 Among those who’ve worked alongside Henzaki for any prolonged period of time, this is probably their most envied ability. A henzaki will heal in minutes from injures that take others hours to get over, and in hours will have recovered from wounds that might take days for ordinary people to recover from.
@@ -105,8 +104,7 @@ Hitori begin with Elemental Aptitude for Fire and Wind ninjutsu, along with the 
 #### -=[ Shakuton - Scorch Release ]=-  
 Combining Fire and Wind chakra results in the advanced nature of ‘Scorch Release’; as the name suggests, it involves using extreme heat as a weapon, with powerful users being able to reduce opponents to ash or evaporate the liquid inside their body, sapping away their strength.
 
-Any Katon or Fuuton technique can be converted to Shakuton, with the following changes: 
- - +5 Chakra cost
+Any Katon or Fuuton technique can be converted to Shakuton as a Chakra +5, Speed +0 link, with the following changes:   
  - Deal 75% normal damage, but can not be blocked, and gain +100% for Wounding
  - They gain +CHA/30 to their Accuracy
  - Inflict a Dehydration status of severity (1 per Rank of the jutsu) + CHA / (90 - 10*Rank) with damage-dealing jutsu.  In other words, for an E-Rank this is 1+CHA/80, for a D-Rank it is 2+CHA/70, and so on, up to 5+CHA/40 for A-rank techniques
@@ -115,7 +113,8 @@ Any Katon or Fuuton technique can be converted to Shakuton, with the following c
  - Any Ignite a technique would normally inflict instead adds +5% to Wounding per severity of Ignite
  - Any jutsu converted with an inherent bonus to Wounding instead applies a Stun of (Wounding Bonus%)/20, rounded down
  - Shakuton techniques can not be reduced below Speed 5, after all other modifications
- - Shakuton is weak to Suiton, and strong against Fuuton and Doton
+
+ Shakuton is weak to Suiton, and strong against Fuuton and Doton
 
 ###### --( Dehydration )--
 This is a status effect. Every point of Dehydration applies a -1 penalty to the victim’s Stamina and Resistance rolls, and lowers the victim’s Physical Damage Bonus by 0.3.  Dehydrate stacks fully with itself; Dehydration 3 added to Dehydration 2 makes a single Dehydrate 5 status, which applies a -5 to Stamina and Resistance rolls, and a -1.0 to their PDB.
@@ -422,8 +421,8 @@ Monkasei begin with Elemental Aptitude for Doton and Raiton ninjutsu, along with
 #### -=[ Jiton - Magnetism Release ]=-
 Though commonly referred to as ‘magnetic’ Chakra, in actuality it is a little more nuanced: Jiton can react with even non-ferrous metals, and Monkasei are rarely so overt as to carry around dozens of pounds of iron to make use of their Kekkei Genkai.  Rather, they tend to exert control over another substance--almost always Sand, though that might just be a matter of convenience, as it’s light-weight and there’s an infinite supply in their homeland--which is infused with a metal in some form or fashion to thereby control it.  Previous Kazekages were known for their Iron Sand and Gold Dust usage, but every Monkasei has their own preferences as to how they utilize their talent, and it’s not known whether the choice is simply a matter of preference, or if different Monkasei can control different metals better than others.
 
-Any Raiton or Doton technique can be converted into a Jiton technique, with the following changes:
- - +5 Chakra cost
+
+Any Raiton or Doton technique can be converted to Jiton as a Chakra +5, Speed +0 link, with the following changes: 
  - Grant 1 Charge, a stacking self-status effect which lasts for (20+Rank*5) IC.
  - They gain a ‘Sand’ cost in Gallons, according to the Rank of the jutsu: 2 for E, 4 for D, 8 for C, 16 for B, 32 for A.
  - Any technique with an Upkeep requires an amount of Gallons of Sand equal to its Upkeep to maintain (i.e, Doton: Domu requires 10 Gallons of Sand that become unusable until you end its Upkeep), replacing the rank-based requirement if it is higher.  Similarly, the Charge these techniques grant does not fade until the Upkeep is dismissed (allowing Doton: Domu to grant 1 Charge until you end its Upkeep).
@@ -431,7 +430,8 @@ Any Raiton or Doton technique can be converted into a Jiton technique, with the 
  - Do not inflict Paralyze, and instead grant the Monkasei an additional Charge.
  - Do not inflict Stun, and instead increase the duration of the Charge they grant by the technique’s (Stun*2).
  - For any technique which would ordinarily end the target’s Shock and/or Paralysis status, the Monkasei can choose to spend 1 Charge (rather than gain any from the technique, as is normal) to prevent either status effect from ending.
- - Jiton is strong against Doton and Katon, but weak against Fuuton.
+ 
+ Jiton is strong against Doton and Katon, but weak against Fuuton.
 
 ###### --( Charge )--
 This is a status effect, applied to the Monkasei when they utilize Jiton.  Charge stacks fully with itself, but every source of Charge the Monkasei acquires is tracked individually (sorry).  Thus, a Monkasei who gains 1 Charge on IC 45, 2 Charge on IC 55, and another 1 Charge on IC 63 would be at Charge 4 until IC 70, at which point the first would fade and they would be at Charge 3.  At IC 80 they would go down to Charge 1, and at IC 88 they would lose their last point of Charge unless they used another Jiton technique in that time.

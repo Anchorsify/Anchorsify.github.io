@@ -84,12 +84,13 @@ A high-speed movement technique which allows the user to travel incredibly dista
 Effects: You move as far as you could in a Speed X move action, where X is how many AP you choose to spend on this technique. There is no limit on how many AP you may spend. You may use this in place of normal movement to help dodge an area-of-effect technique. Use your AP spent, rather than the Speed of the attack and your normal movement speed, to determine how close to the edge of the effect you can get. This increases the Speed of your dodge by 2.
 
 #### --( Kanashibari no Jutsu - Temporary Paralysis Technique )--
-This technique temporarily restrains the victim with chakra, as if they were bound by invisible steel chains. Used effectively, it can temporarily debilitate a target for a short period of time.
+This technique temporarily restrains the victim with chakra by disrupting their chakra flow throughout the body, causing temporary spasms that inhibit normal function. Used effectively, it can temporarily debilitate a target for a short period of time.
 
-- Chakra: 16
-- Range: 10
-- Speed: 8
-- Seal Speed: 10
+ - Chakra: 16
+ - Range: 10
+ - Speed: 8
+ - Seal Speed: 10
+ - Status: Immobilize 2 + Special
 
 Effects: If your target fails a status roll, they're inflicted with an Immobilize 2, +1 for every 3 you beat their roll by, to a maximum of of Immobilize 8; every time after the first someone has to roll against this technique's effects in the same battle, they gain +5 to their roll.
 
@@ -146,13 +147,13 @@ A fairly simple, yet often impractically demanding technique. The user channels 
 Effects: You have a +X bonus to your physical damage bonus and dodge while you maintain Chakra Strengthening. X has a maximum of 5.
 
 #### --( Soushuujin - Manipulating Attack Blades )--
-This technique allows the user to briefly levitate multiple kunai in mid-air using chakra, and then direct them at an opponent, more quickly than if each was being thrown individually.
+This technique allows the user to briefly levitate multiple kunai in mid-air using chakra, and then direct them at an opponent, more quickly than if each was being thrown individually.  Even more impressively, it allows you to reuse the weapons you maintain control over, preventing you from having to pick them back up (or giving your opponent a chance to do so).
 
- - Chakra: Special
- - Damage: Special
- - Speed: +(4 + Special)
+ - Chakra: 10 + X
+ - Upkeep: X / 3
+ - Range: 5 + CHA/4
 
-Effects: This supplements a multi-throw action. The Chakra cost is equal to the multi-throw's Stamina cost; the Damage is that of the multi-throw, though your ninjutsu, rather than physical, damage bonus is used. You use CHA/10, rather than DEX/10, to determine how many kunai you may throw. Because this technique essentially throws the projectiles in a straight line, and lacks something in precision, it cannot be used with shuriken (of any form) or senbon; only kunai. The Speed is 4, plus half the Speed of the regular multithrow action.
+Effects: You can control up to X Kunai at once, to a maximum of CHA/10, and 'throw' them using your Chakra, following standard multithrow rules, except that you replace the normal Stamina cost with an equivalent Chakra cost.  It uses your Ninjutsu Damage Bonus in place of your Physical Damage Bonus, but gains only +0.25 per weapon thrown instead of the normal +0.5.  Because this technique allows you manipulate the Kunai in mid air and alter their trajectory, anyone attempting to parry your multithrows with this technique takes a -X/3 penalty to their Parry roll.  The Kunai fall wherever they were hovering when you stop maintaining this technique's Upkeep, but so long as you maintain the Upkeep, your Kunai can not be 'retrieved' by anyone else.  Effects which state they ruin the weapons used (such as Housenka), however, will end this technique automatically (as you must reuse it to apply it to new weapons).  Uniques and effects which modify how many weapons you can throw, or how far you can throw them, will affect this technique's limitations and range normally, but the abilities Improved Range and Quick Hands do not.
 
 #### --( Kuchiyose no Jutsu - Summoning Technique )--
 One of the simplest techniques in the esoteric discipline of space-time ninjutsu, the summoning technique allows a ninja- -the summoner--to transport creatures over great distances instantly. Most of these summons take the form of giant, intelligent animals.

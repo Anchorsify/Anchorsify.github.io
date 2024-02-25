@@ -65,7 +65,7 @@ Whenever you miss with an attack, you become increasingly frustrated and driven 
 ##### Defender
 Throwing solid blocks, you've honed your reflexes and worked your bones and tendons hard so that your twitch reflex is all you need to keep yourself safe.
 
-You gain RES/4 Damage Reduction, and you can use the Block defense as a Speed 4 Interrupt. Anytime you are struck by an unarmed attack, your attacker takes RES/2 damage (which can't wound)—Punching you hurts. Finally, you treat any damage you take as 10% lower for determining what Wounds you take, which increases to 25% when you Block.
+You gain RES/4 Damage Reduction, and you can use the Block defense as a Speed 4 Interrupt. Anytime you are struck by a damage-dealing unarmed attack, your attacker takes RES/2 damage (which can't wound)—Punching you hurts. Finally, you treat any damage you take as 10% lower for determining what Wounds you take, which increases to 25% when you Block.
 
 The focus on self-preservation, however, has left you more cautious than most even when attacking. The damage of all your attacks is considered 10% lower for determining what wounds they cause.
 

@@ -322,7 +322,7 @@ Dying isn't as easy for ninja as normal people. There are two main ways you can 
 ### Status Effects
 Status effects are things that will come and go throughout the course of battle. They come in many forms, and from many different sources. Some status effects may occur automatically (usually as a result of them applying to an area, rather than a specific target); Others, however, allow you a roll to avoid them.
 
-Typically, this will be called a "status roll", or a "(specific status, such as burn) roll". Saying that the victim gets a Resistance roll against the effect is equivalent to saying that it has a status roll.
+Typically, this will be called a "status roll" or listed simply as "Status: (specific status, such as Burn)". Saying that the victim gets a Resistance roll against the effect is equivalent to saying that it has a status roll.
 
 These rolls are either Chakra Control (for ninjutsu), Athletics (for taijutsu--but this is uncommon, as those effects are usually automatic), or Toxicology (for poisons). If anything else, that will be noted.
 
