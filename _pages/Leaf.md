@@ -775,7 +775,7 @@ Activating Sharingan is a Speed 0 action, which can be performed alongside anoth
 Techniques unlocked at the various Sharingan levels (detailed in their respective Stage section, below) can be acquired automatically, as soon as you unlock the Stage that grants them.  They have no rank or skill requirements to learn, and you can go into ‘XP debt’ by acquiring them, though all XP you earn goes to paying the costs of such techniques before you can spend XP on anything else until they’re paid for.
 
 ###### -=[ Sharingan, Stage 1 ]=-
-At the first stage, you are able to acquire the Dousatsugan and Saimingan techniques. Both are learned as D-rank jutsu. You also gain a +1 to all Skill rolls while Sharingan is active.
+At the first stage, you are able to acquire the Dousatsugan and Saimingan techniques. Both are learned as D-rank jutsu.
 
 ###### -=[ Sharingan, Stage 2 ]=-
 The second stage adds a second tomoe to each eye, and is when the bulk of the doujutsu’s power begins to manifest. Their ability to copy techniques and actions becomes refined, to the level of being able to extrapolate from fine details and mimic even small mannerisms.
