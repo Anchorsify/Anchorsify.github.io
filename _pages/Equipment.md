@@ -369,9 +369,10 @@ A large gourd or other sort of container, several feet long and usually worn on 
  - Cost: 150 Ryo
 
 ##### Flash Bomb
-Flash bombs are devices which, when ignited, produce brilliant flashes of light. Anyone who doesn't know to close their eyes when you throw one suffers a -4 visibility penalty for the next 10 IC. You can throw these up to STR/5 yards. Throwing one is a Speed 4 action.
+Flash bombs are devices which, when ignited, produce brilliant flashes of light. Anyone within Area 10 of the location they're thrown at suffers a -4 Visibility penalty for the next 10 IC.  It is a Speed 4 action to throw one, and you can throw them up to STR/5 yards.
 
-You may also drop a flash bomb when dodging, in which case your dodge's Speed is increased by 4.  
+
+You may also drop a flash bomb when dodging, in which case your dodge's Speed is increased by 4, and it is dropped at your feet, affecting everyone within Area 10 of you except yourself.
   -  Cost: 50 Ryo
 
 ##### Ninja Wire
