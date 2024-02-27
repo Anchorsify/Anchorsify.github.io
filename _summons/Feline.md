@@ -172,20 +172,19 @@ If hit by an area-of-effect technique, the cat takes only half damage. However, 
 **Ninja Training**  
 Shinobi cats train tirelessly in the ninja arts, up to two hours a day! They'll work just hard enough to keep up with their summoner; any more would simply be an unreasonable amount of effort. For every 500 XP, pick one of the following improvements. You may not select any of them more than once.
 
-**Armor**  
-Your cat appears in appropriate ninja-armor, such as handguards, a padded vest, and so forth. Whenever it would take more than 25% of its maximum Vitality in damage from an attack, that attack's damage is divided by 4. Neko-ken: Your cat has mastered martial arts! This gives it a +4 bonus to any unarmed parries, and improves its Cat Paw Strike action.
+ - **Armor**: Your cat appears in appropriate ninja-armor, such as handguards, a padded vest, and so forth. Whenever it would take more than 25% of its maximum Vitality in damage from an attack, that attack's damage is divided by 4. Neko-ken: Your cat has mastered martial arts! This gives it a +4 bonus to any unarmed parries, and improves its Cat Paw Strike action.
 
-**Ninja Combatant**  
-Your cat shows up with smoke and flash bombs! It has (XP/750) of each, to a maximum of 5. Ninjutsu: Yes. It can perform ninjutsu, somehow. Despite the cats referring to these as "nyanton" techniques, they are actually perfectly ordinary jutsu. The jutsu usable are explained below. The cat can use 4+(XP/2000) ninjutsu per battle.
+ - **Ninja Combatant**: Your cat shows up with smoke and flash bombs! It has (XP/750) of each, to a maximum of 5. 
+ 
+ - **Ninjutsu**: Yes. It can perform ninjutsu, somehow. Despite the cats referring to these as "nyanton" techniques, they are actually perfectly ordinary jutsu. The jutsu usable are explained below. The cat can use 4+(XP/2000) ninjutsu per battle.
 
-**Quick**  
-Your cat is fast! It adds (XP/1000) to its Accuracy, along with its dodge and parry rolls, to a maximum of +4.
+ - **Quick**: Your cat is fast! It adds (XP/1000) to its Accuracy, along with its dodge and parry rolls, to a maximum of +4.
 
-**Saboteur**  
-Your cat shows up with a grappling hook, rope, set of cat-sized lockpicks (with a +2 bonus, if it matters) and (XP/1500) type 2 exploding tags.
+ - **Saboteur**: Your cat shows up with a grappling hook, rope, set of cat-sized lockpicks (with a +2 bonus, if it matters) and (XP/1500) type 2 exploding tags.
 
-**Shuriken**  
-Your cat now shows up with holsters for shuriken! This unlocks the "shuriken throw" ability below. Your cat carries (XP/100) shuriken into battle with it. Sword: It's more of a knife, really, considering their size. But to them, it's a sword! Katanas are common, though some will use combat knives or straight-bladed swords. This unlocks the "sword attack" ability below.
+ - **Shuriken**: Your cat now shows up with holsters for shuriken! This unlocks the "shuriken throw" ability below. Your cat carries (XP/100) shuriken into battle with it. 
+
+ - **Sword**: It's more of a knife, really, considering their size. But to them, it's a sword! Katanas are common, though some will use combat knives or straight-bladed swords. This unlocks the "sword attack" ability below.
 
 ###### 4. Abilities
 **Standard Actions**  
