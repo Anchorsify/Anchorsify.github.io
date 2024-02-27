@@ -579,7 +579,7 @@ The ultimate and most lethal usage of Jyuuken, and the final development of Hakk
  - Damage: (CHA/2 + 28)d4
  - Special: Finisher
  - Speed: 20
- - Requires: Byakugan Active
+ - Requires: Byakugan Active, Jyuuken Combo
  - Combo Bonus:  +8d4 damage, +4 Stun, +2 Sealed Tenketsu, +1 Immobilize
 
   Effects: This attack uses your NDB and inflicts Sealed Tenketsu 4, reduces Blocking's effectiveness by 25%, ignores armor, bypasses half of an opponent's DR, and deals Energy wounds.
