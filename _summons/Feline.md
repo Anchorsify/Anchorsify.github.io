@@ -121,7 +121,7 @@ It then returns to its summoner, following the same movement rules, though this 
 
 Out of combat, the cat can be instructed to steal either from a person or location, though needs fairly specific instructions (the guard's keys, that painting, and so on).
 
-## Summoning
+## Summons
 ##### Ninja Cat
 ###### 1. Summoning
 A two- to three-foot-tall bipedal cat, much like the merchant and chef cats summoned by this same contract. This one appears wearing simple ninja attire, including a headband or bandana; they even wear forehead protectors, with a feline pawprint in place of a village insignia.
