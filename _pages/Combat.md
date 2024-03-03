@@ -264,10 +264,10 @@ Once you meet one of those requirements, you may hide. Hiding is, of course, an 
 <br>This action may be performed only while hiding at level 1 stealth. You take the time to make sure you're properly hidden and settle into place, moving you up to level 2 stealth. In case that wasn't clear, this cannot, by itself, take you from level 2 to level 3 stealth.
 
 ### Stealth Levels
-There are three levels of stealth, corresponding to different degrees of being hidden. Each level has limitations on what can be done in it; for example, in Level 2 and Level 3 Stealth, you cannot move. Thus, if you were at Stealth 3, and chose to spend an action moving, you would immediately be dropped to Stealth 1.
+There are three levels of Stealth, corresponding to different degrees of being hidden. Each level has limitations on what can be done in it; for example, in Level 2 and Level 3 Stealth, you cannot move. Thus, if you were at Stealth 3, and chose to spend an action moving, you would immediately be dropped to Stealth 1.  The same is true of dodging.
 
 ### Stealth, Level 1
-Stealth 1 is as poorly concealed as you can be while still being unseen by your enemies. Your Stealth TN has no bonus at this rank. You may move and perform surprise attacks, as well as using items.
+Stealth 1 is as poorly concealed as you can be while still being unseen by your enemies. Your Stealth TN has no bonus at this rank. You may dodge, move and perform surprise attacks, as well as using items.
 
 ### Stealth, Level 2
 Stealth 2 corresponds to being fairly well-hidden, having taken the time to adjust yourself and your hiding spot as necessary--you're not sticking your feet out past the edge of the rock you're hiding behind, for example. From Stealth 2 you may perform surprise attacks, use items, and prepare and perform sneak attacks. At this level of stealth, your Stealth TN has a +5 bonus.
@@ -423,6 +423,8 @@ Taijutsu Area of Effect techniques (such as Senpuu) can be parried, but parrying
 Certain jutsu have an effect referred to as "knockback", which does about what it sounds like: pushes you away from its user or point of origin. Knockback is measured in yards; a 10 yard knockback means that, if you are hit, you will be moved 10 yards away from wherever the jutsu originated from. Some may have more complex rules, such as pushing you to the edge of their area of effect.
 
 When a technique knocks you back a certain number of yards, if partial success applies then you will also reduce the knockback by that amount. The exception is area-of-effect knock backs centered on an individual (such as a Hyuuga's Kaiten and the A-rank jutsu Eye of the Storm): partial defense does not reduce the knockback from these, as they essentially "push" everything away from them equally.
+
+Knockback effeccts which move you through a ground-based effect does not consider you to have been 'affected by' the distance moved, and any environmental or effects based on the terrain only affect someone based on where they end up.  This means that being knocked back through Caltrops, or similar effects, would not damage someone, though being moved through walls (such as Maru o Moyashi) still affects someone normally, as would any cloud-based effects.
 
 #### Clones and Conditions
 Any clones you summon are subject to the same statuses and conditions you are suffering from at the time you summon them. This includes wounds or any status effect. Note: It may be a bad idea to make clones while on fire.

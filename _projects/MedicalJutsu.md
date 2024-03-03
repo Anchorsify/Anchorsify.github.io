@@ -19,6 +19,8 @@ For the sake of quick reference, the jutsu a medic may perform on themselves are
  - Tourniquet Technique
  - Temporary Suture
  - Mystical Palm
+ - Rejuvenating Remedy
+ - Delicate Illness Extraction Technique
 
 ## D-Rank
 #### --( Mukizu Shindan no Jutsu - Flawless Diagnosis Technique )--
@@ -123,7 +125,7 @@ An advanced technique in which, with a touch, the user sends a pulse of chakra t
 - Speed: 8
 - Seal Speed: 12
 
-Effects: This clears the person touched of immobilization, paralysis and shock penalties which are internal (Clay bullet and Four Pillar Bind would not apply, but notably Combat Acupuncture and Nervous System Derangement would, as well as any such effects from Poison, though it doesn't clear the Poison itself). It immediately ends any stuns which are presently affecting them. It is also strong enough to disrupt weaker Genjutsu, granting another defensive roll against a single Genjutsu affecting them of C rank or lower, with a +5 bonus.
+Effects: This clears the person touched of immobilization, paralysis and shock penalties which are internal (Poisons, Clay bullet, etc would not apply, but notably Combat Acupuncture and Nervous System Derangement would). It immediately ends any stuns which are presently affecting them. It is also strong enough to disrupt weaker Genjutsu, granting another defensive roll against a single Genjutsu affecting them of C rank or lower, with a +5 bonus. You may use this technique on yourself.
 
 #### --( Saikan Chuushutsu no Jutsu - Delicate Illness Extraction Technique )--
 An delicate and advanced technique even among medical ninjutsu, this is nonetheless exceptionally useful. The medic makes an incision on the patient's body (usually the torso, but other locations are possible) and then uses chakra to draw out any poisons, toxins, or other pathogens that may be afflicting the person.
@@ -133,7 +135,7 @@ An delicate and advanced technique even among medical ninjutsu, this is nonethel
 - Speed: 18, Delay 8
 - Requires: Chakra Scalpel
 
-Effects: This cures any poisons a person may be suffering from. Most parasites and chemical toxins can also be excised this way. Despite its name, however, it is not able to actually cure diseases or viruses.
+Effects: This cures any poisons a person may be suffering from. Most parasites and chemical toxins can also be excised this way. Despite its name, however, it is not able to actually cure diseases or viruses. You may use this technique on yourself.
 
 #### --( Kyouka Shohou: Chakura Chuunyuu - Strengthening Prescription: Chakra Injection )--
 Originaly developed as a kinjutsu, the version used by medics today is a safer (though still by no means safe) derivative. Using medically-altered chakra, an individual can be greatly, if temporarily, strengthened. Unfortunately, they are burning their proverbial candle at both ends when under the effects of this technique.
@@ -152,7 +154,7 @@ Upon making contact with the enemy, the user converts their chakra into actual e
 - Range: Touch
 - Speed: 16
 
-Effects: This inflicts an Immobilize 6, Paralysis 6, and Shock 6. Unlike normal, these status effects do not fade naturally (by time, or by taking actions), and instead require the target to spend 10 AP to decrease all three status effects by 1 as a Speed 5 action.
+Effects: This inflicts an Immobilize 6, Paralysis 6, and Shock 6. Unlike normal, these status effects do not fade naturally over time, and instead require the target to spend 10 AP to decrease all three status effects by 1 as a Speed 5 action.
 
 #### --( Chikatsu Saisei no Jutsu - Healing Resuscitation Regeneration Technique )--
 The pinnacle of advanced medical jutsu, with effects that border upon miraculous, this stimulates the body's stem cells to begin dividing and recreating a lost or destroyed part of the body--such as a limb or organ. In time, full functionality will be regained. Doing so, however, is incredibly difficult, even for experienced medical nin. In the rare instance when this technique is performed, multiple medics will usually work in tandem.

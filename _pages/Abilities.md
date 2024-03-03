@@ -288,11 +288,11 @@ You can throw senbon to target vital points on an opponent's body. Whenever maki
 - Requires: Medicine 10
 
 #### -=[ Explosive Tag Connection ]=-
-As a Speed 10 + 5 * X action, you can attach X tags to a kunai's hilt or an arrow, and prime them. These can be attached pre-battle as a matter of convenience, but the action to prime them is still necessary. You can have up to (Chakra Control)/5 tags primed this way at once. Each item (kunai or arrow) may only have a single tag attached to it. You can trigger these tags as part of a multithrow, or do so later (such as by the Remote Detonation technique). When the kunai is thrown (or arrow shot) the tag(s) will detonate 15 IC after impact (with the target, or the ground at the target's feet on a miss). When used as a multi-throw, each tagged kunai counts as two weapons for the purpose of determining multi-throwing limit. You can include up to one tag per rank in this ability in a single throw. If a target is struck by the arrow or kunai, they're assumed to pull it out as a non-action and can try to escape the area. Jutsu including exploding tags that cause them to explode on contact supercede these rules.
+As a Speed 10 + 5 * X action, you can attach X tags to kunai hilts or arrows, and prime them. These can be attached pre-battle as a matter of convenience, but the action to prime them is still necessary. You can have up to (Chakra Control)/5 tags primed this way at once. Each item (kunai or arrow) may only have a single tag attached to it. You can trigger these tags as part of a multithrow, or do so later (such as by the Remote Detonation technique). When the kunai is thrown (or arrow shot) the tag(s) will detonate 15 IC after impact (with the target, or the ground at the target's feet on a miss). When used as a multi-throw, each tagged kunai counts as two weapons for the purpose of determining multi-throwing limit. You can include up to one tag per rank in this ability in a single throw. If a target is struck by the arrow or kunai, they're assumed to pull it out as a non-action and can try to escape the area. Jutsu including exploding tags that cause them to explode on contact supercede these rules.
 
 - Base Cost: 5
 - Scale: 3
-- Limit: Chakra Control /5
+- Limit: Chakra Control/5
 
 #### -=[ Improved Range ]=-
 You can throw weapons farther than other people! It's useful, honest!... Kind of. Sometimes. Your max range with thrown weapons is increased by your physical damage bonus.
@@ -718,7 +718,7 @@ You practice extensively with a chosen skill, so that even while you may still m
 
 ##### 5. Development
 #### -=[ Holding Back ]=-
-...is a good idea when those 'friendly' training matches get a little bit out of control. You declare you're holding back when you make an attack. An attack that's been held back uses half your normal damage bonus, and any wounds it inflicts have their severity reduced by 1. At the first rank this works on basic attacks and with Erank jutsu; the next rank allows it to be used on D-ranks, the third on C-ranks, and so forth, up to A. No, you can't hold back with S-rank moves.
+...is a good idea when those 'friendly' training matches get a little bit out of control. You declare you're holding back when you make an attack. An attack that's been held back uses half your normal damage bonus, and any wounds it inflicts have their severity reduced by 1. At the first rank this works on basic attacks and with E-rank jutsu; the next rank allows it to be used on D-ranks, the third on C-ranks, and so forth, up to A. No, you can't hold back with S-rank moves.
 
 - Base Cost: 5
 - Scale: 2

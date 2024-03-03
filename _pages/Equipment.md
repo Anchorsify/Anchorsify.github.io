@@ -740,13 +740,13 @@ Attempts have been made to raise the animal in captivity, and failed. The common
 
 Rectangular slips of paper inscribed with special seals, centered around the kanji for “explode”. They're infused with chakra, but normally inert. A tag can be “primed” by focusing a small amount of chakra into them, at which point they can stick to most surfaces (like walls, or the underside of bridges; tags cannot be attached to people) and are ready to be detonated; this doesn't take an action.
 
-Detonating a tag is a Chakra 5, Speed 10 action which requires you to physically touch the tag in question. You may set it to detonate anywhere between 10 and (10 + Chakra Control ranks) IC afterwards. When a tag is on its 'countdown' it begins sparking, smoking, and sizzling distinctively; any shinobi will realize that it's about to go off.
+Detonating a tag is a Chakra 5, Speed 10, Delay X action which requires you to physically touch the tag in question. X may be set anywhere between 10 and (10 + Chakra Control Ranks), and unlike other techniques, you may reduce this action's Speed below its Delay, and the Delay itself may not be Aborted. When a tag is on its Delay (or 'countdown') it begins sparking, smoking, and sizzling distinctively; any shinobi will realize that it's about to go off, and if hidden, their location is immediately revealed.
 
-Fire will not cause tags to explode, nor will they explode in a “chain reaction”. A tag that is blown up or burnt, even a primed one, is just destroyed.
+Fire will not cause tags to explode, nor will they explode in a “chain reaction”. A tag that is blown up or burnt, even a primed one, is just destroyed, however Tags that have been set to Detonate may not be attacked, and are immune to all damage once they begin their countdown.
 
-Tags do 5d20.open(10) damage, in Area 20. If multiple tags are set off on the same IC (and someone is hit by them all), their damage is combined for determining what wounds they inflict; explosions inflict Blunt wounds. When detonated, tags cannot be dodged (though other forms of defenses are generally effective, and they can certainly be blocked). However, anyone who escapes their area in time automatically avoids all damage.
+Tags do 5d20.open(10) damage, in Area 20. If multiple tags are set off on the same IC (and someone is hit by them all), their damage is combined for determining what wounds they inflict; explosions inflict Blunt wounds. When detonated, tags count as a Speed 8 (+2 per tag) attack that cannot be made faster by any means. When detonated, tags cannot be dodged, though other forms of defenses are generally effective, and they can certainly be blocked; when put up against ninjutsu defenses, they are considered a D-rank General Ninjutsu, using your Ninjutsu Accuracy with a +5 bonus (but gaining no bonuses, or penalties, from temporary effect or wounds, though fatigue bonuses do apply). You can not spend AP or use WP for the Explosive Tags Detonation (though anyone defending against them can). Anyone who escapes their area in time automatically avoids all damage. 
 
-Certain jutsu may cause tags to explode immediately (such as the C-rank Burning Star Shuriken); in this case, the explosion may be dodged normally, using the attack's Speed to determine area-of-effect dodge penalties, if any.
+Certain jutsu may cause tags to explode immediately; in this case, the explosion may be dodged normally, using the attack's Speed to determine valid defenses and area-of-effect dodge penalties, if any.
 
 ##### Forehead Protector
 - Cost: Free
@@ -766,7 +766,7 @@ The first time you would be wounded in any given location sporting this armor, y
 
 While wearing this armor, you take a -1 to your Athletics, Stealth and Initiative rolls per location covered.  It is trivial to remove outside of combat, but inside of combat it is a Speed 10 action to remove it from one location, or a Speed 25 action to remove a full suit.
 
-Villages will repair damaged armor for free, but frown upon overzealous (or masochistic) shinobi coming in for repairs excessively often, and will thereby only repair any damaged armor once a week (once per OOC day).
+Villages will repair Requisition-acquired damaged armor for free, but frown upon overzealous (or masochistic) shinobi coming in for repairs excessively often, and will thereby only repair any damaged armor once a week (once per OOC day).
 
 #### Chuunin
 ##### Flak Vest
@@ -774,7 +774,7 @@ Villages will repair damaged armor for free, but frown upon overzealous (or maso
 
 Often referred to as 'chuunin vests', these are what many a genin strives to be allowed to wear. There's a jounin version as well, slightly different in appearance but functionally identical.
 
-Any time your torso or abdomen would be wounded, the vest reduces the wound's severity by 1, and the final damage by 50 (after determining if you're wounded). The next time, this damage reduction is 40; then 30, and so forth. When the damage reduction reaches 0, the vest is damaged too badly to provide any protection and no longer reduces the severity of your wounds.
+Any time your torso or abdomen would be wounded, the vest reduces the wound's severity by 1, and the final damage by 50 (after determining if you're wounded). The next time, it reduces your final damage taken by 40; then 30, and so forth, until it reaches 0, after which the vest is damaged too badly to provide any protection and no longer reduces the severity of your wounds.
 
 ##### Custom Smoke Bombs
 - Cost: Level*10 Ryo
@@ -790,7 +790,7 @@ Once someone's a chuunin, they have enough pull to get these: smoke bombs design
 
 A more powerful version of the regular exploding tags, not given to genin because experience has shown, time and again, that genin really can't be trusted with high-end explosives. Chuunin, however, are more responsible--at least, in theory.
 
-Therefore, they get to play with the big explosions! Type 2 tags function identically to regular exploding tags more regards, though the deal 7d20.open(10) damage and have an Area of 30. Additionally, they deal double damage to inanimate objects (such as walls, but not including jutsu-based defenses).
+Therefore, they get to play with the big explosions! Type 2 tags function identically to regular exploding tags more regards, though the deal 7d20.open(10) damage and have an Area of 30, and are considered C-rank General Ninjutsu, with a +7 bonus to the user's Ninjutsu Accuracy. Additionally, they deal double damage to inanimate objects (such as walls, but not including jutsu-based defenses).
 
 #### Jounin
 ##### Hand Guards
@@ -807,7 +807,7 @@ You may also block with these guards, with the same wound location and severity 
 
 The end-all and be-all of 'mundane' explosives, reserved for jounin simply because of how difficult they are to produce, which is in turn reflected in how troublesome they are to get ahold of.
 
-Type 3, like Type 2, deal double damage to inanimate objects. They deal 10d20.open(10) damage, and have an Area of 50.
+Type 3, like Type 2, deal double damage to inanimate objects. They deal 10d20.open(10) damage, and have an Area of 50, and are considered B-rank General Ninjutsu, with a +10 bonus to the user's Ninjutsu Accuracy.
 
 #### ANBU
 ##### ANBU Mask

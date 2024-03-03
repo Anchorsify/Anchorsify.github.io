@@ -33,13 +33,11 @@ As highly-trained (well, in theory), supernaturally-powered fighters, ninja can 
 You get 2 XP for every 30 minutes the fight lasts, though you do not accumulate RP XP during that time. Additionally, you may receive bonus XP for your fight depending on how things went. Consult the lists below!
 
 Bonuses:  
- - +1 per Fatigue level you advance during the fight, to a maximum of +5.
- - +2 for every Major wound you acquire.
- - +4 for every Severe wound you acquire.
- - +6 for every Critical wound you acquire.
+ - +1 per Fatigue level you advance during the fight, to a maximum of +4.
+ - You gain bonus XP according to the highest severity wound you acquired: +2 for Major, +4 for Severe, or +6 for a Critical.  This is not calculated per wound.
 
 Penalties:  
--2 per Fatigue level you begin the battle and -1 per Wound (regardless of level) you start the battle with.
+-2 per Fatigue level you begin the battle at and -1 per Wound (regardless of level) you start the battle with.
 
 After fighting someone, you may not gain XP for fighting that person for 20 hours. If are in a spar with them and other people (who you haven't fought in the past 20 hours) you still gain XP, however. Wounds acquired from Genjutsu which are not real, and fade after the fight is over, do not grant XP.
 

@@ -179,7 +179,7 @@ An advanced form of the standard Bunshin no Jutsu, this creates clones out of wa
 - Seal Speed: 4, +2 per clone
 - Requires: 6 gallons of water per clone, Bunshin no Jutsu
 
-Effects: The gallons of water used to create clones are removed from the battlefield as they are made; clones which are dispersed voluntarily have the water used to create them added back to the battlefield, but clones that are destroyed do not, and the water used in their creation is simply lost. These function like regular bunshin, except that they have (and pay for) their own Fatigue costs, they use your NDB in place of PDB wherever applicable, and may perform the following additional actions:
+Effects: The gallons of water used to create clones are removed from the battlefield as they are made; clones which are dispersed voluntarily have the water used to create them added back to the battlefield, but clones that are destroyed do not, and the water used in their creation is simply lost. These function like regular bunshin, except that they can dodge and parry, have (and pay for) their own Fatigue costs, they use your NDB in place of PDB wherever applicable, and may perform the following additional actions:
 
  - [ X AP ] Move: Your clones can move, with X being half the speed of the Move action they take.
  - [ X AP ] Basic Unarmed: A basic unarmed attack, using your attributes. X is half the Speed of the attack.
@@ -193,9 +193,9 @@ The user sinks into a shallow pool of water, much too little to actually fit a p
 - Upkeep: 4
 - Speed: 18
 - Seal Speed: 12
-- Requires: 16 gallons of water
+- Requires: A pool of water of at least 16 gallons
 
-Effects: You can use this technique to slip into a pool of water to hide, assuming you meet hiding's normal requirements (i.e., this technique does not let you hide in itself). While hidden within water using this technique, your minimum Stealth level is 2. If an opponent does not have a reason to suspect you're there (i.e. this isn't being done in-combat) you have a +10 Stealth bonus. You have awareness equivalent to being able to look out of the pool as if it's a window, but obviously can not move (because you're in the water!) The puddle being destroyed, evaporated, or attacked in any way or washed away in more water, results in you being harmlessly ejected. Notably, this can only be used in puddles; anything more than a few inches deep probably doesn't qualify. If it's an actual pond, or lake, or the like, it's not a valid target.
+Effects: You can use this technique to slip into a pool of water to hide, assuming you meet hiding's normal requirements (i.e., this technique does not let you hide in itself). While hidden within the water using this technique, your minimum Stealth level is 2. If an opponent does not have a reason to suspect you're there (i.e. this isn't being done in-combat) you have a +10 Stealth bonus. You have awareness equivalent to being able to look out of the pool as if it's a window, but obviously can not move (because you're in the water!) The puddle being destroyed, evaporated, used in a jutsu or attacked in any way or washed away in more water, results in you being harmlessly ejected. Notably, this can only be used in puddles; anything more than a few inches deep probably doesn't qualify. If it's an actual pond, or lake, or the like, it's not a valid target.
 
 #### --( Suirou no Jutsu - Water Prison Technique )--
 The user gathers the chakra around their hand, and forms the required water into a sphere which encloses its victim. Due to the density of the chakra used in this technique, the water is stronger than steel. It is not, however, airtight. Yeah, don't ask how that works. We don't know either.

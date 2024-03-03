@@ -92,7 +92,7 @@ Pushing your chakra into the ground beneath you, you pull up a ball of earth and
 - Seal Speed: 10
 - Status: Immobility 5
 
-Effects: Someone affected by this mud may, as a Speed 8 action, make a grapple roll (as the defender) against you (using your CHA in place of STR) check to break free from the clay, reducing the penalty by 1 per point they beat your roll by.
+Effects: Someone affected by this mud may, as a Speed 8 action, make a grapple roll (as the defender) against you (using your CHA/10 in place of STR/10) check to break free from the clay, reducing the penalty by 1 per point they beat your roll by.
 
 #### --( Iwa Funsai Buin - Rock Smashing Staff )--
 You hold out your hands or similarly grab some nearby rock and create a large, blunt object from it! This is often a hammer or staff, but also could be stylized however you see fit. As we all know, getting hit with rocks hurts, so this is rather painful.

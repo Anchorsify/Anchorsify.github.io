@@ -70,7 +70,7 @@ You use leverage, brute force, or a combination of the two to physically throw a
 - Damage: (STR/10)d10
 - Speed: 8, or +4
 
-Effects: This immediately ends the grapple, and Stuns the enemy, severity 4 + (damage taken after reductions)/50. This can also be declared as part of (and linked to) a Grab attack, in which case it increases the total Speed by 4, and deals damage as a Speed 16 action. It cannot be blocked when used this way, and you add 8 to Grab's Stamina cost when using Throw to link to it.
+Effects: This immediately ends the grapple, and Stuns the enemy, severity 4 + (damage taken after reductions)/50, along with a 'knockback' (as they are thrown) of up to (STR/20) yards; you can not throw someone into someone else this way, no matter how cool it might be. This can also be declared as part of (and linked to) a Grab attack, in which case it increases the total Speed by 4, and deals damage as a Speed 16 action. It cannot be blocked when used this way, and you add 8 to Grab's Stamina cost when using Throw to link to it.
 
 #### --( Arm Lock )--
 You use one of your hands or arms to pin an opponent's in a position where they can't use it effectively. It's a bit harder than it sounds, just because of the logistics of grappling people effectively.

@@ -108,11 +108,11 @@ Effects: As described above, you can speak freely while hidden without giving pe
 Explosives are useful; and, more importantly, who doesn't love explosions? However, needing to be at ground zero of an impending explosion to set tags off is something which many shinobi, understandably, have reservations about, and severely diminishes the potential tactical uses. Hence, this technique! It allows a shinobi to detonate multiple exploding tags from a distance--not as great a distance as most would like, or as many as most shinobi would prefer, but it's better than doing it the old-fashioned way.
 
 - Chakra: 10 + X * 3
-- Range: CHA/10 yards
+- Range: 15 + CHA/10 yards
 - Speed: 12
 - Seal Speed: 4 + X * 2
 
-Effects: You detonate up to (Chakra Control ranks)/5 exploding tags within this technique's range. This only works on tags which you have primed. X is the number of tags you detonate.
+Effects: You detonate up to (Chakra Control ranks)/5 exploding tags within this technique's range. This only works on tags which you have primed. X is the number of tags you detonate, which have their normal delay you declare when you use this technique, as described in Exploding Tags (in Equipment).
 
 ## C-Rank
 #### --( Sanzengarasu no Jutsu - Scattering One Thousand Crows Technique )--
@@ -172,7 +172,7 @@ This technique allows tags to be set to detonate in advance, which both makes th
  - Chakra: 15 + X * 5
  - Speed: 20 + X * 10
 
-Effects: You place X tags (up to a maximum of Chakra Control)/5. One or more (up to 'all') of these tags may be designated as 'triggers'. When performing this technique specify a range between 0 and (Chakra Control ranks)/5 yards, and a time between 10 IC and 10 + (Chakra Control ranks) IC. Whenever someone comes in that many yards of a trigger tag, all the other tags it is linked with (by that usage of Triggered Detonation) will detonate that many IC later. Tags placed with this technique may not be set off via Remote Detonation, nor may they be part of more than one 'set' of Triggered Detonation tags. All tags linked by a single usage of Triggered Detonation must be within (Chakra Control ranks) yards of each other.
+Effects: You place X tags up to a maximum of (Chakra Control ranks)/5. One or more (up to 'all') of these tags may be designated as 'triggers'. When performing this technique specify a range between 0 and (Chakra Control ranks)/5 yards, and a time between 10 IC and 10 + (Chakra Control ranks) IC. Whenever someone comes in that many yards of a trigger tag, all the other tags it is linked with (by that usage of Triggered Detonation) will detonate that many IC later. Tags placed with this technique may not be set off via Remote Detonation, nor may they be part of more than one 'set' of Triggered Detonation tags. All tags linked by a single usage of Triggered Detonation must be within (Chakra Control ranks) yards of each other.
 
 ## B-Rank
 #### --( Shoushagan no Jutsu - Vanishing Facial Copy Technique )--
@@ -186,8 +186,8 @@ Effects: You physically remove the face from a corpse and place it on top of you
 #### --( Senri Bakuhatsu no Jutsu - Long-Range Detonation Technique )--
 An improvement to the more basic remote detonation technique. As ninja become more powerful, they inevitably find themselves needing bigger explosions, and by extension, the ability to not get caught in their own explosions.
 
-- Chakra: 10 + X * 4
-- Range: CHA/5 yards
+- Chakra: 10 + X * 5
+- Range: 15 + CHA/2
 - Speed: 14
 - Seal Speed: 6 + X * 3
 - Requires: Remote Detonation Technique

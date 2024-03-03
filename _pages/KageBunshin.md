@@ -8,7 +8,7 @@ nav: false
 #### --( Kage Bunshin no Jutsu - Shadow Clone Technique )--
 Perhaps the pinnacle of development for the ninja replication technique is this jutsu. Whereas bunshin creates what are essentially illusions, shadow clones use chakra to create a perfect copy of the original person. Despite this, they are fairly delicate and unstable; a solid blow will harm the clone as if it was flesh and blood, but moments later the bunshin will vanish in a puff of smoke.
 
-- Cost: 1 Fatigue level or 1 Willpower
+- Cost: 1 Fatigue level or 1 Willpower per clone
 - Speed: 5, +2 per clone
 - Seal Speed: 5, +2 per clone
 

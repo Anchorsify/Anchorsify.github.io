@@ -224,6 +224,7 @@ The Kairaishi’s signature technique and a unique ninjutsu, this allows the use
 - Type: Ninjutsu, Rank D
  - Chakra: 10 + X * 2
  - Upkeep: 3 + X/2
+ - Range: 5 + CHA/6
  - Speed: 6 + X/2
 
 Effects: You gain control of 1 + X puppets which are uncontrolled on the battlefield, to a maximum of ten puppets.  If they are not your puppets, you take a -3 to all actions which utilize them. While controlling puppets, you cannot make handseals, use weapons, or otherwise make use of your hands.  You can use puppets while Hidden and using a puppet to attack while hidden does not reveal you, but it does lower your Stealth TN by 5 each time, and anyone who can see Chakra can see the Chakra Threads that connect you to your puppets, gaining a bonus on their Search action equal to the Upkeep from this technique to find you.
@@ -453,7 +454,7 @@ So long as a Monkasei has access to some sort of solid ground (i.e., is not floa
  - Chakra: 5 + X/4
  - Speed: 5 + X/2
 
-Effects: You create X gallons of Sand (keeping in mind that ‘Sand’ is more like ‘weathered and eroded bits of dirt and stone’, but it works for a Monkasei’s purposes). This may be used alongside a technique, in which case its Speed and its cost is added to that technique’s as a link, and it contributes directly to that technique’s Gallons requirement.  It may also be used alone, in which case the created Sand is deposited on the battlefield.
+Effects: You create X gallons of Sand (keeping in mind that ‘Sand’ is more like ‘weathered and eroded bits of dirt and stone’, but it works for a Monkasei’s purposes), with X having a minimum of 1. This may be used alongside a technique, in which case its Speed and its cost is added to that technique’s as a link, and it contributes directly to that technique’s Gallons requirement.  It may also be used alone, in which case the created Sand is deposited on the battlefield.
 
 #### --( Sabaku Kyu - Sand Coffin )--
 No one likes Sand.  It’s coarse, and rough, and irritating.  And it gets everywhere. Which the Monkasei tend to use to their advantage in order to slow down and debilitate their opponents through tactical, frustrating maneuvering that makes everything chafe.

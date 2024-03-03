@@ -536,7 +536,7 @@ The absolute defense of the Hyuuga clan, to use this technique the Hyuuga simult
  - Special: Interrupt, Abort
  - Requires: Byakugan active
 
-Effects: You may not reduce Kaiten’s Speed by spending AP, and Kaiten uses its base Speed to determine whether it can interrupt a given attack. If used as an Interrupt, you make an Accuracy Roll with a +X/2 bonus against all attacks directed at you that IC; failure means you are hit, but activate Kaiten immediately afterwards.  Kaiten deals Energy wounds.
+Effects: Kaiten's final Speed my never go below its base Speed. If used as an Interrupt, you make an Accuracy Roll with a +X/2 bonus against all attacks directed at you that IC; failure means you are hit, but activate Kaiten immediately afterwards.  Kaiten deals Energy wounds.
 
 Kaiten lasts for its full Speed in IC after being used.  For example, if you used it on IC 22 when attacked, paying 8 Chakra and Stamina, it would last until IC (22+6+3) = 31.  Anytime after the first 6 IC have passed (on IC 28), you may abort Kaiten.
 
@@ -566,10 +566,10 @@ A devastating series of Jyuuken strikes carried out in rapid succession, sealing
  - Damage: (CHA/4+12)d4
  - Speed: 16
  - Special: Finisher
- - Requires: Byakugan active, Jyuuken Combo
+ - Requires: Byakugan active
  - Combo Bonus: +4d4 damage, +2 Stun, +1 Sealed Tenketsu, +0.5 Immobilize
 
- Effects: This attack uses your NDB and inflicts Sealed Tenketsu 3, reduces Blocking's effectiveness by 25%, ignores armor, bypasses half of an opponent's DR, and deals Energy wounds.
+ Effects: This attack uses your NDB and inflicts Sealed Tenketsu 3, reduces Blocking's effectiveness by 25%, ignores armor, bypasses half of an opponent's DR, and deals Energy wounds.  This attack may not be converted with Jyuuken.
 
 #### --( Hakke Hyaku Nijuuhachi Shou – Eight Trigrams One Hundred Twenty-Eight Palms )--
 The ultimate and most lethal usage of Jyuuken, and the final development of Hakke Rokujuyon Shou.  The Hyuuga’s speed and chakra control have reached truly amazing levels, adding a seventh series of strikes which doubles the number of strikes made from sixty-four to one hundred twenty-eight.
@@ -579,15 +579,15 @@ The ultimate and most lethal usage of Jyuuken, and the final development of Hakk
  - Damage: (CHA/2 + 28)d4
  - Special: Finisher
  - Speed: 20
- - Requires: Byakugan Active, Jyuuken Combo
+ - Requires: Byakugan Active
  - Combo Bonus:  +8d4 damage, +4 Stun, +2 Sealed Tenketsu, +1 Immobilize
 
-  Effects: This attack uses your NDB and inflicts Sealed Tenketsu 4, reduces Blocking's effectiveness by 25%, ignores armor, bypasses half of an opponent's DR, and deals Energy wounds.
+  Effects: This attack uses your NDB and inflicts Sealed Tenketsu 4, reduces Blocking's effectiveness by 25%, ignores armor, bypasses half of an opponent's DR, and deals Energy wounds. This attack may not be converted with Jyuuken.
 
 ###### -=[ Sealed Tenketsu ]=-
 This is a Status Effect that applies a penalty to Chakra Exhaustion and Chakra Control rolls equal to its Severity, and half that (rounding down) to Stamina rolls. If you ever fail a Chakra Exhaustion roll while you have this status, whatever technique you were trying to use fails (but you advance in Fatigue as normal), and you lose Hit Points (not Vitality) equal to the Chakra cost of that technique.
 
-Sealed Tenketsu stacks fully with itself, but a victim’s body naturally will try to correct its chakra flow to meet demands in battle: Every time someone with this status advances in Fatigue, they lower their Sealed Tenketsu Severity by their (Chakra Control Ranks)/5.
+Sealed Tenketsu stacks fully with itself, but a victim’s body naturally will try to correct its chakra flow to meet demands in battle: Every time someone with this status advances in Fatigue, they lower their Sealed Tenketsu Severity by their (Chakra Control Ranks)/5.  Outside of combat, Sealed Tenketsu is reduced by the same amount every hour, with a minimum reduction of 1 per hour.
 
 ## Nara
 A modestly-sized yet highly influential clan within Konoha, the Nara primarily use secret ninjutsu techniques which manipulate shadows, using them to disable opponents and control the battlefield.
@@ -684,7 +684,7 @@ Effect: You can use your shadow tendrils to grab onto things (or people) or atta
  - *Bind (Variable AP)* - You can have your Shadows use any Grapple jutsu you know.
  - *Attack (Variable AP)* - Using a weapon it is holding or can get access to (including Multithrows).
 
-You pay 1 AP for every 2 Speed of the action you wish your Shadows to make, and can pay more AP to reduce the effective Speed of their action further if you wish.  You may use any of the above options at most once every 10 IC. You use CHA/8 in place of STR/10 for any Grapple checks your tendrils make, use CHA in place of STR or RES for determining damage, and use your NDB in place of PDB.
+You pay 1 AP for every 2 Speed of the action you wish your Shadows to make, and can pay more AP to reduce the effective Speed of their action further if you wish.  You may use any of the above options at most once every 10 IC. You use CHA/8 in place of STR/10 for any Grapple checks your tendrils make, use CHA in place of STR or RES for determining damage, and use your NDB in place of PDB.  Your shadow tendrils are considered to have unlimited limbs for Grapples.
 
 ## Senju
 
@@ -794,9 +794,9 @@ You can see the flow of chakra. This gives you a +4 bonus to defense rolls again
 
 This technique’s greatest limitation is its user. You can only copy a technique you meet the requirements to learn: you must be able to learn a technique of that rank, and if it has any skill requirements you must meet those as well. Prerequisites of knowing other techniques, however, do not need to be met. You can’t learn Elemental Ninjutsu you don’t have the appropriate Aptitude for, and you must have the appropriate Talent to copy a Sealing or Medical Ninjutsu technique.
 
-You automatically learn any valid techniques you see, and can use them for the remainder of the day. To keep them permanently, you must pay half the normal XP cost to learn them. You may go into ‘XP debt’ learning techniques this way, but can only have one jutsu learned via XP debt at a time.
+You automatically learn any valid techniques you see, and can use them for the remainder of the day. To keep them permanently, you must immediately (i.e., when you see and copy it) either pay half the Jutsu's normal XP cost to learn it, or immediately go into 'XP debt' an equivalent amount. You can only have one jutsu learned via XP debt at a time, and must pay it off with any XP you earn prior to spending XP on anything else.
 
-If you have other reductions to learning Jutsu, they apply multiplicatively: That is to say, a Genius, Jutsu Master Uchiha learning permanently a B-rank technique would pay ( 18 * 50% * 50% * 75% ) = 3.3 = 4 XP, rounding up the final cost.
+If you have other reductions to learning Jutsu, they apply multiplicatively: That is to say, a Genius, Jutsu Master Uchiha learning permanently a B-rank they copied technique would pay ( 18 * 50% * 50% * 75% ) = 3.3 = 4 XP, rounding up the final cost.
 
 You may not copy custom or clan jutsu, as those are tailored too specifically to either the individual or clan in question.
 

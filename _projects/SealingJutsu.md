@@ -42,8 +42,11 @@ Large, elongated sections of chains with weighted ends shoot out of a scroll and
 - Speed: 10
 - Seal Speed: 8
 - Range: 12
+- Requires: One Scroll
 
-Effects: This attack is considered a Ranged Taijutsu Attack. If you hit, this deals no damage but restrains the opponent, inflicting a -2 Immobilization penalty, increased by 1 per point your Accuracy exceeds their defensive roll, with a maximum of -7. The chains themselves are still attached to the scroll, and therefore sufficient movement on the part of the victim will reduce this penalty, lowering it by 1 per four yards moved. Alternately, they can try to just wrestle free as a Speed 6 action, rolling 1d20+STR/5 against your 1d20+CHA/5+(the remaining immobilization penalty from Attached Meteor).
+Effects: You make a Ranged Taijutsu Attack. If you hit, this deals no damage but restrains the opponent, inflicting a -2 Immobilization penalty, increased by 1 per point your Accuracy exceeds their defensive roll, with a maximum of -7.
+
+The chains themselves are still attached to the scroll, and therefore sufficient movement on the part of the victim will reduce this penalty, lowering it by 1 per four yards moved. Alternately, they can try to just wrestle free as a Speed 6 action, rolling as the defender in a Grapple, with you replacing the normal STR/10 bonus with your CHA/10, plus the remaining Immobilization penalty from Attached Meteor.
 
 ## C-Rank
 #### --( Shikoku Fuuin - Finger Engraving Seal )--
@@ -182,6 +185,8 @@ Effects>: When you use Moji Hyouki, select another ninjutsu which you are able t
 
 When the seal activates, the jutsu in question will immediately take effect. If this is an offensive technique it will be aimed at the person who set it off (unless it's an AoE, in which case it will be centered on the seal). Offensive techniques used this way use your Accuracy at the time of its creation, unmodified by things such as status effects, wounds, fatigue, or temporary bonuses or penalties, and have a -2 Accuracy penalty per rank of the Technique. The A-rank Five Elements Unseal will not trigger a touch activated Moji Hyouki.
 
+Jutsu which are upkeeps will have no chakra source from which to draw from (given it is on an object), and will therefore immediately end after activation.  Similarly, Jutsu with a range or an effect that only applies to oneself will then only apply to, and work on, the object it was placed on.
+
 ## A-Rank
 #### --( Tensha Fuuin - Transcription Seal )--
 A rarely-seen technique, this seals the necessary chakra patterns for a specific jutsu inside a person, and keeps it perpetually ready within this seal. When a certain condition is met the seal activated and the technique is triggered.
@@ -237,9 +242,9 @@ This seal was originally created and placed upon servants of the Diamyo, ensurin
 
 Effects: This is used as a link to any basic unarmed attack. When you hit, make an opposed Espionage roll: If you succeed, the seal is placed without the target knowing.
 
-The seal is inactive by default, but as a Speed 5, Chakra 5 + X action, you can create a temporary form of paralysis which turns their own Chakra against them, preventing them from taking any non-Interrupt actions. They declare their intended action along with its Accuracy and Speed, but roll a Chakra X*2. If they fail, they are not fatigued and do not roll the Chakra or Stamina rolls associated with their action. Their IC is not advanced by the action's Speed, but they suffer a Stun 5. X has a maximum value of your Chakra Control Ranks. 
+The seal is inactive by default, but as a Speed 4, Chakra 10 + X interrupt in response to any non-interrupt action they take, you can create a temporary form of paralysis which turns their own Chakra against them, preventing the action they were going to perform, and forcing them to make a Chakra (X * 2) roll. If they fail, they are not fatigued, and they do not roll the Chakra or Stamina rolls associated with their action, as they are prevented from performing it. Their IC is not advanced by the action's Speed, and instead they suffer a Stun 5. X has a maximum value of your Chakra Control Ranks. 
 
-Every time that a victim has previously had to roll against this seal's effects, they gain a +3 to their Chakra Exhaustion roll to overcome its effects. After they've succeeded on one such roll, the seal is forced into remission, and will not affect them temporarily; it cannot be reapplied or reactivated for the rest of that fight. Once the seal is subdued, it is, as far as the victim can tell, gone entirely, its effects having been broken. However, after 24 hours have passed the seal can be reactivated by its user, per the normal rules. A Fuuinjutsu expert will be able to, if they know someone has had this seal applied to them, find and remove it using the A-rank Five Elements Unseal technique.
+Every time that a victim has previously had to roll against this seal's effects, they gain a +3 to their Chakra Exhaustion roll to overcome its effects. After they've succeeded on one such roll, the seal is forced into remission, and will not affect them temporarily; it cannot be reapplied or reactivated for the rest of that fight. Once the seal is subdued, it is, as far as the victim can tell, gone entirely, its effects having been broken. However, after 24 hours have passed the seal can be reactivated by its user, per the normal rules, with the cumulative bonus to resist it reset. A Fuuinjutsu expert will be able to, if they know someone has had this seal applied to them, find and remove it using the A-rank Five Elements Unseal technique.
 
 #### --( Ketsumei no Tsurugi - Sword of Blood Oath )--
 This seal creates what is essentially a modified version of the blood pacts many shinobi form with summoned creatures. Rather than a powerful and intelligent animal, however, this 'contract' is made with a favored weapon.

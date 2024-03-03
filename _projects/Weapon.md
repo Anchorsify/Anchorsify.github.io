@@ -304,9 +304,7 @@ Taking a large throw weapon, you slap several explosive tags onto it and huck it
  - Speed: (Weapon) + (4 * X)
  - Type: Large Thrown
 
-Effects: You may attach up to 3 Exploding Tags to the weapon; X is the number of tags you attach, which detonate on impact, either with the target or with the ground in a (5 + 5 * X) yard area explosion. If you hit, the damage of the tags is rolled separately (and doesn't benefit from extra damage the weapon might gain), but added together with the weapon's damage as a single damage source, both for reductions and wounding purposes. 
-
-Even if it misses, everyone within the explosion's area must defend separately against the tags as they detonate; the Speed for defending against the explosion is the same as this technique, and may dodge or otherwise defend against it as a normal attack, though the explosion's damage roll has no associated speed or damage bonus added to it.
+Effects: You may attach up to 3 Exploding Tags to the weapon; X is the number of tags you attach. When declaring the attack, you also declare the Delay for the tags to explode as described in the Equipment chapter.  This explosion is centered on the location the target was when this attack was made, occurs whether the attack hit or missed, and follows all normal rules (damage, valid defenses, etc) for the class of explosive tags used.
 
 #### --( Tsubasa Migaku - Blade Honing )--
 Focusing chakra along the edge of a bladed weapon, the user creates a 'second', sharper blade of chakra that essentially increases the weapon's sharpness, at the expense of one's ability to follow-through fully with their attacks.

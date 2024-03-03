@@ -40,9 +40,10 @@ Effects: The orb sheds light equivalent to a small oil lamp. This reduces darkne
 A low-level technique which sees some use even by more experienced ninja, in certain situations. It causes a Katon jutsu to release a prodigious amount of smoke before it burns out, reducing visibility over an area.
 
 - Chakra: +2, +1 per rank above E
+- Area: 3, +3 per rank above E
 - Seal Speed: +3
 
-Effects: This technique is used in combination with a damage-dealing Katon jutsu, increasing its Seal Speed and Chakra cost accordingly. The technique has an area of 3 yards, +3 yards per rank above E. The resulting smokescreen has a duration of 10 IC, +5 IC per rank above E. Within this area, the smoke imposes a -2 visibility penalty, increasing by one per rank above E the jutsu Enmaku was used with is. This technique can also be used on its own, using a person suffering from the Ignite status as its source; in this case it's Chakra 6, Speed 5, and Seal Speed 3. Every 2 points of Ignite is equivalent to one jutsu rank (so "rank D", meaning -3 visibility, at Ignite 4).
+Effects: This technique is used in combination with a damage-dealing Katon jutsu, increasing its Seal Speed and Chakra cost accordingly. The resulting smokescreen has a duration of 10 IC, +5 IC per rank above E. Within this area, the smoke imposes a -2 visibility penalty, increasing by one per rank above E the jutsu Enmaku was used with is. This technique can also be used on its own, using a person suffering from the Ignite status as its source; in this case it's Chakra 6, Speed 5, and Seal Speed 3. Every 2 points of Ignite is equivalent to one jutsu rank (so "rank D", meaning -3 visibility, at Ignite 4).
 
 ## D-Rank
 #### --( Houenka - Flame Flower )--
