@@ -118,7 +118,7 @@ Effects: This can interrupt the use of any grapple move other than Headbutt or P
 You throw an enemy who's grabbing you off, freeing yourself from them and injuring them in the process.
 
  - Stamina: 12 + X
- -Damage: (STR/10)d10
+ - Damage: (STR/10)d10
  - Speed: 4 + X, Delay X
  - Requires: Throw
 
