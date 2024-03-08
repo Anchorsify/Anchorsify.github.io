@@ -152,6 +152,7 @@ This technique allows the user to briefly levitate multiple kunai in mid-air usi
  - Chakra: 10 + X
  - Upkeep: X / 3
  - Range: 5 + CHA/4
+ - Speed: 12
 
 Effects: You can control up to X Kunai at once, to a maximum of CHA/10, and 'throw' them using your Chakra, following standard multithrow rules, except that you replace the normal Stamina cost with an equivalent Chakra cost.  It uses your Ninjutsu Damage Bonus in place of your Physical Damage Bonus, but gains only +0.25 per weapon thrown instead of the normal +0.5.  Because this technique allows you manipulate the Kunai in mid air and alter their trajectory, anyone attempting to parry your multithrows with this technique takes a -X/3 penalty to their Parry roll.  The Kunai fall wherever they were hovering when you stop maintaining this technique's Upkeep, but so long as you maintain the Upkeep, your Kunai can not be 'retrieved' by anyone else.  Effects which state they ruin the weapons used (such as Housenka), however, will end this technique automatically (as you must reuse it to apply it to new weapons).  Uniques and effects which modify how many weapons you can throw, or how far you can throw them, will affect this technique's limitations and range normally, but the abilities Improved Range and Quick Hands do not.
 
