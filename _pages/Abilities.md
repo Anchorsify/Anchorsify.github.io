@@ -358,7 +358,7 @@ Your extensive physical conditioning has given you an almost preternatural abili
 - Requires: 60 RES
 
 #### -=[ Fortitude ]=-
-Every rank of this ability gives you a +2 bonus to Resistance rolls when you block an attack (even if you are doing so reflexively); if you've declared that you're blocking, this also applies to any effects requiring a Resistance roll which you wouldn't normally get to defend against (such as the B-rank Poison Mist). If you've declared you're blocking for a certain time period, and take another defense (for example: you are blocking from IC 20 to IC 30, and on IC 24 you dodge an attack, and are hit) half of this abilities bonus will still apply to your rolls.
+Every rank of this ability gives you a +1 bonus to Resistance rolls when you block an attack (even if you are doing so reflexively); if you've declared that you're blocking, this also applies to any effects requiring a Resistance roll which you wouldn't normally get to defend against (such as the B-rank Poison Mist). If you've declared you're blocking as a Variable Speed Action, and take another defense (for example: you are blocking from IC 20 to IC 30, and on IC 24 you dodge an attack, and are hit), you still gain this bonus.
 
 - Base Cost: 2
 - Scale: 2
@@ -718,7 +718,7 @@ You practice extensively with a chosen skill, so that even while you may still m
 
 ##### 5. Development
 #### -=[ Holding Back ]=-
-...is a good idea when those 'friendly' training matches get a little bit out of control. You declare you're holding back when you make an attack. An attack that's been held back uses half your normal damage bonus, and any wounds it inflicts have their severity reduced by 1. At the first rank this works on basic attacks and with E-rank jutsu; the next rank allows it to be used on D-ranks, the third on C-ranks, and so forth, up to A. No, you can't hold back with S-rank moves.
+...is a good idea when those 'friendly' training matches get a little bit out of control. You declare you're holding back when you make an attack. An attack that's been held back uses half your normal damage bonus, and any wounds it inflicts have their severity reduced by 1, though preventing a wound this way will not stop it from ending any Genjutsu the victim was suffering from. At the first rank this works on basic attacks and with E-rank jutsu; the next rank allows it to be used on D-ranks, the third on C-ranks, and so forth, up to A. No, you can't hold back with S-rank moves.
 
 - Base Cost: 5
 - Scale: 2

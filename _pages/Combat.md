@@ -104,6 +104,12 @@ Genjutsu are the mind-affecting, often-illusionary techniques used by ninja. Whi
 
 The 'attacker' rolls 1d20+XP/400, and the 'defender' rolls 1d20+XP/200, both adding any bonuses or penalties they have to Genjutsu and d20 rolls. Some bonuses may apply only to offensive or defensive genjutsu rolls: In these cases, the person using the genjutsu is the 'attacker' and making the 'offensive' roll, and the person trying to avoid being affected is the 'defender' and accordingly making the defensive genjutsu roll. If the defender rolls lower than their opponent, they suffer the effects of the technique being used.
 
+Bonuses and effects to "defensive rolls", such as from the Sixth Sense ability, or a Uchiha's Observe, do not apply to "defensive genjutsu rolls".  Bonuses to Accuracy do not apply to "offensive genjutsu rolls". Things that apply to genjutsu rolls are bonuses/penalties/effects...
+
+ - Which explicitly mention genjutsu rolls.
+ - Which apply to all d20 rolls.
+ - From Fatigue.
+
 Genjutsu relies upon confusing the senses, which is a powerful tool in the arsenal of someone who relies on subterfuge... or even just a shinobi needing an extra edge in combat. It's quite possible to realize one's under a genjutsu, but that doesn't give any special ability to overcome its effects ("disbelieving the illusion", so to speak, doesn't actually work). On the other hand, it's hard to fool someone again and again with the same trick. Each time a Genjutsu is successfully used against you in combat, you have a (cumulative) +5 bonus to defensive rolls against that specific jutsu for the rest of the battle.
 
 There are three ways to break free from most Genjutsu:
@@ -120,6 +126,10 @@ Inevitably, you will at some point be attacked. Accordingly, ninja are trained t
 >Shikamaru needs all his teeth to eat Choji's snacks when he isn't looking, and tries to slip under the shadow of the Akimichi's meaty arm for safety! (Dodge, Speed 2)
 
 The most common defenses are Dodge and Parry, but others, such as Block, also exist.  See Basic Actions for the most common defenses.  Abilities and Jutsu can also grant you other defensive options.
+
+A "Defensive Roll" is any roll made in opposition to the Accuracy of an opponent's attack.  A parry, or a jutsu-based defense such as Teiryuu Dageki, makes a defensive roll.
+
+On the other hand, an opposed skill roll (such as Athletics against Trip, or a status roll) would not qualify as a "defensive roll".  Ties would still go to the defender, but it would not receive bonuses from Sixth Sense, penalties from Visibility, etc.
 
 ### Partial Success
 Just because you failed to evade a shuriken or deflect a sword slash doesn't mean they struck a vital area (you are a ninja, after all). When you make a defensive roll to avoid an attack, for each point you fail by you take 20% damage. Any status effects that are part of the technique, however, will apply normally.

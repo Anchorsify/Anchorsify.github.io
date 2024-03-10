@@ -97,7 +97,7 @@ You're really, really good with handseals. You make them fast, and mold your cha
 ##### Weapon Master
 You know your weapons. You know how to use them, and how to change them to suit your style. Your Weapon Focus ability applies to all weapons, only needing to be taken once, and it only increases Stamina costs by 2 per rank. Additionally, that ability's limit is changed to (DEX -20)/20, maximum 4. If you take this after creation, you may refund your extra Weapon Focus.
 
-*Upgrades Into: Ranged Specialist*
+*Upgrades Into: Fan of Knives*
 
 ##### Weight Trainer
 You strap yourself down with weights--either from tailoring your clothes that way, or from strapping weights to your limbs--and hamper yourself constantly. All in the name of one. Perfect. Fight.

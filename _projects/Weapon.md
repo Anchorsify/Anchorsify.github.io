@@ -307,14 +307,14 @@ Taking a large throw weapon, you slap several explosive tags onto it and huck it
 Effects: You may attach up to 3 Exploding Tags to the weapon; X is the number of tags you attach. When declaring the attack, you also declare the Delay for the tags to explode as described in the Equipment chapter.  This explosion is centered on the location the target was when this attack was made, occurs whether the attack hit or missed, and follows all normal rules (damage, valid defenses, etc) for the class of explosive tags used.
 
 #### --( Tsubasa Migaku - Blade Honing )--
-Focusing chakra along the edge of a bladed weapon, the user creates a 'second', sharper blade of chakra that essentially increases the weapon's sharpness, at the expense of one's ability to follow-through fully with their attacks.
+Focusing chakra along the edge of their weapons, the user extends and expands their size, usually by about a quarter, using chakra to reinforce the weapons hardness at the same time to allow for more powerful swings at the expense of one's ability to follow-through fully with their attacks.
 
  - Chakra: 18
  - Upkeep: X/2 (round up)
  - Speed: 12
  - Type: Dual
 
-Effects: Your weapon deals +Xd*, but its damage is reduced by (5 * X)% for the purpose of determining wounds. X has a maximum of (your Chakra Control skill ranks)/3. Any weapon you pick up or draw automatically benefits from Blade Honing while you maintain its Upkeep.
+Effects: Your weapons deal +Xd*, but their damage is reduced by (5 * X)% for the purpose of determining wounds. X has a maximum of (your Chakra Control skill ranks)/3. Any weapon you pick up or draw automatically benefits from Blade Honing while you maintain its Upkeep.
 
 ## B-Rank
 #### --( Hashadan - Blade Breaker )--

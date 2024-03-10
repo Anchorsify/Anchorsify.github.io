@@ -105,15 +105,15 @@ This creates an illusion that can fool a person's sight, hearing, or smell--or, 
 Effects: By default, this creates an illusion that only applies to one sense; examples would be an illusion of a curtain flapping in a breeze, or the sound of footsteps. By raising the chakra cost by 5, the illusion can apply to two senses, such as a tiger that crouches and snarls. Raising the chakra cost by 10 (to a total of 20) allows the illusion to be convincing to all three, such as a fire that flickers, crackles, and smells like burning wood. This technique's primary limitation is its scale. It can't do anything much larger than a large piece of furniture or more complicated than one person. Anyone who interacts with this illusion is allowed a Genjutsu roll to realize it's a fake, though some things can make this obviously fake, such as touching it or standing at the 'source' of the noise and realizing there's nothing there. You can control this illusion if you're in range; if not, you can set it to be essentially a looping recording.
 
 ## C-Rank
-#### --( Nemuri - Sleep )--
-A genjutsu whose greatest limitation is that it requires physical contact, the user places their hand on a target and sends them immediately into a deep slumber. Very nice for infiltration without raising a fuss.
+#### --( Gosaru Tatari - Five Monkey Curse )--
+This technique interferes with the victim's ability to see, hear, smell, taste, and feel pain. Admittedly, the last one's an undesirable addition to the mix (in most circumstances), butthe technique makes up for that with its all-around usefulness.
 
-- Chakra: 18
-- Range: Touch
-- Speed: 15
-- Special: No handseals required
+- Chakra: 22
+- Range: 25
+- Speed: 12
+- Seal Speed: 14
 
-Effects: This can't be used in combat. If you're able to touch the target and succeed with a genjutsu roll, they immediately fall asleep (it's a good idea to ease them to the ground, to avoid them, say, bashing their shoulder on a rock and immediately waking themselves back up). Unless they're woken up (see the Sleep status for details), they'll be asleep for at least four hours.
+Effects: This negates all ranks the victim has in Enhanced Hearing and Enhanced Sight, and any abilities dependant upon them (such as Blind Fighting or Genjutsu Awareness). Their reduced sensory perception allows them to ignore the penalties of any Minor wounds they may be suffering from, which also means that minor wounds will not break any other genjutsu applied to them (including this one) while this genjutsu persists.
 
 #### --( Kyousanken no Jutsu - Iron Curtain Technique )--
 The user places themself under a harmless genjutsu, which itself serves no purpose but makes it more difficult for other genjutsu to affect you normally.
@@ -147,17 +147,15 @@ This jutsu allows the user to change the surroundings around a person subtly, us
 
 Effects: Best used out of combat (anyone who sees this being used will realize it's an illusion), this casts an illusion over an area. This could be making a door appear to be a solid wall, a sign have the wrong number on it, or an intact bridge appear to be broken. When used, make a genjutsu roll with a +5 bonus. Anyone who encounters your illusion makes a genjutsu roll; failure means they believe it's real, success means they know it's an illusion. Actually getting rid of it requires the use of Genjustu Kai, though the illusion won't affect senses other than sight.
 
-#### --( Shunou Kaimetsu - Brain Destruction )--
-This jutsu convinces the victim that they've been grievously injured. Although it causes no actual physical harm, it convinces their mind and all their senses that they've suffered some manner of severe damage.
+#### --( Nemuri - Sleep )--
+A genjutsu whose greatest limitation is that it requires physical contact, the user places their hand on a target and sends them immediately into a deep slumber. Very nice for infiltration without raising a fuss.
 
-- Chakra: 26
-- Range: 30
-- Speed: 14
-- Seal Speed: 12
+- Chakra: 18
+- Range: Touch
+- Speed: 15
+- Special: No handseals required
 
-Effects: This inflicts a temporary wound on the victim. It's by default Minor, raised to Major if you beat their genjutsu roll by 5 or more, and Severe if you beat their roll by 10 or more. They interpret this technique as whatever sort of attack or jutsu would be appropriate to cause the injury they believe they're suffering from. They suffer all normal effects of this injury (and good luck trying to convince them it's all in their head), aside from HP loss or unconsciousness. It lasts until the genjutsu is broken. You choose the damage type and wound location. If the target has the ability to instantly heal the wound (e.g. Kaguya's Skeletal Realignment bone modification) or block it from ever manifesting in the first place (e.g. Henzaki's Organ Mobility), they can do so normally, and the wound is 'healed' or ignored as is normal, though it does not reveal to them that it is a fake wound and still costs the same costs as normal. Medical jutsu that temporarily heal a wound would do the same, but could be dispelled once it is realized it's not a true wound.
-
-Additionally, while any stamina or CE penalties (e.g. Minor Blunt Abdomen wound Winded) and failed fatigue levels (e.g. any wound that causes Suffocation, in the event that the victim fails one of the Stamina checks caused by Suffocation) caused by the wound remain, any instant fatigue (e.g. Severe Piercing Abdomen wound Cavitation) from wounds would disappear when this jutsu ends. This means their fatigue level would be reduced by the amount it had been increased by due to the wound when this jutsu ends; the Stamina and Chakra Exhaustion penalties that were purged by advancing a fatigue level do not return, but any acquired since then remain. Finally, wounds caused by Brain Destruction cannot knock the victim unconscious, whether due to fatigue or as a result of the specific wound. The target can go over their normal fatigue level limit in this manner if it is necessary to maintain consciousness, following the normal bonuses and penalties caused by fatigue levels, only falling unconscious when their real fatigue level without the Brain Destruction wound is sufficient to do so. This inability to knock the victim unconscious does not inherently allow the target to realize they are under a genjutsu. Brain Destruction wounds do not break other genjutsu (as is normal), however, Brain Destruction wounds will break if they are wounded from another source, and will break themselves from repeated applications: If you use Brain Destruction on someone who already has a wound from Brain Destruction (whether they have 'healed' it or not), the old wound goes away and is replaced by the new wound when affected by this technique again, which applies both from the same source, and from separate ones (multiple people can't each apply this technique to one person).
+Effects: This can't be used in combat. If you're able to touch the target and succeed with a genjutsu roll, they immediately fall asleep (it's a good idea to ease them to the ground, to avoid them, say, bashing their shoulder on a rock and immediately waking themselves back up). Unless they're woken up (see the Sleep status for details), they'll be asleep for at least four hours.
 
 #### --( Sen'un no Jutsu - Fog of War Technique )--
 You trap a target in some manner of in-depth hallucination. They may believe that you've run away and think they're giving pursuit, or be convinced that they're locked in combat with you. This technique is often a last-ditch resort to escape from a superior adversary, or bypass someone when there's no time to deal with them in direct combat.
@@ -169,6 +167,18 @@ You trap a target in some manner of in-depth hallucination. They may believe tha
 - Seal Speed: 20
 
 Effects: Using this technique costs 2 Willpower if it succeeds. It has a +X bonus to your Genjutsu roll, up to a maximum of +5. If used successfully, whoever its victim was is left trapped in some manner of hallucination. The target is essentially removed from combat for this technique's duration. Unfortunately, this technique is particularly fragile. If the target senses danger (such as from an incoming jutsu, or planting explosives around them) it'll break in time for them to try to avoid it. It lasts for a maximum of 1 minute per 1 point you beat their genjutsu roll by.
+
+#### --( Shunou Kaimetsu - Brain Destruction )--
+This jutsu convinces the victim that they've been grievously injured. Although it causes no actual physical harm, it convinces their mind and all their senses that they've suffered some manner of severe damage.
+
+- Chakra: 26
+- Range: 30
+- Speed: 14
+- Seal Speed: 12
+
+Effects: This inflicts a temporary wound on the victim. It's by default Minor, raised to Major if you beat their genjutsu roll by 5 or more, and Severe if you beat their roll by 10 or more. They interpret this technique as whatever sort of attack or jutsu would be appropriate to cause the injury they believe they're suffering from. They suffer all normal effects of this injury (and good luck trying to convince them it's all in their head), aside from HP loss or unconsciousness. It lasts until the genjutsu is broken. You choose the damage type and wound location. If the target has the ability to instantly heal the wound (e.g. Kaguya's Skeletal Realignment bone modification) or block it from ever manifesting in the first place (e.g. Henzaki's Organ Mobility), they can do so normally, and the wound is 'healed' or ignored as is normal, though it does not reveal to them that it is a fake wound and still costs the same costs as normal. Medical jutsu that temporarily heal a wound would do the same, but could be dispelled once it is realized it's not a true wound.
+
+Additionally, while any stamina or CE penalties (e.g. Minor Blunt Abdomen wound Winded) and failed fatigue levels (e.g. any wound that causes Suffocation, in the event that the victim fails one of the Stamina checks caused by Suffocation) caused by the wound remain, any instant fatigue (e.g. Severe Piercing Abdomen wound Cavitation) from wounds would disappear when this jutsu ends. This means their fatigue level would be reduced by the amount it had been increased by due to the wound when this jutsu ends; the Stamina and Chakra Exhaustion penalties that were purged by advancing a fatigue level do not return, but any acquired since then remain. Finally, wounds caused by Brain Destruction cannot knock the victim unconscious, whether due to fatigue or as a result of the specific wound. The target can go over their normal fatigue level limit in this manner if it is necessary to maintain consciousness, following the normal bonuses and penalties caused by fatigue levels, only falling unconscious when their real fatigue level without the Brain Destruction wound is sufficient to do so. This inability to knock the victim unconscious does not inherently allow the target to realize they are under a genjutsu. Brain Destruction wounds do not break other genjutsu (as is normal), however, Brain Destruction wounds will break if they are wounded from another source, and will break themselves from repeated applications: If you use Brain Destruction on someone who already has a wound from Brain Destruction (whether they have 'healed' it or not), the old wound goes away and is replaced by the new wound when affected by this technique again, which applies both from the same source, and from separate ones (multiple people can't each apply this technique to one person).
 
 ## B-Rank
 #### --( Nemurihane - Sleep Feather )--
@@ -214,16 +224,6 @@ Used on willing recipitants, this jutsu puts the target in a trance like state, 
 - Seal Speed: 24
 
 Effects: This can only be used on helpless or willing recipients. It places the subject into a trance-like state, similar to hypnosis. It causes them to recall any suppressed memories, and can help remember details they might otherwise have forgotten. Mechanically, this will unravel the effects of the A-rank Sennou Sousa no Jutsu, and gives a +5 bonus to Research rolls made to remember details about a previous experience (such as glancing around a room and needing to recall its contents). It will also uncover any memories suppressed due to trauma or similar causes. This can take anywhere from a few minutes to several hours, depending on what it's being used for, how deeply buried the hidden memories are, and how much information needs to be remembered. This technique may only be used on a given person once per day.
-
-#### --( Gosaru Tatari - Five Monkey Curse )--
-This technique interferes with the victim's ability to see, hear, smell, taste, and feel pain. Admittedly, the last one's an undesirable addition to the mix (in most circumstances), butthe technique makes up for that with its all-around usefulness.
-
-- Chakra: 32
-- Range: 25
-- Speed: 18
-- Seal Speed: 16
-
-Effects: This negates all ranks the victim has in Enhanced Hearing and Enhanced Sight, and any abilities dependant upon them (such as Blind Fighting or Genjutsu Awareness). They also suffer a -2 visibility penalty (which stacks with any other visibility penalties they may have). Their reduced sensory perception allows them to ignore the penalties of any Minor wounds they may be suffering from, which also means that minor wounds will not break any other genjutsu applied to them (including this one) while this genjutsu persists.
 
 #### --( Magen: Tetsuotome no Jutsu - Demonic Illusion: Iron Maiden Technique )--
 Chains burst from the ground beneath the victim and wrap around their legs, anchoring them in place, followed by two halves of an iron maiden, either on each side of the victim or in front of and behind them. The iron maiden slams shut with them in it, causing excruciating pain and a slew of debilitating injuries.

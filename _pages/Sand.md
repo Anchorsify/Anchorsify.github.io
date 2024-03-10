@@ -174,7 +174,7 @@ Desert is some of the most difficult terrain to navigate, but the sand foxes do 
 - Scale: 5
 - Limit: DEX/20, max 4
 
-Effects: You reduce the severity of any immobilization and visibility penalties on you by 1, per rank, which is applied after determining the maximum severity of either penalty. Each rank also reduces the maximum immobilization penalty you can suffer from by 1.
+Effects: You reduce the severity of any Immobility or Visibility penalties on you by 1, per rank.  Additionally, you reduce the maximum Immobility penalty you can suffer from by 1 per rank (which is, as with Visbility Penalties, calculated after the reduction of its current severity, meaning a Yomi Numa would apply a -12 Immobility, reduced by up to 4 by Tenacity at its max rank, which would then be lowered to 6, for you).
 
 #### -=[ Desert Ghosts ]=-
 In the world of shinobi, there is no such thing as hunter and hunted; one is both, at all times. The Juugo Suto are preeminently aware of this. That awareness, and their mentality of never taking their safety for granted, has led to no end of frustration for foreign shinobi trying to gauge the strength and frequency of Suna's patrols.

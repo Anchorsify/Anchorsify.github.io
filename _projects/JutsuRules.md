@@ -211,7 +211,7 @@ Additionally, elemental weapons may only have chakra flow of their element used 
 
 For jutsu such as Four Seasonal Wind Palm, which enhance taijutsu, this can cause them to lose the benefits of the jutsu (such as enhanced blocking penetration), unless the element they turned it into had a similar benefit of the same type (for example, Ice retains the 25% block reduction, while Scorch would outright ignore blocking).
 
-In the case of Ninjutsu links to taijutsu attacks (such as Housenka adding to a multithrow, or Lightning Blade adding to a melee weapon attack), you can only utilize links of a single element, which much match the base element of whatever action you're performing, if it has one: This means that you could have Housenka and Ryuuseiu as links to the same multithrow attack, but you couldn't then add Raisen or Violent Wind Palm to it.  This also means that for Ninjutsu created weapons, or weapons with a chakra flow other than Raiton, you couldn't link Lightning Blade to your attack (though in the case of Jiton, you could Jiton-convert Rock Smashing Staff, and then Jiton-convert Lightning Blade to have it apply).
+In the case of using Ninjutsu of multiple elements at once (such as a Raisen and Housenka both being added to a Multithrow), the attack is considered to have an elemental nature of all included elements (in the prior example it'd be Lightning and Fire), and the defender can choose which attack type is more favorable to them based on their defense choice (it could be considered a Raiton attack for Wind Turtle Shell, or a Katon attack for Ocean Shield).
 
 #### Bunshin
 By default, all Bunshin follow the same basic rules listed in the Bunshin no Jutsu technique (see [here](https://anchorsify.github.io/projects/GeneralNin/#e-rank)).
@@ -230,6 +230,8 @@ More advanced types of Bunshin than that exist, however, and changes to how they
  
  - Bunshin do not generate AP on their own or from other effects that would ordinarily generate AP (such as opening Gates) under any circumstance, though you may spend AP to pay for any costs associated with any action they take (such as Kawarimi).
  
+ - Bunshin which can act independently (Wood and Shadow) can fight without their creator, and in such instances, do not generate or require AP to be spent for their actions, but can otherwise act normally.  If their creator ever joins such a combat, they revert to their normal behavior (of requiring AP for their actions, but also then having AP to spend, from their creator's pool).
+ 
  - Effects based upon consecutive actions (such as Tsuga, or Relentless, or Combos) are tracked separately for each bunshin (and accordingly, separately from you), and you do not gain any bonuses (or penalties) associated with their actions.
 
  - Bunshin which have their own Fatigue are created as a Fatigue 1 version of you, with all the normal benefits and penalties, along with all status effects present on you at the time of their creation.  Bunshin which specify they have their own Fatigue and pay their own costs accordingly can take on their own Upkeeps, otherwise, you pay all their Fatigue costs (all Stamina and Chakra Exhaustion rolls they make, or are forced to make), and take on any Upkeeps from actions they perform. Should a Bunshin that can make their own Fatigue rolls fail a Stamina or Chakra Exhaustion check badly enough that it would bring them one or more levels of fatigue beyond the point at which it would normally destroy itself, the technique fails outright in addition to the clone destroying itself. This is effectively just an extension of the normal rules of what happens when someone knocks themselves too far unconscious from the costs of one technique.
@@ -239,8 +241,8 @@ More advanced types of Bunshin than that exist, however, and changes to how they
 ## Genjutsu
 Genjutsu's not easy. In fact, genjutsu is really, really hard, even by the standards of other ninja techniques. Taijutsu and ninjutsu are both, after enough shinobi training, slightly intuitive; and, in the case of the latter, every ninja has an elemental affinity they can rely on to help them out even when they struggle overall. Not so with genjutsu. There is no such thing as an 'affinity' for it (though some ninja who seem to have an easier time learning it are occasionally described as such), and it takes a lot work to be able to use it effectively. The requirements for using Genjutsu of a given rank are listed below.
 
- - E: Genjutsu Training ability
- - D: 5 Chakra Control, 5 Research, and 12 (Chakra Control + Research)
- - C: 10 Chakra Control, 10 Research, and 25 (Chakra Control + Research)
- - B: 20 Chakra Control, 20 Research, and 48 (Chakra Control + Research)
- - A: 30 Chakra Control, 30 Research, and 70 (Chakra Control + Research)
+ - E: Genjutsu Training Ability
+ - D: 5 Chakra Control, 5 Research, and 12 (Chakra Control + Research) + Genjutsu Training Ability
+ - C: 10 Chakra Control, 10 Research, and 25 (Chakra Control + Research) + Genjutsu Training Ability
+ - B: 20 Chakra Control, 20 Research, and 48 (Chakra Control + Research) + Genjutsu Training Ability
+ - A: 30 Chakra Control, 30 Research, and 70 (Chakra Control + Research) + Genjutsu Training Ability

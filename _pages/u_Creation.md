@@ -115,7 +115,7 @@ When you have no rerolls left, you take a -2 penalty to Accuracy and d20 rolls.
 ##### Naturalist
 You are at one with nature! Animals like you more, you understand nature like one of them, and your energy is naturally powerful. You also can forage well, notice slight differences in the environment to follow footprints, or even see the handiwork ninja leave with their traps! Perhaps it's because of your attunement, or that you are tempted by your primal urges, either way you are still a great asset.
 
-Your maximum ranks in Survival are increased by 3, and you gain a +3 bonus to detect, disarm, or avoid any part of a trap. Your ninjutsu damage bonus is CHA/12, rather than CHA/15. You have a +1 bonus to your Chakra Control rolls per rank of the jutsu you're using (+1 for E-rank, +2 for D-rank, etc.), and you lower the Seal Speeds of all Jutsu you use the same amount (-1 for E-rank, -2 for D-rank, etc). Finally, you can use your ranks in the Survival skill in place of the Research skill to meet any Jutsu prerequisites.
+Your maximum ranks in Survival are increased by 3, and you gain a +3 bonus to detect, disarm, or avoid any part of a trap. Your ninjutsu damage bonus is CHA/12, rather than CHA/15. You have a +1 bonus to your Chakra Control rolls per rank of the jutsu you're using (+1 for E-rank, +2 for D-rank, etc.), and you lower the Seal Speeds of all Ninjutsu you use the same amount (-1 for E-rank, -2 for D-rank, etc). Finally, you can use your ranks in the Survival skill in place of the Research skill to meet any Jutsu prerequisites.
 
 However, your maximum Research rank is reduced by 3.
 
@@ -152,7 +152,7 @@ Next, choose one of the two that you didn't pick. It has -1 Accuracy (or -2 to a
 ##### Strong-Willed
 When the going gets tough, you keep on going. You have a strong, virtually unbreakable will, and can power through anything standing in your way.
 
-You reduce the penalty to any Accuracy, Fatigue, or d20 roll you make by 1 per roll (not per penalty: If you had -2 Accuracy from Wounds, -1 Accuracy from Fatigue, and -2 accuracy from a Visibility Penalty, your total penalty is -4, rather than -5). You can ignore the effects of one wound you are suffering from; any time you're wounded you may continue to ignore the current wound, or change to the newly-inflicted one. Finally, you have +2 to all Genjutsu rolls, and you can spend a point of willpower as a Speed 0 interrupt after you fail a Genjutsu Defense to immediately end the Genjutsu you were affected by, so long as you managed to recognize that a Genjutsu was used on you.
+You reduce the penalty to any Accuracy, Fatigue, or d20 roll you make by 1 per roll (not per penalty: If you had -2 Accuracy from Wounds, -1 Accuracy from Fatigue, and -2 accuracy from a Visibility Penalty, your total penalty is -4, rather than -5). You can ignore the effects of one wound you are suffering from; any time you're wounded you may continue to ignore the current wound, or change to the newly-inflicted one. This lasts until the end of combat, at which point the Wound's penalties return. Finally, you have +2 to all Genjutsu rolls, and you can spend a point of willpower as a Speed 0 interrupt after you fail a Genjutsu Defense to immediately end the Genjutsu you were affected by, so long as you managed to recognize that a Genjutsu was used on you.
 
 ##### Warder
 You've trained hard to become adept at brushing aside incoming objects that are liable to hurt you! This is useful for shinobi-related activities such as not dying.

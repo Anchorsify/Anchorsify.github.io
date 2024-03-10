@@ -112,14 +112,16 @@ You mold chakra around your palms to maintain a thick film of water around them,
 Effects: This gives you a +4 bonus to all grapple rolls you make (though it does not apply to weapons), for any purpose other than escaping a grapple (so not applicable for Kagemane).
 
 #### --( Mekkyaku - Extinguishment )--
-It was recently discovered that covering oneself in water is a highly effective countermeasure to being on fire! Thus, this technique: An alternative to the ever-popular "stop, drop, and roll", the ninja drenches themselves or a nearby object in water.
+While most shinobi pay no attention to water that's pooling around them on the battlefield, a clever genin that hated being set on fire developed this technique to put a stop to all that! In the process, they also realized that the process of gathering it was also useful to keep others from doing the same, and thus, this technique was made instantly hated by all of those who have only the smallest talent with Suiton, as masters of it tend to enjoy maintaining their control over their element.
 
 - Chakra: 8 + X
 - Speed: 8
 - Seal Speed: 8
-- Requires: X*2 gallons of water
+- Requires: X*2 gallons of water from the battlefield
 
-Effects: This reduces any Ignite penalties you are suffering from by X; the gallons of water used in this technique are removed from the battlefield. You gain control over the water used in this technique for the next (Chakra Control ranks)*2 IC or until you use the gallons in a jutsu, as if you'd carried it into battle with you via a gourd or something similar (meaning, no one else may use or access it).
+Effects: This technique allows you gain control over the water used in it for the next (Chakra Control ranks) * 2 IC, or until you use it in a jutsu, as if you'd carried it into battle with you (meaning, no one else may use, access, convert or destroy it in this time). 
+
+When you use this technique, you can also immediately choose to reduce any Ignites you're currently afflicted by, by dousing yourself in the water as part of this technique's use.  This reduces any Ignites you are suffering from by X, and destroys (X * 2) gallons of water to do so.
 
 ## C-Rank
 #### --( Suikoudan - Water Shark Blast )--

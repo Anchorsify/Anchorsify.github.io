@@ -227,7 +227,7 @@ After enlarging with Baika no Jutsu, the Akimichi tucks their arms and legs clos
  - Speed: Variable, Abort
  - Requires: Baika no Jutsu active
 
-Effects: When you use this Jutsu you declare that you are Rolling and for how many IC. You can also declare one other variable speed action (such as Block, or Defensive Formation) to utilize alongside it, which is not ended by any Bowl attacks you make so long as you continue Rolling. Its Chakra Cost is increased by 4 per rank of Power Attack you wish to apply to any of the Bowl attacks you make while Rolling (which doesn't then increase the Stamina cost of Bowl). While Rolling, you take Baika’s X as a penalty to Taijutsu parries and Awareness rolls, can not perform handseals or hold weapons, and any grapples you are in control of automatically end, but you gain the following special attack action:
+Effects: When you use this Jutsu you declare that you are Rolling and for how many IC. You can also declare one other variable speed action (such as Block, or Defensive Formation) to utilize alongside it, which is not ended by any Bowl attacks you make so long as you continue Rolling. Its Chakra Cost is increased by 4 per rank of Power Attack you wish to apply to any of the Bowl attacks you make while Rolling (which doesn't then increase the Stamina cost of Bowl). While Rolling the only attack you can make is Bowl, below, you take Baika’s X as a penalty to Taijutsu parries and Awareness rolls, can not perform handseals or hold weapons, and any grapples you are in control of automatically end.
 
 **--( Bowl )--**  
 
@@ -509,7 +509,7 @@ In addition to the above attack, once you learn this jutsu, you can use Jyuuken 
 - Blocking’s effectiveness is reduced by 25%.
 - It ignores armor, and bypasses half of an opponent’s DR.
 - It uses your NDB in place of PDB, CHA in place of STR, and DEX in place of RES wherever applicable.
-- On hit, inflict Sealed Tenketsu 1 per Rank of the Jutsu (E = 1, D = 2, C = 3, etc).
+- On hit, inflict Sealed Tenketsu 1 per Rank of the Jutsu above E (D = 1, C = 2, etc).
 - In the case of Combos, you can not switch from a regular Combo to a Jyuuken Combo, with the sole exception that you may go from an ordinary Opener into a Jyuuken Combo, and you use Jyuuken’s damage as your Basic Unarmed Attack damage.
 - Any Wounds dealt are Energy Wounds, instead of normal.
 
@@ -770,7 +770,7 @@ Unfortunately for the Uchiha, they are not inherently able to access this power.
 
 PC Uchiha are considered better than your average Uchiha and begin with Stage 1 unlocked at creation. Unfortunately, to unlock its higher stages requires training and persistence. A shinobi can unlock the Sharingan’s higher stages without the need for external stimulus, though it can take a while.  At 1000, and 2000 XP you automatically gain access to the Second, and Third Stage Sharingan, respectively, if you haven’t already.  Legends speak of a fourth, higher stage, but no one in recent memory has obtained it.
 
-Activating Sharingan is a Speed 0 action, which can be performed alongside another technique or Interrupt, and it has an Upkeep of 2.
+Activating Sharingan is a Speed 0 action, which can be performed by itself, or alongside another technique or Interrupt, and it has an Upkeep of 2.
 
 Techniques unlocked at the various Sharingan levels (detailed in their respective Stage section, below) can be acquired automatically, as soon as you unlock the Stage that grants them.  They have no rank or skill requirements to learn, and you can go into ‘XP debt’ by acquiring them, though all XP you earn goes to paying the costs of such techniques before you can spend XP on anything else until they’re paid for.
 
@@ -836,7 +836,7 @@ It was once claimed, and rarely still is, that the Sharingan genuinely allows it
 
 When you declare the use of this ability, declare a category of technique (such as Weapon Taijutsu, Katon, or Combo Taijutsu) and a Speed. Your opponent then declares and rolls (if applicable) their defense. Any Interrupt may be used that's valid against your declared Speed.
 
-After seeing this result, you may choose to use any technique of the declared type, with Speed equal to or lesser than your declared Speed. Its damage is based on its normal Speed, but its ability to be Interrupted, and when you take your next action, are based on the declared Speed. Any technique used this way has its Stamina or Chakra cost(s) increased by the Rank of the technique you choose to perform (E = 1, D = 2, etc); Basic Attacks are equivalent to D-Rank.
+After seeing this result, you may choose to use any technique of the declared type, with a combined (Seal Speed + Speed) equal to or lesser than your declared Speed. Its damage is based on its normal Speed, but its ability to be Interrupted, and when you take your next action, are based on the declared Speed. Any technique used this way has its Stamina or Chakra cost(s) increased by the Rank of the technique you choose to perform (E = 1, D = 2, etc); Basic Attacks are equivalent to D-Rank.
 
 If you choose to use a technique against which their reaction is invalid (such as performing Doton: Domu after they had rolled a 20 on their Suiton: Sujinheki), they do not have to pay the chakra costs or Speed of their Interrupt. On the other hand, using a technique that somehow bypasses their defense (such as Retsudotensho against Kazekame Kaigara no Jutsu) is fair game.
 
@@ -878,13 +878,13 @@ The signature ability of the Yamanaka, this jutsu allows them to send their cons
  - Speed: 12
  - Seal Speed: 8
 
-Effects: You gain control of the target’s body, using their attributes and abilities, but your skills.  You may use any Jutsu you know, however elemental ninjutsu require the appropriate Aptitude to utilize (as you are using their abilities), and you use their Affinity instead of your own.  While you are controlling their body, your IC advances like normal for anything you have them do, and theirs does not.
+Effects: You gain control of the target’s body (but not any allies, or clones, of which they control), using their attributes and abilities, but your skills.  You may use any Jutsu you know, however elemental ninjutsu require the appropriate Aptitude to utilize (as you are using their abilities), and you use their Affinity instead of your own.  While you are controlling their body, your IC advances like normal for anything you have them do, and theirs does not.
 
 While you maintain control of their body, your own is helpless: it appears to be asleep, and cannot be woken up by any means. You are aware of any injuries your body sustains, but not its surroundings or condition.
 
 When the body you’re possessing takes damage, your body takes the same amount of damage (after reductions they might have, but ignoring any of your own). You receive any Wounds they suffer (but not Wounds for your own Vitality or HP being depleted by this).  When you return to your body, your Fatigue increases by as many levels as theirs did.
 
-Someone possessed by this technique can, as a Speed 12 action, attempt to eject your consciousness from their mind, rolling their Genjutsu Defense against your Genjutsu Offense+5+CHA/25. Whenever they are wounded, they are allowed a free roll to eject you, and can choose to spend a point of Willpower to gain a roll as a Speed 0 Interrupt at any point.  They gain a bonus to their Genjutsu Defense roll equal to their current Fatigue level (Fatigue 3 = +3), and for each roll they’ve made previously in the battle, they have a +1 bonus.
+Someone possessed by this technique can, as a Speed 12 action, attempt to eject your consciousness from their mind, rolling their Genjutsu Defense against your Genjutsu Offense+5+CHA/25. Whenever they are wounded or advance a Fatigue level, they are allowed a free roll to eject you, and can choose to spend a point of Willpower to gain a roll as a Speed 0 Interrupt at any point.  They gain a bonus to their Genjutsu Defense roll equal to their current Fatigue level (Fatigue 3 = +3), replacing the normal penalty to Genjutsu Defenses from Fatigue, and for each roll they’ve made previously in the battle, they have a +1 bonus.
 
 You do not need to meet the normal skill or rank requirements for this technique.  This technique’s normal Accuracy penalty is instead a bonus to Accuracy if your target is Stunned, or unable to move (such as by a -10 Immobilization penalty, or Kagemane).  If you miss with it, however, you receive a Stun 10, +1 per point you failed by, though you are not helpless; you’re still in control of your body, just disoriented.
 

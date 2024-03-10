@@ -205,6 +205,7 @@ The user gathers chakra around them--the 'rising phoenix' actually refers to the
 - Chakra: 26
 - Damage: 10d20.open(16)
 - Accuracy: +3
+- Range: 20
 - Special: Interrupt
 - Speed: 12
 - Seal Speed: 14
@@ -213,7 +214,7 @@ Effects: When used as an Interrupt, Rising Phoenix Blast's damage becomes 10d20.
 
 Against a melee action: The user may choose to call off their attack, or press on regardless of the danger. If they do not cancel their attack, they take Rising Phoenix Blast's full damage, without any defense. However, you are also hit by their attack automatically, and cannot defend against it. If they choose to defend themselves, their attack is cancelled; they do not pay any Chakra or Stamina costs, and it's considered half its actual speed for determining when their next action comes; any AP or other effects spent on it, however, are not regained. They then defend against Rising Phoenix Blast as a surprise attack, but have a +3 bonus to any d20 rolls made as part of their defense.
 
-Against a ranged ninjutsu attack: This can only be used against targeted, damage-dealing ninjutsu aimed at you, or any damage-dealing Fuuton ninjutsu which would hit you. Compare the damage of the two techniques; if the damage of theirs is higher, subtract Rising Phoenix Blast's damage from that technique's damage; that is how much you take. If your technique's damage is higher, it destroys the opponent's technique, protecting you from it, and your enemy must then defend against your Rising Phoenix Blast (which does its full damage normally). Rising Phoenix Blast's damage is raised by 50% if it interrupts (or is interrupted by) a Wind Release technique, and lowered by 50% when interrupting Water Release techniques.
+Against a ranged ninjutsu attack: This can only be used against targeted, damage-dealing ninjutsu aimed at you, or any damage-dealing Fuuton ninjutsu which would hit you. Compare the damage of the two techniques; if the damage of theirs is higher, subtract Rising Phoenix Blast's damage from that technique's damage; that is how much you take. If your technique's damage is higher, it destroys the opponent's technique, protecting you from it, and your enemy must then defend against your Rising Phoenix Blast (which does its full damage normally). Rising Phoenix Blast's damage is raised by 50% if it interrupts (or is interrupted by) a Wind Release technique, and lowered by 50% when interrupting Water Release techniques. If an attacker is beyond the range of this technique, it can still be used to defend against it, but the return attack will automatically miss (due to its lack of range).
 
 #### --( Akuchori Nabe - Devil's Cooking Pot )--
 This technique is known for two things. The first is the distinctive, raspy sound made when the user exhales the dark gray cloud of smoke produced by this technique, rather like a death rattle. The second is being wantonly destructive. Due to the composition of the cloud's chakra, it ignites at the outside first, and implodes upon itself, creating a pyroclastic pressure-cooker effect.
