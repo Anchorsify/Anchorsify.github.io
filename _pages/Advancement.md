@@ -11,7 +11,6 @@ toc:
  - name: Rank Benefits
  - name: Infamy
  - name: Logs
- - name: Talents
 ---
 
 The first question everyone has once they've spent their starting XP is, of course, what about breakfast? Becuase of course they've had one, but what second breakfast? Elevenses? Luncheon? Afternoon tea? Dinner? Supper? 
