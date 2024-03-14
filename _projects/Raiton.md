@@ -103,7 +103,7 @@ With a quick burst of lightning natured chakra, you force it through a metallic 
  - Speed: +4
  - Requires: Melee weapon
 
-Effects: This technique acts as a link to any melee weapon attack, and allows the attack to bypass half the damage reduction of those hit by it, as well as adding one-third your NDB to its damage. This technique can not be used with any sort of weapon created by a ninjutsu element other than Raiton.
+Effects: This technique acts as a link to any melee weapon attack, and allows the attack to bypass half the damage reduction of those hit by it, as well as adding one-third your NDB to its damage.
 
 #### --( Raisen - Lightning Flash )--
 The ranged variant of Kaminari, Raisen charges a metallic thrown weapon with Raiton chakra that crackles and sparks along the edges of the weapon mid-flight, giving it enhanced cutting power and debilitating anyone hit.
