@@ -75,7 +75,7 @@ You spit out a mass of chakra-infused saliva; it's clear, odorless, extremely st
 - Speed: 8
 - Seal Speed: 6
 
-Effects: Your opponent is covered in the flammable saliva. If they are hit by any other Katon technique, the saliva ignites, applying an Ignite 5 effect to the unfortunate victim. The severity of this effect is increased by 2 for each rank the jutsu is above E (7 for a D-rank jutsu, 9 for a C-rank, and so forth).
+Effects: Your opponent is covered in the flammable saliva. If they are hit by any other Katon technique (other than Sticky Fire), the saliva ignites, applying an Ignite 5 effect to the unfortunate victim. The severity of this effect is increased by 2 for each rank the jutsu is above E (7 for a D-rank jutsu, 9 for a C-rank, and so forth).
 
 #### --( Nenshou Yari no Jutsu - Burning Spear Technique )--
 This jutsu creates a polearm out of pure flame, which the user can hold unharmed (and without lighting their clothes on fire). Konoha once tried to have a treaty passed to ban the use of this technique, though nobody else quite understands what all the fuss is about.
