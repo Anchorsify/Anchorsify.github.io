@@ -180,7 +180,7 @@ For combat purposes the swarm is treated as a single entity, its Vitality total 
 The slug swarm may use the Move action as described in the Combat chapter of the PHB without spending any of the summoner's AP.
 
 **Acid Shot** *(Speed 8, Range 15, 10 AP)*  
-The slugs may all together fire their acid at a target. This uses the Technique Acid Shot from the slugs.
+The slugs may all together fire their acid at a target. This uses the Technique Acid Shot from the slugs, which they do not have to roll Chakra Exhaustion for.
 
 ###### 5. Terms of Contract
 Knowingly ordering the slugs to attack civilians constitutes a breach of contract, as does attempting to use them to torture captives.

@@ -420,7 +420,7 @@ A small, typically handheld device that has a needle inside a metal case (with a
  - Cost: 50 Ryo
 
 ##### First Aid Kit
-A collection of bandages, ointments, and antiseptics. First aid kits can be used to stop bleeding from Wounds, as a Speed 10 action per category of wound. They can also cure Burns, with a Speed of 2 per level of severity of the burns. A single first aid kit can do each of those once before being expended.
+A collection of bandages, ointments, and antiseptics. First aid kits can be used to stop bleeding from Wounds, as a Speed 10 action per category of wound. They can also cure the status effects Burns or Bleed, with a Speed of (Status Severity * 2), ending one of those status effects. A single first aid kit can do each of those once before being expended.
 
 Alternately, it can treat a wound (in the sense of, "this wound has penalty X until treated, and then only penalty Y"). This is a Speed 15 action per wound category, and completely consumes the first aid kit.
 

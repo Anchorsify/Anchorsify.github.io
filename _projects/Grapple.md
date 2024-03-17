@@ -122,7 +122,7 @@ You throw an enemy who's grabbing you off, freeing yourself from them and injuri
  - Speed: 4 + X, Delay X
  - Requires: Throw
 
-Effects: This ends a grapple when used, but may only be used by the defender. The attacker is Thrown (as per the D-rank Throw move, including the stun). Counter Throw always deals damage as if it was Speed 10, regardless of the actual speed. When you declare use of Counter Throw, make an opposed Grapple check. The amount you fail by is the "X" in this move's Stamina cost and Speed. If you pass, it's Stamina 8 / Speed 4 / Delay 0.
+Effects: This ends a grapple when used, but may only be used by the defender. The attacker is Thrown (as per the D-rank Throw move, including the stun). Counter Throw always deals damage as if it was Speed 10, regardless of the actual speed. When you declare use of Counter Throw, make an opposed Grapple check. The amount you fail by is the "X" in this move's Stamina cost and Speed. If you pass, it's Stamina 12 / Speed 4 / Delay 0.
 
 #### --( Joint Lock )--
 You grab your opponent in such a way that you can put continual strain on one of their limbs or joints. Though typically non-lethal, an expert grappler can be brutal with these techniques.

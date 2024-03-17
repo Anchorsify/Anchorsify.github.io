@@ -75,7 +75,7 @@ You spit out a mass of chakra-infused saliva; it's clear, odorless, extremely st
 - Speed: 8
 - Seal Speed: 6
 
-Effects: Your opponent is covered in the flammable saliva. If they are hit by a Katon technique, the saliva ignites, applying an Ignite 5 effect to the unfortunate victim. The severity of this effect is increased by 2 for each rank the jutsu is above E (7 for a D-rank jutsu, 9 for a C-rank, and so forth).
+Effects: Your opponent is covered in the flammable saliva. If they are hit by any other Katon technique, the saliva ignites, applying an Ignite 5 effect to the unfortunate victim. The severity of this effect is increased by 2 for each rank the jutsu is above E (7 for a D-rank jutsu, 9 for a C-rank, and so forth).
 
 #### --( Nenshou Yari no Jutsu - Burning Spear Technique )--
 This jutsu creates a polearm out of pure flame, which the user can hold unharmed (and without lighting their clothes on fire). Konoha once tried to have a treaty passed to ban the use of this technique, though nobody else quite understands what all the fuss is about.
@@ -156,6 +156,8 @@ Once you perform the handseals, this jutsu allows you to exhale a slightly trans
 
 Effects: This technique initially does no damage. However, it detonates and does the listed damage using half your NDB, across the listed area, if a damage-dealing Katon jutsu (which isn't itself) contacts its area, or if a person with an Ignite status of 5 or higher is present within it. This explosion cannot be dodged (though the effect which triggered it, if an attack, can still be dodged or otherwise defended against normally). The gas is also particularly thick, and not particularly breathable: Every 10 IC that someone spends in the cloud adds a Suffocation 1 status to them. A person is never considered to be affected by more than one Mist Blaze Dance, even if the areas of the techniques overlap. If hit by the technique which sets of this technique while within its area, you combine the two damage rolls together as a single damage for determining wounds.
 
+If this technique is placed in an area where it immediately detonates on the same IC in which it is used, it can be dodged normally as an Area of Effect attack of its normal size and speed, even if it is detonated immediately by a person with an Ignite status setting it off.  
+
 #### --( Yoen no Jutsu - Ember-Burning Technique )--
 One of the few katon jutsu which lacks offensive applications, this technique's rank comes from the precision necessary to perform it without lighting oneself on fire. It literally burns dirt, grime, sweat, and contaminants from the target's clothes and body (without, notably, causing either to go up in flames themselves). It can also be used to sterilize (or, if necessary, cauterize) wounds by tracing them with one's fingertips.
 
@@ -225,7 +227,10 @@ This technique is known for two things. The first is the distinctive, raspy soun
 - Speed: 12
 - Seal Speed: 28
 
-Effects: Any Katon jutsu of C-rank or higher will be sufficient to ignite the cloud. This increases that technique's damage by 25% and changes it dice from .extra() to .open(), and everyone within the cloud's area must defend against it. If the technique also has an area of effect, add half of the lower AoE (Akuchori Nabe's or that of the technique which detonated it) to the full higher one; this is the area for the new, combined technique.
+Effects: Any other Katon jutsu of C-rank or higher will be sufficient to ignite the cloud. This increases that technique's damage by 25% and changes it dice from .extra() to .open(), and everyone within the cloud's area must defend against it. If the technique also has an area of effect, add half of the lower AoE (Akuchori Nabe's or that of the technique which detonated it) to the full higher one; this is the area for the new, combined technique.
+
+If this technique is placed in an area where it immediately detonates on the same IC in which it is used, it can be dodged normally as an Area of Effect attack of its normal size and speed, even if it is detonated immediately by a person with an Ignite status setting it off.  
+
 
 #### --( Jikoku Kasou no Jutsu - Instant Cremation Technique )--
 Arguably the most stylish jutsu in existence, after performing the requisite handseals the user keeps their hands charged with chakra (though they do not glow, or burn). From that point on, all they have to do is point at a target and focus for a few seconds, and a location will erupt in flames. While this does make it somewhat difficult to evade, there are several telltale signs (aside from the, you know, pointing). The area heats up rapidly, and there's a low, rising hum near the point where the flash of fire is imminent, as the chakra being directed there builds and prepares to ignite.
@@ -289,6 +294,8 @@ The pinnacle of wide-area indiscriminate destruction. The user exhales a cloud o
 - Seal Speed: 22
 
 Effects: Every initiative count in the delay, this technique gains 5% of its damage, radius, and effects. The use of any Katon jutsu of C-rank or above (or the presence of any person suffering from an Ignite status of 10 or greater) in this area will detonate it prematurely. If an effect is used which would disperse the gas cloud (such as the A-rank Fuuton: Kitakaze) during the Delay period, its damage, range, and effects all reset to 0%; and can be built back up by continuing it. You may choose to detonate this when you finish it (in which case you will probably be in the area of effect; however, you take only half damage from your own Ryuujin Bakuha), or not. If not, it'll remain until detonated by the presence of someone with an Ignite 10, or a Katon jutsu of C-rank or above. Ryuujin Bakuha inflicts an Energy wound, and two Blunt wounds of the same severity. If it's used in a confined space (such as indoors, or in a cave) it does an additional 10d20.open(16) damage, and its effects are raised to Burns 20, Ignite 25, and Stun 20. Anyone who succeeds in a status roll when hit by this technique suffers only half the normal status effects.
+
+If this technique is placed in an area where it immediately detonates on the same IC in which it is used, it can be dodged normally as an Area of Effect attack of its normal size and speed, even if it is detonated immediately by a person with an Ignite status setting it off.
 
 #### --( Sunde Bakudan - Living Bomb )--
 A technique invented in the middle of the Third Shinobi World War--and, as the horrors from that era go, it's only slightly atrocious. The user molds a mass of volatile fire-elemental chakra and, rather than forming it into a jutsu, injects it directly into a foe. The chakra will last a few minutes at most, before surging through their chakra coils violently and turning them into the catalyst for a powerful explosion. It saw extensive use for taking out medics who'd rush to the battlefield to retrieve injured comrades, only to be killed or wounded in the ensuing explosion.

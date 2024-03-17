@@ -56,8 +56,7 @@ The shinobi of the world recognize five primary elements of chakra: fire, water,
 
 ##### 2. Shape Control
 #### -=[ Homing ]=-
--=[ Homing ]=-
-With precise chakra control, you can learn to curve and aim your ninjutsu in such a way to ensure they hit more effectively. You may give your damage dealing ninjutsu a bonus of +1 Accuracy per rank, by increasing the Chakra and/or Stamina cost(s) of the ninjutsu by 2 per +1 added. Ninjutsu with a range of Touch, and those which have an Area (e.g., are Area of Effect), can not have this ability applied to them.
+With precise chakra control, you can learn to curve and aim your ninjutsu in such a way to ensure they hit more effectively. You may give your damage dealing attack ninjutsu a bonus of +1 Accuracy per rank, by increasing the Chakra and/or Stamina cost(s) of the ninjutsu by 2 per +1 added. Ninjutsu with a range of Touch, and those which have an Area (e.g., are Area of Effect), can not have this ability applied to them, nor may Ninjutsu which are interrupts that turn into attacks (such as Sickle Wind, or Rising Phoenix Blast).
 
 - Base Cost: 8
 - Scale: 4
@@ -350,7 +349,7 @@ Once you get into a good rhythm, you find it easier and easier to maintain and k
 - Requires: +6 or higher bonus to Stamina rolls, without Fatigue bonuses
 
 #### -=[ Endurance ]=-
-Your extensive physical conditioning has given you an almost preternatural ability to shrug off damage. When you block, you may choose to reduce the damage dealt by an additional 10% at the first rank, or an additional 25% at the second rank. This may only be done once every 30-(RES/10) IC.
+Your extensive physical conditioning has given you an almost preternatural ability to shrug off damage. When you declare that your defensive interrupt is to Block, you may declare it as an Endurance Block,reducing the damage dealt by an additional 10% at the first rank, or an additional 25% at the second rank. This may only be done once every 30-(RES/10) IC.
 
 - Base Cost: 25
 - Scale: 10

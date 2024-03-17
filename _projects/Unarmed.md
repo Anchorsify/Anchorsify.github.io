@@ -68,7 +68,7 @@ With alarming quickness you drop low to the ground and perform a full 360-degree
  - Speed: 6
  - Special: Interrupt, Opener
 
-Effects: This may be used immediately after you have successfully dodged a melee-range attack. Reppuu is an attack against whoever's action you dodged, and uses your dodge roll as its Accuracy. Alternately, you may use Reppuu as a normal attack, using your regular Accuracy (rather than a dodge roll). When used as an Interrupt following a dodge, Reppuu can not have Links added onto it, but as its own attack, Reppuu can have links applied as normal.
+Effects: This may be used immediately after you have successfully dodged a melee-range attack. Reppuu is an attack against whoever's action you dodged (which can be used regardless of the speed of their attack), and uses your dodge roll as its Accuracy. Alternately, you may use Reppuu as a normal attack, using your regular Accuracy (rather than a dodge roll). When used as an Interrupt following a dodge, Reppuu can not have Links added onto it, but as its own attack, Reppuu can have links applied as normal.
 
 When used as an opener to a combo, any time a non-interrupt combo attack fails to hit your opponent you may choose to perform it again as an interrupt. If this missed attack is a finisher, you may perform the finisher again as an interrupt using the CC of the first, despite the fact that your combo has been broken.
 

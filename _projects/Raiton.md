@@ -15,13 +15,23 @@ toc:
 ---
 ## E-Rank
 #### --( Rashinban no Jutsu - Compass Technique )--
-It's about what it sounds like. The user channels lightning elemental chakra into a needle, or kunai, or similar-sized and -shaped object, which will then, when laid flat (sometimes requiring a few taps to help it along) point towards magnetic north.
+It's about what it sounds like. The user channels lightning elemental chakra into a needle, or kunai, or similar-sized and -shaped object, which will then, when laid flat (sometimes requiring a few taps to help it along) point towards magnetic north.  A particularly clever Kairaishi developed an additional usage for this technique, which involves attaching wire to a Kunai that is then loosely attached to themselves to disperse a mild amount of Raiton chakra through an area.  It isn't enough to harm, but it can be used as an effective alert system when in unsafe territory.
+
 
  - Chakra: 5
  - Speed: 4
  - Seal Speed: 12
 
 Effects: Allows a single kunai or senbon to be used as a compass for 6 hours or until used in an attack. It's not quite perfect, but it's good enough for most uses.
+
+Alternatively, the user can attach wire to themselves (typically a wrist or ankle, but any direct contact can do) and to a Kunai (and only Kunai, for this purpose), and then use this technique to charge the Kunai and either throw it, or stick it in the ground at their feet.  Once placed, it 'charges' an Area 10 space around itself with a faint hum of buzzing chakra.  It is not enough to be visible or noticeable to most (though most non-aggressive animals will instinctively avoid the area, and thus not trigger it), though it is easily detected by Chakra Sensors and Doujutsu capable of seeing chakra who view it (and those who know the technique can immediately recognize it for what it is). 
+
+Any person leaving, or entering, the area charged once it has been set causes the Raiton chakra to feedback to anyone who is attached to the Kunai through wire, immediately waking them up and alerting them to the fact that someone tripped this technique's effect, as well as ending this technique. Likewise, someone severing the wire connection (such as through a Kunai being thrown from outside the area) also causes it to trigger.
+
+Usage of this technique in combat will alert the user whether someone enters and leaves the area it's placed at, but will not reveal someone's location who is in stealth, or even pinpoint the direction in which they crossed the barrier: It is too simplistic for that.
+
+Once placed, the effect can last up to eight hours.
+
 
 #### --( Shougeki Heki - Shocking Burst )--
 Holding a hand out there is a pulse of electricity. This isn't nearly enough to kill anyone, but it definitely hurts.

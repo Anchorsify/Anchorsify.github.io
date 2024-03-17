@@ -67,7 +67,7 @@ Extra earth-elemental chakra is infused another Doton technique. When the techni
 
 Effects: This technique is used in combination with a non-projectile damage-dealing Doton jutsu, increasing its Seal Speed and Chakra cost accordingly. This technique has a area of 3 yards, +3 yards per rank above E. Notably, anyone who is actually airborne ("jumping as they dodge" doesn't count) is unaffected. Anyone hit within this area makes a status roll to avoid taking a Stun 3, +1 per rank the jutsu Shindou was used with is above E; if the technique Shindou was used with already inflicts a Stun, that Stun is increased by the jutsu's rank (instead of Shindou's normal effect) with E being 1, D being 2, etc, and only requires a status roll if the jutsu it's used with asks for one. Anyone not targeted by the original attack must dodge Shindou, in which case the original technique's Accuracy bonuses or penalties are ignored, and they do make a status roll.
 
-This can be used on its own as Chakra 8, Speed 6, and Seal Speed 6. In this case it's Area 10, Stun 5, centered on (but not affecting) yourself, and in such case can be dodged or otherwise defended against as normal, in addition to the normal status roll for its Stun.
+This can also be used on its own as Chakra 11, Speed 8, and Seal Speed 4. In this case it's Area 10, Stun 5, centered on (but not affecting) yourself, and in such case can be dodged or otherwise defended against as normal, in addition to the normal status roll for its Stun.
 
 ## D-Rank
 #### --( Doki Kantsuu no Jutsu - Earthen Skewer Technique )--

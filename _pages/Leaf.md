@@ -215,7 +215,7 @@ The Akimichi’s signature jutsu, this increases the user’s height and weight 
  - Upkeep: X
  - Speed: 8
 
-Effects: X has a maximum of 5. You gain +Xd* to all Taijutsu, increase (not decrease) the base Speed of all your Taijutsu attacks by X/2 (round down), add (or increase the existing) Area X/2 to all Taijutsu (round down), gain (STR/10)*X DR, and reduce any and all Knockbacks you suffer by X. Unfortunately, you also gain a -X to all Dodges while in this form, though if you choose to utilize the Take the Hit action, the penalty to Dodge is instead changed to a bonus, and you are allowed to automatically block whenever you successfully Take the Hit.
+Effects: X has a maximum of 5. You gain +Xd* to all Taijutsu, increase (not decrease) the base Speed of all your Taijutsu attacks by X/2 (round down), add (or increase the existing) Area X/2 to all melee Taijutsu (round down), gain (STR/10)*X DR, and reduce all Knockbacks you suffer by X. Unfortunately, you also gain a -X to all Dodges while in this form, though if you choose to utilize the Take the Hit action, the penalty to Dodge is instead changed to a bonus, and you are allowed to automatically block whenever you successfully Take the Hit.
 
 You can opt to change the value of X as a Speed Y, CP Y action while you maintain this jutsu, with Y being the difference between its current value and the value you’re changing it to: going from X = 4 to X = 1 would be Speed 3 action that costs 3 CP.
 
@@ -812,6 +812,8 @@ Once per Fatigue level, you may declare use of this technique. It allows you to 
 
 You may also declare your action as ‘Observe’, a variable-speed action similar to blocking, in that for its duration, when attacked you may choose to activate Yogengan against any attack directed against you (and not have it count as your one use for that Fatigue level).
 
+Notably, this does not work with spending Willpower, which overrides (and does not combine with) this effect.
+
 #### --( Shouningan - Eye of Recognition )--
 *Requires: Stage 2 Sharingan*
 
@@ -823,7 +825,8 @@ You can also copy a person's handwriting just by seeing them write a single sent
 A form of illusion reversal, in which a Sharingan user simultaneously sees through and decrypts a Genjutsu technique, and then instantly reflects it upon its original user. Some Uchiha will go so far as to claim that this technique makes them immune to Genjutsu, and they’re… not too far from the truth.
 
 - Type: Genjutsu
-- Speed: 6 + Special
+- Chakra: Special
+- Speed: 6 + X
 - Special: Interrupt
 - Requires: Stage 3 Sharingan
 

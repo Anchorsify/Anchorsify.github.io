@@ -183,6 +183,8 @@ Resistance: +25
 Stealth: +5  
 Survival: +25  
 
+Chakra Exhaustion: +15
+
 **Bestial**  
 The Kyodaigumo isn't driven by higher desires, and as a result cannot be negotiated or reasoned with and has a +15 defensive bonus to Genjutsu rolls. They are, however, fairly intelligent.
 

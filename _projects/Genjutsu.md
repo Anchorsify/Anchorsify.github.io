@@ -35,7 +35,7 @@ Despite its name, this technique isn't limited to voices, or even auditory hallu
 Effects: This technique inflicts a -2 penalty to Awareness rolls. It also halves the bonus for consecutive actions spent searching (so if you Searched three consecutive times with Genkoe applied to you, you'd have a +3, rather than +6, bonus on your next roll)
 
 #### --( Mousou Enmu no Jutsu - Illusory Mist Technique )--
-Masquerading as a higher-ranked Suiton technique, this creates a light bank of fog which has little effect beyond making the atmosphere a bit chillier. An illusion is then laid on all those present (the user may exclude allies if they wish), tricking them into believing the mist is actually thick enough to be a hindrance.
+Masquerading as a higher-ranked Suiton technique, this creates a light bank of fog which has little effect beyond making the atmosphere a bit chillier. An illusion is then laid on all those present, tricking them into believing the mist is actually thick enough to be a hindrance.
 
 - Chakra: 12
 - Upkeep: 3
@@ -43,7 +43,7 @@ Masquerading as a higher-ranked Suiton technique, this creates a light bank of f
 - Speed: 8
 - Seal Speed: 7
 
-Effects: Anyone within the area defends against this technique, and on a failure takes a -4 Visibility Penalty. More insidiously, so long as they remain within the mist they have a -2 penalty to all their defensive genjutsu rolls. People who pass their genjutsu roll still see the mist, but for what it really is: too thin and wispy to actually be an impediment, taking none of the effects.
+Effects: Anyone within the area defends against this technique (the user may exclude allies if they wish), and on a failure takes a -4 Visibility Penalty. More insidiously, so long as they remain within the mist they have a -2 penalty to all their defensive genjutsu rolls. People who pass their genjutsu roll still see the mist, but for what it really is: too thin and wispy to actually be an impediment, taking none of the effects.  The mist cloud moves with its user.
 
 ## D-Rank
 #### --( Kasumi Juusha no Jutsu - Mist Servant Technique )--
