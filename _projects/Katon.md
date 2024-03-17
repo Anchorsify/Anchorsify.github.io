@@ -229,7 +229,7 @@ This technique is known for two things. The first is the distinctive, raspy soun
 
 Effects: Any other Katon jutsu of C-rank or higher will be sufficient to ignite the cloud. This increases that technique's damage by 25% and changes it dice from .extra() to .open(), and everyone within the cloud's area must defend against it. If the technique also has an area of effect, add half of the lower AoE (Akuchori Nabe's or that of the technique which detonated it) to the full higher one; this is the area for the new, combined technique.
 
-If this technique is placed in an area where it immediately detonates on the same IC in which it is used, it can be dodged normally as an Area of Effect attack of its normal size and speed, even if it is detonated immediately by a person with an Ignite status setting it off.  
+If this technique is placed in an area where it immediately detonates on the same IC in which it is used, it can be dodged normally as an Area of Effect attack of its normal size and speed.
 
 
 #### --( Jikoku Kasou no Jutsu - Instant Cremation Technique )--
