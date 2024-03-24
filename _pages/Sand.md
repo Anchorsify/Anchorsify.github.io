@@ -450,12 +450,12 @@ All values of X are based on your current Charge status:
 The last benefit can be confusing!  So, for example, as long as your Charge was 4 or more, your Jiton Wind Cutter would have all of its damage dice rerolled once if they came up as a 1.  This can be done automatically if using the Dice Golem bot by adding ‘ro1’ to the damage dice calculation, meaning Wind Cutter would be typed as the following: (2d4ro1*5+NDB*Speed).  Higher Charge levels than 4 would never increase Wind Cutter’s ability to reroll its dice above 1, because it is capped at (die size/4), rounding down, thus, 4/4 = 1.
 
 Here’s a handy chart for those that need it:
-| Dmg Die Size	| Reroll Maximum | Charge Needed for max Reroll value |
-| -------------:|:--------------:|:----------------------------------:|
-| d4, d6		| ro1			 | 4                                  |
-| d8, d10		| ro2			 | 8                                  |
-| d12 			| ro3			 | 12                                 |
-| d20			| ro5		     | 20                                 |
+| Damage Dice size | Reroll Max Size | Charge Needed for max Reroll Size |
+|------------------|-----------------|-----------------------------------|
+| d4, d6           | ro1             | 4                                 |
+| d8, d10          | ro2             | 8                                 |
+| d12              | ro3             | 12                                |
+| d20              | ro5             | 20                                |
 
 #### --( Purification )--
 So long as a Monkasei has access to some sort of solid ground (i.e., is not floating in the middle of the ocean), and has a few handfuls of their choice of metal shavings, a Monkasei can apply pressure to rock, soil, wood, or similar surfaces and materials to, essentially, pulverize them into miniscule splinters and shavings to be made use of.  Most Monkasei prefer to carry around materials already infused with their choice of metal to avoid this process (and to avoid showing its usage off to anyone), but in times of need, Monkasei can gather up more material to make use of their kekkai genkai.  If you ever have to ask whether you can bore through a material with this jutsu, assume the answer is ‘No’.
