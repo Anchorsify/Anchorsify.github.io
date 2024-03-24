@@ -349,7 +349,7 @@ These pills contain a peculiar mix of chemicals that, when consumed by someone c
  - Cost: 250 Ryo
 
 ##### Caltrops
-Small bits of metal that are basically just four short spikes attached at a center; no matter how they land, there'll always be a metal spike pointing upwards. The typical use is to scatter them across the ground to impede movement through an area. As a Speed 10 action you can cover an area with a 5 yard radius in caltrops. Anyone moving through the area going at more than half their maximum movement speed takes 1d4 damage for every IC they spend moving through the area; this cannot inflict wounds.
+Small bits of metal that are basically just four short spikes attached at a center; no matter how they land, there'll always be a metal spike pointing upwards. The typical use is to scatter them across the ground to impede movement through an area. As a Speed 10 action you can throw them up to STR/6 yards to cover an Area 5 in caltrops. Anyone moving through the area going at more than half their maximum movement speed takes 1d4 damage for every IC they spend moving through the area; this damage has Damage Bonus component, and cannot inflict wounds.  Caltrops are considered to have the 'Environmental' tag when placed.
 
  - Cost: 20 Ryo for enough caltrops to cover one 5 yard area
 
@@ -371,7 +371,6 @@ A large gourd or other sort of container, several feet long and usually worn on 
 ##### Flash Bomb
 Flash bombs are devices which, when ignited, produce brilliant flashes of light. Anyone within Area 10 of the location they're thrown at suffers a -4 Visibility penalty for the next 10 IC.  It is a Speed 4 action to throw one, and you can throw them up to STR/5 yards.
 
-
 You may also drop a flash bomb when dodging, in which case your dodge's Speed is increased by 4, and it is dropped at your feet, affecting everyone within Area 10 of you except yourself.
   -  Cost: 50 Ryo
 
@@ -390,12 +389,12 @@ You can also attempt to snap the ropes using brute force. This calls for a roll 
  - Cost: 10 Ryo per 5 yards.
 
 ##### Smoke Bomb
-Paper balls small enough to be easily held in one hand, when thrown at the ground they burst and release wide clouds of smoke. Smoke bombs have a range of STR/5 yards, and can be thrown as a Speed 4 action. When thrown, it releases a cloud of thick smoke that causes a -6 visibility penalty to all people within its 10 yard radius, for 20 IC.
+Paper balls small enough to be easily held in one hand, when thrown at the ground they burst and release wide clouds of smoke. Smoke bombs have a range of STR/5 yards, and can be thrown as a Speed 4 action. When thrown, it releases a cloud of thick smoke that causes a -6 visibility penalty to all people within its 10 yard radius, for 20 IC.  These clouds of smoke have the 'Environmental' tag.
 
  - Cost: 50 Ryo
 
 ##### Poison Smoke Bomb
-Sturdier than regular smoke bombs, and much more dangerous, these are filled with some manner of poisonous vapor. They're used like regular smoke bombs, but have a 10 yard radius, a -4 visibility penalty, and persist for 25 IC. When you buy a poison smoke bomb, select a poison (from the Poisons section) which has Inhalation as one of its possible vectors of delivery. When you throw the smoke bomb, make a Toxicology roll. Anyone who passes through the area must make a Resistance roll against that Toxicology result, or be poisoned. The cost of the poison smoke bomb is 100 Ryo, plus the base cost (unreduced by buying multiples) for one dose of the chosen poison.
+Sturdier than regular smoke bombs, and much more dangerous, these are filled with some manner of poisonous vapor. They're used like regular smoke bombs, but have a 10 yard radius, a -4 visibility penalty, and persist for 25 IC. When you buy a poison smoke bomb, select a poison (from the Poisons section) which has Inhalation as one of its possible vectors of delivery. When you throw the smoke bomb, make a Toxicology roll. Anyone who passes through the area must make a Resistance roll against that Toxicology result, or be poisoned. The cost of the poison smoke bomb is 100 Ryo, plus the base cost (unreduced by buying multiples) for one dose of the chosen poison.  Like with Smoke Bombs, they have the 'Environmental' tag.
 
  - Cost: 100 Ryo + cost of poison
 
@@ -784,6 +783,8 @@ Once someone's a chuunin, they have enough pull to get these: smoke bombs design
  - Duration: 5 IC (+1), 10 IC (+2), 15 IC (+3), or 20 IC (+5)
  - Radius: 5 yards (+1), 10 yards (+2), or 25 yards (+3)
  - Range: STR/5 yards (+0), STR/4 yards (+1), or STR/3 yards (+2)
+
+These are considered to have the 'Environmental' tag.
 
 ##### Exploding Tag, Type 2
 - Cost: 250 Ryo

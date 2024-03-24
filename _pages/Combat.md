@@ -212,27 +212,27 @@ Which means this type of bonus **does not** apply to Accuracy (whether rolled, o
 ## Basic Actions
 These are actions that anyone can do in combat, and the rules associated with them.
 
-**Basic Unarmed** ***(Speed 8, Stamina 5)***
-<br>The simplest form of attack, this is a catch-all for punches, kicks, and any other attack which uses your body to cause harm to your opponent. This deals 2d4 base damage.
+**Basic Unarmed** ***(Speed 8, Stamina 5)***  
+The simplest form of attack, this is a catch-all for punches, kicks, and any other attack which uses your body to cause harm to your opponent. This deals 2d4 base damage.
 
-**Basic (Weapon)** ***(Speed Varies, Stamina Varies)***
-<br>This is any ordinary attack with a weapon, from throwing shuriken to swinging oversized swords.  The base damage, speed, and stamina cost of using a weapon is listed in its entry, and they can all be found in the Equipment section.
+**Basic (Weapon)** ***(Speed Varies, Stamina Varies)***  
+This is any ordinary attack with a weapon, from throwing shuriken to swinging oversized swords.  The base damage, speed, and stamina cost of using a weapon is listed in its entry, and they can all be found in the Equipment section.
 
-**Block** ***(Variable Speed Action)***
-<br>As an action, you may declare that you are blocking, and state a Speed for the action. Until your next action, you may use the Block defense (see 'Defending' below) against any incoming attacks.  Blocking reduces the damage of unarmed and ninjutsu attacks by 50%. However, weapon damage is only reduced by 25%; while it's all well and good to keep a punch away from your vitals, a sword cut is nasty business no matter where it lands.
+**Block** ***(Variable Speed Action)***  
+As an action, you may declare that you are blocking, and state a Speed for the action. Until your next action, you may use the Block defense (see 'Defending' below) against any incoming attacks.  Blocking reduces the damage of unarmed and ninjutsu attacks by 50%. However, weapon damage is only reduced by 25%; while it's all well and good to keep a punch away from your vitals, a sword cut is nasty business no matter where it lands.
 
-**Dodge** ***(Speed 2, Interrupt)***
-<br>The best defense against any attack is simply not being hit. When you dodge an attack you roll 1d20+(AGI)/10, plus any other bonuses to dodge you may have, such as from abilities or uniques, against the attack's Accuracy. Success means you completely avoid the attack and its effects.
+**Dodge** ***(Speed 2, Interrupt)***  
+The best defense against any attack is simply not being hit. When you dodge an attack you roll 1d20+(AGI)/10, plus any other bonuses to dodge you may have, such as from abilities or uniques, against the attack's Accuracy. Success means you completely avoid the attack and its effects.
 
-**Move** ***(Variable Speed Action, Abort)***
-<br>For the most part, ninja can move faster than ordinary people. When you actually devote time to moving in battle, you travel (AGI)*(number of IC spent moving)/50 yards.
+**Move** ***(Variable Speed Action, Abort)***  
+For the most part, ninja can move faster than ordinary people. When you actually devote time to moving in battle, you travel (AGI)*(number of IC spent moving)/50 yards.
 
 Sometimes you may need to close the distance and attack an opponent all at once. When attacking, you may move towards your opponent a distance corresponding to half your attack's Speed, for free. Thus, if you needed to rush an enemy and throw a punch at them, and had 25 AGI, as a Speed 8 action you could move up to (25*(8/2)/50) = 2 yards and then use a basic unarmed attack.
 
 Movement is unique, in that you cannot use Action Points to reduce its Speed. Your distance traveled is determined by the actual number of IC spent on movement.
 
-**Multi-Throw** ***(Speed Varies, Stamina Varies)***
-<br>Anyone familiar with fictionalized depictions of ninja has no doubt seen them flinging a handful of shuriken with pinpoint aim. As this game is about fictional ninjas, it stands to reason that they can do this! The term, appropriately enough, is "Multi-Throwing".
+**Multi-Throw** ***(Speed Varies, Stamina Varies)***  
+Anyone familiar with fictionalized depictions of ninja has no doubt seen them flinging a handful of shuriken with pinpoint aim. As this game is about fictional ninjas, it stands to reason that they can do this! The term, appropriately enough, is "Multi-Throwing".
 
 It helps to first be familiar with the two weapons you'll be throwing the most: They are the shuriken (weighing in at 1d6 base damage) and the kunai (beating it out with 2d6). While you could certainly throw a single shuriken or kunai (that would be a basic weapon attack), a real ninja would throw a bunch at once. By default, you may only throw one type of weapon at once; you could throw 6 shuriken, but not 4 shuriken and 2 kunai in the same action. After choosing your weapon, you decide how many you want to throw.
 
@@ -252,14 +252,13 @@ If you take damage while forming handseals (between the declaration of your Perf
 
 This should be obvious, but since it needs to be said, unless you can do Handseals one handed (i.e., unless you have Single-Handed Seals, the unique), while Performing Handseals, your hands are not free to do other things (such as parry, or grab someone, or draw a weapon).  Nor are they free to do a separate Perform Handseals action (even at SS 0) for a defensive interrupt.
 
-**Rest** ***(Speed 10)***
-<br>Resting is pausing to cool down and gather your breath. Since it doesn't directly lead to incapacitating your enemy, most ninja prefer to do this out of battle; however, sometimes pacing yourself is the only way to achieve victory. Every Rest action you take reduces your Stamina penalty (see the 'Fatigue' portion of this chapter) by 1, to a minimum of 0. You cannot use AP to reduce the speed of your Rest action; 'resting as fast as you can' is, after all, something of an oxymoron.
+**Rest** ***(Speed 10)***  
+Resting is pausing to cool down and gather your breath. Since it doesn't directly lead to incapacitating your enemy, most ninja prefer to do this out of battle; however, sometimes pacing yourself is the only way to achieve victory. Every Rest action you take reduces your Stamina penalty (see the 'Fatigue' portion of this chapter) by 1, to a minimum of 0. You cannot use AP to reduce the speed of your Rest action; 'resting as fast as you can' is, after all, something of an oxymoron.
 
-**Take the Hit** ***(Speed 6, Interrupt)***
-<br>Taking the hit is the glorious move the stronger person or sensei uses to protect their weaker ally! You make a Dodge roll with a +5 bonus; if successful, you've leapt in the way of an attack aimed at your ally. If you fail, your ally takes 20% of the damage per point you failed by. (For example: If you fail by 2 points, you'd take 60% damage, and your ally 40% damage). If you were Blocking as a Variable Speed Action when you used this, you may block as long as you were successful by 1 point or more. You may also use interrupts to defend yourself, up to a maximum Speed of how many points your Take The Hit roll beat the opponent's accuracy; you can't dodge, but you could parry, or use a ninjutsu-based defense that raises a protective wall.
+**Take the Hit** ***(Speed 6, Interrupt)***  
+Taking the hit is the glorious move the stronger person or sensei uses to protect their weaker ally! You make a Dodge roll with a +5 bonus; if successful, you've leapt in the way of an attack aimed at your ally. If you fail, your ally takes 20% of the damage per point you failed by. (For example: If you fail by 2 points, you'd take 60% damage, and your ally 40% damage). If you were Blocking as a Variable Speed Action when you used this, you may block as long as you were successful by 1 point or more. You may also use interrupts to defend yourself, up to a maximum Speed of how many points your Take The Hit roll beat the opponent's accuracy; you can't dodge, but you could parry, or use a ninjutsu-based defense that raises a protective wall.
 
 You can not ordinarily Take the Hit against area of effect attacks, but for those willing to protect their allies at any cost, see the Defensive Formation ability.
-
 
 
 ## Stealth
@@ -403,7 +402,6 @@ Shock does apply to Interrupt actions, but at only half its severity, rounded do
 
 Shock effects do not combine, and no action can have its speed more than doubled regardless of your Shock severity. If you are afflicted with two Shock effects at once, the more potent one overwrites the less severe one. If they both have the same severity, the one with the longer duration overwrites the other.
 
-
 ### Sleep
 People sleep, generally because it's a necessary bodily function, but sometimes because they've been influenced by mind-affecting genjutsu. In reality, sleeping people are pretty much helpless. However, ninja develop a sixth sense that warns them of impending danger and functions even when not awake.
 
@@ -414,7 +412,7 @@ Actions which stun you delay your actions by the magnitude of the stun. For exam
 
 If an effect says that it increases stun, it means that it increase the stun status that the jutsu, weapon or attack would inflict, not that it modifies stuns that a person is suffering from. If an effect says that it extends an existing stun, it means that if a character has a stun effect, that effect is lengthened (and the character is stunned for longer).
 
-Stun ends when get your next action; if the Stun is removed by some means prior to your next action, the effect the Stun has on your IC is removed, though this cannot bring your next action back to earlier than the current IC.  Variable Speed Actions being perform when affected by a Stun (of any severity) are forcibly Aborted.
+Stun ends when get your next action; if the Stun is removed by some means prior to your next action, the effect the Stun has on your IC is removed, though this cannot bring your next action back to earlier than the current IC.  Variable Speed Actions being performed when affected by a Stun (of any severity) are forcibly Aborted.
 
 ### Suffocation
 Someone or something is hindering your ability to breathe. Suffocation penalties stack, from different sources or multiple ones. Your suffocation penalty is applied to any Stamina and Chakra Exhaustion rolls you make, and every time its value increases you have to make a Stamina 15 roll. Unlike normal Fatigue-related penalties, suffocation is not reset to 0 when your Fatigue advances. When you stop being suffocated, your suffocation penalty is reduced by 1 every 5 initiative counts.

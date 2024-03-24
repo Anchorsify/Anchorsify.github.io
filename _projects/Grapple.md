@@ -60,7 +60,7 @@ You use your head to hit someone else's head. Really, honestly, it's a highly te
  - Speed: 7
  - Special: Grapple-only
 
-Effects: This attack may be used by either the attacker or the defender in the grapple, but only against the other person. It automatically hits. If it causes a wound, that wound is automatically a head wound. Although the attacker does not take damage from doing this, if the damage they do would have caused them to be wounded, they will suffer that wound. For example, if you have 500 Vitality and Headbutt someone for 60 damage, you would take 0 damage and suffer a minor wound (for taking more than 10% of your Vitality in one hit).
+Effects: This attack may be used by either the attacker or the defender in the grapple, but only against the other person, and can be used regardless of whether your hands are free. It automatically hits. If it causes a wound, that wound is automatically a head wound. Although the attacker does not take damage from doing this, if the damage they do would have caused them to be wounded, they will suffer that wound. For example, if you have 500 Vitality and Headbutt someone for 60 damage, you would take 0 damage and suffer a minor wound (for taking more than 10% of your Vitality in one hit).
 
 ## D-Rank
 #### --( Throw )--

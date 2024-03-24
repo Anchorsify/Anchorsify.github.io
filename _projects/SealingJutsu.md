@@ -172,12 +172,14 @@ You may, when applying this seal, also specify one exception to its restrictions
 #### --( Moji Hyouki no Jutsu - Rune Inscribing Technique )--
 A tricky seal, this allows the user to mold the chakra necessary for any ninjutsu technique they know and then 'freeze' it, holding it primed but inactive inside of a seal. Once a trigger condition occurs, the jutsu is released. Use of this technique to prepare explosive Katon techniques and leaving them around as a practical joke is strongly discouraged.
 
-- Chakra: 20 + X/2
+- Chakra: 20 + X
 - Speed: 20 + X
 - Seal Speed: 20 + X
 - Special: Exclusive
 
-Effects>: When you use Moji Hyouki, select another ninjutsu which you are able to perform, specifying all its variable parameters at that time. The "X" for Moji Hyouki refers to the ninjutsu you choose. Moji Hyouki can be placed on any reasonably flat, solid surface that's at least one foot across in each direction, such as a floor or a box. Once applied, the seal will either vanish (making a potentially effective trap) or remain visible as an elaborate set of seals that can be identified by anyone familiar with the technique (as a warning of sorts). Even if Moji Hyouki is identified, the technique placed in it will not be. When the seal is placed, an activation condition is specified. The three possible activation conditions are:
+Effects>: When you use Moji Hyouki, select another ninjutsu which you are able to perform, specifying all its variable parameters at that time. The "X" for Moji Hyouki refers to the ninjutsu you choose, which can not have a cost other than Chakra Exhaustion (such as Willpower, or Stamina).
+
+Moji Hyouki can be placed on any reasonably flat, solid surface that's at least one foot across in each direction, such as a floor or a box. Once applied, the seal will either vanish (making a potentially effective trap) or remain visible as an elaborate set of seals that can be identified by anyone familiar with the technique (as a warning of sorts). Even if Moji Hyouki is identified, the technique placed in it will not be. When the seal is placed, an activation condition is specified. The three possible activation conditions are:
 
  - Someone comes within five feet of the seal.
  - Someone touches the seal.
@@ -201,7 +203,7 @@ Effects: When used, declare another technique which you know, pay its cost, and 
 
 Possible conditions include "when you see the daimyo" and "when you hear the word 'orange' ". A target can be specified within reason (such as "the daimyo", or "whoever said that word").
 
- The technique stored inside a Transciption Seal may not be a Taijutsu, nor may it have a Stamina cost. If it is a Genjutsu or Sealing technique, it can apply to the person the Transcription Seal was placed on or the person who triggered the seal, as you prefer. If the technique in question has an Upkeep, the person the Seal was placed on immediately takes on the Upkeep, and can accordingly dismiss it at any time. A person may only have one Transcription Seal on them at a time. This seal is invisible and undetectable except for by a Fuuinjutsu expert who knows to look for it.
+ The technique stored inside a Transciption Seal may not be a Taijutsu, nor may it have a cost of any kind other than Chakra Exhaustion (such as Willpower, or Stamina). If it is a Genjutsu or Sealing technique, it can apply to the person the Transcription Seal was placed on or the person who triggered the seal, as you prefer. If the technique in question has an Upkeep, the person the Seal was placed on immediately takes on the Upkeep, and can accordingly dismiss it at any time. A person may only have one Transcription Seal on them at a time. This seal is invisible and undetectable except for by a Fuuinjutsu expert who knows to look for it.
 
 #### --( Gogyou Fuuin - Five Elements Seal )--
 This jutsu produces a powerful seal that disrupts the flow of chakra in the target. In most cases this is crippling.

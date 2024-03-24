@@ -58,10 +58,10 @@ This will serve as a basis for update logs in the future with an easy to fill ou
  - 
  - 
 
-## Experience
+## Advancement
  - 
  - 
 
-## Summon Contracts
+## Talents
  - 
  - 

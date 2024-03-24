@@ -417,55 +417,73 @@ On the other hand, that may simply be a result of the passage of time. He may we
 
 **Monkasei begin with 1 less Unique Point.**
 
-Monkasei begin with Elemental Aptitude for Doton and Raiton ninjutsu, along with the first rank of Elemental Affinity: Jiton, which includes Doton and Raiton.
+Monkasei begin with Elemental Aptitude for Doton and Fuuton ninjutsu, along with the first rank of Elemental Affinity: Jiton, which includes Doton and Fuuton.
 
 #### -=[ Jiton - Magnetism Release ]=-
-Though commonly referred to as ‘magnetic’ Chakra, in actuality it is a little more nuanced: Jiton can react with even non-ferrous metals, and Monkasei are rarely so overt as to carry around dozens of pounds of iron to make use of their Kekkei Genkai.  Rather, they tend to exert control over another substance--almost always Sand, though that might just be a matter of convenience, as it’s light-weight and there’s an infinite supply in their homeland--which is infused with a metal in some form or fashion to thereby control it.  Previous Kazekages were known for their Iron Sand and Gold Dust usage, but every Monkasei has their own preferences as to how they utilize their talent, and it’s not known whether the choice is simply a matter of preference, or if different Monkasei can control different metals better than others.
+Though commonly referred to as ‘magnetic’ Chakra, in actuality it is a little more nuanced: Jiton can react with even non-ferrous metals, and Monkasei are never so obvious as to carry around dozens of pounds of iron to make use of their Kekkei Genkai.  Rather, they tend to exert control over another substance--almost always Sand, though that might just be a matter of convenience, as it’s light-weight and there’s an infinite supply in their homeland--which is infused with a metal in some form or fashion to thereby control it.  Previous Kazekages were known for their Iron Sand and Gold Dust usage, but every Monkasei has their own preferences as to how they utilize their talent, and it’s not known whether the choice is simply a matter of preference, or if different Monkasei can control different metals better than others.
+
+Note that while you are manipulating *some* amount of metal, Jiton-converted techniques are ‘Sand’ techniques, not ‘Metal’:  a Jiton Tremorsense would let you do so on Sand, not on Metal.  Likewise, Jiton Earth Shaping would let you shape magnificent sand castles, not manipulate metal walls or objects.
 
 
-Any Raiton or Doton technique can be converted to Jiton as a Chakra +5, Speed +0 link, with the following changes: 
- - Grant 1 Charge, a stacking self-status effect which lasts for (20+Rank*5) IC.
- - They gain a ‘Sand’ cost in Gallons, according to the Rank of the jutsu: 2 for E, 4 for D, 8 for C, 16 for B, 32 for A.
- - Any technique with an Upkeep requires an amount of Gallons of Sand equal to its Upkeep to maintain (i.e, Doton: Domu requires 10 Gallons of Sand that become unusable until you end its Upkeep), replacing the rank-based requirement if it is higher.  Similarly, the Charge these techniques grant does not fade until the Upkeep is dismissed (allowing Doton: Domu to grant 1 Charge until you end its Upkeep).
- - Have their base Speed increased by 1 per Rank (E = +1, D = +2, etc, up to A = +5).  Thus, a Jiton Retsudotensho would be treated as a Speed 23 action for all purposes (including its minimum Speed after reductions), rather than 20.
- - Do not inflict Paralyze, and instead grant the Monkasei an additional Charge.
- - Do not inflict Stun, and instead increase the duration of the Charge they grant by the technique’s (Stun*2).
- - For any technique which would ordinarily end the target’s Shock and/or Paralysis status, the Monkasei can choose to spend 1 Charge (rather than gain any from the technique, as is normal) to prevent either status effect from ending.
- 
- Jiton is strong against Doton and Katon, but weak against Fuuton.
+Any Fuuton or Doton technique can be converted to Jiton as a Chakra +5, Speed +0 link, with the following changes:
+ - Jiton Techniques can not be reduced below Chakra 10.
+ - Blocking reduces the damage of Jiton techniques by 25% less.
+ - Non-Upkeep Jiton which are Environmental, or Ground-based, create a number of Gallons of Sand equal to twice their rank: 2 for E, 4 for D, etc.
+ - All other Jiton techniques have a Sand cost, in Gallons, according to the Rank of the jutsu: 2 for E, 4 for D, 8 for C, 16 for B, 32 for A.  Jiton with Upkeeps require an amount equal to their Upkeep, or the amount listed for their Rank, whichever is higher.
+ - Interrupt Jiton do not create Sand; those of Rank D or below remove all Gallons of Sand used with them from the battlefield, while those of Rank C or higher remove only half the Gallons of Sand used with them.
+ - Non-Interrupt Jiton have their base Speed increased by 1 per Rank (E = +1, D = +2, etc, up to A = +5).  Thus, a Jiton Retsudotensho would be treated as a Speed 23 action for all purposes (including its minimum Speed after reductions), rather than 20.
+ - Jiton with Upkeeps grant the Monkasei an amount of Charge equivalent to the Upkeep the Monkasei suffers from while maintaining them; Upkeeps from other sources (such as Chakra Strengthening) do not grant the Monkasei any Charge.
+ - If a Jiton has its Seal Speed reduced to 0, then you need not make any handseals for it at all.
+ - Jiton is strong against Doton and Raiton, but weak against Fuuton.
+
 
 ###### --( Charge )--
-This is a status effect, applied to the Monkasei when they utilize Jiton.  Charge stacks fully with itself, but every source of Charge the Monkasei acquires is tracked individually (sorry).  Thus, a Monkasei who gains 1 Charge on IC 45, 2 Charge on IC 55, and another 1 Charge on IC 63 would be at Charge 4 until IC 70, at which point the first would fade and they would be at Charge 3.  At IC 80 they would go down to Charge 1, and at IC 88 they would lose their last point of Charge unless they used another Jiton technique in that time.
+This is a status effect, applied to the Monkasei, representing their control over their element–in this case, metal-infused Sand–and the ease of which they can utilize it the more their chakra is infused into it.  While exhausting to maintain control over so much material, Monkasei have learned to turn a weakness into a strength, in the following ways.
 
-Charge grants the following changes to any Jiton technique which it’s applied to:
- - -1 Chakra Cost
- - +0.5 Accuracy
- - -2 Seal Speed, -2 Delay (if it has any, to a minimum of 0).
- - -0.4 Damage Bonus.
+All values of X are based on your current Charge status:
+> X/2 to Chakra Exhaustion rolls for Jiton techniques
+> X/4 reduction to the base Speed of all Jiton Interrupt techniques, to a minimum of base Speed 2, ignoring normal limits.
+> -X/2 Seal Speed
+> -X/2 Delay (if it has any, to a minimum of 0).
+> Damage dealing Jiton have their dice that roll below X/4 rerolled once, up to a maximum of (die size/4).
 
-A Monkasei can choose how much Charge they wish to apply to any given attack: A Monkasei with Charge 5 could choose to instead only apply Charge 4 to a Jiton technique, granting it -4 Chakra cost, +2 Accuracy, -8 Seal Speed and -8 Delay, and -1.6 to its Damage Bonus.
+The last benefit can be confusing!  So, for example, as long as your Charge was 4 or more, your Jiton Wind Cutter would have all of its damage dice rerolled once if they came up as a 1.  This can be done automatically if using the Dice Golem bot by adding ‘ro1’ to the damage dice calculation, meaning Wind Cutter would be typed as the following: (2d4ro1*5+NDB*Speed).  Higher Charge levels than 4 would never increase Wind Cutter’s ability to reroll its dice above 1, because it is capped at (die size/4), rounding down, thus, 4/4 = 1.
 
-If a Jiton technique has its Seal Speed reduced to 0, then you need not make handseals for it at all.
+Here’s a handy chart for those that need it:
+| Dmg Die Size	| Reroll Maximum | Charge Needed for max Reroll value |
+| -------------:|:--------------:|:----------------------------------:|
+| d4, d6		| ro1			 | 4                                  |
+| d8, d10		| ro2			 | 8                                  |
+| d12 			| ro3			 | 12                                 |
+| d20			| ro5		     | 20                                 |
 
-#### --( Purification )--  
-So long as a Monkasei has access to some sort of solid ground (i.e., is not floating in the middle of the ocean), and has a few handfuls of their choice of metal shavings, a Monkasei can apply pressure to rock, soil, wood, or similar surfaces and materials to, essentially, pulverize them into miniscule splinters and shavings to be made use of.  Most Monkasei prefer to carry around materials already infused with their choice of metal to avoid this process (and to avoid showing its usage off to anyone), but in times of need, Monkasei can gather up more material to make use of their kekkai genkai.
+#### --( Purification )--
+So long as a Monkasei has access to some sort of solid ground (i.e., is not floating in the middle of the ocean), and has a few handfuls of their choice of metal shavings, a Monkasei can apply pressure to rock, soil, wood, or similar surfaces and materials to, essentially, pulverize them into miniscule splinters and shavings to be made use of.  Most Monkasei prefer to carry around materials already infused with their choice of metal to avoid this process (and to avoid showing its usage off to anyone), but in times of need, Monkasei can gather up more material to make use of their kekkai genkai.  If you ever have to ask whether you can bore through a material with this jutsu, assume the answer is ‘No’.
 
  - Type: Jiton Ninjutsu, Rank E
- - Chakra: 5 + X/4
- - Speed: 5 + X/2
+ - Chakra: +5
+ - Speed: +X
+ - Seal Speed: +X
 
-Effects: You create X gallons of Sand (keeping in mind that ‘Sand’ is more like ‘weathered and eroded bits of dirt and stone’, but it works for a Monkasei’s purposes), with X having a minimum of 1. This may be used alongside a technique, in which case its Speed and its cost is added to that technique’s as a link, and it contributes directly to that technique’s Gallons requirement.  It may also be used alone, in which case the created Sand is deposited on the battlefield.
+
+Effects: This is used as a link with any Jiton technique which creates Sand; the technique creates triple the normal amount. X is based off of the Rank of the Jutsu (E=1, D=2, etc).  Thus, an E-rank Jiton would create six gallons of sand, instead of two, at Chakra +5, Speed +1, Seal Speed +1; a D-rank Jiton would create twelve gallons at Chakra +5, Speed +2, Seal Speed +2, etc.
+
+Keep in mind that ‘Sand’ is more like ‘weathered and eroded bits of dirt and stone’, but it works for a Monkasei’s purposes.
+
 
 #### --( Sabaku Kyu - Sand Coffin )--
 No one likes Sand.  It’s coarse, and rough, and irritating.  And it gets everywhere. Which the Monkasei tend to use to their advantage in order to slow down and debilitate their opponents through tactical, frustrating maneuvering that makes everything chafe.
 
  - Type: Jiton Ninjutsu, Rank D
  - Chakra: +(2+X/4)
- - Speed: +(2 * Y)
+ - Speed: +Y
 
-Effects:  This can be added onto any Jiton Ninjutsu which is an attack; X is the Gallons of Sand utilized in the Jutsu, while Y is the Rank of the jutsu it's applied to.  In addition to the attack’s normal damage and effects, you inflict the target with a -Y Immobilization Penalty, though in doing so you ‘use up’ the Gallons of Sand which stick to, and slow down, the movement of your target.  Repeated applications of Sand Coffin stack the Immobilization as a single penalty.  Once the Sand is no longer applying a penalty to someone, it is added back to the battlefield for use.
+Effects:  This can be added onto any damage-dealing Jiton Ninjutsu; X is the Gallons of Sand utilized in the Jutsu, while Y is the Rank of the Jutsu it is used with.  In addition to the attack’s normal damage and effects, anyone hit by the technique also takes a (1 +Y) Immobility Penalty, though in doing so you ‘use up’ the gallons of sand the jutsu required which stick to, and slow down, the movement of those affected.  
 
-If used with a Jutsu which already applies an Immobilization Penalty (such as a Jiton-converted Clay Bullet), you replace it with Sand Coffin's penalty, although any special rules regarding the Immobility status remain: a Clay Bullet with Sabaku Kyu could be removed with a grapple roll, while a Retsudotensho with Sabaku Kyu will have anyone in its effect retaining their Immobility status until they leave the area. 
+Against someone already suffering from an Immobility Penalty caused by Sand Coffin you stack the Immobility Penalty as a single status (unlike normal), but the amount is reduced to Y, rather than (1+Y). Thus if you used a Jiton Earthworm Sabaku Kyu, it would initially apply a -2 Immobility Penalty; if hit again while still suffering from Sabaku Kyu’s Immobility Penalty, repeated applications would only increase the Immobility Penalty by 1.  
+
+Once the Sand is no longer applying a penalty to someone, it is added back to the battlefield for use.
+If used with a Jutsu which already applies an Immobility Penalty (such as a Jiton-converted Clay Bullet), you replace it with Sand Coffin’s penalty, although any special rules regarding the status remain, and apply to the total penalty from Sabaku Kyu: a Clay Bullet with Sabaku Kyu could be removed with a grapple roll (removing the entire penalty with a high enough roll), while a Retsudotensho with Sabaku Kyu will have anyone in its effect retaining their full Sabaku Kyu-applied Immobility Penalty until they leave the area, not fading over time (at which point it ends immediately).
 
 #### --( Sabaku Sousou - Sand Burial )--
 Once a target is encased in enough Sand, it’s a simple, yet devastating, measure to utilize their control over Jiton to crush a person in much the same way they crush up rocks or dirt.
@@ -478,7 +496,7 @@ Once a target is encased in enough Sand, it’s a simple, yet devastating, measu
  - Seal Speed: 20
  - Requires: Target to have an Immobilization Penalty from Sand Coffin
 
-Effects: X is the current Immobilization Penalty of your target from Sand Coffin, which ends immediately when you use this technique. This technique can not be dodged (as the sand is already stuck to, and on, the target), though other defenses could be utilized (such as Block, if you were doing so when targeted by this technique); the target is simply crushed from all sides by the sand that’s been piled onto them. If you inflict a Wound, you inflict a Blunt, and Slashing Wound of one tier lower, to a minimum of Minor.
+Effects:  X is the current Immobilization Penalty of your target from Sand Coffin, which ends immediately when you use this technique. This technique can not be dodged (as the sand is already stuck to, and on, the target), though other defenses could be utilized (such as Block, if you were doing so when targeted by this technique): the target is simply crushed from all sides by the sand that’s been piled onto them. If you inflict a Wound, you inflict a Blunt, and Slashing Wound of one tier lower, to a minimum of Minor.
 
 ## Sabechi
 When Sunagakure initially organized itself into a formal village of Ninja, the Sabechi were the tribe most resistant to allying themselves with those who had been their rivals for generations. They fought against change and the alliances that were being made, relying upon nature for their survival against what quickly became a much larger force.

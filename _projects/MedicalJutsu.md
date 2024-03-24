@@ -46,13 +46,15 @@ Effects: This jutsu can be applied to any limb. The recipient loses the use of t
 #### --( Kyuusho Shuuzen no Jutsu - Vital Repair Technique )--
 By transferring your chakra to the recipient, you can stimulate the body to begin the recovery process and help stabilize their most basic functions (like breath rate and pulse). It lacks the precision of more advanced jutsu to target specific injuries and problems, but helps to keep people alive until they can receive advanced care.
 
-- Chakra: 5 + X/2
+- Chakra: 5 + X/2 + Y * 5
 - Range: Touch
 - Speed: 5 + X * 2
 - Special: Abort
 - Requires: Flawless Diagnosis
 
-Effects: For the duration of this technique, you must keep your hands on its recipient. If you are stunned, or knocked away, it is Aborted automatically. The value of X is determined, and the Chakra cost paid, after it ends. For every IC which passes, you heal 3+(Chakra Control Ranks)/5 of the recipient's lost Hit Points. This will not restore lost Vitality, though it will restore a person in negative Hit Points to consciousness. You pay the cost of this technique after you finish healing, based on its actual duration. If you Abort it, or are forced to, X is reduced appropriately. A single person may benefit from this only once per day. You may use this technique on yourself (though you still have to be able to place a hand on yourself to do so; no hands, no healing).
+Effects: For the duration of this technique, you must keep your hands on its recipient. If you are stunned, or knocked away, it is Aborted automatically. The value of X is determined, and the Chakra cost paid, after it ends. For every IC which passes, you heal 3+(Chakra Control Ranks)/5 of the recipient's lost Hit Points. This will not restore lost Vitality, though it will restore a person in negative Hit Points to consciousness. You pay the cost of this technique after you finish healing, based on its actual duration. If you Abort it, or are forced to, X is reduced appropriately. You may use this technique on yourself (though you still have to be able to place a hand on yourself to do so; no hands, no healing).
+
+Y is equal to the number of times the recipient has had this jutsu used on them in the same day.
 
 ## C-Rank
 #### --( Chakura no Mesu - Chakra Scalpel )--
@@ -109,13 +111,15 @@ Effects: This lasts for X * 5 IC. During that time, the damage the recipient tak
 #### --( Shousen no Jutsu - Mystical Palm Technique )--
 In many ways the pinnacle of medical ninjutsu, this allows the user to dramatically accelerate the body's natural healing process by using chakra to stimulate it. This lets them heal a patient without the need for medical equipment, surgery, or even ordinary healing times. Despite the incredible skill required in matching the distribution of chakra to the severity of injuries, this looks incredibly simple: the medic places their faintly-glowing palms on the recipient, and injuries begin to vanish.
 
-- Chakra: 10 + X / 2
+- Chakra: 10 + X / 2 + Y * 5
 - Range: Touch
 - Speed: X
 - Special: Abort
 - Requires: Vital Repair
 
-Effects: For the duration of this technique, you must keep your hands on its recipient. If you are stunned, or knocked away, it is Aborted automatically. The value of X is determined, and the Chakra cost paid, after it ends. This paragraph should seem familiar. Every IC which passes, you heal 6+(Chakra Control ranks)/5 of the recipient's Vitality. This will not heal lost Hit Points. You pay the cost of this technique after you finish healing, based on its actual duration. If you Abort it, or are forced to, X is reduced appropriately. For every time after the first this technique is used on someone in the same day, it has an additional cost of +1 Willpower, which stacks with itself (second use 1 WP, third use 2 WP, etc). You may use this technique on yourself, as with Vital Repair.
+Effects: For the duration of this technique, you must keep your hands on its recipient. If you are stunned, or knocked away, it is Aborted automatically. The value of X is determined, and the Chakra cost paid, after it ends. This paragraph should seem familiar. Every IC which passes, you heal 6+(Chakra Control ranks)/5 of the recipient's Vitality. This will not heal lost Hit Points. You pay the cost of this technique after you finish healing, based on its actual duration. If you Abort it, or are forced to, X is reduced appropriately. You may use this technique on yourself, as with Vital Repair.
+
+Y is equal to the number of times the recipient has had this jutsu used on them in the same day.
 
 #### --( Fukugen Ryouhou - Rejuvenating Remedy )--
 An advanced technique in which, with a touch, the user sends a pulse of chakra throughout the body of their target, which corrects disrupts in the user's chakra flow and the nerves and blood vessels which they follow throughout the body. It is widely rumored to have been developed by a Hyuuga medic-nin.

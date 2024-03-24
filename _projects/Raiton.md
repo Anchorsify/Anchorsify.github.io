@@ -17,7 +17,6 @@ toc:
 #### --( Rashinban no Jutsu - Compass Technique )--
 It's about what it sounds like. The user channels lightning elemental chakra into a needle, or kunai, or similar-sized and -shaped object, which will then, when laid flat (sometimes requiring a few taps to help it along) point towards magnetic north.  A particularly clever Kairaishi developed an additional usage for this technique, which involves attaching wire to a Kunai that is then loosely attached to themselves to disperse a mild amount of Raiton chakra through an area.  It isn't enough to harm, but it can be used as an effective alert system when in unsafe territory.
 
-
  - Chakra: 5
  - Speed: 4
  - Seal Speed: 12
@@ -28,9 +27,7 @@ Alternatively, the user can attach wire to themselves (typically a wrist or ankl
 
 Any person leaving, or entering, the area charged once it has been set causes the Raiton chakra to feedback to anyone who is attached to the Kunai through wire, immediately waking them up and alerting them to the fact that someone tripped this technique's effect, as well as ending this technique. Likewise, someone severing the wire connection (such as through a Kunai being thrown from outside the area) also causes it to trigger.
 
-Usage of this technique in combat will alert the user whether someone enters and leaves the area it's placed at, but will not reveal someone's location who is in stealth, or even pinpoint the direction in which they crossed the barrier: It is too simplistic for that.
-
-Once placed, the effect can last up to eight hours.
+Usage of this technique in combat will alert the user whether someone enters and leaves the area it's placed at, but will not reveal someone's location who is in stealth, or even pinpoint the direction in which they crossed the barrier: It is too simplistic for that.  Once placed, the effect can last up to eight hours.
 
 
 #### --( Shougeki Heki - Shocking Burst )--
@@ -42,6 +39,7 @@ Holding a hand out there is a pulse of electricity. This isn't nearly enough to 
  - Speed: 4
  - Seal Speed: 6
  - Status: Shock 2 for 20 IC
+ - Tags: Energy, Projectile
 
 Effects: This technique may not have its Speed reduced below 4 by any means. It can either target a single person, or everyone within the range as an area centered on, but not affecting, you. If the latter, it does not penalize dodges as a regular Area of Effect would.
 
@@ -54,6 +52,7 @@ Charging up electricity between two weapons, you harness it into a ball and then
  - Range: 10
  - Speed: 9
  - Requires: a metal weapon in each hand.
+ - Tags: Energy, Projectile
 
 ## D-rank
 #### --( Shuurai - Lightning Strike )--
@@ -65,6 +64,7 @@ You focus energy to the tips of your fingers on either hand, then point at an op
  - Speed: 13
  - Seal Speed: 10
  - Status: Paralysis 2 for 20 IC
+ - Tags: Energy, Projectile
 
 Effects: If you target someone who is affected by a Raiton-based Paralysis status with this technique, it gains +1 Accuracy.
 
@@ -73,6 +73,7 @@ By charging oneself with Raiton chakra, the user can exploit the lingering charg
 
  - Chakra: +8
  - Speed: +4
+ - Tags: Nintaijutsu
 
 Effects: This technique is used as a link to any unarmed or combo jutsu or unarmed basic attack, and only has an affect if the target of the attack it's added to has the Shock status. Juude immediately ends that status (which then doesn't apply to, or penalize, their defensive interrupt in response to the attack), and grants you +X Accuracy to the attack, where X is the Shock status you ended on them, to a maximum of 3.  This works only against those suffering from a Raiton-based Shock status effect, and has no effect on other, non-Raiton sources of Shock.
 
@@ -83,6 +84,7 @@ The user puts both hands together, forming a miniature thunder bolt between his 
  - Area: 10
  - Speed: 12
  - Seal Speed: 10
+ - Tags: Area of Effect
 
 Effects: Everyone in range (except you) is inflicted with a Stun (8+the amount they failed by) if they fail a status roll, during which time they're considered deafened, losing all ranks of the Enhanced Hearing ability, as well as any abilities based upon it (namely Blind Fighting and Genjutsu Awareness) for the duration. Victims of this technique gain +3 to the Resistance roll for every time they've defended against it in the same battle.
 
@@ -93,6 +95,7 @@ You send a 'spark' of chakra into an enemy, stimulating any electrical chakra al
  - Range: 10
  - Speed: 10
  - Seal Speed: 8
+ - Tags: Projectile
 
 Effects: This technique has an Accuracy bonus equal to the target's Paralysis severity (Para 3 = +3 Accuracy), removes the target's Shock status and inflicts a Stun equal to 4*(the Shock severity removed), up to a maximum of Stun 20.  This technique only works off of Raiton-induced Paralysis and Shock status effects.
 
@@ -112,6 +115,7 @@ With a quick burst of lightning natured chakra, you force it through a metallic 
  - Chakra: +13
  - Speed: +4
  - Requires: Melee weapon
+ - Tags: Nintaijutsu, Energy
 
 Effects: This technique acts as a link to any melee weapon attack, and allows the attack to bypass half the damage reduction of those hit by it, as well as adding one-third your NDB to its damage.
 
@@ -122,6 +126,7 @@ The ranged variant of Kaminari, Raisen charges a metallic thrown weapon with Rai
  - Speed:  +(4 + weapons thrown/4)
  - Requires: Large or Small Thrown Weapon(s)
  - Status: X Paralysis for 20 IC
+ - Tags: Energy, Nintaijutsu, Projectile
 
 Effects: This technique acts as a link to any thrown weapon attack, and allows the attack to bypass half the damage reduction of those hit by it. X is equal to the amount your Accuracy beats your opponent's defensive roll by, to a maximum of 3. Against defenses which are not rolled, or if the opponent elects not to defend, the maximum Paralysis is inflicted.
 
@@ -135,6 +140,7 @@ By charging up a mass of electricity around one's hand, they can throw it as a d
  - Speed: 16
  - Seal Speed: 12
  - Status: Shock 3 for 30 IC.
+ - Tags: Energy, Projectile
 
 #### --( Kanden Satsujin - Electric Murder )--
 You hold out your palms toward the enemy and discharge huge amounts of lightning chakra, searing the flesh of your enemy.
@@ -145,6 +151,7 @@ You hold out your palms toward the enemy and discharge huge amounts of lightning
  - Range: 10
  - Speed: 14
  - Seal Speed: 16
+ - Tags: Energy, Projectile
 
 Effects: If this is the last technique you used which required handseals, it does not require handseals.
 
@@ -159,6 +166,7 @@ Focusing a great amount of lightning chakra into their hands the user then place
  - Range: 30
  - Speed: 10 + Delay Special
  - Seal Speed: 16
+ - Tags: Energy, Projectile
 
 Effects: You can use this technique as soon as you complete the necessary seals, or 'hold' it with a variable-speed Delay, to a maximum of your CHA/10. 
 
@@ -173,6 +181,7 @@ Blinds opponents who don't know to close their eyes. Not affected by doujutsu wh
  - Range: 12
  - Speed: 8
  - Seal Speed: 10
+ - Tags: Area of Effect
 
 Effects: When you use this technique, you and anyone in range make an opposed Initiative roll, with the victims getting a +4 bonus for each previous time this technique has been used in the current battle. If you beat their roll, they're blinded; if not, they managed to close their eyes in time.
 
@@ -186,6 +195,7 @@ After making contact with an enemy, you send a powerful pulse of electricity thr
  - Speed: 12
  - Seal Speed: 10
  - Status: Shock 4 for 20 IC
+ - Tags: Melee
 
 Effects: This inflicts Paralysis 4 for 40 IC.
 
@@ -199,6 +209,7 @@ You divert your chakra to surge across your skin, building up something akin to 
  - Seal Speed: 14
  - Special: This technique receives only half your damage bonus.
  - Status: Paralysis 1 for 40 IC, Special
+ - Tags: Energy, Contact
 
 Effects: Any time you are struck by an unarmed melee attack or metallic melee weapon, this technique 'discharges', dealing its damage to them automatically, along with the above status roll.  If they hit you again while still suffering from the Paralysis of this technique, its severity is increased by 1, but its duration is not refreshed.
 
@@ -214,17 +225,19 @@ Charging both your hands with a powerful electric current, you slam them togethe
  - Speed: 14
  - Seal Speed: 20
  - Status: Paralysis 4 for 40 IC
+ - Tags: Energy, Projectile
 
 Effects: After seeing the result of your opponent's defense, you may choose to make them reroll it. If you do this, they keep the second result (even if it's better). If you use this option, Raijuu Hashiri's damage is halved for the purpose of determining wounds, and it loses its ability to inflict Paralysis. You may also use the redirect to send the beast after a different target; it still suffers the usual reductions this way.
 
 #### --( Raiton Bunshin no Jutsu - Lightning Release Clone Technique )--
 This technique creates a powerful, not-quite-fully independent copy of yourself. They're capable of bringing substantial force to bear in combat, but lack enough physical cohesion to survive being hit. Of course, striking a ball of animated lightning tends to be bad for one's health.
 
-- Chakra: 20, +5 per clone
-- Damage: 100*1d2
-- Speed: 8, +4 per clone
-- Seal Speed: 12, +4 per clone
-- Requires: Bunshin no Jutsu
+ - Chakra: 20, +5 per clone
+ - Damage: 100*1d2
+ - Speed: 8, +4 per clone
+ - Seal Speed: 12, +4 per clone
+ - Requires: Bunshin no Jutsu
+ - Tags: Clone, Energy
 
 Effects: You can create up to two clones. Anyone who destroys a Lightning Clone with a melee attack takes this technique's damage automatically. These function like regular bunshin, except that they have (and pay for) their own Fatigue costs, and may perform the following additional actions:
 
@@ -243,6 +256,7 @@ After completing the handseals the user forms a large, spear shaped bolt of ligh
  - Range: 50
  - Speed: 15
  - Seal Speed: 25
+ - Tags: Energy, Projectile
 
 Effects: Once the technique's seals have been completed, you may repeatedly use Gian without forming handseals as long as you take no other ninjutsu action. Thus, you could dodge, and throw a punch, but not use a ninjutsu-based defense.
 
@@ -255,10 +269,11 @@ Four pillars of rock, each about twenty feet tall, are summoned around an enemy 
  - Area: 20 x 20 square
  - Speed: 20
  - Seal Speed: 20
+ - Tags: Area of Effect, Energy, Environmental
 
 Effects: This technique applies Paralysis 2, Shock 2, and Immobilize 2 to everyone within its area, and every IC someone remains in the area they take 4 damage which bypasses all reductions. This damage does not benefit from the technique's Speed or your NDB, and ends immediately upon leaving the area (as do the status effects).
 
-The pillars can be attacked, and each have 100+(NDB*5) HP, with CHA/2 DR, and do not take additional damage from Raiton (despite the fact that they're pillars of earth...); only one pillar needs to be destroyed in order to end this technique.
+The pillars can be attacked, and each has 100+(NDB*5) HP, with CHA/2 DR, and do not take additional damage from Raiton (despite the fact that they're pillars of earth...); only one pillar needs to be destroyed in order to end this technique.
 
 #### --( Tesura Karui - Tesla Minor )--
 This generates a semi-stable mass of lightning chakra which you can physically throw. It'll 'stick' to the first surface it comes into contact with (reminder: people are not surfaces). Once placed the ball is stationary, a bright and crackling hemisphere of chakra. Anyone unfortunate enough to wander into range will receive a face-full of electricity.
@@ -270,6 +285,7 @@ This generates a semi-stable mass of lightning chakra which you can physically t
  - Speed: 20
  - Seal Speed: 22
  - Status: Shock 4 for 20 IC
+ - Tags: Energy, Environmental, Projectile
 
 Effects: This creates a ball of energy within range on some surface. When it's created, and every 25 IC afterwards, the ball emits bolts of lightning at everyone within CHA /2 yards. Each bolt of a lightning is a separate attack. The ball has 10 'charges'; it can attack 10 times, and then it expires. It will not attack you, and you can specify up to (Chakra Control)/10 other people who it will ignore, but it otherwise discharges against everyone within range.
 
@@ -286,6 +302,7 @@ You hold out your fingers and fire a focused bolt of lightning which then, after
  - Speed: 18
  - Seal Speed: 18
  - Status: Shock 4 for 40 IC
+ - Tags: Energy, Projectile
 
 Effects: This technique has an Accuracy bonus equal to the Shock status of anyone it targets, and it jumps to another target of your choice within half its normal range (from the first target, not you) if it hits, gaining +1 to its Accuracy and +10% to its damage, jumping to hit a maximum of (NDB) targets, none of which can be hit more than once by this technique.
 
@@ -299,6 +316,7 @@ Harnessing a great amount of chakra, you create a field of lightning that swirls
  - Speed: 20
  - Seal Speed: 24
  - Status: Paralysis 8 for 50 IC
+ - Tags: Energy, Projectile
 
 Effects: When you use this technique, you may choose to lower its Chakra cost by 10. If you do so, rather than launching at your opponents the lightning dragon takes shape coiling around you. It will automatically attack the first person to move within 10 yards of you (it will not, however, trigger this effect if you move closer to them), with +4 Accuracy. You may also launch the dragon at any time while it's still around, as a Chakra 25, Speed 16 action, using 16 rather than 20 as its base Speed.
 
@@ -311,6 +329,7 @@ This technique earns its name. As the handseals are completed electricity will b
  - Area: 10
  - Speed: 30
  - Seal Speed: 40
+ - Tags: Area of Effect, Energy, Projectile
 
 Effects: This hits everything in a line ten yards across (its area), and up to one hundred yards long (i.e. anything between the user and the max range). The effectiveness of partial defense is doubled against this technique: for every 1 point it hits by, it deals 10% damage. Any one hit by it who fails a Status roll takes a Shock and Paralysis status of a severity equal to how much they failed by, to a maximum of 10, for 30 IC. After rolling damage for Tenchu, you may spend a point of Willpower to reroll it and take the higher of the two results. This may only be done once per attack, and only if you did not spend Willpower to improve Tenchu's Accuracy.
 
@@ -323,6 +342,7 @@ Just as the four pillar bind, this surrounds the area, though this time it's a b
  - Area: 80
  - Speed: 24
  - Seal Speed: 32
+ - Tags: Area of Effect, Energy, Environmental
 
 Effects: This is a 20 x 20 AoE, inside a 40 x 40, inside a 60 x 60, inside a 80 x 80; thus, it's 20 yards from the edge of one layer to the next. For each layer a person is inside they suffer Paralysis 1, Shock 1, and Immobilize 1, and takes 4 damage every IC which bypasses all reductions. This damage does not benefit from the technique's Speed or your NDB, and ends immediately upon leaving the area (as do the status effects).
 
@@ -338,6 +358,7 @@ Filling both of your arms with an intense and energetic lightning chakra, you th
  - Speed: 24
  - Seal Speed: 28
  - Status: Paralysis 4 for 20 IC
+ - Tags: Energy, Environmental, Projectile
 
 Effects: The creates a vertical spire of energy on an appropriate surface, CHA/4 yards tall. When created, and every 20 IC afterwards, this shocks anyone except you within (CHA)*3/4 yards. You may designate up to (Chakra Control)/5 other people who will not be targeted by the spire, but everyone else within range who is not hidden will be targetted. This attack receives an Accuracy bonus equal to half the severity of the Paralysis status on its target(s) (meaning that different people may have to defend against different accuracies).
 
@@ -356,10 +377,11 @@ Upon completion of the handseals the user forms a ball of raw, condensed lightni
  - Range: 60
  - Speed: 30
  - Seal Speed: 30
+ - Tags: Energy, Projectile
 
 Effects: The mine must be placed within melee range. The technique's actual range can, if you wish, be set lower than 60. Whenever someone other than you enters this range, they immediately become the target of a Sneak Attack from this technique; the ball of lightning soars towards them without warning.
 
-This can be left sitting in the opponent (as an effective deterrent), or submerged into any available surface (the floor, the walls). If you are within the maximum range (even if you reduced the attack range), you can prevent the ball from activating by concentrating on it (though you'd typically need line of sight to know if this is necessary). If this is hidden inside some object, it cannot be detected without the use of a chakra-detecting doujutsu (such as Byakugan).
+This can be left sitting in the open (as an effective deterrent), or submerged into any available surface (the floor, the walls). If you are within the maximum range (even if you reduced the attack range), you can prevent the ball from activating by concentrating on it (though you'd need line of sight to know if this is necessary). If this is hidden inside some object, it cannot be detected without the use of a chakra-detecting capability (such as Byakugan, or Chakra Sensor).
 
 #### --( Shimeshi Ryouiki - Dampening Field )--
 Concentrating your chakra, you project an invisible, wide area dome of chakra. Maintaining its stability requires you to stay practically immobile at its center, but the effects are virtually impossible to circumvent without finding the originator. Anyone who enters the field will instantly notice its presence--their hair will start to stand on end, and most objects will begin building a static charge.
@@ -369,5 +391,6 @@ Concentrating your chakra, you project an invisible, wide area dome of chakra. M
  - Area: CHA
  - Speed: 20
  - Seal Speed: 34
+ - Tags: Area of Effect, Environmental
 
 Effects: You can move up to CHA/10 yards from your original location while maintaining this technique; moving (or being forcibly moved) any further causes it to end. Within the field, all chakra-based sensing (such as chakra-sensory ninja, and the Yurokensei technique) has a -20 penalty, and Doujutsu outright fail to function (i.e., they give none of their normal benefits). Electronic and electrical devices in this area are additionally useless. The dampening also interferes with other lightning-based chakra, reducing the damage of all Raiton in its Area by 20%, and the large amounts of ambient lightning chakra interferes with earth-based chakra, reducing the damage of Doton by 25% and increasing their Chakra costs and Upkeeps (if relevant) by 5.

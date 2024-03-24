@@ -227,7 +227,7 @@ After enlarging with Baika no Jutsu, the Akimichi tucks their arms and legs clos
  - Speed: Variable, Abort
  - Requires: Baika no Jutsu active
 
-Effects: When you use this Jutsu you declare that you are Rolling and for how many IC. You can also declare one other variable speed action (such as Block, or Defensive Formation) to utilize alongside it, which is not ended by any Bowl attacks you make so long as you continue Rolling. Its Chakra Cost is increased by 4 per rank of Power Attack you wish to apply to any of the Bowl attacks you make while Rolling (which doesn't then increase the Stamina cost of Bowl). While Rolling the only attack you can make is Bowl, below, you take Baika’s X as a penalty to Taijutsu parries and Awareness rolls, can not perform handseals or hold weapons, and any grapples you are in control of automatically end.
+Effects: When you use this Jutsu you declare that you are Rolling and for how many IC. You can also declare one other variable speed action (such as Block, or Defensive Formation) to utilize alongside it, which is not ended by any Bowl attacks you make so long as you continue Rolling. Its Chakra Cost is increased by 4 per rank of Power Attack you wish to apply to any of the Bowl attacks you make while Rolling (which doesn't then increase the Stamina cost of Bowl). While Rolling the only attack you can make is Bowl, below, you take Baika’s X as a penalty to Taijutsu parries and Awareness rolls, can not perform handseals or hold weapons, and any grapples you are in control of automatically end, but you ignore any Stuns of X or less. 
 
 **--( Bowl )--**  
 
@@ -355,13 +355,13 @@ This technique is the signature fighting style of the Inuzuka, wherein they hunc
 - Upkeep: 2
 - Speed: 10
 
-Effects: Your movement speed is increased by 10% and your current and maximum Rank in Enhanced Hearing and Blind Fighting abilities are increased by 1. Every time you damage someone with a Taijutsu attack while maintaining this technique, you temporarily shred any sort of DR they might have, reducing their DR (after the damage is resolved) by (2+AGI/30). Shredded DR can not be reduced below 0, and is restored at a rate of 1 per IC.  However, due to being on all fours and your hands becoming more animalistic, all Seal Speeds are increased by 3.
+Effects: Your movement speed is increased by 10% and your current and maximum Rank in Enhanced Hearing and Blind Fighting abilities are increased by 1. Every time you damage someone with a Taijutsu attack while maintaining this technique, you temporarily shred any sort of DR they might have, reducing their DR (after the damage is resolved) by (3+AGI/30). Shredded DR can not be reduced below 0, and is restored at a rate of 1 per IC.  However, due to being on all fours and your hands becoming more animalistic, all Seal Speeds are increased by 3.
 
 #### --( Tsuga – Passing Fang )--
 The Inuzuka launches themselves forward toward an opponent while spinning at such rapid speeds that they almost appear to become an elongated vortex pointed toward their enemy.  It can be extremely damaging if an opponent is caught unaware, as the rotation involved allows the Inuzuka to tear right through most defenses.
 
  - Type: Taijutsu, Rank D
- - Stamina: 18
+ - Stamina: 16
  - Damage: (STR/10)d6 + Special
  - Range: AGI/10 + Special
  - Speed: 12
@@ -371,7 +371,7 @@ Effects: This technique’s Range is increased by how far you could move during 
 
 This technique gains Accuracy, and loses damage, according to how close you are to your target when you attack: For every 20% of the listed Range you are within to your target (after calculating the final Range for this technique), you gain +1 Accuracy, but deal 5% less damage. (i.e., if you had a final Range of 30, and attacked someone with Tsuga who was 22 yards from you, they are below 80% of the technique’s maximum range, and thus you’d get +1 Acc and deal 95% normal damage; if you attacked someone within 6 yards of you with Tsuga with the same total Range, you’d gain +5 Acc but deal 25% less damage).
 
-You apply only one-fourth of your PDB to this technique’s damage, however, you roll damage an additional time for every 3 points by which your Accuracy beats their Defense, to a maximum of three damage rolls if you beat their Defense by 6 or more.  If someone elects to perform a defense which does not have a roll (such as Block, or using Earth Shore Return), or chooses not to defend, you perform the maximum amount of damage rolls.  Each damage roll reduces Block’s effectiveness by 10% (Block would only reduce the damage by 40% on the second damage roll, and by 30% on the third damage roll).  Partial Success does not apply to this attack.
+You apply only one-fourth of your PDB to this technique’s damage, however, you roll damage an additional time for every 3 points by which your Accuracy beats their Defense, to a maximum of three damage rolls if you beat their Defense by 6 or more.  If someone elects to perform a defense which does not have a roll (such as Block, or using Earth Shore Return), or chooses not to defend, you perform the maximum amount of damage rolls.  Each damage roll reduces Block’s effectiveness by 10% (Block would only reduce the damage by 40% on the second damage roll, and by 30% on the third damage roll).  Partial Success does not apply to this attack, and you combine all damage rolls to determine any Wounds inflicted (and likewise, things which add to Wounding are applied only once, to the combined total).
 
 For every time you and/or your Ninken utilize Tsuga consecutively (even if it misses!), its Speed and Stamina cost are reduced by 1, to a minimum of half their normal values. These benefits reset if you take any non-interrupt action besides Move, Tsuga, or Gatsuga, or if you go 20 IC or more without you or your ninken using Gatsuga or this technique.
 
@@ -402,9 +402,9 @@ Tsuga twice over.  Both the Inuzuka and their transformed Ninken coordinate thei
 
 Effects: This attack has two accuracies your target must defend against: One which you roll (as 1d20+Accuracy bonuses), and the other being your regular Taijutsu Accuracy TN.  The higher of the two becomes the Accuracy that determines if your technique hits, while the lower increases this technique’s damage by +1d8 per point it beats your opponent’s Defense by, if any.
 
-This jutsu functions otherwise like Tsuga for how you determine your movement (and how you must move the technique’s full Range), and any bonuses from consecutive uses of Tsuga apply to Gatsuga as well (and vice versa), and accordingly how you determine your bonus (if any) to Accuracy and penalty to Damage based on how far you are from your target. 
+This jutsu functions otherwise like Tsuga for how you determine your movement (and how you must move the technique’s full Range), and any bonuses from consecutive uses of Tsuga apply to Gatsuga as well (and vice versa), and accordingly how you determine your bonus (if any) to Accuracy and penalty to Damage based on how far you are from your target. Like Tsuga, Partial Success does not apply to this attack, and you combine its damage rolls to determine what, if any, Wounds are inflicted, as well as increased Wounding benefits.
 
-Gatsuga’s damage differs, however: You apply only one-fifth of your PDB to its damage, but roll damage an additional time for every point you beat your opponent’s defense by, to a maximum of five damage rolls if you beat their Defense by 5. Like Tsuga, if your opponent elects to Defend in a way that does not have them roll, you make the maximum amount of damage rolls (but gain no extra d8’s from beating their defensive roll), and Block reduces this technique’s damage 10% less per damage roll (40% for the second, 30% for the third, etc).  Partial Success does not apply to this attack.
+Gatsuga’s damage differs, however: You apply only one-fifth of your PDB to its damage, but roll damage an additional time for every point you beat your opponent’s defense by, to a maximum of five damage rolls if you beat their Defense by 5. Like Tsuga, if your opponent elects to Defend in a way that does not have them roll, you make the maximum amount of damage rolls (but gain no extra d8’s from beating their defensive roll), and Block reduces this technique’s damage 10% less per damage roll (40% for the second, 30% for the third, etc).
 
 #### --( Inuzuka-Ryu: Jinju Konbi Henge: Sotoro – Inuzuka-Style: Human Beast Combination Technique: Double-Headed Wolf )--
 This fearsome transformation technique combines shinobi and ninken into a massive two-headed version of their Ninken. While being in this form has its obvious benefits, this technique is most valued as an essential preparation for the Inuzuka's most devastating form of Tsuga.
@@ -522,7 +522,7 @@ One offensive counterpart to the defensive Hakkeshou Kaiten.  Rather than releas
  - Speed: +2
  - Requires: Byakugan active
 
-Effects: This is added to any Jyuuken or Jyuuken-converted Unarmed or Combo attack, increasing its Chakra cost and Speed accordingly (though its damage does not increase). It allows those techniques to be performed at the listed range (and, accordingly, does not break combos).  Because this changes the technique into what is essentially a wave of force, it prevents them from being parried as a normal Unarmed Taijutsu (though most ninjutsu-based defenses will apply normally).  It cannot, however, be used to extend the range of the various Gentle Fist finishers.
+Effects: This is added to any Jyuuken or Jyuuken-converted Unarmed or Combo attack, increasing its Chakra cost and Speed accordingly (though its damage does not increase). It allows those techniques to be performed at the listed range (and, accordingly, does not break combos).  Because this changes the technique into what is essentially a wave of force, it prevents them from being parried as a normal Unarmed Taijutsu, and converts them (for the purposes of defending against them) into being considered Ranged Ninjutsu Projectiles, as it is essentially a wave of force.  It cannot, however, be used to extend the range of the various Gentle Fist finishers.
 
 #### --( Hakkeshou Kaiten – Eight Trigrams Palm Revolving Heaven )--
 The absolute defense of the Hyuuga clan, to use this technique the Hyuuga simultaneously releases chakra from every tenketsu in their body and begins spinning rapidly.  The combined effect is to generate a virtually impervious shield of rotating chakra; what makes it truly effective is that the chakra used won't dissipate until the user finally comes to a stop.
@@ -587,7 +587,7 @@ The ultimate and most lethal usage of Jyuuken, and the final development of Hakk
 ###### -=[ Sealed Tenketsu ]=-
 This is a Status Effect that applies a penalty to Chakra Exhaustion and Chakra Control rolls equal to its Severity, and half that (rounding down) to Stamina rolls. If you ever fail a Chakra Exhaustion roll while you have this status, whatever technique you were trying to use fails (but you advance in Fatigue as normal), and you lose Hit Points (not Vitality) equal to the Chakra cost of that technique.
 
-Sealed Tenketsu stacks fully with itself, but a victim’s body naturally will try to correct its chakra flow to meet demands in battle: Every time someone with this status advances in Fatigue, they lower their Sealed Tenketsu Severity by their (Chakra Control Ranks)/5.  Outside of combat, Sealed Tenketsu is reduced by the same amount every hour, with a minimum reduction of 1 per hour.
+Sealed Tenketsu stacks fully with itself, but a victim’s body naturally will try to correct its chakra flow to meet demands in battle: Every time someone with this status takes the Rest action it reduces by 1, and when they advance in Fatigue, they lower their Sealed Tenketsu Severity by their (Chakra Control Ranks)/5, minimum 1.  Outside of combat, Sealed Tenketsu is reduced by the same (Chakra Control Ranks)/5, minimum 1, every hour.
 
 ## Nara
 A modestly-sized yet highly influential clan within Konoha, the Nara primarily use secret ninjutsu techniques which manipulate shadows, using them to disable opponents and control the battlefield.
@@ -869,6 +869,10 @@ A subtle but invaluable technique of the Yamanaka that allows them to touch a pe
  - Seal Speed: 4
 
 Effects: This requires you to touch your target’s head; thereafter, they are part of your telepathic network.  All people who you’ve brought in can talk to you, and one another, mentally. You can have up to CHA/20 people linked this way, not counting yourself.
+
+You can remove someone from this link, and they can remove themselves, at will. It has a maximum range of CHA*10 yards.
+
+If two Yamanaka link, their limits of people are combined, though each Yamanaka counts as one person towards the total limit. The distance limits are also pooled; as long as someone is within range of any of the linked Yamanaka, they can remain part of the network.
 
 #### --( Shintenshin no Jutsu - Mind Body Switch Technique )--
 The signature ability of the Yamanaka, this jutsu allows them to send their consciousness into a target’s body, seizing control of it and keeping their target, essentially, along for the ride.  They’re aware of what’s going on, but unable to take any sort of action.

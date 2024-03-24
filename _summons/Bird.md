@@ -286,7 +286,7 @@ An Amahou does not need to make Stamina rolls for its actions. If forced to for 
 Amahaou may use Move and Search.
 
 **Crush** *(Speed 12, 10 AP)*  
-Usable while on the ground. This may only be used while someone is Pinned by the Amahaou. It deals (damage), which is doubled for the purposes of inflicting (Blunt) wounds, and applies a Suffocation 2 each time it's used. Crushing cannot be avoided, and deals no base damage. However, it uses double the Amahaou's standard damage bonus for determining its damage dealt (making it, under normal circumstances, 14210 = 336 damage, raised to 672 for inflicting wounds).
+Usable while on the ground. This may only be used while someone is Pinned by the Amahaou. It deals (damage), which is doubled for the purposes of inflicting (Blunt) wounds, and applies a Suffocation 2 each time it's used. Crushing cannot be avoided, and deals no base damage. However, it uses double the Amahaou's standard damage bonus for determining its damage dealt (making it, under normal circumstances, (14 * 2 * 12) = 336 damage, raised to 672 for inflicting wounds).
 
 **Peck** *(Speed 20, 16 AP)*  
 Usable while on the ground. It's not actually a peck. It's actually a bite from a titanic bird's equally oversized beak. If this wounds a victim it inflicts both a Blunt (from the crushing force) and Slashing (from... being bitten) wound of the appropriate severity. It deals 20d20 damage, but has a -5 Accuracy penalty. If used against a Pinned opponent, this hits automatically.

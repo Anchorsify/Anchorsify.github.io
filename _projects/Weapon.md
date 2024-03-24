@@ -199,8 +199,9 @@ Invariably a swordsman will find themselves at a disadvantage due to range.  Mos
  - Range: NDB * 2
  - Speed: (Weapon) + (Weapon)/2
  - Type: Sword
+ - Tags: Projectile
 
-Effects: Because you are attacking with a wave of chakra, this attack can not be parried except by things which are capable of parrying ninjutsu (such as Ocean Shield, or Kaiten). By default this is a projectile wave of pure chakra, but if it is performed with a weapon that has an active Chakra Flow, the attack is converted to the appropriate element as it relates to interactions based on other elements.
+Effects: Because you are attacking with a wave of chakra, only things which can parry ninjutsu projectiles (such as Ocean Shield) can be used against it. By default it is non-elemental chakra, but if it is performed with a weapon that has an active Chakra Flow, or by a weapon created by an elemental ninjutsu, the attack is converted to the appropriate element for the purposes of defending against it.
 
 #### --( Itowotoosu - Thread the Needle )--
 Attaching Ninja Wire to the end of an arrow, the shinobi fires and uses chakra to alter the course of the arrow in mid-flight. This makes the shot extremely hard to avoid, at the cost of leaving a wire leading back to the point of origin.

@@ -7,6 +7,7 @@ importance: 1
 category: Rules
 toc:
  - name: Reader's Guide
+ - name: Tags
  - name: Taijutsu
  - name: Weapon Jutsu
  - name: Combos
@@ -14,8 +15,6 @@ toc:
  - name: Special rules
  - name: Medical Ninjutsu
  - name: Fuuinjutsu
- - name: Created weapons, enhanced attacks and you!
- - name: Bunshin
  - name: Genjutsu
 ---
 The core of a ninja's supernatural capabilities comes from their jutsu--meaning, literally, techniques. These use chakra, either projected outwards or used to amplify one's physical performance, to perform feats that would be literally impossible for a normal person. These are divided into three broad categories: taijutsu, ninjutsu, and genjutsu.
@@ -57,7 +56,7 @@ The jutsu's base Speed. As a reminder: No action can have its Speed reduced by m
 The jutsu's base seal speed.
 
 ###### Special
-Any special effects the technique has. If a status effect is listed here, it's inflicted automatically.
+Any special effects the technique has.
 
 ###### Status Roll
 Status effects listed here are applied by a status roll, which is ordinarily an opposed roll, with the user rolling their Chakra Control against a Resistance roll of anyone hit.
@@ -65,8 +64,70 @@ Status effects listed here are applied by a status roll, which is ordinarily an 
 ###### Requires
 Some techniques have special requirements (such as having learned another jutsu, or a certain amount of gallons of water be available for use), which will be listed here.
 
+###### Tags
+Various repeated qualities certain Jutsu might have are included here, with descriptions found below.
+
 ###### Effects
 Any special characteristics of a technique which aren't covered by one of the above categories are listed here.
+
+## Tags
+Tags are simply descriptors which refer to qualities certain Jutsu have which can be found repeatedly and follow (mostly) the same rules.  Some Tags are simply Action Qualities, as described in the Combat chapter (such as Interrupt, or Area of Effect).  Other effects, typically those relevant only to Jutsu, may be listed here.
+
+##### Area of Effect
+Area of Effect jutsu target an area, rather than a specific person, and as such have different rules, which can be found in the Combat chapter.
+
+##### Blunt, Slashing, Piercing, Energy
+These tags indicate which category of Wound a jutsu inflicts, if it happens to do so.  Most attacks will have of these tags; those with more than one will state in their Effects listing any special rules for determining Wounds.
+
+#### Clone
+By default, all Bunshin follow the same basic rules listed in the Bunshin no Jutsu technique (see [here](https://anchorsify.github.io/projects/GeneralNin/#e-rank)). More advanced types of Bunshin than that exist, however, and changes to how they operate are clarified here:
+
+ - Bunshin, unless stated otherwise, can act on the IC after they were created. If they were created before the initiative, then they use your initiative roll to determine when they can first act.
+
+ - Bunshin (of any type) can never make Bunshin (of any type).
+
+ - Clones can only perform actions listed in their action options (which means only Moku and Kage Bunshin could perform actions such as Meditation), though you can spend AP to reduce their speeds. Bunshin act on their own IC, separate from their creator, and using them does not increase the user's IC unless explicitly mentioned. 
+
+ - As they are separate entities, they do not benefit from any jutsu you use that designates you. They would also count as individual entities for jutsu that can target/avoid a set number of targets. Any bunshin that can take actions (such as through the use of AP, or being independent) can talk. Bunshin that can not take actions cannot.
+
+ - All Bunshin that state they can dodge or parry can do so without you having to pay AP for them to defend themselves, though doing so advances their IC like normal (and may require AP be spent to reduce their Dodge or Parry speed against particularly low-speed attacks). Anything beyond either of those two actions incurs their normal costs (both with appropriate Fatigue rolls and AP costs depending on the Speed and the type of Bunshin used). 
+ 
+ - Bunshin do not generate AP on their own or from other effects that would ordinarily generate AP (such as opening Gates) under any circumstance, though you may spend AP to pay for any costs associated with any action they take (such as Kawarimi).
+ 
+ - Bunshin which can act independently (Wood and Shadow) can fight without their creator, and in such instances, do not generate or require AP to be spent for their actions, but can otherwise act normally.  If their creator ever joins such a combat, they revert to their normal behavior (of requiring AP for their actions, but also then having AP to spend, from their creator's pool).
+ 
+ - Effects based upon consecutive actions (such as Tsuga, or Relentless, or Combos) are tracked separately for each bunshin (and accordingly, separately from you), and you do not gain any bonuses (or penalties) associated with their actions.
+
+ - Bunshin which have their own Fatigue are created as a Fatigue 1 version of you, with all the normal benefits and penalties, along with all status effects present on you at the time of their creation.  Bunshin which specify they have their own Fatigue and pay their own costs accordingly can take on their own Upkeeps, otherwise, you pay all their Fatigue costs (all Stamina and Chakra Exhaustion rolls they make, or are forced to make), and take on any Upkeeps from actions they perform. Bunshin which have their own Fatigue can never use the medical ninjutsu Vital Repair or Mystic Palm (including Wood and Shadow clones).
+ 
+ - Should a Bunshin that can make their own Fatigue rolls fail a Stamina or Chakra Exhaustion check badly enough that it would bring them one or more levels of fatigue beyond the point at which it would normally destroy itself, the technique fails outright in addition to the clone destroying itself. This is effectively just an extension of the normal rules of what happens when someone knocks themselves too far unconscious from the costs of one technique.
+
+ - All attacks made by Bunshin are considered to be Held Back at its maximum rank, as per the ability in Chapter 5, even if you do not have the Hold Back ability. This means they use only half your damage bonus for dealing damage, and the severity of wounds they inflict is reduced by one category. If for some reason you acquire an "S-Rank" jutsu which a Bunshin performs (Naruto..), it, too, is still Held Back.
+
+##### Contact
+Contact effects apply whenever you are struck by a basic unarmed attack, an unarmed taijutsu attack, a combo jutsu attack, or a grapple jutsu attack.  Likewise, any Jutsu with a range of Touch or Melee qualify for such effects.  Some on-contact effects will also have broader definitions of what constitutes Contact (such as a Kaguya's Bone Spurs), in which case you use this tag's listing and the individual effect's listing to determine what qualifies as Contact.
+
+##### Ground
+This simply denotates that an effect originates and takes place in, on, or under the ground; effects which deflect or interact with projectiles (such as many ninjutsu-based defenses) are likely to be ineffective against Ground-tagged attacks, assuming they don't also have the Projectile tag to qualify for them.
+
+##### Environmental
+Environmental effects are typically things which modify the battlefield, rather than a specific person, and typically persist beyond the IC in which they're used (though some which can be 'set off', as is the case with several Katon Environmental effects, may not end up doing so).  Environmental effects *do* have an accuracy and allow a defensive interrupt response, but it's quicker to skip accounting for either if those caught within the Environmental effect are going to continue to be within it after its initial placement (which is true of most environmental effects, though not all), because a successful defense does not ordinarily move you from your position, which would leave you affected by it regardless of your roll.  Thus, while you could 'dodge' a Dokugiri as it's placed, you are still within its Poison Cloud regardless of your dodge roll, and would thus be affected by it until you escape its area.  Environmental effects which do not persist, however (such as a Katon Mist Blaze Dance that immediately detonates due to where it's placed), could be defended against normally, potentially avoiding their effects.
+
+#### Nintaijutsu
+Weapons and ninjutsu that empower taijutsu have a few special effects. First, when created they count as ninjutsu (for cases of chakra rolls and the like), however, when attacking they count as taijutsu. This means they do not gain the bonuses from things such as specialist which empower ninjutsu, but would gain it from taijutsu.  They do count as their element when opposing different elements, however, which applies to advanced elements effects as well. Created weapons only count for their element against elemental defenses; they do not gain any of the other benefits of being dual-element.  
+
+This means that they **DO. NOT. GET. ANY.** of the listed bonuses from their unique element when making attacks with weapons created by their element, or when enhanced by an Upkeep of their element (such as Doryu Ken, or Chakra Flow), or when a link jutsu of their element is added to a taijutsu attack. Likewise, they *DO. NOT.* apply any status effect based on their element (such as Frostbite) when making a taijutsu attack enhanced by such a weapon, upkeep, or link.
+
+Additionally, elemental weapons may only have chakra flow of their element used on them (for example, a water sword could not have a wind chakra flow). This does mean a dual-element weapon can use either elemental flow: an ice water sword could use wind or water chakra flow.
+
+For jutsu such as Four Seasonal Wind Palm, which enhance taijutsu, this can cause them to lose the benefits of the jutsu (such as enhanced blocking penetration), unless the element they turned it into had a similar benefit of the same type (for example, Ice retains the 25% block reduction, while Scorch would outright ignore blocking).
+
+In the case of using Ninjutsu of multiple elements at once (such as a Raisen and Housenka both being added to a Multithrow), the attack is considered to have an elemental nature of all included elements (in the prior example it'd be Lightning and Fire), and the defender can choose which attack type is more favorable to them based on their defense choice (it could be considered a Raiton attack for Wind Turtle Shell, or a Katon attack for Ocean Shield).
+
+Lastly, any attack utilizing an Elemental Nintaijutsu (be it a weapon creation jutsu, or a link) can not have Poisons of any kind applied to them; doing so simply wastes the dose(s) of Poison applied, which lose their potency and are still considered spent.  
+
+##### Projectile
+A generic tag describing things that are thrown, fly through the air, or otherwise *are* projectiles in some form or fashion, whether it is a cutting wind or a bolt of lightning, the majority of ninjutsu attacks are considered projectiles, though not all.  Many effects are specific in that they relate to, or affect, projectiles in some fashion, in which case you check for this tag to see if they qualify.
 
 ## Taijutsu
 Taijutsu is more than just hand-to-hand combat; these techniques go well beyond the realm of what's possible for normal humans, smashing rocks and the like. It's not exactly... easy. There are three ways to qualify to learn a taijutsu technique: the first is your rank in the Athletics skill. If you're in good enough physical condition, you can pull off some pretty impressive things. The second, Research skill rank, sufficient understanding of how the move should be executed allows you to make up for your shortcomings.
@@ -201,44 +262,6 @@ Fuuinjutsu, or sealing techniques, are, as the name suggests, techniques which u
 Many sealing techniques have "Range: Touch", and accordingly, must touch someone to take effect. As a reminder, Jutsu which have such ranges use the user's Taijutsu Accuracy and, accordingly, can be parried as if they were an unarmed attack. Unique to Sealing techniques is that, by default, opponents hit by them have no cause to suspect anything is amiss: When you hit someone with one such seal, make an opposed Espionage roll, with you gaining +10 to your roll. If you succeed, your opponent has no cause to suspect anything is amiss or that you did anything more than tap them until the seal's effects themselves take place. Even if you fail this roll, the target can't immediately identify which seal was placed upon them unless they can see chakra and are themselves trained to use Fuuinjutsu; someone who can see Chakra simply knows a seal has been applied, but not what it is, and some seals are undetectable even by Doujutsu, listed in their individual entries.
 
 Several seals have long-term effects which last until the seal itself is removed (potentially lasting long past the user's own death), and as such, there are a limited amount of Seals any Fuuinjutsu user can maintain at one time: You can only maintain up to your maximum Willpower in Seals which indicate they are "Exclusive" at one time. Using another Exclusive seal when you are already at your limit for Exclusive Seals causes your oldest most Exclusive Seal to fade harmlessly automatically. You can undo your own Exclusive seals by touching the person (or object) the seal is placed upon and concentrating to undo the seal, a Speed 5 action in combat with no associated cost.
-
-#### Created weapons, enhanced attacks and you!
-Weapons and ninjutsu that empower taijutsu have a few special effects. First, when created they count as ninjutsu (for cases of chakra rolls and the like), however, when attacking they count as taijutsu. This means they do not gain the bonuses from things such as specialist which empower ninjutsu, but would gain it from taijutsu.  They do count as their element when opposing different elements, however, which applies to advanced elements effects as well. Created weapons only count for their element against elemental defenses; they do not gain any of the other benefits of being dual-element.  
-
-This means that they **DO. NOT. GET. ANY.** of the listed bonuses from their unique element when making attacks with weapons created by their element, or when enhanced by an Upkeep of their element (such as Doryu Ken, or Chakra Flow), or when a link jutsu of their element is added to a taijutsu attack. Likewise, they *DO. NOT.* apply any status effect based on their element (such as Frostbite) when making a taijutsu attack enhanced by such a weapon, upkeep, or link.
-
-Additionally, elemental weapons may only have chakra flow of their element used on them (for example, a water sword could not have a wind chakra flow). This does mean a dual-element weapon can use either elemental flow: an ice water sword could use wind or water chakra flow.
-
-For jutsu such as Four Seasonal Wind Palm, which enhance taijutsu, this can cause them to lose the benefits of the jutsu (such as enhanced blocking penetration), unless the element they turned it into had a similar benefit of the same type (for example, Ice retains the 25% block reduction, while Scorch would outright ignore blocking).
-
-In the case of using Ninjutsu of multiple elements at once (such as a Raisen and Housenka both being added to a Multithrow), the attack is considered to have an elemental nature of all included elements (in the prior example it'd be Lightning and Fire), and the defender can choose which attack type is more favorable to them based on their defense choice (it could be considered a Raiton attack for Wind Turtle Shell, or a Katon attack for Ocean Shield).
-
-#### Bunshin
-By default, all Bunshin follow the same basic rules listed in the Bunshin no Jutsu technique (see [here](https://anchorsify.github.io/projects/GeneralNin/#e-rank)).
-
-More advanced types of Bunshin than that exist, however, and changes to how they operate are clarified here:
-
- - Bunshin, unless stated otherwise, can act on the IC after they were created. If they were created before the initiative, then they use your initiative roll to determine when they can first act.
-
- - Bunshin (of any type) can never make Bunshin (of any type).
-
- - Clones can only perform actions listed in their action options (which means only Moku and Kage Bunshin could perform actions such as Meditation), though you can spend AP to reduce their speeds. Bunshin act on their own IC, separate from their creator, and using them does not increase the user's IC unless explicitly mentioned. 
-
- - As they are separate entities, they do not benefit from any jutsu you use that designates you. They would also count as individual entities for jutsu that can target/avoid a set number of targets. Any bunshin that can take actions (such as through the use of AP, or being independent) can talk. Bunshin that can not take actions cannot.
-
- - All Bunshin that state they can dodge or parry can do so without you having to pay AP for them to defend themselves, though doing so advances their IC like normal (and may require AP be spent to reduce their Dodge or Parry speed against particularly low-speed attacks). Anything beyond either of those two actions incurs their normal costs (both with appropriate Fatigue rolls and AP costs depending on the Speed and the type of Bunshin used). 
- 
- - Bunshin do not generate AP on their own or from other effects that would ordinarily generate AP (such as opening Gates) under any circumstance, though you may spend AP to pay for any costs associated with any action they take (such as Kawarimi).
- 
- - Bunshin which can act independently (Wood and Shadow) can fight without their creator, and in such instances, do not generate or require AP to be spent for their actions, but can otherwise act normally.  If their creator ever joins such a combat, they revert to their normal behavior (of requiring AP for their actions, but also then having AP to spend, from their creator's pool).
- 
- - Effects based upon consecutive actions (such as Tsuga, or Relentless, or Combos) are tracked separately for each bunshin (and accordingly, separately from you), and you do not gain any bonuses (or penalties) associated with their actions.
-
- - Bunshin which have their own Fatigue are created as a Fatigue 1 version of you, with all the normal benefits and penalties, along with all status effects present on you at the time of their creation.  Bunshin which specify they have their own Fatigue and pay their own costs accordingly can take on their own Upkeeps, otherwise, you pay all their Fatigue costs (all Stamina and Chakra Exhaustion rolls they make, or are forced to make), and take on any Upkeeps from actions they perform. Bunshin which have their own Fatigue can never use the medical ninjutsu Vital Repair or Mystic Palm (including Wood and Shadow clones).
- 
- - Should a Bunshin that can make their own Fatigue rolls fail a Stamina or Chakra Exhaustion check badly enough that it would bring them one or more levels of fatigue beyond the point at which it would normally destroy itself, the technique fails outright in addition to the clone destroying itself. This is effectively just an extension of the normal rules of what happens when someone knocks themselves too far unconscious from the costs of one technique.
-
- - All attacks made by Bunshin are considered to be Held Back at its maximum rank, as per the ability in Chapter 5, even if you do not have the Hold Back ability. This means they use only half your damage bonus for dealing damage, and the severity of wounds they inflict is reduced by one category. If for some reason you acquire an "S-Rank" jutsu which a Bunshin performs (Naruto..), it, too, is still Held Back.
 
 ## Genjutsu
 Genjutsu's not easy. In fact, genjutsu is really, really hard, even by the standards of other ninja techniques. Taijutsu and ninjutsu are both, after enough shinobi training, slightly intuitive; and, in the case of the latter, every ninja has an elemental affinity they can rely on to help them out even when they struggle overall. Not so with genjutsu. There is no such thing as an 'affinity' for it (though some ninja who seem to have an easier time learning it are occasionally described as such), and it takes a lot work to be able to use it effectively. The requirements for using Genjutsu of a given rank are listed below.

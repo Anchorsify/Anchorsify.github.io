@@ -224,7 +224,7 @@ You attack with a weapon in each hand! Impractical, but awesome. As might be exp
 - Requires: 40 DEX
 
 #### -=[ Monkey Grip ]=-
-By using extreme strength, chakra-based powers, and a cheerful disregard for physics, you are able to use twohanded weapons in one hand! Notably, this means they no longer benefit from their 50% increase in your damage bonus. At the second rank you can, if you have the Dual Wield ability, even dual wield two-handed weapons.
+By using extreme strength, chakra-based powers, and a cheerful disregard for physics, you are able to use twohanded weapons in one hand! Notably, this means they no longer benefit from their 25% increase in your damage bonus. At the second rank you can, if you have the Dual Wield ability, even dual wield two-handed weapons.
 
 - Base Cost: 30
 - Scale: 10
@@ -349,7 +349,7 @@ Once you get into a good rhythm, you find it easier and easier to maintain and k
 - Requires: +6 or higher bonus to Stamina rolls, without Fatigue bonuses
 
 #### -=[ Endurance ]=-
-Your extensive physical conditioning has given you an almost preternatural ability to shrug off damage. When you declare that your defensive interrupt is to Block, you may declare it as an Endurance Block,reducing the damage dealt by an additional 10% at the first rank, or an additional 25% at the second rank. This may only be done once every 30-(RES/10) IC.
+Your extensive physical conditioning has given you an almost preternatural ability to shrug off damage. When you declare that your defensive interrupt is to Block, you may declare it as an Endurance Block, reducing the damage dealt by an additional 10% at the first rank, or an additional 25% at the second rank. This may only be done once every 30-(RES/10) IC.
 
 - Base Cost: 25
 - Scale: 10
