@@ -168,6 +168,7 @@ You cause a long stretch of nearby ground to become mud and slide your opponents
  - Speed: 16
  - Seal Speed: 16
  - Tags: Blunt, Area of Effect, Ground
+
 Effects: This moves anyone hit by it to the end of the line in the direction the river 'flows': the line originates from you, but can flow out to knock opponents back, or toward, to push them closer. Everyone receives a Stun equal to how many yards they move -6; blocking results in no Stun. If this is blocked by an effect which halts its progress (such as Earth Shore Return), nobody behind that effect is affected (or pushed).
 
 #### --( Doroku Gaeshi - Earth Shore Return )--
