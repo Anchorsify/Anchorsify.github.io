@@ -46,11 +46,11 @@ Effects: Liquifying is a Speed 5 Interrupt (which does not require a roll to suc
  - You cannot block Doton or Raiton.
  - You take +50% damage from Raiton, and any Shock status effects they apply also inflict you with a Stun of twice their severity.
  - You are immune to all non-Energy-wound dealing Taijutsu, and medical ninjutsu (except for Ranshinshou).
- - Taijutsu enhanced by Ninjutsu (such as a weapon created by ninjutsu, or enhanced by Chakra Flow) deal damage based on their respective element.
+ - Nintaijutsu deal damage based on their respective element.
  - You are immune to, and do not suffer the penalties of existing, Wounds.
  - You can breathe underwater.
  - Your Physical Damage Bonus is set to 0.
- - You cannot be grappled (or grapple other people), and ignore Immobilization penalties and effects which work by restraining or caging you.
+ - You cannot grapple or be grappled, and ignore non-Internal Immobility Penalties and effects which work by restraining or caging you.  
  - You always have an additional 10+(Chakra Control ranks/2) gallons of water to use with Suiton techniques, which nobody else may access. If you figure out why, you get a cookie. This water is never used up, or considered to be added to the battlefield, and can not be utilized for techniques with an Upkeep, or for clones.
  - You cannot be burnt, poisoned, or ignited, and ignore the effects of those statuses while in liquid form; their durations still decrease normally (and Ignite automatically ends).
  - You cannot open any Gates, do not gain any bonuses from having any Gates open and while liquified, you can’t generate or spend Gate-specific AP, nor do you suffer the normal Wounding chance. You regain all benefits of Gates once you solidify and do not have to re-open any Gates opened before liquifying, however.

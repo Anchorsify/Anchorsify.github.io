@@ -46,7 +46,7 @@ Large, elongated sections of chains with weighted ends shoot out of a scroll and
 
 Effects: You make a Ranged Taijutsu Attack. If you hit, this deals no damage but restrains the opponent, inflicting a -2 Immobilization penalty, increased by 1 per point your Accuracy exceeds their defensive roll, with a maximum of -7.
 
-The chains themselves are still attached to the scroll, and therefore sufficient movement on the part of the victim will reduce this penalty, lowering it by 1 per four yards moved. Alternately, they can try to just wrestle free as a Speed 6 action, rolling as the defender in a Grapple, with you replacing the normal STR/10 bonus with your CHA/10, plus the remaining Immobilization penalty from Attached Meteor.
+The chains themselves are still attached to the scroll, and therefore sufficient movement on the part of the victim will reduce this penalty, lowering it by 1 per four yards moved. Alternately, they can try to just wrestle free as a Speed 6 action, rolling as the defender in a Grapple with a penalty equal to their Immobility penalty from this technique, while you use your NDB in place of PDB.
 
 ## C-Rank
 #### --( Shikoku Fuuin - Finger Engraving Seal )--

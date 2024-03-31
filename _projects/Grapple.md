@@ -31,7 +31,7 @@ Effects: You are grappling your opponent. This is not inherently a huge advantag
  - Neither may Hide, or be hidden, from the other.
  - Neither needs to roll miss chance (such as from Clones) against the other.
 
-Certain situations within a grapple may call for a 'grapple check'. This varies depending on whether you are the attacker or defender: The Attacker rolls 1d20 + STR/10 + DEX/15, while the Defender rolls 1d20 + STR/10 + AGI/15.
+Certain situations within a grapple may call for a 'grapple check'. This varies depending on whether you are the attacker or defender: The Attacker rolls 1d20 + PDB + DEX/15, while the Defender rolls 1d20 + PDB + AGI/15, with both people rounding down their Damage Bonus to the nearest whole number (7.2 and a 7.9 both round down to 7).
 
 The person who initiated the grapple is considered the 'attacker', and may end it at will, at any time; the person who was grabbed is the 'defender', and may not. Unless specified otherwise, all Grapple Jutsu may only be used by the attacker. However, the defender has two options (beyond normal actions and attacks) available to them:
 
@@ -60,7 +60,9 @@ You use your head to hit someone else's head. Really, honestly, it's a highly te
  - Speed: 7
  - Special: Grapple-only
 
-Effects: This attack may be used by either the attacker or the defender in the grapple, but only against the other person, and can be used regardless of whether your hands are free. It automatically hits. If it causes a wound, that wound is automatically a head wound. Although the attacker does not take damage from doing this, if the damage they do would have caused them to be wounded, they will suffer that wound. For example, if you have 500 Vitality and Headbutt someone for 60 damage, you would take 0 damage and suffer a minor wound (for taking more than 10% of your Vitality in one hit).
+Effects: This attack may be used by either the attacker or the defender in the grapple, but only against the other person, and can be used regardless of whether your hands are free. It automatically hits. If it causes a wound, that wound is automatically a head wound.
+
+Although the attacker does not take damage from doing this, compare the damage dealt after all of the target's reductions: if the final damage dealt would be enough for them to have wounded themselves, they will suffer that wound. For example, if you have 500 Vitality and Headbutt someone for 60 damage (after all reductions), you would take 0 damage and suffer a minor wound (for taking more than 10% of your Vitality in one hit).  The attacker's own reductions (from Resilient, or DR) do not affect whether they are wounded this way, nor do any of the attacker's own changes to wound severity (both percentage and severity changes) affect the wound they inflict on themselves.
 
 ## D-Rank
 #### --( Throw )--
@@ -94,7 +96,7 @@ You get behind an opponent and put an arm around their neck. For what's a fairly
  - Stamina: 10
  - Speed: 8
 
-Effects: You lose the ability to use one of your arms, and your opponent suffers a -4 immobilization penalty, as well as a -2 penalty to all their grapple rolls. For the duration of the headlock, the victim's Stamina rolls have a -4 penalty. Additionally, any jutsu or effects that require them to aim with their mouth (such as breathing fire or spitting out needles) have a -5 strike penalty.
+Effects: You lose the ability to use one of your arms, and your opponent suffers a -4 immobilization penalty, as well as a -2 penalty to all their grapple rolls. For the duration of the headlock, the victim's Stamina rolls have a -4 penalty. Additionally, any jutsu or effects that require them to aim with their mouth (such as breathing fire or spitting out needles) have a -5 Accuracy penalty.
 If you lose control of the grapple, these effects end.
 
 #### --( Choke Hold )--

@@ -132,7 +132,7 @@ Effects: When you activate this jutsu, a deployed Swarm becomes single-mindedly 
 
 You can have the Swarm make a basic attack (dealing the listed damage above) for X/2 AP, or you can choose to have the Swarm perform any Grapple Jutsu you know, paying AP equal to its base Speed.  So long as the Swarm is able to maintain melee range with their target, the Swarm is considered to be Grappling the target and in control.  Rather than making Grapple rolls to escape, the Target must move far enough away to break melee range with the Swarm to be considered ‘free’ of the Grapple.
 
-The Swarm is immune to the Grappled condition itself, however, and both the Swarm and the Target do not have their Movement speed reduced for being in a Grapple (though the Target could still have their movement speed reduced from individual Grapple Jutsu, such as a Leg Lock), nor do they suffer the normal penalties associated with being Grappled; the Swarm merely gains the benefits of being considered in a Grapple with the target and in control if it’s beneficial for them. The sole exception to the above is that if they are using this special Grapple with someone who is suffering from an Ignite status, it harms the Swarm following normal Swarm rules and can reduce the Swarm’s size (potentially to 0, ending this jutsu) as a result.  If a Grapple Check is ever required for a Grapple Jutsu they perform (such as from Tiger Drop), the Swarm uses your CHA instead of STR.  The Swarm is considered to have unlimited limbs.
+The Swarm is immune to the Grappled condition itself, however, and both the Swarm and the Target do not have their Movement speed reduced for being in a Grapple (though the Target could still have their movement speed reduced from individual Grapple Jutsu, such as a Leg Lock), nor do they suffer the normal penalties associated with being Grappled; the Swarm merely gains the benefits of being considered in a Grapple with the target and in control if it’s beneficial for them. The sole exception to the above is that if they are using this special Grapple with someone who is suffering from an Ignite status, it harms the Swarm following normal Swarm rules and can reduce the Swarm’s size (potentially to 0, ending this jutsu) as a result.  If a Grapple Check is ever required for a Grapple Jutsu they perform (such as from Tiger Drop), the Swarm uses your NDB in place of PDB.  The Swarm is considered to have unlimited limbs.
 
 While this Jutsu is being maintained, the Swarm used in this Technique can not be used for any other action (drain, defending, creating clones, etc) until the technique is dismissed.
 
@@ -554,7 +554,7 @@ Another offensive use of the Hyuuga's ability to release chakra from his tenkets
  - Speed: 10
  - Requires: Byakugan Active
 
-EffectS: If used in a grapple, you and the person you’re grappling both make a Grapple Check; X is how much, if any, you fail the roll by. The grapple immediately ends, and you attack your grappler with Jyuuken for free (though it is defended against at its normal Speed, which can be reduced by AP, if you wish).  If they take any damage from the attack, they’re knocked back CHA/15 yards away from you.
+EffectS: If used in a grapple, make a grapple check against those grappling you, using your NDB in place of PDB; X is how much, if any, you fail the roll by. The grapple immediately ends, and you attack your grappler with Jyuuken at the same time (though it is defended against at its normal Speed, which can be reduced by AP, if you wish).  If they take any damage from the attack, they’re knocked back CHA/15 yards away from you.
 
 You can also use this Jutsu to end any effect which restrains you externally, from being tied up with ropes, to being trapped inside a Water Prison, or Immobilized by a Clay Bullet. If used against a Jutsu, X is that technique’s Upkeep (if it has one) or Immobilization penalty (if it has both, use the higher of the two). Otherwise, X is zero.
 
@@ -600,22 +600,22 @@ The Akimichi, Nara, and Yamanaka clan have always enjoyed a special relationship
 The Nara extends their shadow and links it to another person (or their shadow) and links themselves to a target, which gives the Nara total control over their target’s movement and actions for as long as the connection can be maintained.  The control requires a lot of chakra, however, and targets can eventually break free with sustained resistance.
 
  - Type: Ninjutsu, Rank D
- - Chakra: 12 + X * 2
+ - Chakra: 12 + X * 4
  - Range: CHA/8
  - Upkeep: 5
  - Speed: 15
  - Seal Speed: 6
 
-Effects:  X is the number of times you’ve previously used this jutsu in the present battle. You gain control over your target’s actions, and while you maintain this jutsu’s Upkeep, they can take no action which requires physical movement or control of their own body (including, and up to, being unable to Rest), save for talking; however, your target can try to resist your control.
+Effects: X is the number of times you’ve previously used this jutsu in the present battle. You gain control over your target’s actions, and while you maintain this jutsu’s Upkeep, they can take no action which requires physical movement or control of their own body (including, and up to, being unable to Rest), save for talking; however, your target can try to resist your control.
 
 While caught, the following effects apply:
- - They can not move, however if you move, they move in a way that is mirrored to you; if you move toward them, they move toward you.  If you turn left, they turn right, etc. However, if you move (or are forced to move) away from them beyond double this jutsu’s range (making it CHA/4, normally), your shadow is severed from them and this jutsu ends.
+ - They can not move, however if you move, they move in a way that is mirrored to you; if you move toward them, they move toward you.  If you turn left, they turn right, etc. However, if you move (or are forced to move) away from them beyond double this jutsu’s range, your shadow is severed from them and this jutsu ends.
  - They can not take actions, but you can make them perform any Taijutsu which you know, use any weapon or item they have, and any Ninjutsu or Genjutsu which you both know.  You can make them perform any mundane task, including forcing them to disarm themselves.  They pay the Fatigue costs for any actions you make them perform, though you must perform the same action.  If you make them perform an attack, their attack uses your Accuracy, rather than their own.
  - If you attack them, they use the same attack against you, though you can use a Large weapon to attack them without being hit if they have a non-Large weapon (or none), and any non-Small weapon to attack without being hit if they have a Small weapon (or none).  You can perform any Ninjutsu or Genjutsu you know against them, though if they know the same technique, they perform it as well, directed at you.
  - You can also attack someone else and make them attack the same target as you, at the same time, with a -3 to their Accuracy.
  - Anytime you make them perform an action, your IC is advanced by the appropriate amount, and theirs is not.
  - Anytime someone you’re controlling is attacked, you can partially relax the technique long enough for them to defend themselves, or maintain control and force them into taking no defensive action in response.  If you choose the latter option, they immediately get a roll to attempt to break free, with a +5 bonus.  Success means they are freed from this Jutsu and can defend themselves from the attack aimed at them, though it is considered a Surprise Attack against them.
- - Anyone caught by this technique can, as a Speed 10, Stamina 5 action, attempt to break free as a Grapple Check, rolling as the defender in a Grapple with a +X * 4 vs your grapple check, using your CHA/8 in place of STR/10; standard grapple bonuses apply to both.  Every attempt by someone caught to break free grants a cumulative +1 bonus.
+ - Anyone caught by this technique can, as a Speed 10, Stamina 5 action, attempt to break free as a Grapple Check, rolling as the defender in a Grapple.  You use your NDB in place of PDB, with a +(8 - X * 4) modifier.  Every attempt by someone caught to break free grants a cumulative +1 bonus, which is reset whenever Kagemane ends.
 
 #### --( Kagemane Shuriken no Jutsu - Shadow Imitation Shuriken Technique )--
 By infusing a weapon with their Chakra before throwing it, a Nara can take control of the weapon’s shadow and manipulate it from a distance, allowing them to attach the weapon’s shadow to an enemy’s, who is then anchored to the weapon.  While not very useful in melee, it makes for excellent battlefield control that can turn a failed attack into a window of opportunity.
@@ -625,10 +625,11 @@ By infusing a weapon with their Chakra before throwing it, a Nara can take contr
  - Speed: 8
  - Special: Interrupt
 
-Effects: This can only be done immediately after you miss with a thrown ranged weapon attack (or multi-throw); compare your Ninjutsu Accuracy with a +4 bonus against the defense that you just missed.  If you then hit, you deal no damage or effects based on the original attack (you still missed), but you apply a -2 Immobilization Penalty to your intended target as you attach the thrown weapon’s shadow to theirs.
-They are then anchored to the thrown weapon (which is assumed to have landed at their feet), and to free themselves (and end the Immobilization) they must wrestle free as a Speed 6 action, rolling a Grapple Check (as the defender) against you (as the attacker), using your CHA in place of STR with a penalty to their Grapple Check equal to their Immobilization penalty; bonuses to grapples apply to both.  Alternatively, they can just move far enough away from the anchor point that the shadow breaks, reducing the penalty by 1 every ten yards away from the anchor point they move.
+Effects: This jutsu can be used as interrupt in response to missing with a thrown ranged weapon attack (or multi-throw); compare your Ninjutsu Accuracy with a +4 bonus against the defense that you just missed.  If you then hit, you deal no damage or effects based on the original attack (you still missed), but you apply a -2 Immobilization Penalty to your intended target as you attach the thrown weapon’s shadow to theirs.
 
-If used on a target already anchored by this jutsu’s effect, you can choose to make use of it on someone even if you hit them with a thrown ranged weapon attack, and the Immobilization Penalty stacks with itself to a maximum of -6.  A successful Grapple Check by someone anchored with this jutsu completely clears their Immobilization Penalty.
+They are then anchored to the thrown weapon (which is assumed to have landed at their feet), and to free themselves (and end the Immobilization) they must wrestle free as a Speed 6 action, rolling a Grapple Check (as the defender) against you (as the attacker), jwith you using your NDB in place of PDB.  They take a penalty to their grapple roll equal to the Immobility penalty from this technique. A successful grapple check by someone anchored by this technique completely clears their Immobility penalty. Alternatively, they can just move far enough away from the anchor point that the shadow breaks, reducing the penalty by 1 every ten yards away from the anchor point they move.
+
+If used on a target already anchored by this jutsu’s effect, you can choose to make use of it on someone even if you hit them with a thrown ranged weapon attack, and the Immobility Penalty stacks with itself, to a maximum of -6.
 
 #### --( Kage-Kubishibari no Jutsu - Shadow-Neck Binding Technique )--
 Using the Nara’s connection to someone else’s shadow, they use their shadow control to expand a tendril of shadow up to a target’s neck, typically taking the shape of actual hands and fingers, to strangle and injure someone they have caught.
@@ -684,7 +685,7 @@ Effect: You can use your shadow tendrils to grab onto things (or people) or atta
  - *Bind (Variable AP)* - You can have your Shadows use any Grapple jutsu you know.
  - *Attack (Variable AP)* - Using a weapon it is holding or can get access to (including Multithrows).
 
-You pay 1 AP for every 2 Speed of the action you wish your Shadows to make, and can pay more AP to reduce the effective Speed of their action further if you wish.  You may use any of the above options at most once every 10 IC. You use CHA/8 in place of STR/10 for any Grapple checks your tendrils make, use CHA in place of STR or RES for determining damage, and use your NDB in place of PDB.  Your shadow tendrils are considered to have unlimited limbs for Grapples.
+You pay 1 AP for every 2 Speed of the action you wish your Shadows to make, and can pay more AP to reduce the effective Speed of their action further if you wish.  You may use any of the above options at most once every 10 IC. You use your NDB in place of PDB for damage and for grapple checks, with grapple checks receiving an additional +4.  You use CHA in place of STR or RES wherever appropriate otherwise. Your shadow tendrils are considered to have unlimited limbs for Grapples.
 
 ## Senju
 
@@ -808,9 +809,9 @@ You may perform Genjutsu without handseals; however, this requires direct eye co
 #### --( Yogengan - Eye of Prediction )--
 *Requires: Stage 2 Sharingan*
 
-Once per Fatigue level, you may declare use of this technique. It allows you to “take 10” on any defensive roll; rather than rolling 1d20, you treat it as if your result had been a 10.
+Once per Fatigue level, you may declare use of this technique alongside a defensive interrupt requiring a roll. It allows you to “take 10” on any defensive roll; rather than rolling 1d20, you treat it as if your result had been a 10.
 
-You may also declare your action as ‘Observe’, a variable-speed action similar to blocking, in that for its duration, when attacked you may choose to activate Yogengan against any attack directed against you (and not have it count as your one use for that Fatigue level).
+You may also declare your action as ‘Observe’, a Variable Speed Action similar to blocking, in that for its duration, when attacked you may choose to activate Yogengan against any attack directed against you (and not have it count as your one use for that Fatigue level).
 
 Notably, this does not work with spending Willpower, which overrides (and does not combine with) this effect.
 
@@ -851,7 +852,7 @@ Members of the Yamanaka clan enjoy close relations with their Nara and Akimichi 
 #### --( Sasayaki Kantoku no Jutsu - Whispering Oversight Technique )--
 A recent creation by the Yamanaka that has since become a staple of its Genin, this was developed because their secret techniques, despite their seemingly subtle nature, are quite overt and obvious to anyone under their effects.  This technique allows the Yamanaka to see through the eyes of their target; as it lacks any visual cues, victims are typically left completely unaware it’s been used.
 
- - Type: Ninjutsu, Rank D
+ - Type: Genjutsu, Rank D
  - Chakra: 10
  - Upkeep: 2
  - Range: 50

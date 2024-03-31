@@ -38,7 +38,7 @@ Every action a player can take has a given Speed associated with it. When they t
 
 For example, if you use a Speed 6 action on IC 5, your action will be resolved then and there. After it finishes, combat will progress to IC 6, other people will take their turns, and so on, until IC (5+6 =) 11 is reached, when you will be able to act again.
 
-Some effects may lower an action's Speed. No matter how many such effects are applied, no action's Speed may ever go below half its original value, rounded up, and no action's Speed can be reduced below 3, which means that an action with a base Speed of 3 or lower may not have its Speed decreased at all. Interrupts are the sole exception to this: They can start below 3, and be reduced by half (rounded up), going lower than 3, though in such a case they can never be reduced below Speed 1.
+Some effects may lower an action's Speed. No matter how many such effects are applied, no action's Speed may ever go below half its original value, rounded up, and no action's Speed can be reduced below 3, which means that an action with a base Speed of 3 or lower may not have its Speed decreased at all.
 
 ### Simultaneous Actions
 If two people act on the same initiative count, both of their actions are declared and resolved simultaneously. Thus, you and your opponent will both fully declare and resolve your attacks (you can take turns doing so, for the sake of convenience), but not apply their effects until after you've both done so, at the very end of the IC. The exception to this is any Fatigue rolls which you must make during that IC: You roll and resolve them immediately in the midst of that IC, though you can choose to do so in any order. Penalties or changes from advancing a Fatigue level, however, do not apply to any other rolls for that IC (such as rolling a Dodge after you advanced a Fatigue level from your attack).
@@ -139,15 +139,18 @@ That can be confusing, so, it's example time! So you roll a 14 on your dodge, ag
 With regards to defensive jutsu: Partial success typically applies to any jutsu which works similar to a dodge or parry. That is, you make a d20 roll, and if successful the attack you are defending against does not hit you. However, if the technique has another effect (such as make a d20 roll, and if you succeed you reduce the attack's damage by a set amount), partial success does not apply. Exceptions to this will be noted otherwise in the individual technique's description.
 
 ### Damage Reduction
-Some effects, such as uniques and clan abilities, provide Damage Reduction (DR). This reduces incoming damage directly: if you have 10 DR, and an attack does 100 damage, you would only take 90 damage from it. Damage Reduction does not apply against status effects.
+Some effects, such as uniques and clan abilities, provide Damage Reduction (DR). This reduces incoming damage directly: if you have 10 DR, and an attack does 100 damage, you would only take 90 damage from it. Damage Reduction does not apply to status effects, nor does it apply to any effect which does not actually deal damage to you.
 
 ### Mitigation Order
 As it's inevitable that you will have multiple ways to reduce damage when hit, you apply effects in the following order:
-1. Partial Success (as from Dodge, Parry) if applicable
-2. Actual DR.
-3. Any other static number-based (e.g., "5") reductions in damage (such as Domu).
-4. Blocking
-5. Any other percent-based (e.g., "10%") reductions of damage.
+
+1. Attacker's modifications to damage, applied additively.
+2. Partial Success (as from Dodge, Parry) if applicable
+3. Damage Reduction.
+4. Blocking.
+5. Any other percent-based (e.g., "10%") reductions of damage, applied additively.
+
+"applied additively" means that the various methods of increasing or decreased your damage by a percentage are added/subtracted as a single value, rather than multiplying off of one another: An increase of your DB by 25% and one-third would yield (DB * (1+0.25+0.33) = DB * 1.58, while a Taijutsu Specialist using Sudden Attack 2 would yield a (base dice + DB * Speed)*(1.0+0.1-0.2), or a *0.9, damage modifier.
 
 ### Action Qualities
 Some actions operate differently to others, or can be used in special ways that are otherwise distinct.  Below is the most common types of qualities you might see given to certain attacks and defenses to be aware of, though individual jutsu or abilities might list their own unique properties in their individual entries.
@@ -176,7 +179,7 @@ Being able to interrupt is a special quality certain abilities and techniques ha
 
 You may use an interrupt if the Speed of the interrupt (and in the case of ninjutsu, Speed + modified Seal Speed) is half or less that of the action you're interrupting. This is one instance where you may use a ninjutsu with handseals without having performed the handseals as a prior action.
 
-The Speed (not, in the case of ninjutsu, counting Seal Speed) of the interrupt is added to your next action on the IC. Actions used as Interrupts with base Speeds of 3 or below may still be reduced to half (rounded up) of their base speed (normally, an action with a base Speed of 3 or lower cannot have its Speed reduced further).
+The Speed (not, in the case of ninjutsu, counting Seal Speed) of the interrupt is added to your next action on the IC. Unlike normal Actions, the base Speed of Interrupts can start below 3, and be reduced by half (rounded up), going lower than 3, though in such a case they can never be reduced below Speed 1.
 
 ### Delay
 Delay is not, properly speaking, an action in and of itself, but rather a quality certain actions have. For an example of how this might be written, an attack could have "Speed 12, Delay 4". This means that while it would be declared normally on your turn, its effects would take place 4 initiative counts later. The action may be aborted any time up to the last IC of the delay.

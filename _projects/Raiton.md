@@ -86,7 +86,7 @@ The user puts both hands together, forming a miniature thunder bolt between his 
  - Seal Speed: 10
  - Tags: Area of Effect
 
-Effects: Everyone in range (except you) is inflicted with a Stun (8+the amount they failed by) if they fail a status roll, during which time they're considered deafened, losing all ranks of the Enhanced Hearing ability, as well as any abilities based upon it (namely Blind Fighting and Genjutsu Awareness) for the duration. Victims of this technique gain +3 to the Resistance roll for every time they've defended against it in the same battle.
+Effects: Everyone in range (except you) is inflicted with a Stun (8+the amount they failed by) if they fail a status roll, to a maximum of 20. While stunned, they're also considered deafened, losing all ranks of the Enhanced Hearing ability, as well as any abilities based upon it (namely Blind Fighting and Genjutsu Awareness) for the duration. Victims of this technique gain +3 to their Resistance roll for every time they've defended against it in the same battle.
 
 #### --( Shinkei Attou no Jutsu - Nerve Overloading Technique )--
 You send a 'spark' of chakra into an enemy, stimulating any electrical chakra already in their system and sending them into several seconds of agonizing convulsions.
@@ -115,7 +115,7 @@ With a quick burst of lightning natured chakra, you force it through a metallic 
  - Chakra: +13
  - Speed: +4
  - Requires: Melee weapon
- - Tags: Nintaijutsu, Energy
+ - Tags: Nintaijutsu
 
 Effects: This technique acts as a link to any melee weapon attack, and allows the attack to bypass half the damage reduction of those hit by it, as well as adding one-third your NDB to its damage.
 
@@ -126,7 +126,7 @@ The ranged variant of Kaminari, Raisen charges a metallic thrown weapon with Rai
  - Speed:  +(4 + weapons thrown/4)
  - Requires: Large or Small Thrown Weapon(s)
  - Status: X Paralysis for 20 IC
- - Tags: Energy, Nintaijutsu, Projectile
+ - Tags: Nintaijutsu, Projectile
 
 Effects: This technique acts as a link to any thrown weapon attack, and allows the attack to bypass half the damage reduction of those hit by it. X is equal to the amount your Accuracy beats your opponent's defensive roll by, to a maximum of 3. Against defenses which are not rolled, or if the opponent elects not to defend, the maximum Paralysis is inflicted.
 
@@ -178,7 +178,7 @@ Alternatively, you may choose to target a Suiton technique used by someone else 
 Blinds opponents who don't know to close their eyes. Not affected by doujutsu which bypass visibility penalties, and may in fact temporarily shut them down.
 
  - Chakra: 17
- - Range: 12
+ - Area: 12
  - Speed: 8
  - Seal Speed: 10
  - Tags: Area of Effect

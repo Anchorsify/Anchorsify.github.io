@@ -110,6 +110,9 @@ Contact effects apply whenever you are struck by a basic unarmed attack, an unar
 ##### Ground
 This simply denotates that an effect originates and takes place in, on, or under the ground; effects which deflect or interact with projectiles (such as many ninjutsu-based defenses) are likely to be ineffective against Ground-tagged attacks, assuming they don't also have the Projectile tag to qualify for them.
 
+##### Internal
+Internal effects are things that, once you are affected by, can not be physically removed or contested in a way that would help; Poisons, regardless of their type, are considered to have the 'Internal' tag, and thus bypass effects which work only on external sources (such as Byakugan).  Often times when it comes to Internal effects you will require the aid of medical ninjutsu in order to meaningfully affect them, otherwise you may simply have to let them run their course.
+
 ##### Environmental
 Environmental effects are typically things which modify the battlefield, rather than a specific person, and typically persist beyond the IC in which they're used (though some which can be 'set off', as is the case with several Katon Environmental effects, may not end up doing so).  Environmental effects *do* have an accuracy and allow a defensive interrupt response, but it's quicker to skip accounting for either if those caught within the Environmental effect are going to continue to be within it after its initial placement (which is true of most environmental effects, though not all), because a successful defense does not ordinarily move you from your position, which would leave you affected by it regardless of your roll.  Thus, while you could 'dodge' a Dokugiri as it's placed, you are still within its Poison Cloud regardless of your dodge roll, and would thus be affected by it until you escape its area.  Environmental effects which do not persist, however (such as a Katon Mist Blaze Dance that immediately detonates due to where it's placed), could be defended against normally, potentially avoiding their effects.
 
@@ -206,9 +209,9 @@ You only need to meet one of those requirements for a given jutsu rank to learn 
 
 ##### Chakra Control:
  - D: 4
- - C: 10
- - B: 20
- - A: 30
+ - C: 15
+ - B: 25
+ - A: 35
 
 ##### Research:
  - D: 7

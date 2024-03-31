@@ -56,7 +56,7 @@ The shinobi of the world recognize five primary elements of chakra: fire, water,
 
 ##### 2. Shape Control
 #### -=[ Homing ]=-
-With precise chakra control, you can learn to curve and aim your ninjutsu in such a way to ensure they hit more effectively. You may give your damage dealing attack ninjutsu a bonus of +1 Accuracy per rank, by increasing the Chakra and/or Stamina cost(s) of the ninjutsu by 2 per +1 added. Ninjutsu with a range of Touch, and those which have an Area (e.g., are Area of Effect), can not have this ability applied to them, nor may Ninjutsu which are interrupts that turn into attacks (such as Sickle Wind, or Rising Phoenix Blast).
+With precise chakra control, you can learn to curve and aim your ninjutsu in such a way to ensure they hit more effectively. You may give your damage dealing attack ninjutsu a bonus of +1 Accuracy per rank, by increasing the Chakra and/or Stamina cost(s) of the ninjutsu by 3 per +1 added. Ninjutsu with a range of Touch, and those which have an Area (e.g., are Area of Effect), can not have this ability applied to them, nor may Ninjutsu which are interrupts that turn into attacks (such as Sickle Wind, or Rising Phoenix Blast).
 
 - Base Cost: 8
 - Scale: 4
@@ -689,7 +689,7 @@ Aside from the basics of health and biology, and how to stabilize a dying comrad
 - Limit: (Medicine - 5) /5, Max 3
 
 #### -=[ General Knowledge ]=-
-You know a little bit about everything, and a lot about a few things. Unfortunately, most of a ninja's abilities depend upon talent rather than knowledge. For those that don't, you've got an extra edge! You have +1 per rank to Medicine, Resistance, and Toxicology rolls.
+You know a little bit about everything, and a lot about a few things. Unfortunately, most of a ninja's abilities depend upon talent rather than knowledge. For those that don't, you've got an extra edge! You have +1 per rank to Medicine, Chakra Control, and Toxicology rolls.
 
 - Base Cost: 5
 - Scale: 2

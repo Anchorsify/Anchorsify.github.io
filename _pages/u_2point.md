@@ -45,7 +45,7 @@ Whenever you rest, your Chakra Exhaustion penalty is lowered by the same amount 
 ##### Bruiser
 You hit harder than you have any business doing. You may not be bulky and muscular, but you know how to use your weight and momentum.
 
-You add RES/30 to your physical damage bonus (to one decimal point, as usual), and STR/20 to all grapple rolls. You gain STR/5 Damage Reduction, and all your damage dealing Unarmed attacks gain Stun 2, or increase their existing Stun by 2.
+You add RES/30 to your physical damage bonus (to one decimal point, as usual). You gain STR/5 Damage Reduction, and all your damage dealing Unarmed attacks gain Stun 2, or increase their existing Stun by 2.
 
 *Upgrades From: Martial Prowess*  
 *Upgrades Into: Relentless*

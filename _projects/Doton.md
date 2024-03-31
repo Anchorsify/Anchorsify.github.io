@@ -95,7 +95,7 @@ Pushing your chakra into the ground beneath you, you pull up a ball of earth and
  - Status: Immobility 5
  - Tags: Blunt, Projectile
 
-Effects: Someone affected by this mud may, as a Speed 8 action, make a grapple roll (as the defender) against you (using your CHA/10 in place of STR/10) check to break free from the clay, reducing the penalty by 1 per point they beat your roll by.
+Effects: Someone affected by this mud may, as a Speed 8 action, make a grapple roll (as the defender) against you (using your NDB in place of PDB) check to break free from the clay, reducing the penalty by 1 per point they beat your roll by.
 
 #### --( Iwa Funsai Buin - Rock Smashing Staff )--
 You hold out your hands or similarly grab some nearby rock and create a large, blunt object from it! This is often a hammer or staff, but also could be stylized however you see fit. As we all know, getting hit with rocks hurts, so this is rather painful.
@@ -130,7 +130,7 @@ An advanced variation of Bunshin no Jutsu, this jutsu creates solid clones made 
  - Requires: Bunshin no Jutsu
  - Tags: Clone
 
-Effects: These follow all the rules for regular bunshin, with the following exceptions: If a mud clone is hit by an unarmed attack, their attacker suffers a -4 immobilization penalty. If they are struck by a melee weapon, their attacker must make a grapple roll (as the defender), with your clone using CHA/10 in place of STR/10; if they fail, the weapon is stuck in the clone (which is exposed as a clone), and it must be wrested free from the clone's mud body as a Speed 5 action which allows another grapple roll with a +2 bonus for each prior attempt. 
+Effects: These follow all the rules for regular bunshin, with the following exceptions: If a mud clone is hit by an unarmed attack, their attacker suffers a -4 immobilization penalty. If they are struck by a melee weapon, their attacker must make a grapple roll (as the defender), with your clone using NDB in place of PDB; if they fail, the weapon is stuck in the clone (which is exposed as a clone), and it must be wrested free from the clone's mud body as a Speed 5 action which allows another grapple roll with a +2 bonus for each prior attempt. 
 
 Against ranged attacks, these clones can take 50 points of damage before being destroyed (and revealed as clones).
 
@@ -193,7 +193,7 @@ Your chakra being applied to your legs, you turn the ground below your feet into
  - Speed: 6
  - Seal Speed: 14
 
-Effects: You increase your AGI stat for the purposes of movement by CHA/2. You may choose to end this technique at any time, or as part of another Doton jutsu. If you end it as part of a jutsu, that technique gains a Stun equal to 2+(your ninjutsu damage bonus)/3, or increases its existing Stun by that much, from absorbing the mud used in this technique. This is incompatible with effects which increase your normal movement speed--such as the Runner ability, and Racing Thunder Technique. While Mud Wave is active, you do not receive their benefits.
+Effects: You increase your AGI stat for the purposes of movement by CHA/2. You may choose to end this technique at any time, or as part of another Doton jutsu. If you end it as part of a damage dealing Doton jutsu, that technique gains a Stun equal to 2+(your ninjutsu damage bonus)/3, or increases its existing Stun by that much, from absorbing the mud used in this technique. This is incompatible with effects which increase your normal movement speed--such as the Runner ability, and Racing Thunder Technique. While Mud Wave is active, you do not receive their benefits.
 
 #### --( Moguragakure no Jutsu - Hiding Like a Mole Technique )--
 Channeling your chakra into the ground below you, you turn the dirt or earth or rock into fine sand. It effects your entire body so you simply slide down quickly, but only making a tunnel big enough for one person. After digging your way down, you can sense everything going on above still, and can even cover the hole to make it seem like you never even burrowed away.

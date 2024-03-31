@@ -58,7 +58,7 @@ Usually considering a rude thing to do to someone, the user slams their fist int
  - Damage: (STR/10)d8
  - Speed: 14
 
-Effects: If it hits, the target's Stamina penalty is increased by 2, +1 per severity of wound it inflicts (3 at Minor, 4 at Major, and so forth).
+Effects: The target's Stamina penalty is increased by 2, +1 per severity of wound it inflicts (3 at Minor, 4 at Major, and so forth).
 
 #### --( Reppuu - Gale )--
 With alarming quickness you drop low to the ground and perform a full 360-degree sweeping kick that knocks opponents off their feet when they attempt to close in for an attack of their own.
@@ -120,7 +120,11 @@ After concentrating chakra in the user's legs, they leap high into the air and c
  - Area: 3 + PDB
  - Speed: 20
 
-Effects: Partial success does not apply to the actual target of this attack. Whether or not this technique hits or is successfully defended against, the target (and everyone else in its area) might still be hit by the shockwave of exploding earth all around them from the impact with the ground, which deals no base damage of its own, but applies this technique's (Speed * PDB) damage to anyone caught in the area, losing 10% of its damage per point it missed by (so missing by 2 has it deal (Speed * PDB * 0.8), for example). Successfully parrying the attack does not prevent the shockwave damage, though if someone is airborne, they can avoid this secondary damage (which is typically only applicable against flying puppets or a target knocked airborne by Kage Buyou). Most notably, this does mean that the intended target of this technique, if hit, takes full damage from the shockwave, in addition to the attack's full damage, as a single damage source (defenses and damage reduction applies only once to the combined damage, not separately against the hit and the shockwave).
+Effects: Partial success does not apply to this attack. Whether or not this technique hits or is successfully defended against, the target (and everyone else in its area) might still be hit by the shockwave of exploding earth all around them from the impact with the ground, which deals no base damage of its own, but applies this technique's (Speed * PDB) damage to anyone caught in the area. Succeeding in your defense reduces this damage by 10% per point you succeeded by (so a 20 dodge against an Accuracy 20 Tsukenyaku would avoid its base damage and cause you to take 100% of the Shockwave's damage as you succeeded by 0; a dodge roll of 25 against the same attack would cause you to take 50% of the Shockwave's damage).
+
+The shockwave still occurs if the attack is successfully parried (though its damage on the original target is mitigated based on how much it missed by as usual), though if someone is airborne, they can avoid this secondary damage (which is typically only applicable against flying puppets or a target knocked airborne by Kage Buyou). 
+
+Most notably, this does mean that the intended target of this technique, if they fail to defend, takes full damage from the shockwave, in addition to the attack's full damage, as a single damage source (defenses and damage reduction applies only once to the combined damage, not separately against the hit and the shockwave).
 
 #### --( Kage Buyou - Shadow of the Dancing Leaf )--
 The user lowers themselves to get underneath their opponent, and then knocks them into the air with a violent rising kick, leaping after them immediately after it to position themselves in the target's shadow.
@@ -169,7 +173,7 @@ You deliver a powerful, downwards palm blow to an opponent's stomach or the smal
  - Damage: (STR/8)d8
  - Speed: 20
 
-Effects: If it hits, its target immediately makes a Stamina 15 roll. If this hits a prone target, it also inflicts a Stun 12.
+Effects: The target is forced to make a Stamina 15 roll.  If the target is prone, it also inflicts Stun 12.
 
 #### --( Spinning Backfist )--
 With a burst of chakra to one of the user's legs, they spin around and extend an arm to knock an opponent senseless with the back of their fist. It's a powerful blow as it uses the weight and momentum of the user's entire body, but has an inherent weakness of losing sight of the enemy while spinning.

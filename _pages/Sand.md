@@ -174,7 +174,11 @@ Desert is some of the most difficult terrain to navigate, but the sand foxes do 
 - Scale: 5
 - Limit: DEX/20, max 4
 
-Effects: You reduce the severity of any Immobility or Visibility penalties on you by 1, per rank.  Additionally, you reduce the maximum Immobility penalty you can suffer from by 1 per rank (which is, as with Visbility Penalties, calculated after the reduction of its current severity, meaning a Yomi Numa would apply a -12 Immobility, reduced by up to 4 by Tenacity at its max rank, which would then be lowered to 6, for you).
+Effects:  You base penalties from Visibility and Immobility status effects as though they are one severity lower than they actually are, per Rank. This does not change the actual severity of the status you are affected by (for things such as Hiding if you are suffering from a -6 or higher Visibility status effect).
+
+Additionally, you reduce the maximum Immobility Penalty you can suffer from by 1 per rank.
+
+The reductions to penalties is applied after determining the maximum Severity you can be affected by (from this ability any other effect which modifies the maximum severity you can suffer from either status effect).
 
 #### -=[ Desert Ghosts ]=-
 In the world of shinobi, there is no such thing as hunter and hunted; one is both, at all times. The Juugo Suto are preeminently aware of this. That awareness, and their mentality of never taking their safety for granted, has led to no end of frustration for foreign shinobi trying to gauge the strength and frequency of Suna's patrols.
@@ -396,7 +400,7 @@ You add a singular prehensile appendage to the back of the puppet.  In addition 
  - Base Cost: 15
  - Limit: 1
 
-Effects: With this Upgrade, Immobilization Penalties the puppet suffers from are reduced by 1, its movement speed is increased by 10%, and it gains +3 to Grapple rolls, as well as having an additional limb for use in a Grapple, if beneficial.
+Effects: With this Upgrade, Immobilization Penalties the puppet suffers from are reduced by 1, its movement speed is increased by 10%, and it gains +1 to Grapple rolls, as well as having an additional limb for use in a Grapple, if beneficial.
 
 #### --( Trap Body )--
 This Upgrade modifies the puppet’s torso to have an elaborate series of wires and launchers which, when triggered, fire toward and wrap around a target, then quickly retract to pull them into the puppet’s body to capture them within it.
@@ -441,11 +445,11 @@ Any Fuuton or Doton technique can be converted to Jiton as a Chakra +5, Speed +0
 This is a status effect, applied to the Monkasei, representing their control over their element–in this case, metal-infused Sand–and the ease of which they can utilize it the more their chakra is infused into it.  While exhausting to maintain control over so much material, Monkasei have learned to turn a weakness into a strength, in the following ways.
 
 All values of X are based on your current Charge status:
-> X/2 to Chakra Exhaustion rolls for Jiton techniques
-> X/4 reduction to the base Speed of all Jiton Interrupt techniques, to a minimum of base Speed 2, ignoring normal limits.
-> -X/2 Seal Speed
-> -X/2 Delay (if it has any, to a minimum of 0).
-> Damage dealing Jiton have their dice that roll below X/4 rerolled once, up to a maximum of (die size/4).
+ - X/2 to Chakra Exhaustion rolls for Jiton techniques
+ - X/4 reduction to the base Speed of all Jiton Interrupt techniques, to a minimum of base Speed 2, ignoring normal limits.
+ - -X/2 Seal Speed
+ - -X/2 Delay (if it has any, to a minimum of 0).
+ - Damage dealing Jiton have their dice that roll below X/4 rerolled once, up to a maximum of (die size/4).
 
 The last benefit can be confusing!  So, for example, as long as your Charge was 4 or more, your Jiton Wind Cutter would have all of its damage dice rerolled once if they came up as a 1.  This can be done automatically if using the Dice Golem bot by adding ‘ro1’ to the damage dice calculation, meaning Wind Cutter would be typed as the following: (2d4ro1*5+ NDB * Speed).  Higher Charge levels than 4 would never increase Wind Cutter’s ability to reroll its dice above 1, because it is capped at (die size/4), rounding down, thus, 4/4 = 1.
 
@@ -456,7 +460,6 @@ So long as a Monkasei has access to some sort of solid ground (i.e., is not floa
  - Chakra: +5
  - Speed: +X
  - Seal Speed: +X
-
 
 Effects: This is used as a link with any Jiton technique which creates Sand; the technique creates triple the normal amount. X is based off of the Rank of the Jutsu (E=1, D=2, etc).  Thus, an E-rank Jiton would create six gallons of sand, instead of two, at Chakra +5, Speed +1, Seal Speed +1; a D-rank Jiton would create twelve gallons at Chakra +5, Speed +2, Seal Speed +2, etc.
 

@@ -38,7 +38,7 @@ The summoner secretes a thin layer of clear, slightly glossy liquid from their p
  - Speed: 10
  - Seal Speed: 10
 
-Effects: X has a maximum of half your NDB, rounded down. All offensive grapple rolls involving you, including ones to remain in control of a grapple, have a -X penalty; it does not matter whether you are making them, or the other person in the grapple. Similarly, any Immobilization penalties you suffer from for reasons other than poison are reduced by 2.
+Effects: X has a maximum of half your NDB, rounded down. All offensive grapple rolls involving you, including ones to remain in control of a grapple, have a -X penalty; it does not matter whether you are making them, or the other person in the grapple. Similarly, any non-Internal Immobilization penalties you suffer from are reduced by 2.
 
 While not particularly dangerous to living tissue (which is good, since the user is covered in it), this slime is highly corrosive to certain other materials. Any time a weapon strikes you, its damage dice are reduced by X/2, minimum 1; when they reach 0, the weapon is useless and breaks the next time it's used to attack anything.
 

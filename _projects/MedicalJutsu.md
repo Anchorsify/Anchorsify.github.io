@@ -154,9 +154,10 @@ Effects: The recipient has their ninjutsu and physical damage bonuses increased 
 #### --( Ranshinshou - Nervous System Derangement )--
 Upon making contact with the enemy, the user converts their chakra into actual electricity and sends it through the nervous system of the user. This disrupts the signals that are sent to the brain from the various limbs and muscles, making the wrong muscle flex or move when you try to say.. move your arm. In the end, you just flail on the ground.
 
-- Chakra: 36
-- Range: Touch
-- Speed: 16
+ - Chakra: 36
+ - Range: Touch
+ - Speed: 16
+ - Tags: Internal
 
 Effects: This inflicts an Immobilize 6, Paralysis 6, and Shock 6. Unlike normal, these status effects do not fade naturally over time, and instead require the target to spend 10 AP to decrease all three status effects by 1 as a Speed 5 action.
 

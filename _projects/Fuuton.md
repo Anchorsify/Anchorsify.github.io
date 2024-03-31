@@ -255,18 +255,22 @@ You unleash a wave of chakra converted into gale-force winds, knocking away ever
  - Seal Speed: 14
  - Tags: Area of Effect, Environmental
 
-Effects: Every IC, everyone in the technique's radius is pushed 1 yard away from you, towards its edge. Effects which reduce knockbacks do not prevent this movement, though any effect which anchors someone to a point will. You can not be grappled while this technique is active, and any grapples you were in immediately end. All Raiton and ranged taijutsu attacks within this area have their damage reduced by 20%. However, all Fuuton have +3 Accuracy, and all Katon deal +15% damage. These effects apply to any jutsu originating inside, passing through or targeting someone within the area.
+Effects: Every IC, everyone in the technique's radius is pushed 1 yard away from you, towards its edge. Effects which reduce knockbacks do not prevent this movement, though any effect which anchors someone to a point will, as does any Immobility penalty someone is suffering from, reducing their movement by 0.1 per severity (meaning that, at Immobility 2, you would be pushed bac 0.8 yards per IC: 0.8 after one IC, 1.6 after two IC, etc).
+ 
+All Raiton and ranged taijutsu attacks within or passing through this area have their damage reduced by 20%. Fuuton you use against those within the area have +3 Accuracy, though you deal 15% less damage with Katon, and take 15% more from Katon.
 
 #### --( Ama no Yachimata - Crossroads of Heaven )--
 One of the more reliable defensive measure Fuuton users are capable of deploying, this creates a sphere of whipping winds around them. Aside from dramatically tossing their hair, causing loose clothes to flap about, and knocking up loose terrain, this makes a sufficiently skilled user virtually impervious to most long-range assaults.
 
  - Chakra: 32
- - Upkeep: 4
+ - Upkeep: 5
  - Speed: 16
  - Seal Speed: 16
  - Tags: Area of Effect, Environmental
 
-Effects: Any ranged taijutsu and Raiton attacks against you with Accuracy less than (your Accuracy +5) are automatically parried, as are any Projectile Ninjutsu techniques with an Accuracy less than your Accuracy. This technique uses your base Accuracy for an B-rank Fuuton, unmodified by status, wounds, temporary bonuses, and so on, though offensive roll penalties from Fatigue do apply. Because it is considered to be the technique parrying incoming attacks, and not you, you cannot modify its accuracy further (such as with Willpower or AP).  This technique does not offer any sort of Partial Success; it either deflects an attack fully or it does not.  For the case of Fatigue penalties, it uses any penalty based on your Fatigue level for Accuracy, rather than the penalty to defensive rolls.
+Effects: Any ranged taijutsu and Raiton attacks against you with Accuracy less than (your Accuracy +5) are automatically parried, as are any Projectile Ninjutsu techniques with an Accuracy less than your Accuracy.  You can not be grappled while this technique is active, and any grapples you were in immediately end.
+
+This technique uses your base Accuracy for an B-rank Fuuton, unmodified by status, wounds, temporary bonuses, and so on, though offensive roll penalties from Fatigue do apply. Because it is considered to be the technique parrying incoming attacks, and not you, you cannot modify its accuracy further (such as with Willpower or AP).  This technique does not offer any sort of Partial Success; it either deflects an attack fully or it does not.  For the case of Fatigue penalties, it uses any penalty based on your Fatigue level for Accuracy, rather than the penalty to defensive rolls.
 
 #### --( Higashikaze no Me - Eye of the East Wind )--
 An advanced surveillance technique that, ultimately, falls far short of the efficacy its designers had hoped for. Once activated, it allows the users to view air currents, and, for lack of a better term, 'highlights' inconsistent ones--it's something like visual sonar. The idea behind the technique was that this would let its user pinpoint enemies by being able to find their breathing. It's not nearly that effective in practice, but does offer some benefits to those willing to adjust to the altered vision it causes.
