@@ -243,7 +243,7 @@ Effects: This attack is modified by Baika no Jutsu, as normal for Taijutsu. If y
 A more exhausting but wieldy version of Baika no Jutsu, this jutsu quickly enlarges only a single part of the Akimichi’s body, usually an arm or leg, in order to enhance a Taijutsu attack’s force and reach and take their opponents by surprise.
 
  - Type: Taijutsu, Rank C
- - Chakra: X * 5 + Special
+ - Chakra: 6 + X * 2 + Special
  - Speed: +X
  - Limit: Can not be used with Baika no Jutsu active
 
