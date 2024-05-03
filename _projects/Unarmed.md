@@ -135,7 +135,7 @@ The user lowers themselves to get underneath their opponent, and then knocks the
  - Speed: 6
  - Special: Opener
 
-Effects: If Kage Buyo hits, your opponent is considered to be knocked airborne until their next non-interrupt action. They do not suffer the effects of any ground conditions until they land (on their next non-interrupt action) but they are also left exposed in the air: The next Unarmed Taijutsu (or basic unarmmed) you make against them while they're airborne will gain a bonus to its Accuracy and a reduction to its Speed for every point you beat their defense by, to a maximum of 5 for each.
+Effects: If Kage Buyo hits, your opponent is considered to be knocked airborne until their next non-interrupt action. They do not suffer the effects of any ground conditions until they land (on their next non-interrupt action) but they are also left exposed in the air: The next Unarmed Taijutsu or Basic Unarmmed Attack you make against them while they're airborne will gain a bonus to its Accuracy and a reduction to its Speed for every point you beat their defense by, to a maximum of 5 for each.
 
 If used as the Opener of a combo, the Accuracy maximum, and the Speed reduction, is reduced to 2 but both effects persist until your combo is broken (even after they're no longer airborne).
 

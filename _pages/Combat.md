@@ -179,7 +179,9 @@ Being able to interrupt is a special quality certain abilities and techniques ha
 
 You may use an interrupt if the Speed of the interrupt (and in the case of ninjutsu, Speed + modified Seal Speed) is half or less that of the action you're interrupting. This is one instance where you may use a ninjutsu with handseals without having performed the handseals as a prior action.
 
-The Speed (not, in the case of ninjutsu, counting Seal Speed) of the interrupt is added to your next action on the IC. Unlike normal Actions, the base Speed of Interrupts can start below 3, and be reduced by half (rounded up), going lower than 3, though in such a case they can never be reduced below Speed 1.
+The total Speed of the interrupt is added to your next action on the IC. Unlike normal Actions, the base Speed of Interrupts can start below 3, and be reduced by half (rounded up), going lower than 3, though in such a case they can never be reduced below Speed 1.
+
+In the rare instance that you perform a defensive interrupt which requires Handseals, which then goes on to become an attack, the total Speed of the interrupt is what is used to determine the Speed of the associated attack, which then has a minimum Speed of 3 (like all attacks). 
 
 ### Delay
 Delay is not, properly speaking, an action in and of itself, but rather a quality certain actions have. For an example of how this might be written, an attack could have "Speed 12, Delay 4". This means that while it would be declared normally on your turn, its effects would take place 4 initiative counts later. The action may be aborted any time up to the last IC of the delay.
@@ -197,9 +199,9 @@ Variable Speed Actions are forcibly Aborted if you are ever affected by the Stun
 ### Willpower
 Ninja are capable of incredible feats, and some are truly exceptional, performing astonishing deeds in the face of adversity. While you can be as determined (or not) as you please, Willpower represents your ability to use that determination to push yourself above and beyond your limits.
 
-You can spend Willpower any time you attack, or make a d20 roll, after you've seen the action's normal results. When you spend a point of Willpower, reroll whichever roll it was used on (or, in the case of an attack, make an Accuracy Roll). If the d20 result is less than 11, add 10 to it; this is your new result for that action. Willpower may not, however, be used to reroll Stamina or Chakra Exhaustion rolls.
+You can spend Willpower after you make an attack, or make a d20 roll, after you determine Success/Failure, but before you've seen the results. If somebody attacks you, and you fail your dodge, you may choose to spend Willpower before they roll damage. You may not wait until they've rolled damage, decide you don't want to take that much, and then declare Willpower on your defense. Similarly, you must do spend WP before an action is fully resolved; if someone dodges your attack, you cannot go back 10 IC later and spend Willpower to improve your Accuracy. You may also choose to spend Willpower after someone else has done so to alter the result of their action. However, any given roll or attack may only have Willpower applied to it one time.
 
-You may also choose to spend Willpower after someone else has done so to alter the result of their action. However, any given roll or attack may only have Willpower applied to it one time.
+When you spend a point of Willpower, reroll whichever roll it was used on (or, in the case of an attack, make an Accuracy Roll). If the d20 result is less than 11, add 10 to it; this is your new result for that action. Willpower may not, however, be used to reroll Stamina or Chakra Exhaustion rolls.
 
 ### d20 rolls
 Some effects give bonuses to 'd20 rolls' as a generic benefit.  It can be confusing as to what they do or do not apply to, so for clarity, they apply to the following: 
@@ -282,16 +284,16 @@ Once you meet one of those requirements, you may hide. Hiding is, of course, an 
 <br>This action may be performed only while hiding at level 1 stealth. You take the time to make sure you're properly hidden and settle into place, moving you up to level 2 stealth. In case that wasn't clear, this cannot, by itself, take you from level 2 to level 3 stealth.
 
 ### Stealth Levels
-There are three levels of Stealth, corresponding to different degrees of being hidden. Each level has limitations on what can be done in it; for example, in Level 2 and Level 3 Stealth, you cannot move. Thus, if you were at Stealth 3, and chose to spend an action moving, you would immediately be dropped to Stealth 1.  The same is true of dodging.
+There are three levels of Stealth, corresponding to different degrees of being hidden. Each level has limitations on what can be done in it; for example, in Level 2 and Level 3 Stealth, you cannot move. Thus, if you were at Stealth 3, and chose to spend an action moving, you would immediately be dropped to Stealth 1.  This is true of all actions you take in Stealth: If it isn't allowed in your current level of Stealth, but is in a lower level, you are immediately dropped to that lower Stealth level.  Actions which break Stealth, obviously, remove you from it entirely.
 
 ### Stealth, Level 1
-Stealth 1 is as poorly concealed as you can be while still being unseen by your enemies. Your Stealth TN has no bonus at this rank. You may dodge, move and perform surprise attacks, as well as using items.
+Stealth 1 is as poorly concealed as you can be while still being unseen by your enemies. Your Stealth TN has no bonus at this rank. You may Dodge, Block, Parry, Move, Search (and do similar non-jutsu actions, such as Scan, and Observe Clones), Aim, Meditate, use Items, perform Handseals, make Surprise Attacks, and use Genjutsu (see below).
 
 ### Stealth, Level 2
-Stealth 2 corresponds to being fairly well-hidden, having taken the time to adjust yourself and your hiding spot as necessary--you're not sticking your feet out past the edge of the rock you're hiding behind, for example. From Stealth 2 you may perform surprise attacks, use items, and prepare and perform sneak attacks. At this level of stealth, your Stealth TN has a +5 bonus.
+Stealth 2 corresponds to being fairly well-hidden, having taken the time to adjust yourself and your hiding spot as necessary--you're not sticking your feet out past the edge of the rock you're hiding behind, for example. From Stealth 2 you may Search (and do similar non-jutsu actions, such as Scan and Observe Clones), Aim, Meditate, use Items, perform Handseals, make Surprise Attacks, use Genjutsu (see below) and prepare and perform Sneak Attacks.  At this level of Stealth, your Stealth TN has a +5 bonus.
 
 ### Stealth, Level 3
-Stealth 3 is as well-hidden as you can be. You are somehow camouflaged, blending into your environment excellently. You may not move, attack, or use items, but your Stealth TN has a +15 bonus.
+Stealth 3 is as well-hidden as you can be. You are somehow camouflaged, blending into your environment excellently. You may Search (and do similar non-jutsu actions, such as Scan and Observe Clones), Meditate, and prepare Sneak Attacks.  At this level of Stealth, your Stealth TN has a +15 bonus.
 
 ### Searching
 Understandably, situations arise when Ninja want to find other, hidden ninja, or help others in doing so.
@@ -436,7 +438,7 @@ Certain things apply not to an individual, but to all things within a given area
 
 Others, however, are attacks: they cause damage to everyone within an area. Depending on that area, it may not even be possible to avoid one effectively. When being subjected to an AoE attack, the first thing to determine is if you can dodge it effectively. To do this, take the attack's Speed, and determine how far you could move (see 'Actions') in that time. If that distance is greater than the effect's radius, then congratulations, you can dodge normally. If not, you have a -2 penalty to Dodge per yard you're short by.
 
-Taijutsu Area of Effect techniques (such as Senpuu) can be parried, but parrying an AoE attack does not 'stop' the attack outright, and anyone else who was within the area of effect can still be hit by the attack: each person must defend against it individually, and a successful parry does not stop secondary effects of the attack (such as Tsukenyaku's shockwave), though effects dependent upon a successful hit or dealing damage, obviously, do not apply on a successful parry.  Ninjutsu AoE's, however, can not generally cannot be parried. Other defenses, such as raising a ninjutsu-based wall, are typically effective.
+Taijutsu Area of Effect techniques (such as Senpuu) can be parried, but parrying an AoE attack does not 'stop' the attack outright, and anyone else who was within the area of effect can still be hit by the attack: each person must defend against it individually, and a successful parry does not stop secondary effects of the attack (such as Tsukenyaku's shockwave), though effects dependent upon a successful hit or dealing damage, obviously, do not apply on a successful parry.  Ninjutsu AoE's can not be parried by Taijutsu, but can by ninjutsu. Other defenses, such as raising a ninjutsu-based wall, are typically effective.
 
 ### Knockback
 Certain jutsu have an effect referred to as "knockback", which does about what it sounds like: pushes you away from its user or point of origin. Knockback is measured in yards; a 10 yard knockback means that, if you are hit, you will be moved 10 yards away from wherever the jutsu originated from. Some may have more complex rules, such as pushing you to the edge of their area of effect.

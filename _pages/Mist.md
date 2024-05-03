@@ -123,6 +123,7 @@ You fire the bones of your fingertips at opponents.  They fly faster than most w
  - Range: 10 + RES/10
  - Speed: 10
  - Skeletal Modifications: Osteogenesis
+ - Tags: Piercing
 
 Effects: You fire X projectiles, up to a maximum of RES/10 or 10, whichever is lower; your damage bonus for this attack is increased by 0.25 per projectile.  This attack deals Piercing damage and Ignores Armor. For the purposes of defending against this technique it is considered a multi-throw, though it is not subject to other multi-throw rules.
 
@@ -140,7 +141,7 @@ By manipulating their skeleton, Kaguya are able to extrude weapons made of bone 
 
 Effects: You can create any non-Large weapon from the Equipment section of the PHB, other than bows (arrows are fine). If you wish, you may ‘draw’ these weapons as part of this technique, discard them, or keep them partially extended from your skeleton, ready to be ‘drawn’ whenever you wish. If you are creating a weapon with the ‘Dual’ property, you can create two of them with only one use of this technique, though doing so increases its Chakra cost by 5.
 
-In the hands of anyone but a Kaguya these have a -3 Accuracy penalty. Your own bone weapons have a +2 bonus to their Accuracy when you are using them. Other Kaguya using your weapons receive no penalty or bonus.
+In the hands of anyone but a Kaguya these have a -3 Accuracy penalty. Your own bone weapons have a +2 bonus to their Accuracy when you are using them. Other Kaguya using your weapons receive no penalty or bonus. Though they will safely last the entirety of any combat, outside of it they last five minutes before becoming brittle and unusable.
 
 #### --( Karamatsu no Mai - Dance of the Larch )--
 This technique creates razor-sharp bone spikes all over the user’s body, branching off from the existing skeletal structure. These bones can stop attacks on their own, or if necessary the user can spin in place, turning themselves and the area around them into a veritable death trap.
@@ -150,8 +151,9 @@ This technique creates razor-sharp bone spikes all over the user’s body, branc
  - Speed: 8
  - Special: Interrupt
  - Skeletal Modifications: Blades, Spurs
+ - Tags: Slashing or Piercing
 
-Effects: This is a melee-range parry with a +1 bonus per Rank of Bone Spurs you have active. If successful, the attacker also takes damage from your Spurs as if they had struck you, plus your Physical Damage Bonus multiplied by the Speed you used this technique at.
+Effects: This is a melee-range parry with a +1 bonus per Rank of Bone Spurs you have active. If successful, the attacker also takes damage from your Spurs as if they had struck you, plus your Physical Damage Bonus multiplied by the Speed you used this technique at. This inflicts Slashing wounds.
 
 #### --( Yanagi no Mai - Dance of the Willow )--
 A multitude of bones protrude from the Kaguya’s body, most commonly along the shoulders, elbows and knees, creating sharp spikes that extend outward in several directions, turning their entire body into a weapon. Thereafter, the user can focus on evasion and counter attacking, with minimal movement required to strike at anyone who comes near.
@@ -162,10 +164,11 @@ A multitude of bones protrude from the Kaguya’s body, most commonly along the 
  - Damage: (RES/10)d4
  - Speed: 6
  - Skeletal Modifications: Armor, Blades, Spurs, Realignment
+ - Tags: Slashing or Piercing
 
-Effects: While maintaining this technique, you may spend 4 AP to attack anyone in melee range using your bones.  By raising the cost to 6 AP you can target everyone in melee range.  You may attack with Dance of the Willow at most once every 10 IC, and the first time in battle you do so, it is considered a surprise attack.
+Effects: While maintaining this technique, as a Speed 0 action you may spend 4 AP to attack anyone in melee range using your bones.  By raising the cost to 6 AP you can target everyone in melee range.  You may attack with Dance of the Willow at most once every 10 IC, and the first time in battle you do so, it is considered a surprise attack.
 
-This is treated as a Speed 8 attack, though it does not allow you to move as part of the attack; you do not increase your IC because of this, but that Speed is used to determine viable defenses and the attack’s damage. You can spend additional AP to lower the effective Speed further. Parrying this attack reduces its damage by half and prevents it from inflicting wounds, rather than defending against it fully.
+This is treated as a Speed 8 attack, though it does not allow you to move as part of the attack; you do not increase your IC because of this but that Speed is used to determine viable defenses and the attack’s damage. You can spend additional AP to lower the effective Speed further. Parrying this attack reduces its damage by half and prevents it from inflicting wounds, rather than defending against it fully.
 
 You acquire a Skeletal Modification every time you spend AP to attack with Dance of the Willow, but not when you first use the technique and pay its Chakra cost.
 
@@ -177,7 +180,7 @@ Through the use of Shikotsumyaku, the Kaguya creates a bone weapon from one of t
  - Speed: 16
  - Skeletal Modifications: Any
 
-Effects: This creates a Large, Piercing, Slashing Weapon, which can use both Sword and Polearm abilities and techniques. Attacking is a Stamina 25, Speed 16 action.  It deals 1d12 damage per Skeletal Modification you have when you create it, and you may take the Weapon Focus ability for this weapon. For each rank in certain Skeletal Modifications, its effects are modified as follows:
+Effects: This creates a Large, Piercing, Slashing Weapon, which can use both Sword and Polearm abilities and techniques. Attacking is a Stamina 25, Speed 16 action.  It deals 1d12 damage per Skeletal Modification you have when you create it, and you may take the Weapon Focus ability for this weapon. The weapon lasts the entirety of the combat it's made in, but only lasts an hour once the combat is over, after which it begins to deteriorate and is no longer usable. Anyone else but you (including other Kaguya) who use the weapoon use its base statistics, listed above, but for each rank you have in certain Skeletal Modifications, its statistics are modified when you (and only you) use it:
 
  - Armor: -1 base Speed
  - Blades: +5% Wounds
@@ -193,8 +196,9 @@ The pinnacle of the Kaguya clan’s techniques, this creates a countless number 
  - Area: PDB * 2 Yards
  - Speed: 25
  - Skeletal Modifications: Any two
+ - Tags: Piercing
 
-Effects:  This technique deals Piercing damage. Even if someone dodges this technique, they do not escape its area; they simply avoid being skewered by the bone spires erupting from the ground. 
+Effects: Even if someone dodges this technique, they do not escape its area; they simply avoid being skewered by the bone spires erupting from the ground. 
 
 You may move anywhere in the radius as a Speed 0 action; You can also increase the Speed of any action by 4 to make it a Surprise Attack (which does not increase its damage). By melding into and out of the bones you can remove any Immobilization penalties from effects which restrain or cage you (so not those from poison, genjutsu, etc.) as a Speed 4 action.  While inside your bone field, you may attempt to Hide; when you Hide, you begin at Stealth 2.
 
@@ -213,13 +217,13 @@ If you wish, you may suppress activation of these modifications. Suppressing any
 
 **[ Armor ]** - You extend your bones to cover vital regions, forming broad, flexible plates.  This gives you (RES)/5 Damage Reduction, and can be applied up to 5 times.
 
-**[ Blades ]** - Numerous spikes and blades of hardened bone protrude from your body in combat-useful ways, such as from your knees, extending past your hands, and so forth. This increases your damage bonus by 0.25 for Unarmed Taijutsu and weapons created by Dance of the Camellia, or 0.5 for clan jutsu (including Dance of the Clematis’ weapon), each time it’s applied.  This has no limit.
+**[ Blades ]** - Numerous spikes and blades of hardened bone protrude from your body in combat-useful ways, such as from your knees, extending past your hands, and so forth. This increases your damage bonus by 0.25 for unarmed attacks and weapons created by Dance of the Camellia, or 0.5 for clan jutsu (including Dance of the Clematis’ weapon), each time it’s applied.  This has no limit.
 
 **[ Osteogenesis ]** - The more a Kaguya fights, the easier it becomes for them to do so. Every application of this modification reduces the Chakra costs of clan jutsu by 2. You can apply this up to 5 times.
 
-**[ Realignment ]** - You can recover from any Wound, by investing a number of Skeletal Modifications equal to the Wound's severity: 1 for Minor, 2 for Major, 3 for Severe, 4 for Critical. This does mean that you can choose to immediately recover from any Minor wound you receive by spending the Skeletal Modification you gained from being Wounded on Realignment, but also means you can not "save up" Realignment Modifications for later use, and instead lower your Modifications from other categories (between Armor, Blades, Osteogenesis and Spurs) in order to use Realignment, of any combination. In the case of Gates, you can not recover from Wounds received by them until all Gates are closed, though you can recover from Wounds gained from other sources while they are open.
+**[ Realignment ]** - You can recover from any Wound, by investing a number of Skeletal Modifications equal to the Wound's severity: 1 for Minor, 2 for Major, 3 for Severe, 4 for Critical. This does mean that you can choose to immediately recover from any Minor wound you receive by spending the Skeletal Modification you gained from being Wounded on Realignment. Recovering from Wounds above Minor requires you to spend Skeletal Modifications (from the other four types of Armor, Blades, Spurs, or Osteogenesis), which can be from any category, but must be from the same category. You can not 'save up' Realignment mods for later use. In the case of Gates, you can not recover from Wounds received by them until all Gates are closed, though you can recover from Wounds gained from other sources while they are open.
 
-**[ Spurs ]** - Small shards and lengthier spikes of bone gradually cover your body, protruding from beneath your skin and injuring anyone foolish enough to strike you. Anyone who attacks you in melee range takes (your RES)/5 damage if they hit. This damage is also dealt anytime someone uses a Grapple jutsu against you. You can apply this up to 5 times.
+**[ Spurs ]** - Small shards and lengthier spikes of bone gradually cover your body, protruding from beneath your skin and injuring anyone foolish enough to strike you. Anyone who attacks you in melee range takes (your RES)/5 damage if they hit, which can not wound. This damage is also dealt anytime someone uses a Grapple jutsu against you. You can apply this up to 5 times.
 
 ## Niou
 The Niou clan possesses one of the most coveted techniques in the shinobi world: invisibility. Despite that, they've avoided becoming famous. There are very few Niou; rather than trying to generate a reputation that would have shinobi around the world terrified of their prowess, they downplay and obfuscate their abilities.
@@ -509,7 +513,7 @@ This is a status effect. As someone is struck by Hyouton, their core body temper
 
 If someone is suffering from Ignite or Frostbite and is then inflicted with the other, they suffer a Burns X from the sudden extreme shift in temperature, and then both their Ignite and Frostbite statuses are reduced by X, which is the lower of the two effects.  (e.g., If you were at Frostbite 5 and were hit with an Ignite 2, your Frostbite would be reduced to 3 and you would receive a Burns 2)
 
-The maximum Frostbite you can afflict someone with is 2+CHA/30, and fades at a rate of 1 per 10 IC (the reduction happens after taking damage from it).
+Frostbite from the same source (person) stacks fully with itself; if you suffer Frostbite from different people, only the highest severity applies for both penalties and damage taken. The maximum Frostbite you can afflict someone with is 2+CHA/30, and fades at a rate of 1 per 10 IC (the reduction happens after taking damage from it).
 
 #### -=[ Suitenhoufukyuu - Water Sky Convergence ]=- 
 Often considered the mark of the Touu bloodline, even more so than their ability to use Hyouton.  All members of the bloodline, even ones without ninja training, exhibit from a young age the ability to mentally control water. They can lift it off of the ground, cause it to float between their hands, and even freeze it with a thought (or, conversely, liquify ice).

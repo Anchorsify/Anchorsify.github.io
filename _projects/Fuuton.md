@@ -50,7 +50,7 @@ The user generates a narrow arc of wind and chakra, which is sent out to cut thi
  - Seal Speed: 10
  - Tags: Slashing, Projectile
 
-Effects: This technique's damage is considered 100% higher for Wounding purposes.
+Effects: This technique's damage is considered 50% higher for Wounding purposes.
 
 #### --( Hineri Dangan - Twister Shot )--
 Holding their hand half-grasped, the user blows a constant stream of wind into their hand which begins to spiral around in a ball or small tornado shape. The tornado is then sent out toward the target as the hand is opened.
@@ -73,14 +73,14 @@ In a fashion similar to how ninja knead chakra into their palms and feet to stic
  - Special: This technique may not have its seal speed removed with a fan
  - Tags: Nintaijutsu
 
-Effects: While this technique's upkeep is maintained, all your unarmed taijutsu techniques are blocked as if they were fuuton jutsu (meaning, in most cases, that blocking reduces the damage by only 25%, instead of 50%), and deal 15% more damage for the purposes of Wounding.
+Effects: While this technique's upkeep is maintained, all your non-grapple unarmed attacks inflict a Knockback of (NDB/2, rounding down) yards, and allow you the option to 'chase' (and remain at range 0) with the primary target of your attack (if it's an AoE, pick one target to chase) after knocking them back, ignoring terrain as you do so.  Additionally, parries against such attacks take a -2 to their roll.
 
 #### --( Hagitoru Aori no Jutsu - Tearing Gust Technique )--
 Generally performed with a fan as a matter of practicality, this technique unleashes a burst of wind that will not only deflect projectiles, but also strip them of any chakra they may be infused with.
 
- - Chakra: 9
+ - Chakra: 12
  - Special: Interrupt
- - Speed: 4
+ - Speed: 5
  - Seal Speed: 6
 
 Effects: This is usable as an interrupt against any ranged weapon attack. Make a parry roll (using your Ninjutsu Accuracy) with a +3 bonus; success means you deflect their attack harmlessly. If you fail, but Partial Success applies, any non-Katon ninjutsu links on it (such as Raisen) are removed.
@@ -154,15 +154,15 @@ Effects: This uses double the user's normal ninjutsu damage bonus for its damage
 #### --( Reppuushou - Violent Wind Palm )--
 After finishing the seals, the user claps their palms together and compresses the air in front of them, transforming it into a powerful gale with enough force to knock over a human or redirect projectile weapons.
 
- - Chakra: 17
+ - Chakra: 14
  - Range: 10
  - Speed: 8
  - Seal Speed: 8
- - Tags: Blunt, Projectile
+ - Tags: Slashing, Projectile
 
-Effects: This can be used as an attack, as an interrupt, or in combination with a multi-throw. As an attack, it does 3d6 * 5 damage and if you hit, you make an opposed roll of your Chakra Control vs your target's Athletics; if they fail, they're knocked prone.
+Effects: This can be used as an attack, as an interrupt, or in combination with a multi-throw. As an attack, it does 2d6 * 5 damage and if you hit, you make an opposed roll of your Chakra Control vs your target's Athletics; if they fail, they're knocked prone.
 
-As an interrupt, it can be used in response to a thrown weapon attack, allowing you to make a ninjutsu parry roll against the attack. If you succeed, you redirect their attack at them, using your parry roll's result as the attack's new Accuracy TN, adding 2d6 * 5 to the attack's damage plus your interrupt's Speed * NDB. Wounds inflicted are based off of the combined damage total, and the damage type is based on the thrown attack.
+As an interrupt, it can be used in response to a thrown weapon attack, allowing you to make a ninjutsu parry roll against the attack. If you succeed, you redirect their attack at them, using its original accuracy, adding 2d6 * 5 to the attack's damage plus your interrupt's Speed * NDB. Wounds inflicted are based off of the combined damage total, and the damage type is based on the thrown attack.
 
 In combination with a multi-throw, this acts as a link, making this technique Speed +8 and Seal Speed +8 (which, as a reminder, does not have the Speed or Seal speed adding to damage, as is normal for links). The attack uses the combined range of the thrown weapons and this technique to determine its maximum range, and adds 2d6 * 5 to its damage. Wounds inflicted are based off of the combined damage total, and the damage type is based on the thrown attack.
 
@@ -237,7 +237,7 @@ Effects: Shinkuugyoku targets everything in a line 20 yards wide, between you an
 #### --( Shinkuu Renpa - Vacuum Serial Waves )--
 This technique's user takes a deep breath in, and then exhales several blades of high-speed, chakra-infused wind at varying angles. This technique's power can vary greatly depending on the amount of chakra put into the formation of those wind blades, the number created, and how the user chooses to focus them.
 
- - Chakra: 15 + 5 * X
+ - Chakra: 20 + 5 * X
  - Damage: (X * 2)d10 * 7
  - Range: 25
  - Speed: 22

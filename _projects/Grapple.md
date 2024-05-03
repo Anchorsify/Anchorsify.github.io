@@ -124,7 +124,7 @@ You throw an enemy who's grabbing you off, freeing yourself from them and injuri
  - Speed: 4 + X, Delay X
  - Requires: Throw
 
-Effects: This ends a grapple when used, but may only be used by the defender. The attacker is Thrown (as per the D-rank Throw move, including the stun). Counter Throw always deals damage as if it was Speed 10, regardless of the actual speed. When you declare use of Counter Throw, make an opposed Grapple check. The amount you fail by is the "X" in this move's Stamina cost and Speed. If you pass, it's Stamina 12 / Speed 4 / Delay 0.
+Effects: This ends a grapple when used, but may only be used by the defender. The attacker is Thrown (as per the D-rank Throw move, including the stun). Counter Throw always deals damage as if it was Speed 10, regardless of the actual speed. When you declare use of Counter Throw, make an opposed Grapple check. The amount you fail by is the "X" in this move's Stamina cost and Speed. If you pass, it's Stamina 12 / Speed 4 / Delay 0. This technique cannot be Aborted, despite its Delay.
 
 #### --( Joint Lock )--
 You grab your opponent in such a way that you can put continual strain on one of their limbs or joints. Though typically non-lethal, an expert grappler can be brutal with these techniques.
@@ -171,9 +171,9 @@ A devastating move, developed by a shinobi who claimed he had gained inspiration
  - Stamina: 30
  - Damage: (STR/6)d12
  - Speed: 16
- - Requires: Compression Hold
+ - Requires: You to have your target in a Compression hold
 
-Effects: Your Physical Damage Bonus is doubled for this technique. If this technique causes a wound, that wound is applied to the torso and both arms automatically. Kurokumaken requires the use of both arms.
+Effects: Your Physical Damage Bonus is doubled for this technique. If this technique causes a wound, that wound is applied to the torso and both arms automatically. Kurokumaken requires the use of both arms, which will end any existing Arm lock or Head lock under normal circumstances in order to free up your arms to perform it.
 
 #### --( Ryuorosu - Dragon Takedown )--
 Adapted--in purpose, method, and name--from a 'normal' style of martial arts, the Dragon Takedown is a more aggressive method of initiating a grapple, often throwing an opponent to the ground in the process.
@@ -182,7 +182,7 @@ Adapted--in purpose, method, and name--from a 'normal' style of martial arts, th
  - Damage: (STR/6)d4
  - Speed: 16
  
-Effects: This may be used outside of a grapple; in fact, it may only be used outside of a grapple. If you hit, you deal damage and initiate a grapple with your opponent, who is automatically knocked prone (see the Trip for its effects) and may immediately apply any of the D rank locks or a choke hold. Additionally, make an opposed Athletics roll: If you beat your target's roll, they must immediately make a Stamina 15 + X fatigue roll, with X being how much you beat their Athletics roll by.
+Effects: This may be used outside of a grapple; in fact, it may only be used outside of a grapple. If you hit, you deal damage and initiate a grapple with your opponent, and may immediately apply any of the D-rank locks or knock them prone automatically. Additionally, make an opposed Athletics roll: If you beat your target's roll, they must immediately make a Stamina 10 + X roll, with X being how much you beat their Athletics roll by.
 
 #### --( Tora Rakka - Tiger Drop )--
 You flip your opponent over you and hurl them to the ground (or otherwise maneuver them unpleasantly if you're both already on the ground) and slam an elbow, knee, or other body part into them, using gravity to assist your momentum. Nobody really knows what this has to do with tigers.

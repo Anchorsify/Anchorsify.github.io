@@ -231,7 +231,7 @@ By using extreme strength, chakra-based powers, and a cheerful disregard for phy
 - Limit: STR /50, max 2
 
 #### -=[ Quick Draw ]=-
-The speed of your Draw Weapon is reduced by 1 per rank, to a minimum of 0.
+The base Speed of your Draw Weapon is reduced by 1 per rank, to a minimum of 0.
 
 - Base Cost: 7
 - Scale: 1

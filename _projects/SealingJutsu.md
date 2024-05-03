@@ -26,14 +26,14 @@ Effects: This stores up to 50 pounds of objects inside a scroll. Releasing any n
 #### --( Soshoryu - Twin Rising Dragons )--
 This requires two storage scrolls with projectile weapons stored inside of them. When this technique is used both the scrolls are launched into the air (giving the technique its name). The user can then jump up between them, grabbing and throwing various projectiles.
 
-- Stamina: Variable
-- Chakra: 10
-- Range: As weapons used
-- Speed: Variable
-- Seal Speed: 8
+- Chakra: +10
+- Speed: +0
+- Seal Speed: +8
 - Requires: Two scrolls with thrown weapons sealed inside them
 
-Effects: You unseal and throw weapons. This is a regular multi-throw, but you add your CHA/2 to your DEX when determining how many weapons you can throw. Notably, this can't be done with Senbon. While Soshoryu itself is (obviously) a ninjutsu technique, the multi-throw attack you perform as part of it is a ranged taijutsu attack.
+Effects: This is a link added to a thrown weapon attack or multi-throw using weapons previously stored in scrolls with Confinement Scroll Seal.  You unseal the weapons you need and immediately attack with them, without needing to unseal them as a separate action.  When used with a multi-throw, you increase your DEX by CHA/2 for determining how many weapons you can throw.  All weapons thrown must be sealed in the scrolls.
+
+You can also use this with the "Throw Weapon" ability (if you have it), allowing you to unseal and immediately attack with the melee weapon without needing to unseal them as a separate action.
 
 #### --( Sougu: Baku Ryuusei - Manipulated Tools: Attached Meteor )--
 Large, elongated sections of chains with weighted ends shoot out of a scroll and are directed toward an opponent. They spiral around and surround the victim before the slack is removed, binding the opponent and restricting movement. It does minimal damage on its own, but is useful as a setup for a more potent attack.
@@ -48,16 +48,15 @@ Effects: You make a Ranged Taijutsu Attack. If you hit, this deals no damage but
 
 The chains themselves are still attached to the scroll, and therefore sufficient movement on the part of the victim will reduce this penalty, lowering it by 1 per four yards moved. Alternately, they can try to just wrestle free as a Speed 6 action, rolling as the defender in a Grapple with a penalty equal to their Immobility penalty from this technique, while you use your NDB in place of PDB.
 
-## C-Rank
 #### --( Shikoku Fuuin - Finger Engraving Seal )--
 Concentrating chakra into your fingertip, this allows you to 'write' on any surface you please. On solid objects, this will cause a slight depression on the surface and stain it black. On flesh, this will cause slight discomfort and leave a scar, which is initially ink-black and lightens over the next few weeks to regular scar tissue.
 
 - Chakra: 15
 - Speed: 1 per word
-- Requires: 20 Chakra Control
 
 Effects: You can write on any surface. With chakra!
 
+## C-Rank
 #### --( Fuukoku Houin - Dark Sealing Method )--
 A once-specialized technique that's been adapted to see broader use, the Dark Sealing Method is used when a simple lock just isn't reliable enough. The user takes several paper tags, writes the appropriate seals on them in their own blood, and then applies them to the edge of the doorframe, lid, or other appropriate edge of what's being sealed. After that, the handseals are performed and chakra is applied.
 
@@ -77,11 +76,11 @@ An advanced form of Twin Rising Dragons, the user throws a scroll into the air a
 
 Effects: You perform a multi-throw technique using weapons stored inside one or more scrolls. The Chakra cost is equal to whatever the Stamina cost would normally be. Your ninjutsu damage bonus is used in place of your physical damage bonus.
 
-You may target any number of people within range, each with separate multi-throws. This has the same cost no matter how many people you target, but you must use the full number of weapons (if you "throw" 10 shurikens at 4 people, you'd need 40 shuriken total). Like Soshoryu, this may not be used with senbon; it may also not be used to perform called shots. 
+You may target any number of people within range, each with separate multi-throws. This has the same cost no matter how many people you target, but you must use the full number of weapons (if you "throw" 10 shurikens at 4 people, you'd need 40 shuriken total). This may not be used with senbon; it may also not be used to perform called shots. 
 
 Alternately, by doubling the number of weapons you can make this an Area 10 attack, in which case it hits everything indiscriminately; by quadrupling the number of weapons required you can make it Area 20 centered on yourself, with you at the center. In either of these cases, the severity of wounds inflicted is reduced by one (additional) rank. 
 
-As an example of how that works: If you have 80 DEX, you could throw 16 shuriken to hit everyone in Area 10, with the equivalent of an 8-shuriken multi-throw. The increase in damage bonus based on number of weapons thrown would be (8 0.5) = 4, not (16 \ 0.5) = 8.
+As an example of how that works: If you have 80 DEX, you could throw 16 shuriken to hit everyone in Area 10, with the equivalent of an 8-shuriken multi-throw. The increase in damage bonus based on number of weapons thrown would be (8 * 0.5) = 4, not (16 * 0.5) = 8.
 
 #### --( Netetsuki no Jutsu - Sleeping Moon Technique )--
 An exceptionally useful technique, as it approaches the much yearned-for concept of a "smart" seal; one that can be deactivated easily without requiring extensive time and effort to then replace it. This is not actually a seal itself, but a large number of specific modifications which can be applied to almost any advanced sealing technique; less complicated sealing jutsu are too simple to incorporate these alterations.
@@ -115,7 +114,7 @@ By forming a handseal and concentrating for several seconds you know the directi
 #### --( Fuuyoso Houin - Element Sealing Method )--
 Named because being able to put out fires is its primary use, this sealing technique actually allows for the retrieval of elemental matter of all kinds--it just so happens that out of control fires are some of the most deadly disasters in human history. The proper seals must be written on the scroll, followed by the correct handseals. Once the technique is complete the element of the user's choice will vanish entirely and be sealed within the scroll; the kanji for "seal" will appear on said scroll.
 
-- Chakra: 26
+- Chakra: 25
 - Range: 60
 - Speed: 10
 - Seal Speed: 25

@@ -64,11 +64,13 @@ Next to a weapon's name are various characteristics of the weapon, useful for de
 A weapon which sees more use in martial arts than among ninja, the bo staff is traditionally six feet long, though ninja scale their staves to their users. The bo is, essentially, a hard wooden pole, sometimes tapered at the ends.
 
 - Cost: 100 Ryo
-- Stamina: 15
+- Stamina: 14
 - Damage: 6d10
 - Accuracy: +1
 - Speed: 14
-- Special: Attacks from a Bo Staff do not trigger effects dependent upon being in melee with an enemy (such as most damage-on-hit effects), and you can parry unarmed attacks with a Bo Staff with a -2 penalty. You can add the "Dual" tag for a Bo Staff when attacking, losing its Two-Handed tag and Accuracy bonus to do so, along with its ability to avoid effects dependent upon being in melee.
+- Special: Attacks from a Bo Staff do not trigger effects dependent upon being in melee with an enemy (such as most damage-on-hit effects), and you can parry unarmed attacks with a Bo Staff.  When attacking, you may "dual wield" a Bo staff with itself by attacking with both ends allowing it to be considered to have the 'Dual' tag for the attack, but when doing you lose its Accuracy bonus. If used in this way, you do not receive the Two-handed damage bonus multiplier.
+
+ You can add the "Dual" tag for a Bo Staff when attacking, losing its Two-Handed tag and Accuracy bonus to do so, along with its ability to avoid effects dependent upon being in melee.
 
 ###### Gunbai (Large, Blunt, Fan, Two-Handed)
 Large fans with reinforced wooden slats, these were originally used by generals to signal soldiers on battlefields. Then some ninja was looking for a way to be unique, got ahold of the idea, and, well... the usual. Though they're several feet long, these fans do (impressively) fold.
@@ -78,7 +80,7 @@ Large fans with reinforced wooden slats, these were originally used by generals 
 - Damage: 8d12
 - Accuracy: -2
 - Speed: 12
-- Special: You may Block as a Speed 5 Interrupt with a Gunbai. Blocking weapons with a Gunbai reduces their damage by 50%, rather than 25%.
+- Special: Blocking weapons with a Gunbai reduces their damage by 50%, rather than 25%.
 
 ###### Kusari-gama (Blunt, Chain)
 A weapon that consists of an adapted kama on a narrow metal chain with a heav, typically iron, weight on one end. Some shinobi have been known to replace the kama with a heavy metal spike.
@@ -130,7 +132,7 @@ Originating from a small island off the shore of fire country, the tonfa began a
 - Damage: 4d8
 - Accuracy: +1
 - Speed: 10
-- Special: You can parry unarmed attacks with a Tonfa, and blocks with Tonfa against other weapons reduces their damage by 50% (rather than the normal 25%).
+- Special: +1 to Parry, and you can parry unarmed attacks with a Tonfa.  You may block weapon attacks and reduce their damage by 50% (rather than the normal 25%), though after doing so three times, the Tonfa breaks.
 
 ###### Umbrella (Blunt)
 Yes, umbrellas. Ones used in combat are reinforced with metal or hard wood, making them semi-decent bludgeoning weapons, and most have a sharp, pointed tip added at the end.
@@ -139,7 +141,7 @@ Yes, umbrellas. Ones used in combat are reinforced with metal or hard wood, maki
 - Stamina: 11
 - Damage: 6d10
 - Speed: 12
-- Special: You may Block as a Speed 6 Interrupt with an Umbrella. Blocking weapons with an Umbrella reduces their damage by 50%, rather than 25%.
+- Special: You may Block as a Speed 6 Interrupt with an Umbrella, though after doing so three times, the Umbrella breaks.
 
 #### Piercing Weapons
 ###### Kama (Piercing, Dual)
@@ -351,7 +353,7 @@ These pills contain a peculiar mix of chemicals that, when consumed by someone c
  - Cost: 250 Ryo
 
 ##### Caltrops
-Small bits of metal that are basically just four short spikes attached at a center; no matter how they land, there'll always be a metal spike pointing upwards. The typical use is to scatter them across the ground to impede movement through an area. As a Speed 10 action you can throw them up to STR/6 yards to cover an Area 5 in caltrops. Anyone moving through the area going at more than half their maximum movement speed takes 1d4 damage for every IC they spend moving through the area; this damage has Damage Bonus component, and cannot inflict wounds.  Caltrops are considered to have the 'Environmental' tag when placed.
+Small bits of metal that are basically just four short spikes attached at a center; no matter how they land, there'll always be a metal spike pointing upwards. The typical use is to scatter them across the ground to impede movement through an area. As a Speed 10 action you can throw them up to STR/6 yards to cover an Area 5 in caltrops. Anyone moving through the area going at more than half their maximum movement speed takes 1d4 damage for every IC they spend moving through the area; this damage has no Damage Bonus component, and cannot inflict wounds.  Caltrops are considered to have the 'Environmental' tag when placed.
 
  - Cost: 20 Ryo for enough caltrops to cover one 5 yard area
 
@@ -763,7 +765,7 @@ A form-fitting metallic mesh, it has overthrown the bulky and, frankly, antiquat
 
 Due to shinobi fashion being almost as much about personality as it is practicality, designers have made variants of the armor that can fit any combination of parts of the body the user wishes, or simply be made as a “full-body suit”, though they tend to stop a few inches short of the ankles and calves even so, and never are designed to protect the head (don’t ask).
 
-Mechanically, this is tracked with only three “locations”: Arms, Legs, and Torso (which includes Torso and Abdomen, for wounding location).  Armor worn on any given location is assumed to cover both arms or legs, and when damaged, it’s considered damaged on both locations without having to track wounds for left or right.
+Mechanically, this is tracked with only three “locations”: Arms, Legs, and Torso (which includes Torso and Abdomen, for wounding location).  Armor worn on any given location is assumed to cover both arms or legs, and when damaged, it’s considered damaged on both locations without having to track wounds for left or right. You can only have one type of armor on a given body location.
 
 The first time you would be wounded in any given location sporting this armor, you reduce the wound severity by one (potentially negating it entirely), and lower the total damage taken (after determining if you’re wounded) by 20. The second time, you reduce the wound severity by one, to a minimum of minor, and lower the total damage taken (again, after determining if you’d be wounded) by 10, after which the armor is ‘broken’, and provides no further benefit (but maintains its penalties) until you can get it repaired back at your village.
 
@@ -777,7 +779,7 @@ Villages will repair Requisition-acquired damaged armor for free, but frown upon
 
 Often referred to as 'chuunin vests', these are what many a genin strives to be allowed to wear. There's a jounin version as well, slightly different in appearance but functionally identical.
 
-Any time your torso or abdomen would be wounded, the vest reduces the wound's severity by 1, and the final damage by 50 (after determining if you're wounded). The next time, it reduces your final damage taken by 40; then 30, and so forth, until it reaches 0, after which the vest is damaged too badly to provide any protection and no longer reduces the severity of your wounds.
+Any time your torso or abdomen would be wounded, the vest reduces the wound's severity by 1, and the final damage by 50 (after determining if you're wounded). The next time, it reduces your final damage taken by 40; then 30, and so forth, until it reaches 0, after which the vest is damaged too badly to provide any protection and no longer reduces the severity of your wounds.  You can only have one type of armor on a given body location.
 
 ##### Custom Smoke Bombs
 - Cost: Level*10 Ryo
@@ -803,7 +805,7 @@ Therefore, they get to play with the big explosions! Type 2 tags function identi
 
 Gloves (often fingerless) with a metal plate covering the back of the hand. These allow you to parry weapon attacks unarmed; however, if you do so, any wounds (if you fail) will be applied to your hands (or arms, or whatever, as appropriate for the rank of the wounds).
 
-That said, the first two times you're wounded doing this, the wound's severity is reduced one rank. The second time that happens, the guard on the back of that glove will be broken. Thus, if you wear both gloves (100 Ryo pays for a pair), you could do it a total of four times.
+That said, the first two times you're wounded doing this, the wound's severity is reduced one rank. The second time that happens, the guard on the back of that glove will be broken. Thus, if you wear both gloves (100 Ryo pays for a pair), you could do it a total of four times. You can only have one type of armor on a given body location.
 
 You may also block with these guards, with the same wound location and severity effects. This allows you to block weapons without reducing blocking's effectiveness.
 
@@ -820,7 +822,7 @@ Type 3, like Type 2, deal double damage to inanimate objects. They deal 10d20.op
 
 Hand-crafted white ceramic masks featuring mono- or bichromatic lines that make the mask resemble some kind of animal's face. Technically there's nothing preventing you from changing what animal it is each time you replace the mask, but most ANBU members stick with a single choice and use it as a distinguishing feature.
 
-ANBU masks reduce the severity of head wounds by one rank, a total of three times before being made useless. The mask does crack, break, and fall off during this process.
+ANBU masks reduce the severity of head wounds by one rank, a total of three times before being made useless. The mask does crack, break, and fall off during this process. You can only have one type of armor on a given body location.
 
 ##### ANBU Cloak
 - Cost: 200 Ryo

@@ -105,7 +105,7 @@ This technique wreathes part of your body--generally a forearm and hand, but it 
  - Status: Burns 4
  - Tags: Nintaijutsu
 
-Effects: After completing the seals, you perform any non-grapple unarmed taijutsu attack. The technique uses your ninjutsu, rather than physical damage bonus, and increases it by 25%, unless the technique itself increases it further in which case, you use whichever is preferable.
+Effects: After completing the seals, you perform any non-grapple unarmed attack. The technique uses your ninjutsu, rather than physical damage bonus, and increases it by 25%, unless the technique itself increases it further in which case, you use whichever is preferable.
 
 #### --( Ryuuseiu no Jutsu - Meteor Shower Technique )--
 The user gathers intense fire chakra in their palms or fingertips before throwing several weapons which ignite in mid-air. Aside from being painful, being hit by flaming bits of metal carries other risks.
@@ -190,7 +190,7 @@ A very, very popular technique among hand-to-hand combatants, whose opinions of 
  - Seal Speed: 14
  - Tags: Nintaijutsu, Energy
 
-Effects: This technique alters the dice of any unarmed attacks you make, applying to Unarmed taijutsu, Combo taijutsu, Grapple taijutsu and basic unarmed attacks. Its damage dice become .extra(3) for d4s, .extra(5) for d6s, .extra(6) for d8s, .extra(7) for d10s, .extra(9) for d12s, and .extra(15) for d20s. An attack which would normally deal 8d12 damage would be changed to deal 8d12.extra(9) damage under the effects of Blazing Fury. Additionally, if an attack augmented by Blazing Fury inflicts wounds of any sort, it also causes an Energy wound of one category lower, to a minimum of minor (a punch that inflicted a Minor Blunt wound would also inflict a Minor Energy wound).
+Effects: This technique alters the dice of any unarmed attacks you make. Its damage dice become .extra(3) for d4s, .extra(5) for d6s, .extra(6) for d8s, .extra(7) for d10s, .extra(9) for d12s, and .extra(15) for d20s. An attack which would normally deal 8d12 damage would be changed to deal 8d12.extra(9) damage under the effects of Blazing Fury. Additionally, if an attack augmented by Blazing Fury inflicts wounds of any sort, it also causes an Energy wound of one category lower, to a minimum of minor (a punch that inflicted a Minor Blunt wound would also inflict a Minor Energy wound).
 
 ## B-Rank
 #### --( Karyuu Endan - Fire Dragon Flame Bullet )--
@@ -310,11 +310,11 @@ The pinnacle of wide-area indiscriminate destruction. The user exhales a cloud o
 
  - Chakra: 45
  - Damage: 40d20.open(11)
- - Burns 10, Ignite 20, Stun 10
  - Range: 20
  - Area: Radius of (Damage Bonus)*10 yards.
  - Speed: 30, Delay 20
  - Seal Speed: 22
+ - Special: Burns 10, Ignite 20, Stun 10
  - Tags: Area of Effect, Blunt, Energy, Environmental
 
 Effects: Every initiative count in the delay, this technique gains 5% of its damage, radius, and effects. The use of any non-environmental Katon jutsu of C-rank or above (or the presence of any person suffering from an Ignite status of 10 or greater) in this area will detonate it prematurely. If an effect is used which would disperse the gas cloud during the Delay period, its damage, range, and effects all reset to 0%; and can be built back up by continuing it. You may choose to detonate this when you finish it (in which case you will probably be in the area of effect; however, you take only half damage from your own Ryuujin Bakuha), or not. If not, it'll remain until detonated by the presence of someone with an Ignite 10, or a Katon jutsu of C-rank or above. Ryuujin Bakuha inflicts an Energy wound, and two Blunt wounds of the same severity. If it's used in a confined space (such as indoors, or in a cave) it does an additional 10d20.open(16) damage, and its effects are raised to Burns 20, Ignite 25, and Stun 20. Anyone who succeeds in a status roll when hit by this technique suffers only half the normal status effects.

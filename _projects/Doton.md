@@ -143,7 +143,7 @@ By surrounding your arm or leg in a coat of solidified earth, you can attack an 
  - Seal Speed: 12
  - Tags: Nintaijutsu
 
-Effects: So long as this technique is maintained, your unarmed taijutsu attacks are enhanced: You suffer no 'on-contact' effects (such as damage from punching a foe covered in spikes, or the immobilization of punching a Mud Clone), and gain +X to your Physical Damage Bonus. Additionally, unarmed parries against you take a -X penalty. X has a maximum of one-fourth your Ninjutsu Damage Bonus, rounded up.
+Effects: So long as this technique is maintained, your unarmed attacks are enhanced: You suffer no 'on-contact' effects (such as damage from punching a foe covered in spikes, or the immobilization of punching a Mud Clone), and gain +X to your Physical Damage Bonus. Additionally, unarmed parries against you take a -X penalty. X has a maximum of one-fourth your Ninjutsu Damage Bonus, rounded up.
 
 ## C-Rank
 #### --( Retsudotensho - Split Earth Turn Around Palm )--
@@ -183,7 +183,7 @@ Slamming both hands into the ground, the user can cause a large rectangle wall o
 
 Effects: This creates a wall 4 yards wide and 3 yards high that takes the hit from an attack. This wall absorbs 200 + 10* (Ninjutsu damage bonus) damage. If destroyed, any remaining damage carries on to you (in which case you cannot defend against it further) or whoever else you used this to protect (in which case, they can). As implied up there, this can be used to protect anyone in range. 
 
-However, Earth Shore Return can't be used against melee attacks, attacks with the 'Ground' tag, or ranged attacks originating 5 yards or less away from who its meant to protect (Area of Effect attacks base this off of how far away the area's center is from someone). After having all its HP depleted, or at the end of the IC it was used on, the wall crumbles into dirt and gravel. The wall takes +50% damage from Raiton, and half damage from Suiton.
+However, Earth Shore Return can't be used against melee attacks, attacks with the 'Ground' tag, or ranged attacks originating 5 yards or less away from who its meant to protect. After having all its HP depleted, or at the end of the IC it was used on, the wall crumbles into dirt and gravel. The wall takes +50% damage from Raiton, and half damage from Suiton.
 
 #### --( Doro Nami no Jutsu - Mud Wave Technique )--
 Your chakra being applied to your legs, you turn the ground below your feet into mud which you then stand upon, riding the wave at increased speeds as you flow across the battlefield. This is a good mode of transportation, and a good way to enhance an earth attack!

@@ -105,7 +105,7 @@ Hitori begin with Elemental Aptitude for Fire and Wind ninjutsu, along with the 
 Combining Fire and Wind chakra results in the advanced nature of ‘Scorch Release’; as the name suggests, it involves using extreme heat as a weapon, with powerful users being able to reduce opponents to ash or evaporate the liquid inside their body, sapping away their strength.
 
 Any Katon or Fuuton technique can be converted to Shakuton as a Chakra +5, Speed +0 link, with the following changes:   
- - Deal 75% normal damage, but can not be blocked, and gain +100% for Wounding
+ - Deal 75% normal damage, but can not be blocked, and gain +50% for Wounding
  - They gain +CHA/30 to their Accuracy
  - Inflict a Dehydration status of severity (1 per Rank of the jutsu) + CHA / (90 - 10*Rank) with damage-dealing jutsu.  In other words, for an E-Rank this is 1+CHA/80, for a D-Rank it is 2+CHA/70, and so on, up to 5+CHA/40 for A-rank techniques
  - Shakuton can increase a victim’s Dehydration status up to a maximum of 3+(CHA/8)
@@ -117,7 +117,7 @@ Any Katon or Fuuton technique can be converted to Shakuton as a Chakra +5, Speed
  Shakuton is weak to Suiton, and strong against Fuuton and Doton
 
 ###### --( Dehydration )--
-This is a status effect. Every point of Dehydration applies a -1 penalty to the victim’s Stamina and Resistance rolls, and lowers the victim’s Physical Damage Bonus by 0.3.  Dehydrate stacks fully with itself; Dehydration 3 added to Dehydration 2 makes a single Dehydrate 5 status, which applies a -5 to Stamina and Resistance rolls, and a -1.0 to their PDB.
+This is a status effect. Every point of Dehydration applies a -1 penalty to the victim’s Stamina and Resistance rolls, and lowers the victim’s Physical Damage Bonus by 0.3.  Dehydrate stacks fully with itself; Dehydration 3 added to Dehydration 2 makes a single Dehydrate 5 status, which applies a -5 to Stamina and Resistance rolls, and a -1.5 to their PDB.  Dehydrate from the same source (person) stacks fully with itself; if you suffer Dehydrate from different people, only the highest severity applies.
 
 There is one exception: Dehydrate’s Stamina penalty does not stack with Burns, and if you happen to be suffering from both status effects, you take the higher of the two, rather than both, to Stamina rolls: If you were suffering from Dehydration 2, and received a Burns 3, your Stamina penalty would be -3, and your PDB penalty would be -0.6. If you then cleared your Burns status, the Stamina penalty would lower to -2.  
 

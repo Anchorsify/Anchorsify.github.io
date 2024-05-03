@@ -64,7 +64,9 @@ This forms one's chakra into a small, sharp blade; medics favor this for perform
 - Upkeep: 4
 - Speed: 8
 
-Effects: You can use this in combat. Doing so causes your basic unarmed attacks to inflict Slashing wounds and ignore any damage reduction your opponent may have. However, these 'scalpel' injuries are relatively shallow. They cannot injure a location wearing armor, and do not damage armor when they strike it. The more skilled a medic is, the more effectively they'll be able to weaponize what's meant to be a surgical technique: The damage from Chakra Scalpel attacks is increased by (your Medicine skill ranks)%. Additionally, its damage (after that increase) is increased by (Medicine skill ranks)% for determining the severity of wounds it inflicts.
+Effects: You can use this in combat. Doing so causes your basic unarmed attacks to use DEX/12 for their damage bonus (instead of PDB, which means bonuses, and penalties, to your PDB do not affect this), ignoring any damage reduction your opponent may have, and to inflict Slashing wounds. However, these 'scalpel' injuries are relatively shallow: They cannot wound a location wearing armor, and do not damage armor when they strike it. 
+
+The more skilled a medic is, the more effectively they'll be able to weaponize what's meant to be a surgical technique: The damage from Chakra Scalpel attacks is increased by (your Medicine skill ranks)%. Additionally, its damage (after that increase) is increased by (Medicine skill ranks)% for determining the severity of wounds it inflicts.
 
 #### --( Kasoku Saikassei - Accelerated Revitalization )--
 An advanced medical technique which temporarily allows the body to sustain itself by accelerating the body's metabolism and chakra reserves. It was originally developed to extend the medic's usefulness in prolonged missions, but has been expanded since. It is used sparingly because of how long it takes to recover from, and how it tends to leave people comatose afterward.

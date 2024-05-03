@@ -81,7 +81,7 @@ However, your lack of focus lowers your maximum rank in all Skills by 2.
 ##### Genius
 The term 'genius' has a different meaning to ninja than ordinary people. It's not a measure of intelligence, but rather how easily one can understand the concepts behind ninja techniques. The smartest shinobi alive might not be called a genius, but a Genin using advanced jutsu certainly would. Ninja are just kind of like that. Your natural talent may allow you to be lazy and smug, or it could motivate you on to further greatness.
 
-The cost to learn jutsu is reduced by half, rounded up.  Additionally, you can learn jutsu of one rank higher than you would normally be allowed, though the ability to learn higher-ranked jutsu does not allow you to bypass ability or talent requirements for learning jutsu of certain ranks (such as Medical Training, Genjutsu Awareness, or Sealing Jutsu Training).
+The cost to learn jutsu is reduced by 25%, rounded up.  Additionally, you can learn jutsu of one rank higher than you would normally be allowed, though the ability to learn higher-ranked jutsu does not allow you to bypass ability or talent requirements for learning jutsu of certain ranks (such as Medical Training, Genjutsu Awareness, or Sealing Jutsu Training).
 
 Reaching beyond your grasp has a cost: Any jutsu you couldn't perform without Genius has its cost(s) increased by 3.
 

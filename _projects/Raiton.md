@@ -71,11 +71,15 @@ Effects: If you target someone who is affected by a Raiton-based Paralysis statu
 #### --( Juude - Electric Charge )--
 By charging oneself with Raiton chakra, the user can exploit the lingering charge on an opponent and use the aligned chakra to gravitate toward their target, making their next attack harder to evade.
 
- - Chakra: +8
- - Speed: +4
+ - Chakra: 13
+ - Upkeep: 4
+ - Speed: 6
+ - Seal Speed: 10
  - Tags: Nintaijutsu
 
-Effects: This technique is used as a link to any unarmed or combo jutsu or unarmed basic attack, and only has an affect if the target of the attack it's added to has the Shock status. Juude immediately ends that status (which then doesn't apply to, or penalize, their defensive interrupt in response to the attack), and grants you +X Accuracy to the attack, where X is the Shock status you ended on them, to a maximum of 3.  This works only against those suffering from a Raiton-based Shock status effect, and has no effect on other, non-Raiton sources of Shock.
+Effects: While this technique’s upkeep is maintained, all your unarmed attacks are blocked as if they were Raiton jutsu (meaning, in most cases, that blocking reduces the damage by only 25%, instead of 50%).
+
+If the target of one such attack has a Raiton-based Shock status effect, Juude immediately ends that status (which then doesn't apply to, or penalize, their defensive interrupt in response to the attack), and grants you +X Accuracy to your attack, where X is the Shock status you ended on them, to a maximum of 3.
 
 #### --( Jinrai no Jutsu - Thunderclap Technique )--
 The user puts both hands together, forming a miniature thunder bolt between his hands, splitting the air and forming an extremely loud BANG, which is rather startling when your a few inches from it, and not expecting it. It has the added benefits of temporarily deafening the opponent.
@@ -117,7 +121,7 @@ With a quick burst of lightning natured chakra, you force it through a metallic 
  - Requires: Melee weapon
  - Tags: Nintaijutsu
 
-Effects: This technique acts as a link to any melee weapon attack, and allows the attack to bypass half the damage reduction of those hit by it, as well as adding one-third your NDB to its damage.
+Effects: This technique acts as a link to any attack with a melee weapon, and allows the attack to bypass half the damage reduction of those hit by it, as well as adding one-third your NDB to its damage.
 
 #### --( Raisen - Lightning Flash )--
 The ranged variant of Kaminari, Raisen charges a metallic thrown weapon with Raiton chakra that crackles and sparks along the edges of the weapon mid-flight, giving it enhanced cutting power and debilitating anyone hit.
@@ -185,7 +189,9 @@ Blinds opponents who don't know to close their eyes. Not affected by doujutsu wh
 
 Effects: When you use this technique, you and anyone in range make an opposed Initiative roll, with the victims getting a +4 bonus for each previous time this technique has been used in the current battle. If you beat their roll, they're blinded; if not, they managed to close their eyes in time.
 
-Anyone who is blinded is inflicted with a -8 Visibility Penalty which fades at a rate of 1 per 5 IC, and temporarily loses all ranks of the Enhanced Sight ability, as well as those dependent on it (namely Keen Senses, Assassin's Eye and Genjutsu Awareness). Anyone with an active Doujutsu reduces their bonus to successive rolls against this technique to only +2, and if they fail, they lose all benefits of their doujutsu. Both ability ranks and doujutsu effects remain suppressed until the Visibility Penalty from this technique has been reduced to -3.
+Anyone who is blinded is inflicted with a -8 Visibility Penalty which fades at a rate of 1 per 5 IC, and temporarily loses all ranks of the Enhanced Sight ability, as well as those dependent on it (namely Keen Senses, Assassin's Eye and Genjutsu Awareness). 
+
+Anyone with a Doujutsu (active or not) reduces their bonuse to successive rolls against this technique to only +2, and if blinded, has the effects of their Doujutsu suppressed until the Visibility Penalty from this technique has been reduced to -3 (which Byakugan can not ignore, as they are temporarily blinded).
 
 #### --( Chuubu Gaki no Jutsu - Ghoul Paralysis Technique )--
 After making contact with an enemy, you send a powerful pulse of electricity through their body, momentarily overstimulating their nervous system. For several seconds afterwards, the recipient of the shock will find their body sluggish and poorly responsive. While not actual harmful, this is exceptionally painful.
@@ -211,7 +217,7 @@ You divert your chakra to surge across your skin, building up something akin to 
  - Status: Paralysis 1 for 40 IC, Special
  - Tags: Energy, Contact
 
-Effects: Any time you are struck by an unarmed melee attack or metallic melee weapon, this technique 'discharges', dealing its damage to them automatically, along with the above status roll.  If they hit you again while still suffering from the Paralysis of this technique, its severity is increased by 1, but its duration is not refreshed.
+Effects: Any time you are struck by an unarmed melee attack or metallic melee weapon, this technique 'discharges', dealing its damage to them automatically (which can't wound), along with the above status roll.  If they hit you again while still suffering from the Paralysis of this technique, its severity is increased by 1, but its duration is not refreshed.
 
 This technique can be negated by effects which state they prevent on-contact effects, but will counter (and is not stopped by) Doryu Ken.
 
@@ -285,7 +291,7 @@ This generates a semi-stable mass of lightning chakra which you can physically t
  - Speed: 20
  - Seal Speed: 22
  - Status: Shock 4 for 20 IC
- - Tags: Energy, Environmental, Projectile
+ - Tags: Energy, Projectile
 
 Effects: This creates a ball of energy within range on some surface. When it's created, and every 25 IC afterwards, the ball emits bolts of lightning at everyone within CHA /2 yards. Each bolt of a lightning is a separate attack. The ball has 10 'charges'; it can attack 10 times, and then it expires. It will not attack you, and you can specify up to (Chakra Control)/10 other people who it will ignore, but it otherwise discharges against everyone within range.
 
@@ -358,7 +364,7 @@ Filling both of your arms with an intense and energetic lightning chakra, you th
  - Speed: 24
  - Seal Speed: 28
  - Status: Paralysis 4 for 20 IC
- - Tags: Energy, Environmental, Projectile
+ - Tags: Energy, Projectile
 
 Effects: The creates a vertical spire of energy on an appropriate surface, CHA/4 yards tall. When created, and every 20 IC afterwards, this shocks anyone except you within (CHA)*3/4 yards. You may designate up to (Chakra Control)/5 other people who will not be targeted by the spire, but everyone else within range who is not hidden will be targetted. This attack receives an Accuracy bonus equal to half the severity of the Paralysis status on its target(s) (meaning that different people may have to defend against different accuracies).
 

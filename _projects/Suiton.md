@@ -91,9 +91,7 @@ This technique was once a specialty of the village it's named after, but has sin
  - Requires: 16 gallons of water
  - Tags: Area of Effect, Environmental
 
-Effects: This imposes a -3 Visibility Penalty to everyone in the area, which increases by 1 per 10 IC it's maintained, to a maximum penalty of -6. So long as you maintain its upkeep, if its Visibility Penalty is ever reduced by effect, it will return at a rate of 1 per 10 IC; effects which would remove it entirely (such as Kitakaze) do, still, remove it. The gallons of water used in this technique are considered removed from the battlefield while its Upkeep is maintained (and can not be used for other techniques until its visibility penalty goes away), and when this technique ends, only half of its gallons are added back to the battlefield (the other half is simply destroyed).  The area is centered on you, and moves with you.
-
-If this technique has its visibility penalty reduced by other jutsu (such as by the E-rank Fuuton, Cleansing Winds) then it regains 1 point of its penalty every 5 IC that pass, so long as you maintain its Upkeep. On the other hand, effects which remove it entirely (such as the A-rank Fuuton, The North Wind) will, indeed, remove it (and end the Upkeep automatically). If this technique ends because you stop paying the Upkeep, its Visibility Penalty lowers by 1 per 5 IC which pass.
+Effects: This imposes a -3 Visibility Penalty to everyone in the area, which increases by 1 per 10 IC it's maintained, to a maximum penalty of -6. So long as you maintain its upkeep, if its Visibility Penalty is ever reduced by effect, it will return at the same rate; effects which would remove it entirely (such as Kitakaze) do, still, remove it. The gallons of water used in this technique are considered removed from the battlefield while its Upkeep is maintained (and can not be used for other techniques until its visibility penalty goes away), and when this technique ends, only half of its gallons are added back to the battlefield (the other half is simply destroyed).  The area is centered on you, and moves with you.
 
 #### --( Mizutamari no Jutsu - Pool of Water Technique )--
 A moderately advanced technique is the appropriately named water-walking technique; molding chakra below one's feet to 'stand' on patches of water without any actual expenditure of energy, and, once it's perfected, only minimal concentration. This technique builds upon that concept, creating a 'cushion' of static, almost-solid water beneath each foot that the ninja stands on to avoid direct contact with the ground.
@@ -114,7 +112,7 @@ You mold chakra around your palms to maintain a thick film of water around them,
 - Speed: 10
 - Requires: 4 gallons of water, 10 Chakra Control
 
-Effects: This gives you a +4 bonus to all grapple rolls you make (though it does not apply to weapons, or Kagemane), for any purpose other than escaping a grapple.
+Effects: This gives you a +4 bonus to all grapple rolls you make (though it does not apply to weapons, or Kagemane), for any purpose other than escaping a grapple. This doesn't apply to ninjutsu-based grapples, or grapples which are performed by weapons or objects.
 
 #### --( Mekkyaku - Extinguishment )--
 While most shinobi pay no attention to water that's pooling around them on the battlefield, a clever genin that hated being set on fire developed this technique to put a stop to all that! In the process, they also realized that the process of gathering it was also useful to keep others from doing the same, and thus, this technique was made instantly hated by all of those who have only the smallest talent with Suiton, as masters of it tend to enjoy maintaining their control over their element.
@@ -178,7 +176,7 @@ The user converts chakra into water, and infuses it with enough chakra to alter 
  - Speed: 16
  - Seal Speed: 14
  - Requires: (Area)/3 gallons of water
- - Tags: Area of Effect, Environmental
+ - Tags: Area of Effect, Environmental, Ground
 
 Effects: Everyone within the area of this technique takes a -4 Immobilization penalty; anyone with the Water Walking ability instead only takes a -2 penalty, which remains until you leave its area. This technique's effects remain regardless of whether you maintain its Upkeep, however while you do maintain it, you can control the syrup field to make it 'grab' someone within its area, making a grapple roll using your NDB in place of PDB against them (with you as the attacker) as a Speed 8 action; if you succeed, they are caught and take the full -4 Immobilization penalty regardless of whether or not they have the Water Walking ability.
 
@@ -363,21 +361,20 @@ This creates an enormous shark out of water and sends it crashing across the bat
 
 Effects: If used as an Interrupt, you may choose to reduce this technique's Seal Speed by 10 and increase its Chakra cost by 10. You can choose to use more than the required amount of gallons of water for this technique, adding 2 points of damage per extra gallon used; all gallons of water used in this technique are removed from the battlefield afterward. Used as a normal attack, it does full damage to a single target, and half damage to everyone else within its Area (including you, if you are in it).
 
-As an Interrupt, it can be used to counter any ranged ninjutsu attack. Daikoudan may be used to Interrupt techniques so long as its Speed is equal to or less than theirs. The two attacks collide, and their damage is compared. For this comparison, treat Katon technqiues as dealing 25% less damage, and Doton as dealing 25% more. If the incoming attack does more damage, you are hit by it, but it has its damage reduced by half. If Daikoudan's damage is greater, it becomes an attack against the opponent with +5 Accuracy, along with any Accuracy bonuses (but not penalties) of the attack it countered. It does an additional (X * 10) damage, where X is the Chakra cost of the move it countered. Similarly, if a ninjutsu-based defense is used against Daikoudan, and fails to stop it completely, it does full damage (bypassing partial success) and adds (X * 10) damage, with X being the Chakra cost of the failed defense.
+As an Interrupt, it can be used to counter any ranged ninjutsu attack. Daikoudan may be used to Interrupt techniques so long as its Speed is equal to or less than theirs. The two attacks collide, and their damage is compared. For this comparison, treat Katon technqiues as dealing 25% less damage, and Doton as dealing 25% more. If the incoming attack does more damage, you are hit by it, but it has its damage reduced by half. If Daikoudan's damage is greater, it becomes an attack against the opponent with +5 Accuracy, along with any Accuracy bonuses (but not penalties) of the attack it countered. It does an additional (X * 10) damage, where X is the Chakra cost of the move it countered. Similarly, if a non-Doton ninjutsu-based defense is used against Daikoudan, and fails to stop it completely, it does full damage (bypassing partial success) and adds (X * 10) damage, with X being the Chakra cost of the failed defense; against Doton defenses, it still does full damage if the defense fails to stop it, but it does not gain damage based upon the Chakra cost of the failed defense.
 
 #### --( Dai Bakusui Shouha - Great Exploding Water Shockwave )--
 A stronger version of the B-rank Exploding Water Shockwave, the user spits out a truly prodigious amount of water.
 
  - Chakra: 30 + X
  - Upkeep: 8
- - Range: 20 + X * 4
- - Area: 20 + X * 4
+ - Area: 20 + X * 3
  - Speed: 26
  - Seal Speed: 32
- - Status: Stun (10 + X)
- - Tags: Area of Effect, Environmental
+ - Status: Stun 20
+ - Tags: Area of Effect, Environmental, Ground
 
-Effects: This adds (200+ X * 20) gallons of water to the battlefield. X has a maximum of your Chakra Control ranks. Unlike other Suiton techniques, you can use the water from this technique even while maintaining its upkeep. So long as you maintain its Upkeep and there are least 200 gallons of water on the battlefield, any techniques which function by altering the condition of the ground (such as Syrup Capture Field, or Retsudotensho) are effectively useless, as the water forms a flattened orb over the affected area, with the user anchored at its center. The water orb will follow them, and the below effects will be maintained (when the upkeep ends, so do they, as the water disperses over a much larger area): Anyone who can't stand on water will begin to sink into the orb, and is forced to swim (at half their normal movement speed, unaided by normal movement-increasing techniques), and until they exit the area, they suffer a Suffocation 1 every 10 IC. Someone forced to swim in this way can take a Speed 5 action to keep themselves at the surface of the water, preventing them from gaining any Suffocation status from this technique for 15 IC.
+Effects: This adds (100+ X * 20) gallons of water to the battlefield. X has a maximum of your Chakra Control ranks. Unlike other Suiton techniques, you can use the water from this technique even while maintaining its upkeep. So long as you maintain its Upkeep and there are least 300 gallons of water on the battlefield, all other Ground-tagged techniques (such as Syrup Capture Field, or Retsudotensho) are effectively useless, as the water forms a flattened orb over the affected area, with the user anchored at its center. The water orb will follow them, and the below effects will be maintained (when the upkeep ends, so do they, as the water disperses over a much larger area): Anyone who can't stand on water will begin to sink into the orb, and is forced to swim (at half their normal movement speed, unaided by normal movement-increasing techniques), and until they exit the area, they suffer a Suffocation 1 every 10 IC. Someone forced to swim in this way can take a Speed 5 action to keep themselves at the surface of the water, preventing them from gaining any Suffocation status from this technique for 15 IC.
 
 #### --( Hijutsu: Kirisame - Secret Technique: Mist Rain )--
 This technique causes it to start raining over a small (well, for... rain) area. This rain is chakra-infused, and will siphon away any chakra which doesn't match its own (in other words, its creator's); fallen rain evaporates rapidly, only to fall again, and shrouds the area in a thick mist.

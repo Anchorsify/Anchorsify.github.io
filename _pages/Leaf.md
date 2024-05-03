@@ -130,11 +130,11 @@ Using a Swarm that the Aburame has already spread out over an area in the battle
 
 Effects: When you activate this jutsu, a deployed Swarm becomes single-mindedly focused on a singular enemy, and harasses them continuously.  From then you track the Swarm individually, but the Swarm only takes a single action: Moving toward your designated target, which must have a Female Kikai upon them.  If the Female Kikai is ever destroyed, this Jutsu ends automatically and the Swarm becomes a regular swarm on the battlefield.  You can, at most once every 10 IC, spend AP to have the Swarm attack their target, assuming the Swarm is in melee range of them. You use your base Accuracy for Ninjutsu, unmodified by Status effects, Wounds, Temporary Bonuses, though penalties from Fatigue do apply.
 
-You can have the Swarm make a basic attack (dealing the listed damage above) for X/2 AP, or you can choose to have the Swarm perform any Grapple Jutsu you know, paying AP equal to its base Speed.  So long as the Swarm is able to maintain melee range with their target, the Swarm is considered to be Grappling the target and in control.  Rather than making Grapple rolls to escape, the Target must move far enough away to break melee range with the Swarm to be considered ‘free’ of the Grapple.
+You can have the Swarm make a basic attack (dealing the listed damage above) for X/2 AP, or you can choose to have the Swarm perform any Grapple Jutsu you know of C-rank or lower, paying AP equal to its base Speed.  So long as the Swarm is able to maintain melee range with their target, the Swarm is considered to be Grappling the target and in control.  Rather than making Grapple rolls to escape, the Target must move far enough away to break melee range with the Swarm to be considered ‘free’ of the Grapple.
 
 The Swarm is immune to the Grappled condition itself, however, and both the Swarm and the Target do not have their Movement speed reduced for being in a Grapple (though the Target could still have their movement speed reduced from individual Grapple Jutsu, such as a Leg Lock), nor do they suffer the normal penalties associated with being Grappled; the Swarm merely gains the benefits of being considered in a Grapple with the target and in control if it’s beneficial for them. The sole exception to the above is that if they are using this special Grapple with someone who is suffering from an Ignite status, it harms the Swarm following normal Swarm rules and can reduce the Swarm’s size (potentially to 0, ending this jutsu) as a result.  If a Grapple Check is ever required for a Grapple Jutsu they perform (such as from Tiger Drop), the Swarm uses your NDB in place of PDB.  The Swarm is considered to have unlimited limbs.
 
-While this Jutsu is being maintained, the Swarm used in this Technique can not be used for any other action (drain, defending, creating clones, etc) until the technique is dismissed.
+While this Jutsu is being maintained, the Swarm used in this Technique can not be used for any other action (drain, guard, creating clones, etc) until the technique is dismissed, though it can defend itself normally.
 
 #### --( Mushi Jamingu no Jutsu – Bug Jamming Technique )--
 The Aburame commands their Kikaichuu to disperse over a wide area of the battlefield and then transmits their Chakra to them, covering the field in chakra pathways.  Depending on the whims of the Aburame, they can produce a variety of effects, from sensor disruption to draining an entire enemy squadron simultaneously.
@@ -142,14 +142,14 @@ The Aburame commands their Kikaichuu to disperse over a wide area of the battlef
  - Type: Ninjutsu, Rank C
  - Chakra: 10 + X
  - Speed: 10 + X
- - Upkeep: X/2
+ - Upkeep: X
  - Area: X * 5
  - Seal Speed: 12
  - Requires: Deployed X Swarm Size
 
-Effects:  You create a cloud of Kikaichuu that can be used to do one of several things. You pick one from the list below when you first use this jutsu, and can switch between them as a Speed 4 + X action without repaying the cost, so long as the Upkeep is maintained.
+Effects:  You create a cloud of Kikaichuu that turn into, essentially, an Environmental effect, that can be used to do one of several things. You pick one from the list below when you first use this jutsu, and can switch between them as a Speed 4 + X action without repaying the cost, so long as the Upkeep is maintained.
 
-The Swarm used for this technique can not be used for other things (drain, defending, creating clones) until the technique is dismissed. You are immune to the penalties of this technique, but can benefit from its effects (when using Disrupt Chakra Sensors, namely), and can specify (Chakra Control Ranks)/5 additional people to be immune to Bug Jamming's effects (chosen based on who is in the affected area at any given time).
+The Swarm used for this technique can not be used for other things (drain, guard, creating clones) until the technique is dismissed, and can not be targetted or attacked, nor do they take damage from area of effect attacks. You are immune to the penalties of this technique, but can benefit from its effects (when using Disrupt Chakra Sensors, namely), and can specify (Chakra Control Ranks)/5 additional people to be immune to Bug Jamming's effects (chosen based on who is in the affected area at any given time).
 
  - *Disrupt Chakra Sensors* - While maintaining the field, you take no penalty for the upkeep of your Kikaichuu (or this technique) when someone tries to sense or spot you, and instead have a bonus to of X*2 to disguise and/or hide yourself from Scanning or Searching attempts.  Chakra Sensors are not able to sense or identify anyone within the field based on their chakra signatures.
  - *Obstruct Vision* - By constantly keeping in motion and following a synchronized pattern, the beetles can obstruct anyone’s vision who is within the field. While not an actual hindrance to movement, they impose a -X Visibility Penalty to anyone inside of it, or anyone attacking into the field, for as long as it’s maintained. If this technique has its visibility penalty reduced by other jutsu (such as by the E-rank Fuuton, Cleansing Winds) then it regains 1 point of its penalty every 5 IC that pass, so long as you maintain its Upkeep. On the other hand, effects which remove it entirely (such as the A-rank Fuuton, The North Wind) will, indeed, remove it (and end the Upkeep automatically).
@@ -536,7 +536,7 @@ The absolute defense of the Hyuuga clan, to use this technique the Hyuuga simult
  - Special: Interrupt, Abort
  - Requires: Byakugan active
 
-Effects: Kaiten's final Speed my never go below its base Speed. If used as an Interrupt, you make an Accuracy Roll with a +X/2 bonus against all attacks directed at you that IC; failure means you are hit, but activate Kaiten immediately afterwards.  Kaiten deals Energy wounds.
+Effects: Kaiten's final Speed my never go below its base Speed, and it always uses its base Speed for its damage (i.e., X does not add to NDB * Spd for damage). If used as an Interrupt, you make an Accuracy Roll with a +X/2 bonus against all attacks directed at you that IC; failure means you are hit, but activate Kaiten immediately afterwards.  Kaiten deals Energy wounds.
 
 Kaiten lasts for its full Speed in IC after being used.  For example, if you used it on IC 22 when attacked, paying 8 Chakra and Stamina, it would last until IC (22+6+3) = 31.  Anytime after the first 6 IC have passed (on IC 28), you may abort Kaiten.
 
