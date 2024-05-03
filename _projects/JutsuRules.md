@@ -156,7 +156,10 @@ Finally, rank: If you're high-enough ranking, you're able to pull enough strings
  - B: 23
  - A: 33
 
-Finally, unarmed and combo jutsu require **TWO** free hands to use (though you can perform basic unarmed attacks with your legs and thus, even when one or both hands aren't free). Grapples only require one, and weapons depend on the weapon used.
+Finally, Unarmed Taijutsu and Combo Taijutsu require **TWO** free hands to use (though you can perform basic unarmed attacks with your legs and thus, even when one or both hands aren't free). Grapple Taijutsu only require one, and weapons depend on the weapon used.
+
+#### 'unarmed attacks'
+'unarmed attacks' are a nonspecific way of referring to Basic Unarmed Attacks, Unarmed Taijutsu, Combo Taijutsu, and Grapple Taijutsu (read: non-weapon Taijutsu).
 
 #### Weapon Jutsu
 Weapon jutsu are special techniques which can be performed only while using a specific sort of weapon. All weapon jutsu will have a "Type" entry, where they'll listen a certain characteristic, such as Melee Slashing, or Sword. Only a weapon which meets these requirements may be used with that technique. Many of these jutsu will list "(Weapon)" in one or more of their entries. For example, if you are using a Stamina 12 weapon, and the technique lists "Stamina: (Weapon) + 3", the Stamina cost to use it would be 15. If a weapon has a Delay, then any techniques using it also inherit this Delay. For example, using Oak Flight (a technique which normally has no Delay) with a Tetsubo would cause your attack to have Delay 8 (the Tetsubo's normal Delay). If a technique has a Delay of, for example, "(Weapon) + 3", weapons without a Delay are treated as having a natural Delay 0 (meaning, in that case, the technique would have Delay 3).
