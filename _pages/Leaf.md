@@ -549,7 +549,7 @@ This technique’s only true weakness is that it is ineffective if the user cann
 #### --( Juukenpo Ichigekishin – Gentle Fist Art One Blow Body )--
 Another offensive use of the Hyuuga's ability to release chakra from his tenketsu.  Here a force is created and directed against an opponent, or even against the espied weakness of some technique in order to dispel it, using the Byakugan's ability to see chakra.  In either case, the force created can easily send most opponents flying.
 
- - Type: Unarmed Taijutsu, Rank C
+ - Type: Taijutsu, Rank C
  - Chakra: 10 + X
  - Speed: 10
  - Requires: Byakugan Active
