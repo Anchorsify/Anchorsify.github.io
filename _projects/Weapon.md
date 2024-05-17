@@ -38,7 +38,7 @@ Effects: This jutsu summons Senbon, and thusly does not require (or use) any Sen
 By spinning their weapon rapidly with both hands, the user deflects ranged attacks aimed at them as they close in on their opponents, and can potentially even reflect them back at an enemy.
 
 - Stamina: 10
-- Upkeep: 2 + X
+- Upkeep: 0 + X
 - Speed: 10
 - Type: Polearm; Umbrella; Fan
 

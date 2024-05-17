@@ -157,7 +157,7 @@ This technique causes the ground surrounding the enemy to spiral inwards on itse
  - Seal Speed: 18
  - Tags: Blunt, Area of Effect, Ground
 
-Effects: Anyone hit by this technique suffers a Stun and Immobilization Penalty equal to the amount their defensive roll failed by, to a maximum of Stun 8 and -8 Immobilization. The Immobilization penalty lasts until they leave the area, and the affected area has all other terrain-based effects removed. If someone uses a defense which does not require a roll, and takes damage from this technique, they instead make a status roll (and take both the Stun and Immobility penalty if they fail, as described above). If used in a cave, the Stun and Immobilization penalty is always 8.
+Effects: Anyone hit by this technique suffers a Stun and Immobilization Penalty equal to the amount their defensive roll failed by, to a maximum of Stun 8 and -8 Immobilization. This immobilization penalty fades at the normal rate of 1 per 10 IC, and the affected area has all other terrain-based effects removed. If someone uses a defense which does not require a roll, and takes damage from this technique, they instead make a status roll (and take both the Stun and Immobility penalty if they fail, as described above). If used in a cave, the Stun and Immobilization penalty is always 8.
 
 #### --( Doryuu Taiga - Earth Flow River )--
 You cause a long stretch of nearby ground to become mud and slide your opponents down a torrenting river of rocks and dirt, spewing them out at the end. This often leaves people hurt, and disoriented!
@@ -360,7 +360,7 @@ This changes the surface of the ground across a broad area into a viscous, muddy
  - Seal Speed: 28
  - Tags: Area of Effect, Environmental, Ground
 
-Effects: The swamp imposes a -12 immobilization penalty on anyone caught in it, which, after all reductions and modifications, may not exceed -9. 
+Effects: The swamp imposes a -12 immobilization penalty on anyone caught in it, which, after all reductions and modifications, may not exceed -9. This immobilization penalty fades at the normal rate of 1 per 10 IC.
 
 You may adjust the affected area within the limits of this jutsu's dimensions. For example, you could leave an island of normal ground at the center for yourself, or a narrow path for you and your allies to run through, forming a chokepoint. This does allow you to shrink the total affected area, if you wish. 
 

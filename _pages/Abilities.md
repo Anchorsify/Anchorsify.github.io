@@ -153,11 +153,12 @@ As a ninja, you get most of your supplies from your village. This ability repres
 - Limit: None
 
 #### -=[ Money: Savings ]=-
-This is a nest egg of money you've set aside and saved up over time. For each rank, you have 100 Ryo that you can spend as you please. This money cannot be refunded or replenished; used or broken items are simply lost.
+This is a nest egg of money you've set aside and saved up over time. For each rank, you have 100 Ryo that you can spend as you please. This money cannot be refunded or replenished; used or broken items are simply lost.  Items with the 'Consumable' tag may not be purchased with Savings.
 
 - Base Cost: 2
 - Scale: 0
-- Limit: None
+- Limit: 5% of your Total XP
+- Special: *Items with the Consumable tag may not be purchased with Savings*. XP spent on Savings does not count against the XP Cap (but is spent, like normal).  Thus, if had 2550 XP, with the XP Cap at 2500, and had spent 100 XP in Savings, you could earn and spend an additional 50 XP, as the 100 spent on Savings did not count against the cap (but had been spent, like normal). 
 
 #### -=[ Bingo Book ]=-
 The bingo book is a pocket-sized book put out by each village, with information on missing nin and enemy ninja of note. This information includes their bounties, their reputation, and any abilities which the village may be willing to publicize. Having this ability means you keep an up-to-date copy of the bingo book; you can steal someone else's, but they generally get updated every few months.
@@ -519,7 +520,7 @@ You're an expert at misdirection; you know the signs people look for and pick up
 - Limit: Espionage /5
 
 #### -=[ Cunning Blow ]=-
-If you attack an opponent within 10 IC after you've successfully defended against an attack they made which targeted you, you have a +4 bonus to Accuracy.
+If you attack an opponent within 10 IC after you've successfully defended against an attack they made which targeted you, you have a +4 bonus to Accuracy.  Attacks which use the result of a defensive roll as your accuracy (such as Halting Blow) can not benefit from this Ability.
 
 - Base Cost: 50
 - Requires: 20 Espionage
@@ -662,7 +663,7 @@ You get a lot done in combat. Whether it's quickly assessing the battlefield, ex
 - Limit: AGI /20
 
 #### -=[ Principle of Motion ]=-
-You're able to act blindingly fast, beyond what all reason suggests should be possible. You may at any time cause your next action to come 1 IC earlier for every 2 AP you spend. For example, say it's initiative count 200, and you just took a speed 12 action. Your action ends that IC, moving the battle onto IC 201; normally your next action would occur on IC (200+12) = 212. By spending 22 AP, you could act on (IC 212 - 11) 201, in other words, immediately. This only allows your next action to come sooner; it does not let you finish an ongoing action sooner. As such, Principle of Motion can't be used to make you finish Handseals early, or while you are in the process of using any action with a Delay. Similarly, you can not use Principle of Motion to reverse time. You may use Principle of Motion only to bring your next action to what the current initiative count is. This means that if you take an action on IC 16, once it is resolved IC 17 begins--and that is the earliest you could activate Principle of Motion, meaning you would be unable to act twice on the same initiative count. After using Principle of Motion, you may not use it again until 10 IC have passed. You may not use Principle of Motion while stunned.
+You're able to act blindingly fast, beyond what all reason suggests should be possible. You may at any time cause your next action to come 1 IC earlier for every 2 AP you spend. For example, say it's initiative count 200, and you just took a speed 12 action. Your action ends that IC, moving the battle onto IC 201; normally your next action would occur on IC (200+12) = 212. By spending 22 AP, you could act on (IC 212 - 11) 201, in other words, immediately. This only allows your next action to come sooner; it does not let you finish an ongoing action sooner. As such, Principle of Motion can't be used to make you finish Handseals early, or while you are in the process of using any action with a Delay. Similarly, you can not use Principle of Motion to reverse time. You may use Principle of Motion only to bring your next action to what the current initiative count is. This means that if you take an action on IC 16, once it is resolved IC 17 begins--and that is the earliest you could activate Principle of Motion, meaning you would be unable to act twice on the same initiative count. After using Principle of Motion, you may not use it again until 10 IC have passed. You may not use Principle of Motion while stunned. 
 
 - Base Cost: 60
 - Requires: 100 DEX, 100 AGI

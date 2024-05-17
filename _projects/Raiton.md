@@ -29,7 +29,6 @@ Any person leaving, or entering, the area charged once it has been set causes th
 
 Usage of this technique in combat will alert the user whether someone enters and leaves the area it's placed at, but will not reveal someone's location who is in stealth, or even pinpoint the direction in which they crossed the barrier: It is too simplistic for that.  Once placed, the effect can last up to eight hours.
 
-
 #### --( Shougeki Heki - Shocking Burst )--
 Holding a hand out there is a pulse of electricity. This isn't nearly enough to kill anyone, but it definitely hurts.
 
@@ -38,7 +37,7 @@ Holding a hand out there is a pulse of electricity. This isn't nearly enough to 
  - Area: 10
  - Speed: 4
  - Seal Speed: 6
- - Status: Shock 2 for 20 IC
+ - Status: Paralysis 1 for 20 IC
  - Tags: Energy, Projectile
 
 Effects: This technique may not have its Speed reduced below 4 by any means. It can either target a single person, or everyone within the range as an area centered on, but not affecting, you. If the latter, it does not penalize dodges as a regular Area of Effect would.
@@ -51,7 +50,7 @@ Charging up electricity between two weapons, you harness it into a ball and then
  - Accuracy: +1
  - Range: 10
  - Speed: 9
- - Requires: a metal weapon in each hand.
+ - Requires: a weapon in each hand.
  - Tags: Energy, Projectile
 
 ## D-rank
@@ -63,10 +62,10 @@ You focus energy to the tips of your fingers on either hand, then point at an op
  - Range: 15
  - Speed: 13
  - Seal Speed: 10
- - Status: Paralysis 2 for 20 IC
+ - Status: Shock 2 for 20 IC
  - Tags: Energy, Projectile
 
-Effects: If you target someone who is affected by a Raiton-based Paralysis status with this technique, it gains +1 Accuracy.
+Effects: If you target someone who is affected by a Raiton-based Shock status with this technique, it gains +1 Accuracy.
 
 #### --( Juude - Electric Charge )--
 By charging oneself with Raiton chakra, the user can exploit the lingering charge on an opponent and use the aligned chakra to gravitate toward their target, making their next attack harder to evade.
@@ -217,7 +216,9 @@ You divert your chakra to surge across your skin, building up something akin to 
  - Status: Paralysis 1 for 40 IC, Special
  - Tags: Energy, Contact
 
-Effects: Any time you are struck by an unarmed melee attack or metallic melee weapon, this technique 'discharges', dealing its damage to them automatically (which can't wound), along with the above status roll.  If they hit you again while still suffering from the Paralysis of this technique, its severity is increased by 1, but its duration is not refreshed.
+Effects: Any time you are struck by an unarmed attack or melee weapon attack, this technique 'discharges', dealing its damage to them automatically (which can't wound), along with the above status roll.  In the case of weapon attacks, the damage is halved.
+
+If they hit you again while still suffering from the Paralysis of this technique, its severity is increased by 1, but its duration is not refreshed.
 
 This technique can be negated by effects which state they prevent on-contact effects, but will counter (and is not stopped by) Doryu Ken.
 

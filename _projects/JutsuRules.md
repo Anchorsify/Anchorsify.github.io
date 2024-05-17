@@ -35,7 +35,7 @@ Most of the jutsu entries have a lot of information packed into them. To help ma
 The technique's Stamina and Chakra cost, respectively.
 
 ###### Upkeep
-Upkeeps apply a penalty to all Stamina and Chakra Exhaustion rolls while maintained in exchange for maintaining an effect indefinitely (such as doujutsu, ninjutsu-created weapons, or Chakra Flow).
+Upkeeps apply a penalty to all Stamina and Chakra Exhaustion rolls while maintained in exchange for maintaining an effect indefinitely (such as doujutsu, ninjutsu-created weapons, or Chakra Flow).  
 
 ###### Damage
 The base damage dealt by the technique. You add your damage bonus (multiplied by the attack's modified Speed) to this number. Unless otherwise specified, Taijutsu use your Physical Damage Bonus, and Ninjutsu use your Ninjutsu Damage Bonus.

@@ -55,7 +55,9 @@ This jutsu creates clones that phase in and out of the ground as if they were ma
  - Seal Speed: 12
  - Tags: Clone
 
-Effects: This genjutsu creates dozens of illusions of the user. Anyone in combat with them must 'defend' against this technique with a genjutsu roll; against anyone who fails, you are considered to be in level 1 Stealth as one of the clones. The clones are harmless, and slow-moving, but may feign attacks intermittently. You may attack from stealth normally, but in addition to ranged attacks, you may make any basic weapon or unarmed attack without breaking stealth. Each attack lowers your Stealth TN by 3, rather than 5. If you take a Hide or Improve Hiding action, this technique's benefits end. Once you've been found, you cannot hide among these clones again; you'd need to use the technique once more to do that.
+Effects: This genjutsu creates dozens of illusions of the user. Anyone in combat with them must 'defend' against this technique with a genjutsu roll; against anyone who fails, you are considered to be in level 1 Stealth as one of the clones, making a Stealth roll to determine your Stealth TN.
+
+ The clones are harmless, and slow-moving, but may feign attacks intermittently. You may attack from stealth normally, but in addition to ranged attacks, you may make any basic weapon or unarmed attack without breaking stealth. Each attack lowers your Stealth TN by 3, rather than 5. If you take a Hide or Improve Hiding action, this technique's benefits end. Once you've been found, you cannot hide among these clones again; you'd need to use the technique once more to do that.
 
 #### --( Oboro Bunshin no Jutsu - Haze Clone Technique )--
 This creates what appear to be ordinary bunshin, even responding and vanishing when struck. However, each time one clone is destroyed another takes its place, typically just out of sight of whoever destroyed its predecessor.

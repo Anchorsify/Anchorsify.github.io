@@ -19,9 +19,11 @@ Ninja in the Naruto universe have an advantage which real ninja lacked: namely, 
 
 Every piece of equipment has a cost in Ryo, the world's most commonly-used currency. You can get Ryo in two primary ways, the Money: Requisition and Money: Savings abilities.
 
-Items bought with Requisition can be traded in and replaced whenever you visit your village. Items bought with Savings are yours forever, for better or worse; if you lose them, they won't be replaced.
+Items bought with Requisition can be traded in and replaced whenever you visit your village. Items bought with Savings are yours forever, for better or worse; if you lose them (or break them), they won't be replaced.
 
-Items can be divided into two broad categories: Consumable and non-consumable. Consumable items are gone once you use them. These are things like smoke bombs, poisons, and explosives. Used-up consumables can be restocked when you get back to your village, if they were bought with Requisition. It is generally unwise to purchase consumables with Savings; if you do, once you use them they are gone forever. Non-consumable items can be broken, destroyed, or lost, but usually aren't. These are things like ropes, weapons, and lockpicks. Ranged weapons are not destroyed on use (hit or miss).
+Items can be divided into two broad categories: Consumable and non-consumable. Consumable items are gone once you use them. These are things like smoke bombs, poisons, and explosives. Used-up consumables can be restocked when you get back to your village, if they were bought with Requisition. Non-consumable items can be broken, destroyed, or lost, but usually aren't. These are things like ropes, weapons, and lockpicks. Ranged weapons are not destroyed on use (hit or miss).
+
+Items with the 'Armor' tag indicate that they are, as you'd expect, Armor. Some might have penalties for wearing them, but not all.  Most importantly, you can only have one type of Armor protecting any given body location (which the armor itself will state where it applies to).  You can, for RP purposes, wear multiple types over each other, but mechanically you must pick which you wish to use and consider to be wearing for its benefits.  While you can remove armor in combat, you can't easily put it on, unless the Armor itself states otherwise.
 
 #### Equipment weight 
 In some cases, equipment weight will come up. Weights are listed below.
@@ -351,11 +353,13 @@ A large scroll. Most of the time these are carried rolled up to save space. They
 These pills contain a peculiar mix of chemicals that, when consumed by someone capable of using chakra (such as a ninja) will allow their body to rapidly replenish lost blood. When you take one of these pills you regain RES/10 HP (but not Vitality) each IC, for 50 IC. During this duration you take only one third damage from poison, and no damage from effects caused by bleeding (such as certain wounds). Using a Blood Pill is a Speed 10 action.
 
  - Cost: 250 Ryo
+ - Tags: Consumable
 
 ##### Caltrops
-Small bits of metal that are basically just four short spikes attached at a center; no matter how they land, there'll always be a metal spike pointing upwards. The typical use is to scatter them across the ground to impede movement through an area. As a Speed 10 action you can throw them up to STR/6 yards to cover an Area 5 in caltrops. Anyone moving through the area going at more than half their maximum movement speed takes 1d4 damage for every IC they spend moving through the area; this damage has no Damage Bonus component, and cannot inflict wounds.  Caltrops are considered to have the 'Environmental' tag when placed.
+Small bits of metal that are basically just four short spikes attached at a center; no matter how they land, there'll always be a metal spike pointing upwards. The typical use is to scatter them across the ground to impede movement through an area. As a Speed 10 action you can throw them up to STR/6 yards to cover an Area 5 in caltrops. Anyone moving through the area going at more than half their maximum movement speed takes 1d4 damage for every IC they spend moving through the area; this damage has no Damage Bonus component, and cannot inflict wounds.
 
  - Cost: 20 Ryo for enough caltrops to cover one 5 yard area
+ - Tags: Consumable, Environmental
 
 ##### Cloth
 Broad, sturdy cloth that looks like bandages, or perhaps mummification wraps. This comes in large rolls of up to 200 yards; carrying more than one roll inflicts a -1 immobilization penalty for each beyond the first (not due to weight, but because they're bulky). Confine Scroll Seals can carry one roll each.
@@ -376,7 +380,9 @@ A large gourd or other sort of container, several feet long and usually worn on 
 Flash bombs are devices which, when ignited, produce brilliant flashes of light. Anyone within Area 10 of the location they're thrown at suffers a -4 Visibility penalty for the next 10 IC.  It is a Speed 4 action to throw one, and you can throw them up to STR/5 yards.
 
 You may also drop a flash bomb when dodging, in which case your dodge's Speed is increased by 4, and it is dropped at your feet, affecting everyone within Area 10 of you except yourself.
-  -  Cost: 50 Ryo
+
+ -  Cost: 50 Ryo
+ - Tags: Consumable
 
 ##### Ninja Wire
 High tension 16-gauge wire. It is generally only available in ninja villages, and comes in spools with various lengths of wire.
@@ -393,14 +399,16 @@ You can also attempt to snap the ropes using brute force. This calls for a roll 
  - Cost: 10 Ryo per 5 yards.
 
 ##### Smoke Bomb
-Paper balls small enough to be easily held in one hand, when thrown at the ground they burst and release wide clouds of smoke. Smoke bombs have a range of STR/5 yards, and can be thrown as a Speed 4 action. When thrown, it releases a cloud of thick smoke that causes a -6 visibility penalty to all people within its 10 yard radius, for 20 IC.  These clouds of smoke have the 'Environmental' tag.
+Paper balls small enough to be easily held in one hand, when thrown at the ground they burst and release wide clouds of smoke. Smoke bombs have a range of STR/5 yards, and can be thrown as a Speed 4 action. When thrown, it releases a cloud of thick smoke that causes a -6 visibility penalty to all people within its 10 yard radius, for 20 IC.
 
  - Cost: 50 Ryo
+ - Tags: Consumable, Environmental
 
 ##### Poison Smoke Bomb
-Sturdier than regular smoke bombs, and much more dangerous, these are filled with some manner of poisonous vapor. They're used like regular smoke bombs, but have a 10 yard radius, a -4 visibility penalty, and persist for 25 IC. When you buy a poison smoke bomb, select a poison (from the Poisons section) which has Inhalation as one of its possible vectors of delivery. When you throw the smoke bomb, make a Toxicology roll. Anyone who passes through the area must make a Resistance roll against that Toxicology result, or be poisoned. The cost of the poison smoke bomb is 100 Ryo, plus the base cost (unreduced by buying multiples) for one dose of the chosen poison.  Like with Smoke Bombs, they have the 'Environmental' tag.
+Sturdier than regular smoke bombs, and much more dangerous, these are filled with some manner of poisonous vapor. They're used like regular smoke bombs, but have a 10 yard radius, a -4 visibility penalty, and persist for 25 IC. When you buy a poison smoke bomb, select a poison (from the Poisons section) which has Inhalation as one of its possible vectors of delivery. When you throw the smoke bomb, make a Toxicology roll. Anyone who passes through the area must make a Resistance roll against that Toxicology result, or be poisoned. The cost of the poison smoke bomb is 100 Ryo, plus the base cost (unreduced by buying multiples) for one dose of the chosen poison.
 
  - Cost: 100 Ryo + cost of poison
+ - Tags: Consumable, Environmental
 
 ##### Soldier Pill
 The proper name is 'military ration pills', but the term soldier pill is more commonly used among shinobi. They're less rations than fast-acting performance-enhancing drugs. Though every village has a slightly different recipe, the pills are all marble-sized and black or dark brown. When eaten, they have the approximate flavor and texture of sawdust.
@@ -408,6 +416,7 @@ The proper name is 'military ration pills', but the term soldier pill is more co
 These pills are essentially just condensed stimulants and nutrients; taking one immediately lowers you a Fatigue category, and gives you +5 to Chakra Exhaustion and Stamina rolls for the next hour. Doing so is a Speed 10 action in battle. You may only take one per battle, and no more than RES/50 per day.
 
  - Cost: 250 Ryo
+ - Tags: Consumable
 
 #### Survival
 ##### Antidote
@@ -416,6 +425,7 @@ Antidotes to several of the more popular and lethal poisons which shinobi use ar
 Taking a dose of an antidote is a Speed 6 action, and immediately cures you of the poison in question and all its lingering effects. Antidotes that act quickly enough to be useful in emergencies, such as combat, aren't gentle on the body, with each applying a -2 penalty to your Accuracy and all d20 rolls for 100 IC. However, for that duration you are immune to the poison in question.
 
  - Cost: Varies
+ - Tags: Consumable
 
 ##### Compass
 A small, typically handheld device that has a needle inside a metal case (with a glass cover, so it can be seen) that points, approximately, to magnetic north when held level. These aren't exactly precise, but they're good enough most of the time. Notably, they can have trouble working underground or if they get zapped by a lightning jutsu. When trying to navigate the wilderness, having a compass gives a +2 bonus to any Survival rolls. If you also have a map of the country you're in, this is raised to +4.
@@ -428,6 +438,7 @@ A collection of bandages, ointments, and antiseptics. First aid kits can be used
 Alternately, it can treat a wound (in the sense of, "this wound has penalty X until treated, and then only penalty Y"). This is a Speed 15 action per wound category, and completely consumes the first aid kit.
 
  - Cost: 25 Ryo
+ - Tags: Consumable
 
 ##### Flare
 A handy little pyrotechnic device, a cylinder usually a bit too large to fit comfortably in the palm. When lit (most have built in starters or strikers, to avoid the need for matches) they shine brilliantly, enough that it can be painful to look directly at them without squinting, and become blisteringly hot. They burn out quickly, within half a minute.
@@ -435,11 +446,12 @@ A handy little pyrotechnic device, a cylinder usually a bit too large to fit com
 The vast majority of flares are projectiles, with built-in propellant. Aimed upwards, they'll launch into the air. During the day, this is typically unnoticed if you're doing anything other than staring at the spot it's launched up waiting to see it, and know exactly where it will be. In twilight and darker conditions, however, a flare can be seen for a considerable distance; they're often used for signalling, though suffer from not being too discrete.
 
  - Cost: 40 Ryo
+ - Tags: Consumable
 
 ##### Flashlight
 Flashlights are popular because ninja like to be able to see in low-light environments! They're also useful because they can be turned off, or on, as needed. Quite handy for staying hidden when you hear unwanted company approaching.
 
-Flashlights have a battery life of about half an hour. A spare set of batteries (for another half hour of use) costs 20 Ryo.
+Flashlights have a battery life of about half an hour. A spare set of batteries (for another half hour of use) costs 20 Ryo, and are considered to have the 'Consumable' tag, though the Flashlight itself does not.
 
  - Cost: 40
 
@@ -449,6 +461,7 @@ A transparent small (around six inches long, usually) cylinder filled with chemi
 A glow stick will glow for about an hour; it cannot be turned off once activated, short of breaking it completely and letting the luminescent fluid inside it drain out (in which case you just have a glowing puddle). They're available in a variety of colors, with the most popular ones being green and blue.
 
  - Cost: 20
+ - Tags: Consumable
 
 ##### Map
 A map of a given country. It's usually a really, really good for at least one person on every ninja team to have a map of any country they expect to be going through. These have only basic information about terrain, landmarks, and settlements.
@@ -468,6 +481,7 @@ Wearing an oxygen mask with at least tank attached makes the wearer immune to ex
 Tanks of compressed, breathable air, usually strapped to one's back. They're basically useless by themselves, but each comes with a hose that can be attached to an oyxgen mask. Each tank provides 30 minutes of breathable air.
 
  - Cost: 100 Ryo per tank
+ - Tags: Consumable
 
 #### Infiltration
 ##### Camouflage Kit
@@ -476,6 +490,7 @@ Everything you need to blend in with the environment, like a truly sneaky ninja.
 Using a kit takes 15 minutes, and is enough to conceal a person at level 3 Stealth; the stealth roll is made after they're fully hidden. The exact contents are fairly nonspecific, but regardless, each kit is good for only one use.
 
  - Cost: 150 Ryo
+ - Tags: Consumable
 
 ##### Camera
 Cameras are rare devices, and ones suited for use by ninja even more so. Styles vary, but they are all small, and usually handheld. However, they are large enough that they cannot be effectively concealed while in use. The exact designs may vary greatly, though Sunagakure is fond of a model worn like a circlet on the head, with the lens covering one eye.
@@ -488,6 +503,7 @@ Most models include a flash that allows blurry pictures to be taken in the dark.
 These are specially treated, light-sensitive pieces of paper. Due to the lack of standardization among models, pieces of film generally cannot be exchanged from one camera to another. These are usually stored inside the camera itself; if exposed to light before capturing an image they become useless, though afterwards there will be no effects from direct light on the paper.
 
  - Cost: 50 Ryo
+ - Tags: Consumable
 
 ##### Grappling Hook
 A three- or four-pronged sturdy metal hook. The typical use is to attach it to the end of a rope then throw it over a wall, up a tree, or across a small chasm, and hope it catches on something (such as a piece of architecture, a branch, or a appropriately-shaped rock). The user then climbs the rope to get to their destination!
@@ -500,6 +516,7 @@ These see limited use among experienced ninja, who typically have ways of easily
 A set of small tools, easily carried in a pocket, used for opening locks in absence of the key. These allow an Espionage roll to be made to open a lock, and also provide a bonus to said roll. That bonus has a maximum of +5, or the user's Espionage skill ranks, whichever is lower; you have to actually know how to use them to get any benefit. These are reusable, though a roll of 5 or lower on the Espionage check means they break in the attempt (which may still be successful).
 
  - Cost: 100 Ryo per +1
+ - Tags: Consumable
 
 ##### Ninja Comm Device
 The pinnacle of technological advancement in the ninja world, these are small wireless radios. They're typically worn as headsets with an ear insert and a microphone held suspended near the wearer's mouth. Normal comm devices can be tuned to transmit and receive on any of a dozen frequencies by the user, allowing any set of devices to be synchronized with one another. Though each village also has a few sets of specially made comm devices built to operate on "secure" frequencies, these are not typically given to shinobi on missions.
@@ -549,7 +566,7 @@ No matter how many poisons you're afflicted by, their effects do not stack. Thus
 
 Poisons which inflict Suffocation do so when first poisoned, and then again 20 IC later until the Poison's duration ends (which ends the Suffocation immediately).
 
-All types of Poison are considered to have the 'Internal' tag, even if the method of their application is often external (in the case of poison types except for ingested; once it's in your system, removing it from you does little good against it.
+All types of Poison are considered to have the 'Internal' and 'Consumable' tags, even if the method of their application is often external (in the case of poison types besides ingested; once it's in your system, removing it from you does little good against it).
 
 #### Identifying Poisons
 When you or someone else has been poisoned, it's possible to identify the venom just based on the symptoms. You may do so after 1/10 of the poison's total duration has passed. At that point, you can roll a Research, Toxicology, or Medicine skill check (your preference) against 20 + the poison's Toxicology rating. Success means you've identified the poison.
@@ -741,7 +758,8 @@ Attempts have been made to raise the animal in captivity, and failed. The common
 #### Genin
 
 ##### Exploding Tag
-- Cost: 100 Ryo
+ - Cost: 100 Ryo
+ - Tags: Consumable
 
 Rectangular slips of paper inscribed with special seals, centered around the kanji for “explode”. They're infused with chakra, but normally inert. A tag can be “primed” by focusing a small amount of chakra into them, at which point they can stick to most surfaces (like walls, or the underside of bridges; tags cannot be attached to people) and are ready to be detonated; this doesn't take an action.
 
@@ -754,12 +772,14 @@ Tags do 5d20.open(10) damage, in Area 20. If multiple tags are set off on the sa
 Certain jutsu may cause tags to explode immediately; in this case, the explosion may be dodged normally, using the attack's Speed to determine valid defenses and area-of-effect dodge penalties, if any.
 
 ##### Forehead Protector
-- Cost: Free
+ - Cost: Free
+ - Tags: Armor, Consumable
 
 A rectangular piece of metal with your village's emblem prominently engraved. They're typically worn on the forehead, but can be strapped to any part of the body. When worn, it blocks the effects of the first Minor wound you receive to the body part worn on (which you should declare when rolling Initiative if not on the forehead), but is knocked off in the process.
 
 ##### Kusari Katabira 
  - Cost: 200 Ryo per location, or 500 for a full "suit" 
+ - Tags: Armor, Consumable
 
 A form-fitting metallic mesh, it has overthrown the bulky and, frankly, antiquated armors of old that were typically large, layered plates of metal. Samurai now favor such armor, which for most shinobi is about all you need to say to explain why you shouldn’t. While still encumbering, this more modern style of “fishnet” armor is less intrusive and antithetical to a shinobi’s favored tactics.
 
@@ -775,14 +795,18 @@ Villages will repair Requisition-acquired damaged armor for free, but frown upon
 
 #### Chuunin
 ##### Flak Vest
-- Cost: 400 Ryo
+ - Cost: 400 Ryo
+ - Tags: Armor, Consumable
+
 
 Often referred to as 'chuunin vests', these are what many a genin strives to be allowed to wear. There's a jounin version as well, slightly different in appearance but functionally identical.
 
 Any time your torso or abdomen would be wounded, the vest reduces the wound's severity by 1, and the final damage by 50 (after determining if you're wounded). The next time, it reduces your final damage taken by 40; then 30, and so forth, until it reaches 0, after which the vest is damaged too badly to provide any protection and no longer reduces the severity of your wounds.  You can only have one type of armor on a given body location.
 
 ##### Custom Smoke Bombs
-- Cost: Level*10 Ryo
+ - Cost: Level*10 Ryo
+ - Tags: Consumable, Environmental
+
 
 Once someone's a chuunin, they have enough pull to get these: smoke bombs designed to your own specifications! Very nice, and such. For pricing, first determine the 'level' of smoke bomb you want, which starts at 0 and is modified by...
  - Visibility Penalty: -4 (+0), -6 (+2), or -8 (+3)
@@ -790,10 +814,10 @@ Once someone's a chuunin, they have enough pull to get these: smoke bombs design
  - Radius: 5 yards (+1), 10 yards (+2), or 25 yards (+3)
  - Range: STR/5 yards (+0), STR/4 yards (+1), or STR/3 yards (+2)
 
-These are considered to have the 'Environmental' tag.
-
 ##### Exploding Tag, Type 2
-- Cost: 250 Ryo
+ - Cost: 250 Ryo
+ - Tags: Consumable
+
 
 A more powerful version of the regular exploding tags, not given to genin because experience has shown, time and again, that genin really can't be trusted with high-end explosives. Chuunin, however, are more responsible--at least, in theory.
 
@@ -801,7 +825,9 @@ Therefore, they get to play with the big explosions! Type 2 tags function identi
 
 #### Jounin
 ##### Hand Guards
-- Cost: 100 Ryo
+ - Cost: 100 Ryo
+ - Tags: Armor, Consumable
+
 
 Gloves (often fingerless) with a metal plate covering the back of the hand. These allow you to parry weapon attacks unarmed; however, if you do so, any wounds (if you fail) will be applied to your hands (or arms, or whatever, as appropriate for the rank of the wounds).
 
@@ -810,7 +836,8 @@ That said, the first two times you're wounded doing this, the wound's severity i
 You may also block with these guards, with the same wound location and severity effects. This allows you to block weapons without reducing blocking's effectiveness.
 
 ##### Exploding Tag, Type 3
-- Cost: 500 Ryo
+ - Cost: 500 Ryo
+ - Tags: Consumable
 
 The end-all and be-all of 'mundane' explosives, reserved for jounin simply because of how difficult they are to produce, which is in turn reflected in how troublesome they are to get ahold of.
 
@@ -818,14 +845,16 @@ Type 3, like Type 2, deal double damage to inanimate objects. They deal 10d20.op
 
 #### ANBU
 ##### ANBU Mask
-- Cost: 200 Ryo
+ - Cost: 200 Ryo
+ - Tags: Armor
 
 Hand-crafted white ceramic masks featuring mono- or bichromatic lines that make the mask resemble some kind of animal's face. Technically there's nothing preventing you from changing what animal it is each time you replace the mask, but most ANBU members stick with a single choice and use it as a distinguishing feature.
 
 ANBU masks reduce the severity of head wounds by one rank, a total of three times before being made useless. The mask does crack, break, and fall off during this process. You can only have one type of armor on a given body location.
 
 ##### ANBU Cloak
-- Cost: 200 Ryo
+ - Cost: 200 Ryo
+ - Tags: Armor
 
 High-quality cloaks that wrap around a user's body to obscure them from the shoulders down. They're practically waterproof, and do a great job of keeping out the rain. Stains-- especially blood! --come right out in the wash!
 
@@ -835,7 +864,7 @@ They come in black (for most ANBU) and white (for captains). Most ANBU captains 
 
 #### Kage
 ##### Kage Hat
-- Cost: Priceless
+ - Cost: Priceless
 
 Every village's Kage has a distinctive hat to go with their formal Kage's robes. It's diamond-shaped with a pointed top, sloping low enough to keep the sun from their eyes and occasionally accompanied by a headdress to obscure the sides of their head. If worn properly, it can also obscure the upper half of their face from view, which looks really cool.
 
@@ -844,6 +873,7 @@ The hat is mostly a color corresponding to the country the Kage is from, with a 
 While not useful in combat, it is a VERY nice hat.
 
 ##### Kage Robes
+ - Cost: Priceless
 
 Formal attire for Kages, mostly white and off-white, with the lower half (and some highlights on the upper half) being a color corresponding to the village. They look bulky, but they actually breathe very well! The robes are exceptionally comfortable, and while not stylish they tend to swish and swoosh dramatically.
 

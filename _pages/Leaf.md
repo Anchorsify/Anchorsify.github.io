@@ -292,7 +292,7 @@ Effects: You can add this Jutsu to any other Taijutsu attack you perform except 
 A secret medicine developed and used exclusively by the Akimichi clan, these three pills convert stored energy into chakra to give the user a tremendous boost in power.  Understandably, these are exceptionally potent in the hands of an Akimichi.
 Even so, there’s a good reason they’re not widely used: They’re not gentle on the body, and are exceedingly toxic.  Despite their names, they don’t taste like food.  They taste like, well—Poison.
 
- - Type: Item
+ - Type: Ability
  - Base Cost: 50
  - Limit: 1
 

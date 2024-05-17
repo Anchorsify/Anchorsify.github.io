@@ -473,6 +473,8 @@ Some techniques require a constant expenditure of your energy to maintain; this 
 
 If your total Upkeep ever exceeds your total bonus to Chakra Exhaustion rolls (not counting any penalties), you automatically advance a Fatigue level. For example, if you had a Chakra Exhaustion roll modifier of +6+2+10-8, your total bonus would be +18. If you had an Upkeep of 19, your Fatigue would automatically advance a category, giving you another +5, for a total bonus of +23.
 
+You may only have a single instance of any given Upkeep active at once:  You couldn't use Chakra Strengthening twice, to have multiple different upkeeps from it applying.  This includes things like weapon creation, and paraelemental conversion.
+
 You may end any Upkeeps you're sustaining at will, even when it's not your action.
 
 ### Fatigue Levels

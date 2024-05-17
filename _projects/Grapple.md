@@ -50,7 +50,7 @@ Being held in place by one person and then punched into submission by all their 
  - Speed: 4 + X, Delay X
  - Special: Grapple-only; Can only be used by the defender in a grapple.
 
-Effects: Roll a grapple check against your opponent. The "X" in this jutsu's cost and speed is the amount you fail your grapple check by. Thus, if you rolled a 12 against your opponent's 16, Escape Grapple would be a Stamina 8 check and have a Speed of 8. On the other hand, if you passed your check by 36 points, it would be only Stamina 4 and Speed 4. This technique cannot be Aborted, despite its Delay.
+Effects: Roll a grapple check against your opponent. The "X" in this jutsu's cost and speed is the amount you fail your grapple check by. Thus, if you rolled a 12 against your opponent's 16, Escape Grapple would be a Stamina 8 check and have a Speed of 8. On the other hand, if you passed your check by 36 points, it would be only Stamina 4 and Speed 4. This ends all grapples you're currently in. This technique cannot be Aborted, despite its Delay.
 
 #### --( Headbutt )--
 You use your head to hit someone else's head. Really, honestly, it's a highly technical process. You just don't understand because you're not a ninja.

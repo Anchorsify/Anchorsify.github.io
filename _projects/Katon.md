@@ -154,6 +154,7 @@ This jutsu is painfully slow and inaccurate, making its usefulness situational a
 - Speed: 20
 - Seal Speed: 16
 - Special: Burns 4, Ignite 8
+- Tags: Energy, Projectile
 
 Effects: This technique benefits from double the user's ninjutsu damage bonus. If you hit, you inflict Burns 4 and Ignite 8, and the target makes a status roll: On a failure, the Burns and Ignite are both doubled.
 
@@ -232,7 +233,7 @@ The user gathers chakra around them--the 'rising phoenix' actually refers to the
 
 Effects: When used as an Interrupt, Rising Phoenix Blast's damage becomes 10d20.open(11) and it receives double your ninjutsu damage bonus. It functions differently if when used against a melee attack, or ranged ninjutsu attack. It may Interrupt attacks so long as its Speed is equal to or less than theirs (rather than needing to be equal to or less than half the original attack's Speed).
 
-Against a melee action: The user may choose to call off their attack, or press on regardless of the danger. If they do not cancel their attack, they take Rising Phoenix Blast's full damage, without any defense. However, you are also hit by their attack automatically, and cannot defend against it. If they choose to defend themselves, their attack is cancelled; they do not pay any Chakra or Stamina costs, and it's considered half its actual speed for determining when their next action comes; any AP or other effects spent on it, however, are not regained. They then defend against Rising Phoenix Blast as a surprise attack, but have a +3 bonus to any d20 rolls made as part of their defense.
+Against a melee action: The user may choose to call off their attack, or press on regardless of the danger. If they do not cancel their attack, they take Rising Phoenix Blast's full damage, without any defense. However, you are also hit by their attack automatically, and cannot defend against it. If they choose to defend themselves, their attack is cancelled; they do not pay any Chakra or Stamina costs, and it's considered half its actual speed for determining when their next action comes; any AP or other effects spent on it, however, are not regained. They then defend against Rising Phoenix Blast, with a +3 bonus to any d20 rolls made as part of their defense.
 
 Against a ranged ninjutsu attack: This can only be used against targeted, damage-dealing ninjutsu aimed at you, or any damage-dealing Fuuton ninjutsu which would hit you. Compare the damage of the two techniques; if the damage of theirs is higher, subtract Rising Phoenix Blast's damage from that technique's damage; that is how much you take. If your technique's damage is higher, it destroys the opponent's technique, protecting you from it, and your enemy must then defend against your Rising Phoenix Blast (which does its full damage normally). Rising Phoenix Blast's damage is raised by 50% if it interrupts (or is interrupted by) a Wind Release technique, and lowered by 50% when interrupting Water Release techniques. If an attacker is beyond the range of this technique, it can still be used to defend against it, but the return attack will automatically miss (due to its lack of range).
 

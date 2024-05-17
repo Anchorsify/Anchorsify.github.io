@@ -491,7 +491,7 @@ Once a target is encased in enough Sand, it’s a simple, yet devastating, measu
  - Seal Speed: 20
  - Requires: Target to have an Immobilization Penalty from Sand Coffin
 
-Effects:  X is the current Immobilization Penalty of your target from Sand Coffin, which ends immediately when you use this technique. This technique can not be dodged (as the sand is already stuck to, and on, the target), though other defenses could be utilized (such as Block, if you were doing so when targeted by this technique): the target is simply crushed from all sides by the sand that’s been piled onto them. If you inflict a Wound, you inflict a Blunt, and Slashing Wound of one tier lower, to a minimum of Minor.
+Effects:  X is the current Immobilization Penalty of your target from Sand Coffin, to a maximum of 10, which ends immediately when you use this technique. This technique can not be dodged (as the sand is already stuck to, and on, the target), though other defenses could be utilized (such as Block, if you were doing so when targeted by this technique): the target is simply crushed from all sides by the sand that’s been piled onto them. If you inflict a Wound, you inflict a Blunt, and Slashing Wound of one tier lower, to a minimum of Minor.  You can not make Called Shots with Sand Burial.
 
 ## Sabechi
 When Sunagakure initially organized itself into a formal village of Ninja, the Sabechi were the tribe most resistant to allying themselves with those who had been their rivals for generations. They fought against change and the alliances that were being made, relying upon nature for their survival against what quickly became a much larger force.

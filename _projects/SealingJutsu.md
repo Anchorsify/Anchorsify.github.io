@@ -111,6 +111,23 @@ Once applied, the seal is invisible and undetectable. It will only be discovered
 By forming a handseal and concentrating for several seconds you know the direction and approximate distance from your current location of the person(s) you're tracking. This does not provide any bonuses in combat; while it lets you know your target is nearby, it lacks enough precision at such short distances to help you discover an opponent hidden in stealth. There is no limit on how often you may activate a Tracking Seal, though you have to stop and concentrate each time (and so cannot do it while moving).
 
 ## B-Rank
+#### –( Fuuyoso Houin - Element Sealing Method )–
+Named because being able to put out fires is its primary use, this sealing technique actually allows for the retrieval of elemental matter of all kinds–-it just so happens that out of control fires are some of the most deadly disasters in human history. The proper seals must be written on the scroll, followed by the correct handseals. Once the technique is complete the element of the user’s choice will vanish entirely and be sealed within the scroll; the kanji for “seal” will appear on said scroll.
+
+ - Chakra: 20 + X * 2
+ - Range: 30
+ - Speed: 10
+ - Seal Speed: 25
+
+Effects: You can seal any of the five basic elements inside of scrolls! Up to (CHA) gallons or (CHA/5) square yards of elemental matter can be sealed this way. This works just as well with chakra-based instances of the element as with natural-made ones, but lacks any offensive capacity: If you try to remove ‘wind’ from an enclosed area, you do not create a vacuum, you simply still the air and thin it out. Similarly, you can’t remove earth from underneath someone to suck them up into it or trip them (though they might be in a hole). If you have to ask if you could use the jutsu in some sort of offensive capacity, assume the answer is ‘no’.
+
+You can also use this technique to immediately end any status effect based on an element being physically upon someone (so, mostly just Immobilize and Ignite), with X being the number of people you can do this do, to a maximum of (1 + Chakra Control Ranks/5).
+
+This jutsu may end an Upkeep or other persistent effect created by one of the five basic elements. X is equal to the higher of effect's Rank (E = 1, D = 2, C = 3, etc) or Upkeep cost. Each use of this jutsu may only end one effect, and nothing prevents someone from activating that jutsu again later. 
+
+Each use of this technique requires a blank scroll for the element to be sealed in. Once sealed, the elemental matter is effectively destroyed: it cannot be released, and the scroll cannot be reused.
+
+
 #### --( Fuuyoso Houin - Element Sealing Method )--
 Named because being able to put out fires is its primary use, this sealing technique actually allows for the retrieval of elemental matter of all kinds--it just so happens that out of control fires are some of the most deadly disasters in human history. The proper seals must be written on the scroll, followed by the correct handseals. Once the technique is complete the element of the user's choice will vanish entirely and be sealed within the scroll; the kanji for "seal" will appear on said scroll.
 
@@ -157,10 +174,10 @@ Effects: This may be applied to any surface up to (CHA /10) square yards, and no
 #### --( Shinsei Chinmoku Fuuin - Sacred Silence Seal )--
 Often used as a form of so-called 'loyalty seal', this has seen moderate popularity among various clandestine and/or extremist organizations within the ninja villages, as well as a means of helping ensure that double agents don't turn into triple agents.
 
-- Chakra: +15, raised to +30 if it hits
-- Speed: +10
-- Accuracy: -3
-- Special: Exclusive
+ - Chakra: +15, raised to +30 if it hits
+ - Speed: +10
+ - Accuracy: -3
+ - Special: Exclusive
 
 Effects: This is used as a link to any basic unarmed attack. When you apply this seal to a person, specify a topic. This may be as broad ("anything involving Sand village") or as narrow ("the new jutsu you saw me use") as you wish.
 
@@ -171,14 +188,14 @@ You may, when applying this seal, also specify one exception to its restrictions
 #### --( Moji Hyouki no Jutsu - Rune Inscribing Technique )--
 A tricky seal, this allows the user to mold the chakra necessary for any ninjutsu technique they know and then 'freeze' it, holding it primed but inactive inside of a seal. Once a trigger condition occurs, the jutsu is released. Use of this technique to prepare explosive Katon techniques and leaving them around as a practical joke is strongly discouraged.
 
-- Chakra: 20 + X
-- Speed: 20 + X
-- Seal Speed: 20 + X
-- Special: Exclusive
+ - Chakra: 20 + X
+ - Speed: 20 + X
+ - Seal Speed: 20 + X
+ - Special: Exclusive
 
-Effects>: When you use Moji Hyouki, select another ninjutsu which you are able to perform, specifying all its variable parameters at that time. The "X" for Moji Hyouki refers to the ninjutsu you choose, which can not have a cost other than Chakra Exhaustion (such as Willpower, or Stamina).
+Effects: When you use Moji Hyouki, select another ninjutsu which you are able to perform, specifying all its variable parameters at that time. The "X" for Moji Hyouki refers to the ninjutsu you choose, which can not have a cost other than Chakra Exhaustion (such as Willpower, or Stamina).
 
-Moji Hyouki can be placed on any reasonably flat, solid surface that's at least one foot across in each direction, such as a floor or a box. Once applied, the seal will either vanish (making a potentially effective trap) or remain visible as an elaborate set of seals that can be identified by anyone familiar with the technique (as a warning of sorts). Even if Moji Hyouki is identified, the technique placed in it will not be. When the seal is placed, an activation condition is specified. The three possible activation conditions are:
+Moji Hyouki can be placed on any reasonably flat, solid surface that's at least one foot across in each direction, such as a floor or a box (notably, this can't be placed on any item found in Equipment, nor may it be placed on anything you could bring into combat with you). Once applied, the seal will either vanish (making a potentially effective trap) or remain visible as an elaborate set of seals that can be identified by anyone familiar with the technique (as a warning of sorts). Even if Moji Hyouki is identified, the technique placed in it will not be. When the seal is placed, an activation condition is specified. The three possible activation conditions are:
 
  - Someone comes within five feet of the seal.
  - Someone touches the seal.
@@ -187,6 +204,8 @@ Moji Hyouki can be placed on any reasonably flat, solid surface that's at least 
 When the seal activates, the jutsu in question will immediately take effect. If this is an offensive technique it will be aimed at the person who set it off (unless it's an AoE, in which case it will be centered on the seal). Offensive techniques used this way use your Accuracy at the time of its creation, unmodified by things such as status effects, wounds, fatigue, or temporary bonuses or penalties, and have a -2 Accuracy penalty per rank of the Technique. The A-rank Five Elements Unseal will not trigger a touch activated Moji Hyouki.
 
 Jutsu which are upkeeps will have no chakra source from which to draw from (given it is on an object), and will therefore immediately end after activation.  Similarly, Jutsu with a range or an effect that only applies to oneself will then only apply to, and work on, the object it was placed on.
+
+Attempting to seal an object with Moji Hyouki on it (such as inside a Confinement Seal Scroll, or Lightning Blade Creation) causes Mojji Houki to immediately activate.
 
 ## A-Rank
 #### --( Tensha Fuuin - Transcription Seal )--
@@ -202,7 +221,7 @@ Effects: When used, declare another technique which you know, pay its cost, and 
 
 Possible conditions include "when you see the daimyo" and "when you hear the word 'orange' ". A target can be specified within reason (such as "the daimyo", or "whoever said that word").
 
- The technique stored inside a Transciption Seal may not be a Taijutsu, nor may it have a cost of any kind other than Chakra Exhaustion (such as Willpower, or Stamina). If it is a Genjutsu or Sealing technique, it can apply to the person the Transcription Seal was placed on or the person who triggered the seal, as you prefer. If the technique in question has an Upkeep, the person the Seal was placed on immediately takes on the Upkeep, and can accordingly dismiss it at any time. A person may only have one Transcription Seal on them at a time. This seal is invisible and undetectable except for by a Fuuinjutsu expert who knows to look for it.
+The technique stored inside a Transciption Seal may not be a Taijutsu, nor may it have a cost of any kind other than Chakra Exhaustion (such as Willpower, or Stamina). If it is a Genjutsu or Sealing technique, it can apply to the person the Transcription Seal was placed on or the person who triggered the seal, as you prefer. If the technique in question has an Upkeep, the person the Seal was placed on immediately takes on the Upkeep, and can accordingly dismiss it at any time. A person may only have one Transcription Seal on them at a time. This seal is invisible and undetectable except for by a Fuuinjutsu expert who knows to look for it.
 
 #### --( Gogyou Fuuin - Five Elements Seal )--
 This jutsu produces a powerful seal that disrupts the flow of chakra in the target. In most cases this is crippling.

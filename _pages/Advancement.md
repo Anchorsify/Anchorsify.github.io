@@ -287,9 +287,9 @@ If you have closed your eyes, blindfolded yourself or something similar, Mist Bo
 ##### Desert Adaptation - Sand Only
 The desert is not a welcoming or forgiving climate. Those who call it home do not consider it an enemy, but also harbor no illusions about just how quickly their homeland will end their lives if they let it. They learn to overcome adversity, because in the desert, there is no other way.
 
-As a Speed 0 action you can activate or deactivate this village benefit. While active, you halve all penalties from Fatigue and status effects. Thus, Immobilization 8 would give you only -4 accuracy and defenses and -40% movement speed; Visibility 6, however, would still allow people to hide from you. This specifically does not apply to any damage dealing effects, such as Bleed, Ignite, and Poison.
+As a Speed 0 action you can activate or deactivate this village benefit. While active, you halve all penalties from Fatigue and status effects. Thus, Immobilization 8 would give you only -2 to Accuracy and -4 to defenses and -40% movement speed; Visibility 6, however, would still allow people to hide from you. This specifically does not apply to any damage dealing effects, such as Bleed, Ignite, and Poison.
 
-You may maintain this effect for a total of 50 IC during a battle
+You may maintain this effect for a total of 50 IC during a battle.
 
 #### Jounin
 ##### Experienced Shinobi

@@ -189,9 +189,11 @@ After performing the seals for this jutsu you amass chakra in your feet, then ex
  - Seal Speed: 8
  - Special: This technique may not have its seal speed removed with a fan
 
-Effects: When you activate this technique you can jump (STR/10 - Y * 2) * (ninjutsu damage bonus) yards vertically, or half that distance horizontally. Alternately, you may choose to 'charge' your jump, gathering enough chakra at your feet to launch yourself a prodigious distance: This changes the distance moved to (X + STR /10 - Y * 2) * (ninjutsu damage bonus). If X is 5 or greater, the horizontal leap distance is not halved. X has a maximum value of 10. 
+Effects: When you activate this technique you can jump (STR/10 - Y * 2) * (ninjutsu damage bonus) yards vertically, or half that distance horizontally, and go half the distance of the choice you didn't pick: Thus, if you jumped 50 yards vertically, you would also move 25 yards horizontally.  Alternatively, you could jump (50/2) = 25 yards horizontally, reaching a vertical height of 12 yards vertically to do so.
 
-If you are suffering from an Immobilization penalty, the distance you're able to travel with Vaulting Leap is reduced by 5% per point of Immobilization.  You ignore all Ground-base Environmental effects for this movement. This technique's Y value starts at 0. Every time you use Vaulting Leap, it's increased by 1. After you go 50 IC without using Vaulting Leap, it's reset to 0.
+Additionally, you may choose to 'charge' your jump, gathering enough chakra at your feet to launch yourself a prodigious distance: This changes the distance moved to (X + STR /10 - Y * 2) * (ninjutsu damage bonus). If X is 5 or greater, the horizontal leap distance is not halved. X has a maximum value of 10.
+
+If you are suffering from an Immobilization penalty, the distance you're able to travel with Vaulting Leap is reduced by 5% per point of Immobilization.  You ignore all Ground-based Environmental effects for this movement. This technique's Y value starts at 0. Every time you use Vaulting Leap, it's increased by 1. After you go 50 IC without using Vaulting Leap, it's reset to 0.
 
 ## B-Rank
 #### --( Daikamaitachi no Jutsu - Great Sickle Wind Technique )--

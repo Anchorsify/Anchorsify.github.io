@@ -78,7 +78,7 @@ Originally developed by the Hidden Waterfall village, this technique has since s
  - Requires: (weapon dice)/2 gallons of water
  - Tags: Nintaijutsu
 
-Effects: You acquire a sword, with the appropriate attributes for any of the ones in the Equipment chapter. Attacks with this sword use your physical or ninjutsu damage bonus, whichever you prefer, and can have its damage bonus changed (between ninjutsu or physical) for any attack made with it. You may perform handseals while holding this sword at no penalty if it is one-handed (or if you can make seals one-handed), or at a -6 penalty if it is two-handed.
+Effects: You acquire a sword, with the appropriate attributes for any of the ones in the Equipment chapter. Attacks with this sword use your physical or ninjutsu damage bonus, whichever you prefer, and can have its damage bonus changed (between ninjutsu or physical) for any attack made with it. You may perform handseals while holding this sword at no penalty if it is one-handed (or if you can make seals one-handed), or at a -6 penalty if it is two-handed.  This weapon persists until you let go of it.
 
 #### --( Kirigakure no Jutsu - Hidden Mist Technique )--
 This technique was once a specialty of the village it's named after, but has since fallen into wider use. The user diffuses a large quantity of water into the air, mixing their chakra with it to create a thick, oppressive mist.
@@ -179,6 +179,10 @@ The user converts chakra into water, and infuses it with enough chakra to alter 
  - Tags: Area of Effect, Environmental, Ground
 
 Effects: Everyone within the area of this technique takes a -4 Immobilization penalty; anyone with the Water Walking ability instead only takes a -2 penalty, which remains until you leave its area. This technique's effects remain regardless of whether you maintain its Upkeep, however while you do maintain it, you can control the syrup field to make it 'grab' someone within its area, making a grapple roll using your NDB in place of PDB against them (with you as the attacker) as a Speed 8 action; if you succeed, they are caught and take the full -4 Immobilization penalty regardless of whether or not they have the Water Walking ability.
+
+The water used in this technique is considered used up and is never added back to the battlefield after use.
+
+
 
 #### --( Mizu Bunshin no Jutsu - Water Clone Technique )--
 An advanced form of the standard Bunshin no Jutsu, this creates clones out of water. Since they're solid (well, relatively) these clones can be used to perform tasks the user is unable or unwilling to do for themselves. While they're weaker than their user, they can still prove dangerous in combat.
