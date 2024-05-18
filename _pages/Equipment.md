@@ -174,7 +174,7 @@ A straight-bladed dagger, usually double-edged, between six and twelve inches lo
 - Speed: 8
 - Special: Ignores armor.
 
-###### Yari (Large, Piercing, Polearm, Two-Handed
+###### Yari (Large, Piercing, Polearm, Two-Handed)
 An infantry weapon among mundane armies, the Yari is about as simple as a polearm can get: wooden pole, straight wooden blade with a sharp point that you stick into other people.
 
 - Cost: 125 Ryo
