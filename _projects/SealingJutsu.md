@@ -127,19 +127,6 @@ This jutsu may end an Upkeep or other persistent effect created by one of the fi
 
 Each use of this technique requires a blank scroll for the element to be sealed in. Once sealed, the elemental matter is effectively destroyed: it cannot be released, and the scroll cannot be reused.
 
-
-#### --( Fuuyoso Houin - Element Sealing Method )--
-Named because being able to put out fires is its primary use, this sealing technique actually allows for the retrieval of elemental matter of all kinds--it just so happens that out of control fires are some of the most deadly disasters in human history. The proper seals must be written on the scroll, followed by the correct handseals. Once the technique is complete the element of the user's choice will vanish entirely and be sealed within the scroll; the kanji for "seal" will appear on said scroll.
-
-- Chakra: 25
-- Range: 60
-- Speed: 10
-- Seal Speed: 25
-
-Effects: You can seal any of the five basic elements inside of scrolls! Up to (CHA) gallons or (CHA/5) square yards of elemental matter can by sealed this way. This works just as well with chakra-based instances of the element as with natural-made ones, but lacks any offensive capacity: If you try to remove 'wind' from an enclosed area, you do not create a vaccuum, you simply still the air and thin it out. Similarly, you can't remove earth from underneath someone to suck them up into it or trip them (though they might be in a hole). If you have to ask if you could use the jutsu in some sort of offensive capacity, assume the answer is 'no'.
-
-This jutsu does have a potential defensive use, however: If you complete the seals for this technique on the same Initiative Count that somebody finishes seals for an elemental jutsu from Katon, Doton, Raiton, Suiton, or Fuuton, you may make an opposed Chakra Control roll against them, with a +5 bonus. If you meet or exceed the result of their roll, you seal their jutsu with this technique. You can also use this technique to immediately end any status effect based on an element being physically upon someone (so, mostly just Immobilize and Ignite) on all people within the area affected. Each use of this technique requires a blank scroll for the element to be sealed in. Once sealed, the elemental matter is effectively destroyed: it cannot be released, and the scroll cannot be reused.
-
 #### --( Raikou Kenka - Lightning Blade Creation )--
 A special ninja tool summoning technique, this allows weapons or other ninja tools to be sealed with a single symbol in a scroll or, more commonly, clothes. Touching this symbol and willing it active is all it takes to summon these tools.
 
