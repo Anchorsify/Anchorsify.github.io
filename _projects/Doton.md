@@ -157,7 +157,7 @@ This technique causes the ground surrounding the enemy to spiral inwards on itse
  - Seal Speed: 18
  - Tags: Blunt, Area of Effect, Ground
 
-Effects: Anyone hit by this technique suffers a Stun and Immobilization Penalty equal to the amount their defensive roll failed by, to a maximum of Stun 8 and -8 Immobilization. This immobilization penalty fades at the normal rate of 1 per 10 IC, and the affected area has all other terrain-based effects removed. If someone uses a defense which does not require a roll, and takes damage from this technique, they instead make a status roll (and take both the Stun and Immobility penalty if they fail, as described above). If used in a cave, the Stun and Immobilization penalty is always 8.
+Effects: Anyone hit by this technique suffers a Stun and Immobilization Penalty equal to the amount their defensive roll failed by, to a maximum of Stun 8 and -8 Immobilization. The Immobility lasts until they leave the area, though it reduces over time as normal for Immobility penalties, and the affected area has all other terrain-based effects removed. If someone uses a defense which does not require a roll, and takes damage from this technique, they instead make a status roll (and take both the Stun and Immobility penalty if they fail, as described above). If used in a cave, the Stun and Immobilization penalty is always 8.
 
 #### --( Doryuu Taiga - Earth Flow River )--
 You cause a long stretch of nearby ground to become mud and slide your opponents down a torrenting river of rocks and dirt, spewing them out at the end. This often leaves people hurt, and disoriented!
