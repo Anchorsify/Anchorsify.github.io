@@ -77,7 +77,7 @@ You're adept at turning a fight into a one-man training montage with your enemy 
 *Upgrades Into: Bruiser*
 
 ##### Quick Draw
-You have always been able to pick things up, spin them between your fingers, throw things just right, and otherwise use your hands well. You may throw up to DEX/8 weapons with a multi-throw, reduce Seal Speeds and the Speed of ranged taijutsu attacks by 2, and may draw weapons without any sort of action. You may sheathe weapons as a Speed 0 action.
+You have always been able to pick things up, spin them between your fingers, throw things just right, and otherwise use your hands well. You may throw up to DEX/8 weapons with a multi-throw, reduce Seal Speeds and the Speed of ranged attacks by 2, and may draw weapons without any sort of action. You may sheathe weapons as a Speed 0 action.
 
 *Upgrades Into: Fan of Knives, Single-Handed Seals*
 
