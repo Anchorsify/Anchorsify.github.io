@@ -37,7 +37,7 @@ Holding a hand out there is a pulse of electricity. This isn't nearly enough to 
  - Area: 10
  - Speed: 4
  - Seal Speed: 6
- - Status: Paralysis 1 for 20 IC
+ - Status: Paralysis 2 for 20 IC
  - Tags: Energy, Projectile
 
 Effects: This technique may not have its Speed reduced below 4 by any means. It can either target a single person, or everyone within the range as an area centered on, but not affecting, you. If the latter, it does not penalize dodges as a regular Area of Effect would.
@@ -60,7 +60,7 @@ You focus energy to the tips of your fingers on either hand, then point at an op
  - Chakra: 14
  - Damage: 2d6*4d4
  - Range: 15
- - Speed: 13
+ - Speed: 11
  - Seal Speed: 10
  - Status: Shock 2 for 20 IC
  - Tags: Energy, Projectile
@@ -140,8 +140,8 @@ By charging up a mass of electricity around one's hand, they can throw it as a d
  - Chakra: 21
  - Damage: 2d10*3d4
  - Range: 20
- - Speed: 16
- - Seal Speed: 12
+ - Speed: 10
+ - Seal Speed: 15
  - Status: Shock 3 for 30 IC.
  - Tags: Energy, Projectile
 
@@ -199,7 +199,7 @@ After making contact with an enemy, you send a powerful pulse of electricity thr
  - Range: Touch
  - Speed: 12
  - Seal Speed: 10
- - Status: Shock 4 for 20 IC
+ - Status: Shock 4 for 40 IC
  - Tags: Melee
 
 Effects: This inflicts Paralysis 4 for 40 IC.

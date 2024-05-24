@@ -126,18 +126,6 @@ This summons a flock of chakra-created and -guided crows which surround and diso
 
 Effects: If the target fails a status roll, this inflicts a -1 visibility penalty upon them, which increases every 10 IC until reaching -X; X has a maximum of 10. (Chakra Control ranks) IC after that, it dissipates entirely. The application of an area-of-effect attack will destroy the crows, if it actually hits this technique's victim.
 
-#### --( Kawara Shuriken - Roof Tile Shuriken )--
-This technique lifts up nearby roof tiles and launches them at an opponent. The chakra used starts the tiles spinning and allows them to be controlled remotely, in addition to making them far stronger than normal roof tiles would be.
-
- - Chakra: Special
- - Damage: Special
- - Accuracy: +2
- - Range: CHA/3
- - Speed: Special
- - Seal Speed: 10
-
-Effects: This requires you to be in a city or other area which has roofs (with tiles). This is treated as a multi-throw, with the Chakra cost replacing the Stamina cost. You may 'throw' up to CHA/10 roof tiles, which deal 2d10 damage each. The Speed is the normal Speed of a multi-throw launching that many projectiles. This technique inflicts Blunt wounds.
-
 #### --( Chakra Strengthening )--
 A fairly simple, yet often impractically demanding technique. The user channels chakra into their limbs, increasing their speed and strength. Despite being very good at what it does, it rapidly takes a toll on one's energy reserves.
 

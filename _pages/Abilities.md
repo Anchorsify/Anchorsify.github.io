@@ -161,7 +161,7 @@ This is a nest egg of money you've set aside and saved up over time. For each ra
 - Special: *Items with the Consumable tag may not be purchased with Savings*. XP spent on Savings does not count against the XP Cap (but is spent, like normal).  Thus, if had 2550 XP, with the XP Cap at 2500, and had spent 100 XP in Savings, you could earn and spend an additional 50 XP, as the 100 spent on Savings did not count against the cap (but had been spent, like normal). 
 
 #### -=[ Bingo Book ]=-
-The bingo book is a pocket-sized book put out by each village, with information on missing nin and enemy ninja of note. This information includes their bounties, their reputation, and any abilities which the village may be willing to publicize. Having this ability means you keep an up-to-date copy of the bingo book; you can steal someone else's, but they generally get updated every few months.
+The bingo book is a pocket-sized book put out by each village, with information on missing nin and enemy ninja of note. This information includes their bounties, their reputation, and any abilities which the village may be willing to publicize. Having this ability means you keep an up-to-date copy of the bingo book; you can steal someone else's, but they generally get updated every few months.  With this, you are able to make Research rolls on those with enough Infamy to be listed (as described in Advancement -> Effects of Infamy).
 
 - Base Cost: 5
 
@@ -212,7 +212,7 @@ Normally, when partial defense applies you would deal 20% of your attack's damag
 
 ##### 2. Weapons, Melee
 #### -=[ Ambidextrous ]=-
-You've trained yourself to use your off-hand just as well as your dominant one, or you really are naturally ambidextrous. Each rank reduces the Accuracy penalty for the Dual Wield Attack action (see below) and derivatives of it such as Centipede Strike by 1, and each even rank (2 and 4) gives you a +1 bonus to parries using those weapons while dual-wielding, though it follows the normal rules for using two weapons (using the lower of the two weapon's Accuracy).
+You've trained yourself to use your off-hand just as well as your dominant one, or you really are naturally ambidextrous. Each rank reduces the Accuracy penalty for the Dual Wield Attack action (see Dual Wielding, below) and each even rank (2 and 4) gives you a +1 bonus to parries while holding a weapon in each hand.
 
 - Base Cost: 5
 - Scale: 2
@@ -225,7 +225,9 @@ You attack with a weapon in each hand! Impractical, but awesome. As might be exp
 - Requires: 40 DEX
 
 #### -=[ Monkey Grip ]=-
-By using extreme strength, chakra-based powers, and a cheerful disregard for physics, you are able to use twohanded weapons in one hand! Notably, this means they no longer benefit from their 25% increase in your damage bonus. At the second rank you can, if you have the Dual Wield ability, even dual wield two-handed weapons.
+By using extreme strength, chakra-based powers, and a cheerful disregard for physics, you are able to use two-handed weapons in one hand!  Changing your grip (from one to two hands and vice-versa) is a non-action. Notably, when wielded with one hand they no longer benefit from the two-handed 25% increase to your Damage Bonus.
+
+At the second rank you can, if you have the Dual Wield ability, even dual wield two-handed weapons.
 
 - Base Cost: 30
 - Scale: 10
@@ -520,7 +522,9 @@ You're an expert at misdirection; you know the signs people look for and pick up
 - Limit: Espionage /5
 
 #### -=[ Cunning Blow ]=-
-If you attack an opponent within 10 IC after you've successfully defended against an attack they made which targeted you, you have a +4 bonus to Accuracy.  Attacks which use the result of a defensive roll as your accuracy (such as Halting Blow) can not benefit from this Ability.
+If you attack an opponent within 10 IC after you've successfully defended against an attack they made which targeted you, you have a +4 bonus to Accuracy. 
+
+Passive defenses (such as DR, or Crossroads of Heaven, or Genjutsu defense rolls) do not trigger Cunning Blow, nor does any form of Blocking. Defensive Interrupts which stop a set amount of damage (i.e., Earth Shore Return) are considered successful only if they completely stop the attack. Defensive interrupts which become attacks do not gain the benefit from the successful defense which triggered them.
 
 - Base Cost: 50
 - Requires: 20 Espionage

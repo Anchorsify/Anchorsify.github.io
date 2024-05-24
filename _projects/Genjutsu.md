@@ -62,15 +62,15 @@ Effects: This genjutsu creates dozens of illusions of the user. Anyone in combat
 #### --( Oboro Bunshin no Jutsu - Haze Clone Technique )--
 This creates what appear to be ordinary bunshin, even responding and vanishing when struck. However, each time one clone is destroyed another takes its place, typically just out of sight of whoever destroyed its predecessor.
 
- - Chakra: 10, +2 per clone
+ - Chakra: 16
  - Upkeep: 0
- - Speed: 8, +1 per clone
- - Seal Speed: 4, +2 per clone
+ - Speed: 10
+ - Seal Speed: 10
  - Tags: Clone
 
-Effects: You may create up to three clones. These function as normal clones, but you are always 'hidden' among your clones (as per the 'Hide Among Clones' action), even after you've been hit by an opponent. 
+Effects: You create three clones of yourself. These function as normal clones, but you are always 'hidden' among your clones (as per the 'Hide Among Clones' action), even after you've been hit by an opponent. 
 
-Taking an Observe action allows an opponent to make a genjutsu roll to realize that this is an illusion (and subsequently may attempt to dispel the illusion with Kai as per an area genjutsu once they successfully realize it), but cannot actually single you out from your clones. Any time a clone used in this technique is destroyed, another one appears to take its place and the Upkeep is increased by 1. 
+Taking an Observe action allows an opponent to make a genjutsu roll to realize that this is an illusion (and subsequently may attempt to dispel the illusion with Kai as per an area genjutsu once they successfully realize it), but cannot actually single you out from your clones. Any time an attack destroys your clones (whether it's one or all three), another one appears to take its place and the Upkeep is increased by 1.
 
 If this technique is ended and reapplied within the same battle, it retains the Upkeep it had at the time its previous use ended. No initial genjutsu roll is made; opponents are, by default, tricked into believing these are normal clones. However, after the first time they realize this technique for what it is (i.e. an illusion) in battle, they'll also recognize all future uses of it in that same battle as such.
 

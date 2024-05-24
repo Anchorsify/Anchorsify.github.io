@@ -103,7 +103,7 @@ Your insidious nature is not without its faults: You take a -1 on all Defensive 
 You are more muscular, taller, wider, or otherwise... bigger, than other people. Perhaps you're broad-shouldered and muscular but within the realm of plausibility, or maybe you're a seven foot tall brute; ninja can be downright abnormal.
 All of your Taijutsu gain (STR/25) extra dice (including basic attacks, and weapons!), to a maximum of double their normal dice, and have +1 Range. You have a +3 bonus to grapple rolls using your PDB. In addition to hitting hard, you're tough to take down: you add RES to your maximum Vitality and maximum HP, on top of their normal values.  Finally, you have a +2 bonus to Stamina rolls.
 
-All attacks that benefit from this unique have their base Speed increased by 2.
+All attacks that benefit from this unique have their base Speed increased by 1.
 
 NOTE: You can not take Small if you take this unique.
 

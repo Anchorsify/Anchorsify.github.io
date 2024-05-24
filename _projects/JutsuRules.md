@@ -86,6 +86,8 @@ By default, all Bunshin follow the same basic rules listed in the Bunshin no Jut
 
  - Bunshin (of any type) can never make Bunshin (of any type).
 
+ - Clones, when created, copy over any Genjutsu affecting their creator automatically.  If the creator was aware they were under a genjutsu, so are the clones.
+
  - Clones can only perform actions listed in their action options (which means only Moku and Kage Bunshin could perform actions such as Meditation), though you can spend AP to reduce their speeds. Bunshin act on their own IC, separate from their creator, and using them does not increase the user's IC unless explicitly mentioned. 
 
  - As they are separate entities, they do not benefit from any jutsu you use that designates you. They would also count as individual entities for jutsu that can target/avoid a set number of targets. Any bunshin that can take actions (such as through the use of AP, or being independent) can talk, Bunshin that can not take actions cannot. 

@@ -279,12 +279,12 @@ Effects: You may attack anyone you choose within Range 4. If you use this techni
 #### --( Nenten Tsuki - Twisting Stab )--
 The user lunges forward while turning their wrist, drilling their weapon into the opponent, using chakra to enhance their momentum. It is very effective at breaking an opponent's guard as you spin the weapon to go around their defense.
 
- - Stamina: (Weapon) + 3 * X
+ - Stamina: (Weapon) + 3
  - Damage: (Weapon)
- - Speed: (Weapon) + X
+ - Speed: (Weapon)/4 + 12
  - Type: Piercing Melee
 
-Effects: Attempts to parry this attack take a -X penalty, and the attack deals (X * 10)% more damage for Wounding.  X has a minimum of 1, and a maximum of one-third your PDB.
+Effects: This technique reduces the effectiveness of blocking by an additional 25% (for a total of 50%, for attacking with a weapon).
 
 #### --( Ni no Hoshi - Two Star )--
 Opening the fan two-thirds of the way for this attack, the user lets out a strong gust of wind, hopefully blowing their opponents away!

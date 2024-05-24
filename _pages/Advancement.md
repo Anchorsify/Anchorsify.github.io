@@ -398,9 +398,9 @@ One notable thing that can result in Infamy: Certain jutsu, abilities, and speci
 Set values for that do exist, but they are S-E-C-R-E-T. Notably, if you obtain those kinds of things through the use of Talents you don't suffer that increase in Infamy.
 
 ### Effects of Infamy
-The biggest effect of Infamy is that it contributes to your bounty, should you ever wind up in the bingo books of one or more villages... and chances are you will wind up there, eventually. Even if you don't do anything particularly unforgivable, with high enough Infamy they'll probably just add you as a matter of principle--though, by that point, just to get your Infamy that high you've probably irritated them a few times too many anyway. Bounties are, by default, Infamy*40 Ryo, once you actually have one.
+The biggest effect of Infamy is that it contributes to your bounty, should you ever wind up in the bingo books of one or more villages... and chances are you will wind up there, eventually. Even if you don't do anything particularly unforgivable, with high enough Infamy they'll probably just add you as a matter of principle--though, by that point, just to get your Infamy that high you've probably irritated them a few times too many anyway. Bounties are, by default, (Infamy * 40) Ryo, once you actually have one.
 
-Once you reach 25 Infamy, it's possible that anyone who encounters you (and learns your name) has heard of you; a result of (35 - your Infamy /10) or better on a Research roll means they know basic information like your village, rank, and bounty, and possibly a general idea of your reputation. Infamy can also attract other sorts of... unwanted attention.
+Once you reach 25 Infamy, it's possible that anyone who encounters you and learns your name (and has a bingo book) has heard of you; a result of (35 - your Infamy /10) or better on a Research roll means they know basic information like your village, rank, and bounty, and possibly a general idea of your reputation. Infamy can also attract other sorts of... unwanted attention.
 
 ## Logs
 Logging certain things in this game is mandatory. It's unfortunate, and undesirable, but it's also necessary for everyone's sake. Below are instructions on how to properly fill them out.
