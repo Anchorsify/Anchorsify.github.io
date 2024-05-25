@@ -585,7 +585,7 @@ The ultimate and most lethal usage of Jyuuken, and the final development of Hakk
   Effects: This attack uses your NDB and inflicts Sealed Tenketsu 4, reduces Blocking's effectiveness by 25%, ignores armor, bypasses half of an opponent's DR, and deals Energy wounds. This attack may not be converted with Jyuuken.
 
 ###### -=[ Sealed Tenketsu ]=-
-This is a Status Effect that applies a penalty to Chakra Exhaustion and Chakra Control rolls equal to its Severity, and half that (rounding down) to Stamina rolls. If you ever fail a Chakra Exhaustion roll while you have this status, whatever technique you were trying to use fails (but you advance in Fatigue as normal), and you lose Hit Points (not Vitality) equal to the Chakra cost of that technique.
+This is a Status Effect, applied on hit, that penalizes Chakra Exhaustion and Chakra Control rolls equal to its Severity, and half that (rounding down) to Stamina rolls. If you ever fail a Chakra Exhaustion roll while you have this status, whatever technique you were trying to use fails (but you advance in Fatigue as normal), and you lose Hit Points (not Vitality) equal to the Chakra cost of that technique.
 
 Sealed Tenketsu stacks fully with itself, but a victim’s body naturally will try to correct its chakra flow to meet demands in battle: Every time someone with this status takes the Rest action it reduces by 1, and when they advance in Fatigue, they lower their Sealed Tenketsu Severity by their (Chakra Control Ranks)/5, minimum 1.  Outside of combat, Sealed Tenketsu is reduced by the same (Chakra Control Ranks)/5, minimum 1, every hour.
 

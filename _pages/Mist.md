@@ -509,7 +509,7 @@ Any Suiton or Fuuton technique can be converted to Fuuton as a Chakra +5, Speed 
 Hyouton is weak against Katon, and strong against Doton and Suiton
 
 ###### --( Frostbite )--
-This is a status effect. As someone is struck by Hyouton, their core body temperature begins to lower from the extreme cold, slowing their movements and actions.  Frostbite inflicts an Immobilization penalty equal to its severity, and for each point of Frostbite someone has, they take 1% of their current Vitality in damage every 10 IC.  If they have no Vitality remaining, the damage is calculated and done to their HP, instead.
+This is a Status Effect, applied on hit. As someone is struck by Hyouton, their core body temperature begins to lower from the extreme cold, slowing their movements and actions.  Frostbite inflicts an Immobilization penalty equal to its severity, and for each point of Frostbite someone has, they take 1% of their current Vitality in damage every 10 IC.  If they have no Vitality remaining, the damage is calculated and done to their HP, instead.
 
 If someone is suffering from Ignite or Frostbite and is then inflicted with the other, they suffer a Burns X from the sudden extreme shift in temperature, and then both their Ignite and Frostbite statuses are reduced by X, which is the lower of the two effects.  (e.g., If you were at Frostbite 5 and were hit with an Ignite 2, your Frostbite would be reduced to 3 and you would receive a Burns 2)
 

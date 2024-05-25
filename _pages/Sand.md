@@ -117,7 +117,7 @@ Any Katon or Fuuton technique can be converted to Shakuton as a Chakra +5, Speed
  Shakuton is weak to Suiton, and strong against Fuuton and Doton
 
 ###### --( Dehydration )--
-This is a status effect. Every point of Dehydration applies a -1 penalty to the victim’s Stamina and Resistance rolls, and lowers the victim’s Physical Damage Bonus by 0.3.  Dehydrate stacks fully with itself; Dehydration 3 added to Dehydration 2 makes a single Dehydrate 5 status, which applies a -5 to Stamina and Resistance rolls, and a -1.5 to their PDB.  Dehydrate from the same source (person) stacks fully with itself; if you suffer Dehydrate from different people, only the highest severity applies.
+This is a Status Effect, applied on hit. Every point of Dehydration applies a -1 penalty to the victim’s Stamina and Resistance rolls, and lowers the victim’s Physical Damage Bonus by 0.3.  Dehydrate stacks fully with itself; Dehydration 3 added to Dehydration 2 makes a single Dehydrate 5 status, which applies a -5 to Stamina and Resistance rolls, and a -1.5 to their PDB.  Dehydrate from the same source (person) stacks fully with itself; if you suffer Dehydrate from different people, only the highest severity applies.
 
 There is one exception: Dehydrate’s Stamina penalty does not stack with Burns, and if you happen to be suffering from both status effects, you take the higher of the two, rather than both, to Stamina rolls: If you were suffering from Dehydration 2, and received a Burns 3, your Stamina penalty would be -3, and your PDB penalty would be -0.6. If you then cleared your Burns status, the Stamina penalty would lower to -2.  
 

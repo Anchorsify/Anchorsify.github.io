@@ -350,7 +350,7 @@ These rolls are either Chakra Control (for ninjutsu), Athletics (for taijutsu--b
 
 As implied above, the defender makes a Resistance skill check; if they equal or exceed the status roll, they avoid its effects. If not, they suffer them in full. Do keep in mind, if a technique or effect doesn't say it allows a roll, that probably means any special effects it has occur automatically.
 
-Many of these status effects will be found on damaging attacks--for example, a sword slash that also causes its victim to start bleeding profusely. If the damage of such an attack is reduced to 0, none of its status effects will take place--with a few exceptions. Specifically, Immobilize and Paralysis will apply even if the attack causing them doesn't deal damage.
+Many of these status effects will be found on damaging attacks--for example, a sword slash that also causes its victim to start bleeding profusely. If the damage of such an attack is reduced to 0, none of its status effects will take place--with a few exceptions. Specifically, Immobilize and Paralysis will apply even if the attack causing them doesn't deal damage.  Likewise, status effects from paraelemental clans apply their effects so long as they hit, without the need for a status roll or to deal damage, unless stated otherwise.
 
 Poison sometimes has special rules in this regard, but they can be found in the appropriate section of the Equipment chapter.
 
