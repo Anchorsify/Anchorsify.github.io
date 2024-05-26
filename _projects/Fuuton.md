@@ -213,7 +213,7 @@ Effects: This is used as an Interrupt against a ranged taijutsu attack. Make a n
 As devastating as it is impractical, this technique earned its name for a reason. After forming the many, many handseals involved, you draw a shuriken (or one of its larger brethren) and use it to center a disc of wind chakra. When you throw the weapon, its rotation is passed onto the chakra, forming a several-foot-wide blade rotating at incredible speed. Great for spars and parties!
 
  - Chakra: 38
- - Damage: (Wepaon) +(NDB)d_
+ - Damage: (Weapon) +(NDB)d_
  - Range: (Weapon) + (NDB * 2) yards
  - Speed: (Weapon) + 16
  - Seal Speed: 22
