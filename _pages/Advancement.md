@@ -385,7 +385,7 @@ Thus, someone who was promoted to chuunin then promoted to jounin would have +10
 The exception is Missing Nin. If you desert your village, you acquire +15 Infamy. If you manage to be accepted back into your old village or join a new one (good luck with that), and then go missing again (...seriously?) your Infamy once again increases by 15; for a total of, in that example, +30 from having gone missing twice.
 
 #### Experience
-The more talented you are, the more likely you are to stand out and be remembered. Accordingly, for every 1000 XP you have, you get a cumulative +1 Infamy. At 1000 XP you'd get +1, at 2000 it'd be +2, at 3000 it'd be +3, for a total of (+1+2+3 = ) +6.
+The more talented you are, the more likely you are to stand out and be remembered. Accordingly, for every 500 XP you have, you get a cumulative +1 Infamy. At 500 XP you'd get +1, at 1000 it'd be +2, at 1500 it'd be +3, for a total of (+1+2+3 = ) +6.
 
 #### Killing
 If you kill a player character with at least half your Infamy, you gain 25% of their Infamy.
