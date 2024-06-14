@@ -118,6 +118,8 @@ Internal effects are things that, once you are affected by, can not be physicall
 ##### Environmental
 Environmental effects are typically things which modify the battlefield, rather than a specific person, and typically persist beyond the IC in which they're used (though some which can be 'set off', as is the case with several Katon Environmental effects, may not end up doing so). Environmental effects typically do not have an accuracy or allow for a defensive interrupt, as they are affecting and persisting in an area, and aren't in themselves attacking you. Environmental effects which do not persist, however (such as a Katon Mist Blaze Dance that immediately detonates due to where it's placed), would be considered attacks and could be defended against normally, potentially avoiding their effects.
 
+Paraelemental clans converting Environmental jutsu can not inflict status effects except for those in their default effects list, unless the paraelement in question is modifying the existing status effect (as in the case of Mokuton), meaning that other status effects, such as Dehydrate or Frostbite, are never applied with Environmental jutsu.
+
 Environmental effects dissipate naturally after combat is over, at a rate of one minute per rank (E-ranks would fade in one minute, D in two minutes, etc), unless they are designed to be used outside of combat (such as some Genjutsu, like False Surroundings).
 
 #### Nintaijutsu

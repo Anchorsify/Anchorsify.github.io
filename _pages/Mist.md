@@ -200,7 +200,7 @@ The pinnacle of the Kaguya clan’s techniques, this creates a countless number 
 
 Effects: Even if someone dodges this technique, they do not escape its area; they simply avoid being skewered by the bone spires erupting from the ground. 
 
-You may move anywhere in the radius as a Speed 0 action; You can also increase the Speed of any action by 4 to make it a Surprise Attack (which does not increase its damage). By melding into and out of the bones you can remove any Immobilization penalties from effects which restrain or cage you (so not those from poison, genjutsu, etc.) as a Speed 4 action.  While inside your bone field, you may attempt to Hide; when you Hide, you begin at Stealth 2.
+You may move anywhere in the radius as a Speed 0 action (though you can't take anyone else with you when you do this, and thus couldn't do it while grappled); You can also increase the Speed of any action by 4 to make it a Surprise Attack (which does not increase its damage). By melding into and out of the bones you can remove any Immobilization penalties from effects which restrain or cage you (so not those from poison, genjutsu, etc.) as a Speed 4 action.  While inside your bone field, you may attempt to Hide; when you Hide, you begin at Stealth 2.
 
 If someone attempts to escape the bone field, and you are aware of them (i.e., they are not Hidden from you), you may automatically Interrupt their action with any melee-range attack of Speed 10 or less by moving to them and attacking.  If you hit, your attack knocks them back RES/10 yards toward the center.
 
@@ -425,7 +425,7 @@ Not something you spend points on, this time! Of the three primary feature sets 
 
 *Tassel Features*  
 (3) Your sword's Stamina cost is increased by 2, and its damage is increased by +4d_.  
-(4) Anyone who successfully parries your sword still takes half damage (but no secondary effectS); Your sword's Stun value is increased by 50% against anyone who blocks your sword.
+(4) Anyone who successfully parries your sword still takes half damage (but no secondary effects); Your sword's Stun value is increased by 50% against anyone who blocks your sword.
 
 
 ## Terumi

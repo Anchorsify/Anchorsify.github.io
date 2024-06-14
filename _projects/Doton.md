@@ -301,7 +301,7 @@ The most powerful direct Doton-based defense, the user either manipulates the su
  - Seal Speed: 24
  - Tags: Ground, Wall
 
-Effects: You create a wall of earth that blocks up to (50 + (NDB * 2))*(Speed) damage. It takes 50% extra damage from Raiton, but only half damage from Suiton and Katon. You may use Action Points to reduce Doryuuheki's (base) Seal Speed, on a 1:1 basis, to as low as 12. Note that if you are able to use Doryuuheki as an interrupt, you may do so without the need for a roll. 
+Effects: You create a wall of earth that blocks up to (50 + (NDB * 2))*(Speed) damage. It takes 50% extra damage from Raiton, but only half damage from Suiton. You may use Action Points to reduce Doryuuheki's (base) Seal Speed, on a 1:1 basis, to as low as 12. Note that if you are able to use Doryuuheki as an interrupt, you may do so without the need for a roll. 
 
 Earth Style Wall can't be used against melee attacks, attacks with the 'Ground' tag, or ranged attacks originating 5 yards or less away from anyone it's meant to protect.  Against area of effect attacks, this may protect multiple people, as long as they are more than five yards away from the center of the area of effect and can all be placed behind the same 15 yard long line.
 

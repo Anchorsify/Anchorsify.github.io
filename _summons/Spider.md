@@ -202,7 +202,7 @@ If the Kyodaigumo is suffering an Immobilization penalty caused by spider webs, 
 
 ###### 4. Abilities
 **Standard Actions**  
-The kyodaigumo may use the dodge, block, and hide actions as described in the Combat chapter of the PHB without spending any of hte summoner's AP.
+The kyodaigumo may use the dodge, block, and move actions as described in the Combat chapter of the PHB without spending any of hte summoner's AP.
 
 **Egg Sac** *(Speed X*5, X*3 AP)*  
 The spider summons an egg sac filled with baby spiders, which immediately bursts and releases the creatures onto the battlefield. This may either create a new Spider Swarm, containing Xd20 spiders, or add to an already-existing swarm. This cannot take a swarm above 100 spiders (any 'extra' are simply lost).

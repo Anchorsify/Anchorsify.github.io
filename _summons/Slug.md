@@ -42,6 +42,8 @@ Effects: X has a maximum of half your NDB, rounded down. All offensive grapple r
 
 While not particularly dangerous to living tissue (which is good, since the user is covered in it), this slime is highly corrosive to certain other materials. Any time a weapon strikes you, its damage dice are reduced by X/2, minimum 1; when they reach 0, the weapon is useless and breaks the next time it's used to attack anything.
 
+Weapons whose damage dice have been lowered can be repaired back at one's village (so, not in the middle of a mission), but broken weapons must be replaced.
+
 #### --( Kuchiyose: Yakuyou Hiru - Summoning: Medicinal Leeches )--
 You summon a number of large leeches, which adhere to either your skin or that of someone willing to have half a dozen giant leeches sucking their blood (a rather small portion of the poulation). These leeches perform two functions: the first, they return some of the extracted blood to the host, but do so after filtering it, cleansing the recipient's system of toxins. Additionally, they convert some of the drained blood into chakra, which the person covered in leeches is able to draw on in order to rejuvenate themselves.
 

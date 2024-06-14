@@ -241,7 +241,7 @@ The base Speed of your Draw Weapon is reduced by 1 per rank, to a minimum of 0.
 - Limit: DEX / 30
 
 #### -=[ Weapon Throw ]=-
-Your hatred of physics gives you improbable powers. You are able to throw any melee weapon you're holding up to STR/4 yards, turning it into a ranged attack. This does the normal damage for that weapon, but increases the action's Stamina cost by 5.
+Your hatred of physics gives you improbable powers. As a "Throw Weapon" attack action (that is ranged, rather than melee), you are able to throw any melee weapon you're holding up to STR/4 yards.  It deals the weapon's normal damage, but increases the weapon's normal Stamina cost by 5.
 
 - Base Cost: 15
 - Requires: 40 STR, 40 DEX
@@ -552,7 +552,7 @@ Ninja with the ability to use chakra can get away with not solving every problem
 - Limit: Lower of Awareness /5, Espionage /5, or Stealth /5; max 5 ranks
 
 #### -=[ Defensive Formation ]=-
-You take up a position protecting someone from harm. Very useful on escort missions when you have to keep some blubbering civilian safe! You declare this as an action the same way you would blocking, while designating one or more (up to 1+XP/1000) targets within AGI/20 yards of you. If one of those people is attacked during your Defensive Formation, you may immediately attempt to Take The Hit, without increasing your next action as would be normal for using an Interrupt, with a +10 bonus. Against area-of-effect attacks, if you do this you take the full damage, and they take only half (which they can reduce by their own defenses). The protected target can still defend themself, but if they move out of your protective radius the Defensive Formation is automatically aborted.
+You take up a position protecting someone from harm. Very useful on escort missions when you have to keep some blubbering civilian safe! You declare this as an action the same way you would blocking, while designating one or more (up to 1+XP/1000) targets within AGI/20 yards of you. If one of those people is attacked during your Defensive Formation, you may immediately attempt to Take The Hit, without increasing your next action as would be normal for using an Interrupt, with a +10 bonus (replacing the normal +5). Against area-of-effect attacks, if you do this you take the full damage, and they take only half (which they can reduce by their own defenses). The protected target can still defend themself, but if they move out of your protective radius the Defensive Formation is automatically aborted.
 
 You may simultaneously declare any two of: Block, Guard, Total Defense, Defensive Formation, and similar actions not listed in this chapter (such as the Uchiha's Observe).
 

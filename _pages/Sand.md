@@ -145,7 +145,8 @@ You project your chakra out across the battlefield, with devastating results.  T
  - Speed: 16
  - Area: Ninjutsu Damage Bonus * 2
 
-Effects: Everyone within the range except you has their Dehydrate status increased by 1+(CHA/50) when you activate this technique, and every 10 IC afterward, so long as you maintain its Upkeep.  Anyone within the area with a Dehydration status (again, except you) takes a penalty to their Chakra Exhaustion rolls equal to their Dehydrate status, and has their Ninjutsu Damage Bonus lowered by 0.3 per point of Dehydration they have; this penalty remains until they leave the area (or remove their Dehydration status).
+Effects: Everyone within the range except you has their Dehydrate status increased by 1+(CHA/50) when you activate this technique, and every 10 IC afterward, so long as you maintain its Upkeep.  Anyone within the area (which moves with you) with a Dehydration status (again, except you) takes a penalty to their Chakra Exhaustion rolls equal to their Dehydrate status, and has their Ninjutsu Damage Bonus lowered by 0.3 per point of Dehydration they have; this penalty remains until they leave the area (or remove their Dehydration status).
+
 
 ## Juugo Suto
 The Sand Foxes are not a 'real' clan, in any proper sense, and most members do not have any blood relation to one another. The clan often adopts orphans to raise and train.

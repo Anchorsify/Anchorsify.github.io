@@ -82,6 +82,8 @@ Alternately, by doubling the number of weapons you can make this an Area 10 atta
 
 As an example of how that works: If you have 80 DEX, you could throw 16 shuriken to hit everyone in Area 10, with the equivalent of an 8-shuriken multi-throw. The increase in damage bonus based on number of weapons thrown would be (8 * 0.5) = 4, not (16 * 0.5) = 8.
 
+This technique can not have Sleeping Moon applied to it.
+
 #### --( Netetsuki no Jutsu - Sleeping Moon Technique )--
 An exceptionally useful technique, as it approaches the much yearned-for concept of a "smart" seal; one that can be deactivated easily without requiring extensive time and effort to then replace it. This is not actually a seal itself, but a large number of specific modifications which can be applied to almost any advanced sealing technique; less complicated sealing jutsu are too simple to incorporate these alterations.
 

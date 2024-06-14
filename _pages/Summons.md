@@ -110,7 +110,11 @@ The "contract" between shinobi and summoned animal is, for the most part, a one-
 
 ...That is, aside from respect. Different animals have different opinions, moods, desires, and idiosyncracies. Powerful summons will often object to being summoned trivially, and hardly any summon will put up with being openly disrespected by its summoner in its presence.
 
-Several behaviors constitute 'breach of contract'. For all summons, regardless of contract, the ones below always qualify: > Directly attacking your own summoned animal. > Injuring it too badly in the crossfire (for example, catching your summon as well as an opponent in an area-of-effect technique). KOing your summon, or dealing enough damage to inflict a Major or higher wound on it (counting any effects that increase damage for the purposes of determining wounds) will qualify. > Openly insulting or demeaning your summoned animal. Frustration in combat is acceptable, but berating it is not.
+Several behaviors constitute 'breach of contract'. For all summons, regardless of contract, the ones below always qualify:  
+- Directly attacking your own summoned animal. 
+- Injuring it too badly in the crossfire (for example, catching your summon as well as an opponent in an area-of-effect technique).
+- KOing your summon, or dealing enough damage to inflict a Major or higher wound on it (counting any effects that increase damage for the purposes of determining wounds) will qualify. 
+- Openly insulting or demeaning your summoned animal. Frustration in combat is acceptable, but berating it is not.
 
 If a breach of contract occurs, the summoned animal will promptly excuse itself from the battle. That entire summoning contract will be completely unusable for the next three OOC weeks.
 
