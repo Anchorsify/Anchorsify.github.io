@@ -155,7 +155,7 @@ Literally meaning 'bodyguard', the yojimbo is just that. It's a three foot tall 
  - Speed: 10 + X * 5
  - Seal Speed: 25
 
-You summon X Yojimbo, up to a maximum of 3.
+You summon X Yojimbo, up to a maximum of 3. You can summon Yojimbo twice a week (rather than once a week), and may even do so during the same battle.
 
 ###### 2. Behavior
 Trained as unified bodyguards, the caste of Yojimbo are the warriors who protect the lesser rabbits. They are trained in martial skills and despite their size can pack quite a punch. They each wear swords and will fight for you though will not attack the innocent.
@@ -183,7 +183,7 @@ Stealth: +10
 Chakra Exhaustion: +12  
 
 **Compatriots**  
-For every Yojimbo after the first present on the battlefield, all the others receive +3 Accuracy, an additional +2 to parries, +2 to Take the Hit, +1 to their damage bonus, and -1 to their AP costs. This stacks up to five times (when there are six Yojimbo present). Compatriots are the exception to the cap of once-per-IC-week limit and may be summoned twice.
+For every Yojimbo after the first present on the battlefield, all the others receive +3 Accuracy, an additional +2 to parries, +2 to Take the Hit, +1 to their damage bonus, and -1 to their AP costs. This stacks up to five times (when there are six Yojimbo present).
 
 ###### 4. Abilities
 **Standard Actions**  

@@ -71,7 +71,7 @@ In a fashion similar to how ninja knead chakra into their palms and feet to stic
  - Speed: 8
  - Seal Speed: 8
  - Special: This technique may not have its seal speed removed with a fan
- - Tags: Nintaijutsu
+ - Tags: Nintaijutsu, Preparation
 
 Effects: While this technique's upkeep is maintained, all your non-grapple unarmed attacks inflict a Knockback of (NDB/2, rounding down) yards, and allow you the option to 'chase' (and remain at range 0) with the primary target of your attack (if it's an AoE, pick one target to chase) after knocking them back, ignoring terrain as you do so.  Additionally, parries against such attacks take a -2 to their roll.
 
@@ -269,7 +269,7 @@ One of the more reliable defensive measure Fuuton users are capable of deploying
  - Upkeep: 5
  - Speed: 16
  - Seal Speed: 16
- - Tags: Area of Effect, Environmental
+ - Tags: Area of Effect, Environmental, Preparation
 
 Effects: Any ranged taijutsu and Raiton attacks against you with Accuracy less than (your Accuracy +5) are automatically parried, as are any Projectile Ninjutsu techniques with an Accuracy less than your Accuracy.  You can not be grappled while this technique is active, and any grapples you were in immediately end.
 
@@ -282,6 +282,7 @@ An advanced surveillance technique that, ultimately, falls far short of the effi
  - Upkeep: 4
  - Speed: 10
  - Seal Speed: 16
+ - Tags: Preparation
 
 Effects: When performing a Search (in Combat -> Stealth) or Observe (Ninjutsu -> Bunshin) action, you may use your Chakra Control skill ranks in place of your Awareness skill ranks, and receive a bonus of (ninjutsu damage bonus)/2 either way. Additionally, when targeted by a Surprise or Sneak Attack, you may make an Awareness roll (receiving the benefits of this technique's effects) against a Stealth roll from your opponent; if your result is higher, their attack is not considered a Surprise Attack or Sneak Attack, and they are no longer hidden from you.
 
@@ -352,6 +353,7 @@ A powerful wind technique, this emanates an incredibly powerful wind, starting a
  - Upkeep: 6 + (X)/100
  - Speed: 14
  - Seal Speed: 24
+ - Tags: Preparation
 
 Effects: The tornado provides a Damage Reduction of (your ninjutsu damage bonus) * 10. Any time you use a Fuuton jutsu, this DR is increased by (the technique's Speed) * (your damage bonus, -2 for each rank the technique is below A).
 

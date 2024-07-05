@@ -39,6 +39,7 @@ This technique is as common as it is basic, yet to the ordinary civilian it's on
  - Upkeep: 0
  - Speed: 10
  - Seal Speed: 4
+ - Tags: Preparation
 
 Effects: You look like another person. At a glance, this is nearly flawless. Of course, the technique has many weaknesses: if you don't know about, say, a birthmark, then your Henge wouldn't reproduce it. If someone interacts with you and knows the person you're trying to imitate, they have an opposed Espionage roll (with a +5 bonus; +10 if it's someone they know exceptionally well, such as a sibling or loved one) against yours to see through the Henge. Beyond just that roll, there are ways a Henge can automatically be seen through--not knowing a password, or saying something the person you're trying to imitate would never say. On the other hand, you could just Henge into someone other than yourself. If you try to turn into some piece of scenery, any ninja who come within 10 yards of you have a chance to notice the deception; you have an Espionage roll with a +10 bonus against their Awareness to remain concealed. Any time you take damage, your Henge effect ends immediately; it's just an inherent flaw in the technique.
 
@@ -102,6 +103,7 @@ One of the oldest, most iconic techniques possessed by ninjas, in the eyes of ci
  - Upkeep: 0
  - Speed: 2
  - Seal Speed: 4
+ - Tags: Preparation
 
 Effects: As described above, you can speak freely while hidden without giving people any indication of where you might be hiding. Activating Utsusemi while in hiding does not break stealth (unlike normal ninjutsu).
 
@@ -132,6 +134,7 @@ A fairly simple, yet often impractically demanding technique. The user channels 
  - Chakra: 15 + 3 * X
  - Upkeep: 2 * X
  - Speed: 10
+ - Tags: Preparation
 
 Effects: You have a +X bonus to your physical damage bonus and dodge while you maintain Chakra Strengthening. X has a maximum of 5.
 
@@ -142,6 +145,7 @@ This technique allows the user to briefly levitate multiple kunai in mid-air usi
  - Upkeep: X / 3
  - Range: 5 + CHA/4
  - Speed: 12
+ - Tags: Preparation
 
 Effects: You can control up to X Kunai at once, to a maximum of CHA/10, and 'throw' them using your Chakra, following standard multithrow rules, except that you replace the normal Stamina cost with an equivalent Chakra cost.  It uses your Ninjutsu Damage Bonus in place of your Physical Damage Bonus, but gains only +0.25 per weapon thrown instead of the normal +0.5.  Because this technique allows you manipulate the Kunai in mid air and alter their trajectory, anyone attempting to parry your multithrows with this technique takes a -X/3 penalty to their Parry roll.  The Kunai fall wherever they were hovering when you stop maintaining this technique's Upkeep, but so long as you maintain the Upkeep, your Kunai can not be 'retrieved' by anyone else.  Effects which state they ruin the weapons used (such as Housenka), however, will end this technique automatically (as you must reuse it to apply it to new weapons).  Uniques and effects which modify how many weapons you can throw, or how far you can throw them, will affect this technique's limitations and range normally, but the abilities Improved Range and Quick Hands do not.
 
@@ -224,6 +228,7 @@ By directing chakra into their hair, the shinobi causes it to grow rapidly. This
  - Upkeep: X
  - Speed: 10
  - Seal Speed: 15
+ - Tags: Preparation
 
 Effects: X has a maximum of 10. Your hair's length increases by X feet! However, now you have a lot of bulky, chakra-strengthened hair, that gets in the way when you're trying to do super-fast ninja battles. When dodging, or moving as part of an attack, you suffer an X/2 immobilization penalty (rounded up); in the case of moving while attacking, this applies to the distance you can move, the Accuracy of the attack itself, and anything else you may need to do until the next IC. You gain a Damage Reduction of (Ninjutsu damage bonus)* (X), which is doubled while blocking. Additionally, the damage you take is considered (2.5 * X)% lower for the purposes of determining wounds. Anyone attacking you from a distance of (X/3) yards or less will take (your ninjutsu damage bonus * speed of their attack) damage; this does not apply if X is 2 or lower. So long as X is 3 or higher, this applies to all melee attacks. As a Speed 10, Chakra 5 + Y * 5 action, you may increase X's value by Y, up to the maximum of 10. Whenever you suffer an Ignite effect, X is reduced by half the Ignite's severity; whenever your suffer a Slashing wound, X is reduced by 1 per level of the wound's severity (1 for a Minor, 2 for a Major, and so on). If X is reduced to 0, this technique ends.
 
@@ -259,6 +264,7 @@ A very advanced, and in the right hands powerful, technique this jutsu can only 
  - Upkeep: 20
  - Range: (Chakra Control / 4) Miles
  - Requires: Chakra Control 35, Crystal Ball (see below)
+ - Tags: Preparation (yeah, right)
 
 Effects: As a Speed 10 action you may focus the Crystal Ball's view to any location within range and view the area through the ball. This cannot penetrate chakra shields, nor can it move its view around quickly. A speed 10 action is required to change the crystal's viewpoint even slightly. There is another feature, which requires the user to know a person's chakra signature intimately. This means spending time studying them while training with ninjutsu in a calm setting for at least 5 minutes (or, if you're a chakra sensor, having sensed their chakra signature successfully before). Once a person's chakra signature is known, this technique can be performed to focus in upon that person, following them around near flawlessly at up to double the normal range. Note, this still cannot be used to locate someone hidden behind a chakra barrier of any sort. The crystal balls used in this technique are expensive, costing 2000 Ryo. They're also rare and typically need to be custom made; they can only be purchased with Savings, not Requisition.
 
@@ -269,6 +275,7 @@ An advanced technique where a ninja distorts how light is reflected around their
  - Upkeep: 5
  - Speed: 14
  - Seal Speed: 20
+ - Tags: Preparation
 
 Effects: This technique may be used when already in Stealth; it raises you to level 3 Stealth. If you end this technique's Upkeep, you are lowered to level 2 Stealth. If you break your Stealth for some other reason (such as moving, or attacking), then Meisaigakure also ends. Once hidden by Meisaigakure, you are effectively invisible so long as you maintain its Upkeep. You could use this in the middle of a room and then go unnoticed when a group of people entered and had a conversation--though it does not make you intangible. If an enemy has a heightened sense of smell (such as an Inuzuka's ninken), then your Stealth TN is considered 10 points lower (as if you were only in level 2 Stealth) for the purposes of hiding from them.
 

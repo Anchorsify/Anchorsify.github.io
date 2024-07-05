@@ -93,7 +93,7 @@ This jutsu creates a polearm out of pure flame, which the user can hold unharmed
  - Speed: 8
  - Seal Speed: 12
  - Status: Ignite 4
- - Tags: Nintaijutsu
+ - Tags: Nintaijutsu, Preparation
 
 Effects: You acquire a naginata or yari made out of fire. It uses your NDB +33% instead of your PDB for its damage. Whenever someone is struck by it, they suffer Burns 2. You may perform handseals while holding this weapon, but doing so increases the Seal Speed by 6. The weapon persists until you let go of it.
 
@@ -189,7 +189,7 @@ A very, very popular technique among hand-to-hand combatants, whose opinions of 
  - Upkeep: 3
  - Speed: 8
  - Seal Speed: 14
- - Tags: Nintaijutsu, Energy
+ - Tags: Nintaijutsu, Energy, Preparation
 
 Effects: This technique alters the dice of any unarmed attacks you make. Its damage dice become .extra(3) for d4s, .extra(5) for d6s, .extra(6) for d8s, .extra(7) for d10s, .extra(9) for d12s, and .extra(15) for d20s. An attack which would normally deal 8d12 damage would be changed to deal 8d12.extra(9) damage under the effects of Blazing Fury. Additionally, if an attack augmented by Blazing Fury inflicts wounds of any sort, it also causes an Energy wound of one category lower, to a minimum of minor (a punch that inflicted a Minor Blunt wound would also inflict a Minor Energy wound).
 
@@ -273,6 +273,7 @@ All ninja learn how to convert their chakra into one of the five basic elemental
  - Speed: 12
  - Seal Speed: 16
  - Requires: 25 Chakra Control
+ - Tags: Preparation
 
 Effects: So long as Enjoukon is maintained, the Chakra costs of all your Katon jutsu are reduced by 5, and their damage is increased by 15%. When your Chakra Exhaustion penalty increases from using a Katon technique, it increases by 1 point less than normal (to a minimum of 0). However, the chakra costs for all your non-Katon elemental ninjutsu are increased by 5. Even after this technique ends, its effects persist for the next 20 IC as your chakra gradually returns to normal.
 

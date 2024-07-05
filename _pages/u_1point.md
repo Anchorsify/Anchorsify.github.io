@@ -64,7 +64,7 @@ That's what you are! You have a bonus to Stamina rolls of 1, + 1 per rank of the
 *Upgrades Into: Endless Energy*
 
 ##### Killing Intent
-You have what it takes to end a person's life. Even if you personally would choose not to, it's not because you lack the capacity. Something about you gives that away, that killer's instinct having seeped into your very chakra. Whenever you inflict a wound upon someone, you and your victim roll 1d20+XP/100, with +1 to your roll for every previous wound you've inflicted in that battle. If they fail, they receive a Stun with a severity of how much you beat their roll by, to a maximum of 15.
+You have what it takes to end a person's life. Even if you personally would choose not to, it's not because you lack the capacity. Something about you gives that away, that killer's instinct having seeped into your very chakra. Whenever you inflict a wound upon someone, you and your victim roll 1d20+XP/100.  You get +1 to your roll for every previous attack you've made which has wounded somone in the battle. If they fail, they receive a Stun with a severity of how much you beat their roll by, to a maximum of 15.
 
 ##### Lightfoot
 You've always been talented at sneaking and hiding in almost any and all places. Whether a dark shadow or henge'd as a tissue box in a room, you know how make your presence scarce.  You have a +3 bonus to Stealth rolls, and the speed of your Hide action is reduced by 3. You can move when in Stealth 2 without lowering the level of your stealth.

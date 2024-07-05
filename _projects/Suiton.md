@@ -76,7 +76,7 @@ Originally developed by the Hidden Waterfall village, this technique has since s
  - Speed: 10
  - Seal Speed: 10
  - Requires: (weapon dice)/2 gallons of water
- - Tags: Nintaijutsu
+ - Tags: Nintaijutsu, Preparation
 
 Effects: You acquire a sword, with the appropriate attributes for any of the ones in the Equipment chapter. Attacks with this sword use your physical or ninjutsu damage bonus, whichever you prefer, and can have its damage bonus changed (between ninjutsu or physical) for any attack made with it. You may perform handseals while holding this sword at no penalty if it is one-handed (or if you can make seals one-handed), or at a -6 penalty if it is two-handed.  This weapon persists until you let go of it.
 
@@ -101,16 +101,18 @@ A moderately advanced technique is the appropriately named water-walking techniq
  - Speed: 12
  - Seal Speed: 8
  - Requires: 4 gallons of water, 10 Chakra Control
+ - Tags: Preparation
 
 Effects: You reduce any Ground or terrain-based immobilization penalties by 2, and ignore any other mechanical effects (such as damage for walking across caltrops) if they're C-rank or lower. This does mean that you are not directly in contact with the ground (for the purposes of, say, the Doton jutsu Shindou and Yurokensei).
 
 #### --( Gyoushuu no Tebukuro - Gloves of Cohesion )--
 You mold chakra around your palms to maintain a thick film of water around them, similar to how it's possible for a ninja with excellent chakra control to stand on walls, or, well, water. This uses an extension of that sort of chakra control, using the water film as a medium to latch on to other people.
 
-- Chakra: 12
-- Upkeep: 2
-- Speed: 10
-- Requires: 4 gallons of water, 10 Chakra Control
+ - Chakra: 12
+ - Upkeep: 2
+ - Speed: 10
+ - Requires: 4 gallons of water, 10 Chakra Control
+ - Tags: Preparation
 
 Effects: This gives you a +4 bonus to all grapple rolls you make (though it does not apply to weapons, or Kagemane), for any purpose other than escaping a grapple. This doesn't apply to ninjutsu-based grapples, or grapples which are performed by weapons or objects.
 
@@ -160,7 +162,7 @@ This creates, as its name suggests, a whip made from water which is held togethe
  - Speed: 10
  - Seal Speed: 14
  - Requires: 8 gallons of water
- - Tags: Nintaijutsu, Slashing
+ - Tags: Nintaijutsu, Slashing, Preparation
 
 Effects: You create a whip made out of water. It is a Stamina 11, Damage 6d10, Speed 10, Range 8 Melee Slashing Chain weapon. It uses the higher of your Ninjutsu or Physical Damage Bonus. You may perform handseals while holding the whip at no penalty. As a Speed 10 action, you may use the whip to grab hold of someone, as per the E-rank Grapple technique. You use your NDB in place of PDB for grapple checks using the whip, with a +3 bonus.
 
@@ -208,6 +210,7 @@ The user sinks into a shallow pool of water, much too little to actually fit a p
  - Speed: 18
  - Seal Speed: 12
  - Requires: A pool of water of at least 16 gallons
+ - Tags: Preparation
 
 Effects: You can use this technique to slip into a pool of water to hide, assuming you meet hiding's normal requirements (i.e., this technique does not let you hide in itself). While hidden within the water using this technique, your minimum Stealth level is 2. If an opponent does not have a reason to suspect you're there (i.e. this isn't being done in-combat) you have a +10 Stealth bonus. You have awareness equivalent to being able to look out of the pool as if it's a window, but obviously can not move (because you're in the water!) The puddle being destroyed, evaporated, used in a jutsu or attacked in any way or washed away in more water, results in you being harmlessly ejected. Notably, this can only be used in puddles; anything more than a few inches deep probably doesn't qualify. If it's an actual pond, or lake, or the like, it's not a valid target.
 
@@ -223,6 +226,8 @@ The user gathers the chakra around their hand, and forms the required water into
  - Tags: Melee
 
 Effects: You trap your target inside a sphere of water. Someone inside cannot take actions, but they also cannot be affected by anything outside the prison; yes, that's right, the water can even stop giant swords. It makes sense, honestly, we promise, somehow. Anyone with a Chakra Control skill of 5 or above is able to mold the chakra around them to allow themselves to siphon air through the prison, meaning they can still talk and breathe. Anyone with less, however, adds a Suffocation 1 status every 10 IC. You must keep one hand on the water prison to maintain it, and you can not move or dodge while maintaining it; if you choose to dodge against an incoming attack, the water prison automatically ends. If you take damage while maintaining the water prison, you must make a Chakra Control check against (damage taken)/10 or the prison ends. Although you can't move, you can still take most other actions that are possible one-handed while maintaining the prison's upkeep.
+
+If used against someone in a grapple, this technique automatically fails unless the person(s) in control of the grapple opt to let go as it is used.
 
 #### --( Takitsubo no Jutsu: Water Release: Waterfall Basin Technique )--
 This technique draws water up from underground, forming a geyser on the surface. Aside from being useful for creating a spot to relax when resting or camping out, and ensuring you'll always have a source of clean (well... for a certain value of clean) water, it, like most ninjutsu, has combat applications.
@@ -306,6 +311,7 @@ Named after the deity who supposedly watches over a major river, this technique 
  - Speed: 10
  - Seal Speed: 16
  - Requires: 16 gallons of water
+ - Tags: Preparation
 
 Effects: So long as this is maintained you cannot be affected by Ignite or Burn statuses, and you take 25% less damage from Katon jutsu (applied after other reductions). Activating it will end any ongoing Ignites harmlessly, but will not cure Burns.
 

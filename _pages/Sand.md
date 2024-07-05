@@ -105,9 +105,9 @@ Hitori begin with Elemental Aptitude for Fire and Wind ninjutsu, along with the 
 Combining Fire and Wind chakra results in the advanced nature of ‘Scorch Release’; as the name suggests, it involves using extreme heat as a weapon, with powerful users being able to reduce opponents to ash or evaporate the liquid inside their body, sapping away their strength.
 
 Any Katon or Fuuton technique can be converted to Shakuton as a Chakra +5, Speed +0 link, with the following changes:   
- - Deal 75% normal damage, but can not be blocked, and gain +50% for Wounding
- - They gain +CHA/30 to their Accuracy
- - Inflict a Dehydration status of severity (1 per Rank of the jutsu) + CHA / (90 - 10*Rank).  In other words, for an E-Rank this is 1+CHA/80, for a D-Rank it is 2+CHA/70, and so on, up to 5+CHA/40 for A-rank techniques
+ - Deal 70% normal damage, but can not be blocked, and gain +50% for Wounding
+ - They gain +CHA/40 to their Accuracy
+ - Inflict a Dehydration status of severity (1 per Rank of the jutsu) + CHA / (90 - 10*Rank). In other words, for an E-Rank this is 1+CHA/80, for a D-Rank it is 2+CHA/70, and so on, up to 5+CHA/40 for A-rank techniques
  - Shakuton can increase a victim’s Dehydration status up to a maximum of 3+(CHA/8)
  - Shakuton can not inflict Burns or Ignite
  - Any Ignite a technique would normally inflict instead adds +5% to Wounding per severity of Ignite

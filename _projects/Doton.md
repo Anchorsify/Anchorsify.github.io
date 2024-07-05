@@ -104,7 +104,7 @@ You hold out your hands or similarly grab some nearby rock and create a large, b
  - Upkeep: 2
  - Speed: 10
  - Seal Speed: 12
- - Tags: Nintaijutsu
+ - Tags: Nintaijutsu, Preparation
 
 Effects: You create a bo staff or tetsubo out of rocks or dense, chakra-congealed earth. When using it, you add one-fourth of your Ninjutsu Damage Bonus to your Physical Damage Bonus, and the weapon has Stun 4 (or increases its existing Stun by 3). This weapon persists until you let go of it.
 
@@ -141,7 +141,7 @@ By surrounding your arm or leg in a coat of solidified earth, you can attack an 
  - Upkeep: 2 + X
  - Speed: 6
  - Seal Speed: 12
- - Tags: Nintaijutsu
+ - Tags: Nintaijutsu, Preparation
 
 Effects: So long as this technique is maintained, your unarmed attacks are enhanced: You suffer no 'on-contact' effects (such as damage from punching a foe covered in spikes, or the immobilization of punching a Mud Clone), and gain +X to your Physical Damage Bonus. Additionally, unarmed parries against you take a -X penalty. X has a maximum of one-fourth your Ninjutsu Damage Bonus, rounded up.
 
@@ -192,6 +192,7 @@ Your chakra being applied to your legs, you turn the ground below your feet into
  - Upkeep: 3
  - Speed: 6
  - Seal Speed: 14
+ - Tags: Preparation
 
 Effects: You increase your AGI stat for the purposes of movement by CHA/2. You may choose to end this technique at any time, or as part of another Doton jutsu. If you end it as part of a damage dealing Doton jutsu, that technique gains a Stun equal to 2+(your ninjutsu damage bonus)/3, or increases its existing Stun by that much, from absorbing the mud used in this technique. This is incompatible with effects which increase your normal movement speed--such as the Runner ability, and Racing Thunder Technique. While Mud Wave is active, you do not receive their benefits.
 
@@ -213,7 +214,7 @@ This technique reduces the consistency of earth into less than that of fine sand
  - Chakra: 18
  - Upkeep: 4
  - Seal Speed: 12
-
+ - Tags: Preparation
 
 Effects: This may only be used while underground, such as from the effects of Moguragakure no Jutsu, to burrow through solid rock, and can be used while Stealthed without revealing you. It works only on earth and unworked stone (you could burst out from under stone tiles, but not tunnel through a wall). While you maintain this technique's upkeep, you can move underground up to a yard deep (any deeper any you would begin to be crushed by the pressure of the earth around you), using CHA/2 in place of AGI for determining your movement speed. 
 
@@ -279,6 +280,7 @@ This technique allows you to blend into rocks and remain hidden. Even the textur
  - Upkeep: 12
  - Speed: 22
  - Seal Speed: 28
+ - Tags: Preparation
 
 Effects: This allows you to enter level 3 Stealth, and gives a +10 bonus to your stealth checks while it's maintained. However, it requires rocky terrain (such as the inside of a cave, a mountain path, the debris from a destroyed wall, or a large boulder), and you cannot move (blinking and breathing are okay) while it's maintained.
 
@@ -289,6 +291,7 @@ You direct chakra to flow through the skin over all portions of your body, incre
  - Upkeep: 10
  - Speed: 16
  - Seal Speed: 17
+ - Tags: Preparation
 
 Effects: You gain (CHA) Damage Reduction, and increase your physical damage bonus by half your ninjutsu damage bonus. Raiton bypasses all this technique's effects, and Suiton has its damage lowered by twice as much (a DR of CHA*2, rather than just CHA).
 

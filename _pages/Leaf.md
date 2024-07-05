@@ -62,7 +62,8 @@ For every one Swarm Size, the Swarm has effectively CHA in Vitality. They do not
 
 Below are the basic ways in which you can use your swarm.  In all cases, X is equal to the size of the swarm.  If it ever becomes relevant, for every two Swarm Size, the Swarm’s effective rank increases (Size 1-2 is E, 3-4 is D, etc to a maximum of A), the Swarm uses your NDB when called for, and any Wounds the Swarm inflicts are considered Energy Wounds.
 
-*Deploy (Speed X)* – This creates a cloud of Kikaichuu around you that extends X yard(s) out from you. You gain an upkeep equal to X/3 (round up). You can have multiple different swarms active, adding the size of all swarms together to determine your total Upkeep.
+*Deploy (Speed X)* – This creates a cloud of Kikaichuu around you that extends X yard(s) out from you. You gain an upkeep equal to X/3 (round up). You can have multiple different swarms active, adding the size of all swarms together to determine your total Upkeep.  
+Tags: Preparation
 
 *Return (Speed X/2 or +X/2, Interrupt)* – As long as you are within your swarm’s area, you can recall your deployed Kikaichuu.  An Aburame may do this as an Interrupt to have them return to their body as they dodge an attack; a successful dodge means they return without being hit, while a failure means they are hit, and any remaining Swarm Size after the attack is resolved is returned to the Aburame.
 
@@ -214,6 +215,7 @@ The Akimichi’s signature jutsu, this increases the user’s height and weight 
  - Chakra: 25 + X * 5
  - Upkeep: X
  - Speed: 8
+ - Tags: Preparation
 
 Effects: X has a maximum of 5. You gain +Xd* to all Taijutsu, increase (not decrease) the base Speed of all your Taijutsu attacks by X/2 (round down), add (or increase the existing) Area X/2 to all melee Taijutsu (round down), gain (STR/10)*X DR, and reduce all Knockbacks you suffer by X. Unfortunately, you also gain a -X to all Dodges while in this form, though if you choose to utilize the Take the Hit action, the penalty to Dodge is instead changed to a bonus, and you are allowed to automatically block whenever you successfully Take the Hit.
 
@@ -350,10 +352,11 @@ The Inuzuka are often characterized as blunt and rough around the edges, taking 
 #### --( Shikyaku no Jutsu – Four Legs Technique )--
 This technique is the signature fighting style of the Inuzuka, wherein they hunch down on all fours and bare their teeth.  The more experienced the Inuzuka is with this technique, the more bestial they become, with some having elongated canines that become true fangs, spontaneously growing claws, and pupils that narrow and become slitted rather than rounded.  Most impressively, the user’s reflexes, senses, and speed increase noticeably.
 
-- Type: Ninjutsu, Rank D
-- Chakra: 12
-- Upkeep: 2
-- Speed: 10
+ - Type: Ninjutsu, Rank D
+ - Chakra: 12
+ - Upkeep: 2
+ - Speed: 10
+ - Tags: Preparation
 
 Effects: Your movement speed is increased by 10% and your current and maximum Rank in Enhanced Hearing and Blind Fighting abilities are increased by 1. Every time you damage someone with a Taijutsu attack while maintaining this technique, you temporarily shred any sort of DR they might have, reducing their DR (after the damage is resolved) by (3+AGI/30). Shredded DR can not be reduced below 0, and is restored at a rate of 1 per IC.  However, due to being on all fours and your hands becoming more animalistic, all Seal Speeds are increased by 3.
 
@@ -481,7 +484,7 @@ With the divide between the houses now gone, the Hyuuga have risen to prominence
 **Hyuuga begin with 1 less Unique Point.**
 
 #### -=[ Byakugan – White Eye ]=-
-Activating Byakugan is a Speed 0, Seal Speed 6 action which, once you can reduce its Seal Speed to 0, you no longer need to perform handseals to activate it. Byakugan has an Upkeep of 2, grants +5 to Awareness rolls, and while active, anyone Hidden (or who attempts to Hide) within Byakugan’s range is automatically spotted if their Stealth TN is lower than your total bonus to Awareness (without the normal 1d20, or anything in place of it).
+Activating Byakugan is a Speed 0, Seal Speed 6 action which, once you can reduce its Seal Speed to 0, you no longer need to perform handseals to activate it.  You can activate Byakugan when rolling Initiative with the Preparation ability. Byakugan has an Upkeep of 2, grants +5 to Awareness rolls, and while active, anyone Hidden (or who attempts to Hide) within Byakugan’s range is automatically spotted if their Stealth TN is lower than your total bonus to Awareness (without the normal 1d20, or anything in place of it).
 
 You can differentiate between people and clones (except for Kage Bunshin), and can tell if someone is using Henge (though this does not allow you to see their true form).
 
@@ -678,6 +681,7 @@ While similar in concept to Shadow Sewing, as the Nara is materializing shadows 
  - Upkeep: 6
  - Range: CHA/3
  - Speed: 16
+ - Tags: Preparation
 
 Effect: You can use your shadow tendrils to grab onto things (or people) or attack, in the following ways, for as long as you maintain this Upkeep:
  - *Retrieve Object (X AP)* - Your shadows pick up X unattended objects on the battlefield that are within range; if it’s ever relevant, you can pick up (and hold onto) up to CHA/8 objects this way at once.
@@ -771,7 +775,7 @@ Unfortunately for the Uchiha, they are not inherently able to access this power.
 
 PC Uchiha are considered better than your average Uchiha and begin with Stage 1 unlocked at creation. Unfortunately, to unlock its higher stages requires training and persistence. A shinobi can unlock the Sharingan’s higher stages without the need for external stimulus, though it can take a while.  At 1000, and 2000 XP you automatically gain access to the Second, and Third Stage Sharingan, respectively, if you haven’t already.  Legends speak of a fourth, higher stage, but no one in recent memory has obtained it.
 
-Activating Sharingan is a Speed 0 action, which can be performed by itself, or alongside another technique or Interrupt, and it has an Upkeep of 2.
+Activating Sharingan is a Speed 0 action, which can be performed by itself, or alongside another technique or Interrupt, and it has an Upkeep of 2. You can activate Sharingan when rolling Initiative with the Preparation ability.
 
 Techniques unlocked at the various Sharingan levels (detailed in their respective Stage section, below) can be acquired automatically, as soon as you unlock the Stage that grants them.  They have no rank or skill requirements to learn, and you can go into ‘XP debt’ by acquiring them, though all XP you earn goes to paying the costs of such techniques before you can spend XP on anything else until they’re paid for.
 

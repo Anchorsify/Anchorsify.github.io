@@ -74,7 +74,7 @@ By charging oneself with Raiton chakra, the user can exploit the lingering charg
  - Upkeep: 4
  - Speed: 6
  - Seal Speed: 10
- - Tags: Nintaijutsu
+ - Tags: Nintaijutsu, Preparation
 
 Effects: While this technique’s upkeep is maintained, all your unarmed attacks are blocked as if they were Raiton jutsu (meaning, in most cases, that blocking reduces the damage by only 25%, instead of 50%).
 
@@ -109,6 +109,7 @@ By pumping your legs full of lightning chakra, you raise your muscle's response 
  - Upkeep: 2
  - Speed: 8
  - Seal Speed: 8
+ - Tags: Preparation
 
 Effects: Your AGI is treated as 25% higher for the purposes of movement. Additionally, you may choose to declare a Speed X move action, to a maximum of CHA/10. Unlike normal movement (which is handled on an IC-by-IC basis), the movement for this action is resolved immediately. However, moving this way has a Chakra cost equal to (the number of yards travelled)/2. Like normal movement, you may not reduce this action's Speed by spending AP.
 
@@ -214,7 +215,7 @@ You divert your chakra to surge across your skin, building up something akin to 
  - Seal Speed: 14
  - Special: This technique receives only half your damage bonus.
  - Status: Paralysis 1 for 40 IC, Special
- - Tags: Energy, Contact
+ - Tags: Energy, Contact, Preparation
 
 Effects: Any time you are struck by an unarmed attack or melee weapon attack, this technique 'discharges', dealing its damage to them automatically (which can't wound), along with the above status roll.  In the case of weapon attacks, the damage is halved.
 

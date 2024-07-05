@@ -60,9 +60,10 @@ Y is equal to the number of times the recipient has had this jutsu used on them 
 #### --( Chakura no Mesu - Chakra Scalpel )--
 This forms one's chakra into a small, sharp blade; medics favor this for performing highly accurate incisions during surgeries and dissection, as it won't lose its edge and is always sterile (unlike a regular blade). It can even be used to make cuts inside the body without creating an opening wound, which drastically reduces the risk of infection.
 
-- Chakra: 15
-- Upkeep: 4
-- Speed: 8
+ - Chakra: 15
+ - Upkeep: 4
+ - Speed: 8
+ - Tags: Preparation
 
 Effects: You can use this in combat. Doing so causes your basic unarmed attacks to use DEX/12 for their damage bonus (instead of PDB, which means bonuses, and penalties, to your PDB do not affect this), ignoring any damage reduction your opponent may have, and to inflict Slashing wounds. However, these 'scalpel' injuries are relatively shallow: They cannot wound a location wearing armor, and do not damage armor when they strike it. 
 
@@ -93,10 +94,11 @@ The recipient immediately regains up (25 + (your ninjutsu damage bonus)*2)% of t
 #### --( Rinji Hougou no Jutsu - Temporary Suture Technique)--
 Weaving a network of chakra, a medic can make short-term repairs to damaged body parts. They can set wounds and hold them rigidly in place, use chakra to take the place of damage muscles and tendons, alleviate swelling and bruising, or even repair damaged blood vessels and do the job of injured nerves. The problem with this is that it's a short-term fix to a long term problem. This is itself damaging, but beyond that it prevents the body from doing anything to repair itself, and allows undue strain to be placed on these injured body parts.
 
-- Chakra: 15 + 3 * X
-- Range: Touch
-- Speed: 10 + 3 * X, Delay 5 + X
-- Requires: Tourniquet Technique
+ - Chakra: 15 + 3 * X
+ - Range: Touch
+ - Speed: 10 + 3 * X, Delay 5 + X
+ - Requires: Tourniquet Technique
+ - Tags: Preparation (only on yourself)
 
 Effects: This temporarily negates the effects of up to X wounds; it can be applied later to negate additional wounds, without disrupting previous applications. This lasts for (the medic's ninjutsu damage bonus) hours, after which time the chakra sustaining the jutsu expires--and the recipient pays the price for pushing their body beyond its limits. For each wound remedied this way, they take damage equal to 5% of their maximum Vitality, per category of the wound. Thus, if this was used to negate a Minor and a Severe wound, after it ended the person would take (5 + 15) = 20% of their maximum Vitality in damage (which could carry over to their HP), which cannot be reduced or mitigated. Additionally, the recovery times of these wounds is increases by 1 week per level of the wound (1 week for minors, 3 for severes, etc.). In the case of wounds whose penalties are reduced over time, this "extra" recovery time must be made up for first, before normal recovery can continue. This can be fatal. It cannot be used on an unwilling subject (though as with its predecessor, Tourniquet Technique, you may use it on yourself). So long as this technique is in place, natural healing (as described in the Recovery section of the Combat chapter) will not take place.
 

@@ -41,6 +41,7 @@ By spinning their weapon rapidly with both hands, the user deflects ranged attac
 - Upkeep: 0 + X
 - Speed: 10
 - Type: Polearm; Umbrella; Fan
+- Tags: Preparation
 
 Effects: When you use this technique, you begin spinning your weapon. So long as you maintain the upkeep, you may choose to Parry or Block as a Speed 2 interrupt. Against ranged attacks, you gain a +3 bonus to parry rolls. Successful parries against melee attacks instead increase the attacker's Speed by 4, as you throw them off balance with your weapon's rotation. While you maintain this technique's upkeep and rotation, you can ignore any inherent accuracy penalty the weapon has when you use it to attack, by adding 3 to that attack's Stamina cost. Track how many IC you maintain this upkeep every time you use it: for every 10 IC it's used for in the same fight, its Upkeep increases by 1.
 
@@ -117,7 +118,15 @@ With sufficient practice, the user can throw their chain weapon in such a way th
  - Range: (Weapon)
  - Type: Chain
 
-Effects: This allows you to perform a Trip (E-Rank Unarmed Taijutsu), Disarm (basic weapon action) and/or Grab (E-rank Grapple Taijutsu) at the same time as you attack: X is the number of the above options you choose to perform (with a minimum of one, and therefore a maximum of 3). The initial, damage-dealing attack is always performed first, but afterward you can perform them in any order you wish. The target must defend against each part individually, though they increase their IC by only the longest defensive interrupt utilized, and once they successfully defend against one aspect of this technique, all other aspects fail. If someone dodged at speed 2, failed, and then parried the disarm attempt at speed 3, any trip or grab that was to come after it would automatically fail (without them having to roll against it), and their IC would only be increased by 3.  This technique's Speed and Accuracy is used for every aspect, and is not changed depending on what options are used (i.e., Trip does not modify the technique's Accuracy).  Willpower used by the attacker or defender apply to all aspects of this technique.  
+Effects: This allows you to perform a Trip (E-Rank Unarmed Taijutsu), Disarm (basic weapon action) and/or Grab (E-rank Grapple Taijutsu) at the same time as you attack: X is the number of the above options you choose to perform (with a minimum of one, and therefore a maximum of 3). 
+
+The initial, damage-dealing attack is always performed first, but afterward you can perform them in any order you wish.
+
+The target declares a single defense, but makes separate rolls for every option of Chain Serpent utilized, though once they successfully defend against one aspect, all other follow-up aspects fail.
+
+If someone used Dodge at Speed 2, failed against the attack, and then avoided a Disarm attempt with their second roll, any trip or grab that was to come after it would automatically fail (without them having to roll).  Similarly, even if you successfully Disarm someone as one of the options, they can still Parry (using their weapon) for other aspects of this technique, as it is all happening at the same time.
+
+The final Speed and Accuracy of the technique is used for every aspect, and is not changed depending on what options are used (i.e., Trip does not modify the technique's Accuracy).
 
 #### --( Mukadesuto - Centipede Strike )--
 Using two weapons in conjunction with one another, the user strikes repeatedly, flowing from one strike to the next in a barrage of attacks that can quickly overwhelm most opponents.
@@ -170,6 +179,7 @@ A technique which increases the potency of a weapon by running currents of chakr
  - Speed: 12
  - Requires: Chakra Control 12, appropriate Elemental Affinity and Aptitude
  - Type: Melee
+ - Tags: Preparation
 
 Effects: While you maintain this technique, your weapons gain the properties of your elemental affinity. When used against ninjutsu-based defenses, the weapon is considered to be of the relevant element to determine how effective the defense is against it. Additionally, it gains an additional effect based on the element chosen (listed below). This technique does receive your bonus to Chakra Exhaustion rolls from the Elemental Affinity ability. If you're using Dual Weapons, Chakra Flow applies to both of them; otherwise, only one weapon benefits from Chakra Flow at a time. Any weapon you pick up or draw automatically benefits from your Chakra Flow. If holding two non-Dual weapons, you may change which one receives Chakra Flow's effects as a Speed 0 action. Weapons created through jutsu can only be affected by chakra flow of their creation element.
 
@@ -258,13 +268,15 @@ A technique popularized by a Nara who liked to utilize a black-painted Kusari-Ga
  - Speed: 10 + (weapon's speed)/2
  - Type: Chain
 
-Effects: Make a grab attempt with your weapon; if successful, you then begin a grapple with your opponent and immediately pull them toward you until they are at Range 1 with you.  You can put them on any 'side' of you, if you wish, as part of this process.
+Effects: Make a melee grab attempt with your weapon; if successful, you then begin a grapple with your opponent and immediately pull them toward you until they are at Range 1 with you.  You can put them on any 'side' of you, if you wish, as part of this process.
  
 Afterward you make a basic weapon attack: If you're holding two weapons, this can be with either one, using its normal Speed with a bonus of +Xd*, where X is the number of yards you pulled them toward you, to a maximum of double your weapon's base dice.  If you manage to wound your target with this, they take a -2 to their Grapple rolls against you per severity of the Wound (-2 for Minor, -4 for Major, etc), which lasts until the Grapple is broken.
 
 If something prevents their movement toward you (such as being grappled by someone else who resists their movement, being tied up to a tree, or stuck in an Immobility 10 effect), then this technique has no effect other than establishing a grapple (which might end automatically, if they are beyond your normal grapple range).
 
-AP spent to lower this technique's speed lowers both the speed you perform it at, Which is used for both the grab and attack to determine valid interrupts, and the speed for the damage of the weapon attack performed.
+The target declares a single defense (and increases their IC only once) against Black Vines, but makes rolls against the initial grab attempt and the follow up attack (if the grab is successful) separately.
+
+AP spent to lower this technique's speed lowers both the speed you perform it at, Which is used for both the grab and attack to determine valid interrupts, and the speed for the damage of the weapon attack performed.  Similarly, other modifiers (such as Sudden Attack, or Surge) apply to both Accuracy's, and both defensive rolls, of you and your target.
 
 #### --( Mawarisuto - Rotation Strike )--
 Extending out a polearm, you hold one end with both hands then commence whirling and spinning the polearm around yourself in large circles! If it has a blade of some sort, this is even better!!
@@ -314,6 +326,7 @@ Focusing chakra along the edge of their weapons, the user extends and expands th
  - Upkeep: X/2 (round up)
  - Speed: 12
  - Type: Dual
+ - Tags: Preparation
 
 Effects: Your weapons deal +Xd*, but their damage is reduced by (5 * X)% for the purpose of determining wounds. X has a maximum of (your Chakra Control skill ranks)/3. Any weapon you pick up or draw automatically benefits from Blade Honing while you maintain its Upkeep.
 
@@ -347,6 +360,7 @@ Converting one's chakra to an element other than their affinity is difficult; do
  - Speed: 10
  - Requires: Chakra Control 25, Chakra Flow
  - Type: Melee
+ - Tags: Preparation
 
 Effects: As the C-rank Chakra Flow, but you may use elements other than your affinity. You may only maintain one element of Chakra Flow at a time, even if you're holding two weapons.  You must be able to use ninjutsu of the appropriate element in order to infuse your weapons with that element of chakra.
 
@@ -358,6 +372,7 @@ This technique expands upon the concepts developed when learning the Chakra Flow
  - Speed: 10
  - Requires: Chakra Control 20, Chakra Flow
  - Type: Melee
+ - Tags: Preparation
 
 Effects: The range at which your melee weapon can be used increases by 1 (in most cases meaning that you can make melee attacks from 1 yard away, instead of 0 yards), and its damage is increased by 2 dice. This does mean that your weapon no longer triggers most on-contact effects.
 Additionally, you gain a +3 Accuracy bonus with the weapon against anyone who is unable to see chakra (which usually means Hyuuga and Uchiha only). Whenever you strike an opponent, make a Chakra Control skill roll against their Espionage. If they match or beat your roll, the Accuracy bonus is reduced to +1 for the remainder of the fight.
@@ -371,6 +386,7 @@ This technique coats the tip of a piercing weapon with a thin layer of chakra wh
  - Upkeep: 5
  - Speed: 10
  - Type: Melee Piercing
+ - Tags: Preparation
 
 Effects: Your weapon inflicts Bleed 1 whenever it deals damage. If the victim has an existing Bleed status, it increases that status by 1. This explicitly stacks with the Crank Thundering Strike (meaning it's Bleed 3, or +3, if paired with Thundering Strike).
 If you're using Dual Weapons, Bloody Thorns applies to both of them; otherwise, only one weapon benefits from Bloody Thorns at a time. Any weapon you pick up or draw automatically benefits from Bloody Thorns. If holding two non-Dual weapons, you may change which one receives this technique's effects as a Speed 0 action.
@@ -403,6 +419,7 @@ The user concentrates chakra in their arms, speeding up their draw speed and all
  - Speed: 6
  - Requires: 2 ranks in Weapon Focus: Bow
  - Type: Bow
+ - Tags: Preparation
 
 Effects: While you maintain this technique's Upkeep, your bow's Accuracy penalty is reduced by X. If X is set higher than the value of your bow's Accuracy penalty (for example, you set X = 10 and are using a Yumi), consider X to be just enough to eliminate the penalty for this technique's other effects.
 
@@ -418,6 +435,7 @@ A distant derivative of the ubiquitous chakra flow technique, this concentrates 
  - Speed: 12
  - Requires: Chakra Control 20, Chakra Flow
  - Type: Bow
+ - Tags: Preparation
 
 Effects: While this technique is maintained, your arrows deal an extra (CHA/12) dice of damage. For the purposes of ninjutsu-based defenses they are treated as being a ninjutsu attack of your elemental affinity (Upkeep 8) or any element you have the ability to use (Upkeep 12), declared when you activate this technique. If you use your elemental affinity, the Chakra roll does receive the appropriate bonus.
 
@@ -488,6 +506,7 @@ The natural evolution of Phantom Ballista, this technique wreathes any arrows th
  - Speed: 8 or +4
  - Type: Bow
  - Requires: Phantom Ballista
+ - Tags: Preparation
 
 Effects: This may be used while Phantom Ballista is already active (Chakra 30) or when you use Phantom Ballista (increasing that technique's Chakra cost by 15). It increases Phantom Ballista's Upkeep appropriately. Heavenly Arrow adds a different effect to your bow depending on which element you've chosen to use, as listed below. This applies both to normal arrows enhanced by Phantom Ballista, and chakra arrows created with that technique. If used on its own (activated separately from Phantom Ballista), Heavenly Arrow's Chakra roll receives the bonus from your Elemental Affinity ability if you're using the appropriate element. This technique does have a noticeable downside: the afterglow of chakra left in your arrow's wake, while quite pretty, gives any enemies a pretty good idea of exactly where you are. If you attack from Stealth while using Heavenly Arrow, your Stealth TN is reduced by 10 (instead of 5). This replaces the similar effect in Phantom Ballista.
 

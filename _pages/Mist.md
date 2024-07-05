@@ -87,6 +87,7 @@ Putting their hydration into practical, but less-extreme use, a Hozuki can force
  - Chakra: 20 + X*2
  - Upkeep: X/2
  - Speed: 8
+ - Tags: Preparation
 
 Effects: This increases your Physical Damage Bonus by X, to a maximum of CHA/30. This bonus is doubled against inanimate objects, up to and including ninjutsu-made walls, such as Earth Shore Return, though it never is doubled against people.  This technique’s effects are suppressed whenever you liquify via the Hydration technique, and this cannot be used while Suika no Jutsu is active.
 
@@ -164,7 +165,7 @@ A multitude of bones protrude from the Kaguya’s body, most commonly along the 
  - Damage: (RES/10)d4
  - Speed: 6
  - Skeletal Modifications: Armor, Blades, Spurs, Realignment
- - Tags: Slashing or Piercing
+ - Tags: Slashing or Piercing, Preparation
 
 Effects: While maintaining this technique, as a Speed 0 action you may spend 4 AP to attack anyone in melee range using your bones.  By raising the cost to 6 AP you can target everyone in melee range.  You may attack with Dance of the Willow at most once every 10 IC, and the first time in battle you do so, it is considered a surprise attack.
 
@@ -242,8 +243,9 @@ The pride of the clan, and their most closely guarded secret.  This technique wr
  - Chakra: 10
  - Upkeep: 4
  - Speed: 8
+ - Tags: Preparation
 
-Effects: You become invisible. While invisible, you may Hide at will, with a +5 bonus; while hidden, you are always considered to be one Stealth category higher than you actually are. When making a Stealth roll, or an Espionage roll to be unnoticed (such as pilfering something, or picking a pocket) you roll 2d20.takeHighest(1) instead of 1d20. Those Espionage rolls also receive a +5 bonus.
+Effects: You become invisible. While invisible, you may take the Hide action without needing to fulfill its normal requirements, with a +5 bonus; while hidden, you are always considered to be one Stealth category higher than you actually are. When making a Stealth roll, or an Espionage roll to be unnoticed (such as pilfering something, or picking a pocket) you roll 2d20.takeHighest(1) instead of 1d20. Those Espionage rolls also receive a +5 bonus.
 
 Your Dodge rolls receive a similar benefit: you roll 2d20.takeHighest(1) rather than 1d20.  This doesn’t apply against area-of-effect techniques.
 
@@ -257,7 +259,7 @@ You project your chakra over another person, granting them invisibility as well.
  - Scale: 5
  - Limit: CHA/40
 
-Effects: You can conceal one additional person, or person-sized object, with Genshin no Jutsu per Rank. This requires Genshin to be active on yourself, and each additional person or object concealed this way increases its Upkeep by 2. People and objects concealed this way may use your Stealth TN in place of their own; if you’re hiding a group, you make only a single Stealth roll for the entire group.
+Effects: You can conceal one additional person, or person-sized object, with Genshin no Jutsu per Rank. This requires Genshin to be active on yourself, and each additional person or object concealed this way increases its Upkeep by 2. People and objects concealed this way may use your Stealth roll in place of their own; if you’re hiding a group, you make only a single Stealth roll for the entire group.
 
 #### --( Meimei Arashi - Invisible Tempest )--
 Wrapping a weapon or held object in your chakra-induced veil of invisibility is easy; unfortunately, that does not extend to thrown weapons, as their invisibility comes to an end as soon as they leave your grasp. This technique exists specifically to patch that hole in the Niou’s invisibility: it allows you to veil one or more thrown weapons in your chakra, keeping them unseen until they’ve struck their target.
@@ -531,10 +533,13 @@ Water is gathered from the air and then formed into dozens or hundreds (but ‘t
 
  - Type: Hyouton Ninjutsu, Rank B
  - Chakra: 24
- - Damage: Xd10
+ - Damage: Xd10 + CHA/2
  - Range: 20
- - Speed: 16
+ - Speed: 14
  - Seal Speed: 14
  - Requires: X/2 gallons of water and/or ice
+ - Tags: Piercing
 
-Effects: X has a maximum of CHA/6. The gallons of water and/or ice used in this technique are removed from the battlefield.
+Effects: X has a maximum of CHA/6. Half the gallons of water and/or ice used with this technique are removed from the battlefield after use.
+
+For the purposes of defending against this technique it is considered a multi-throw, though it is not subject to other multi-throw rules, and it is still considered a Ninjutsu attack. If this attack would Wound an enemy, it also applies a second Wound of one severity lower (a Minor wound wouldn't get this benefit, but inflicting a Major would also inflict a Minor, etc).

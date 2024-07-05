@@ -128,6 +128,7 @@ The user places themself under a harmless genjutsu, which itself serves no purpo
  - Speed: 6
  - Seal Speed: 12
  - Special: Interrupt
+ - Tags: Preparation
 
 Effects: So long as this technique's upkeep is maintained, you have a +4 bonus to defensive genjutsu rolls. This genjutsu does not end when you're wounded. You may declare Iron Curtain as an Interrupt when targeted with genjutsu, following the normal rules for defensive interrupts and giving you its bonus for that defensive genjutsu roll. Iron Curtain does remain active (as if activated normally) after being used this way.
 
@@ -227,6 +228,8 @@ This genjutsu makes its unfortunate victim believe that a large tree has suddenl
  - Special: Immobilize 10
 
 Effects: Every 10 IC which pass the victim is allowed another defensive genjutsu roll against your original roll, at a cumulative +1, to realize that this is only an illusion. While this genjutsu is maintained, the victim can not move from where they are, anchored in place to the tree (even if they reduce the immobilization penalty).
+
+Because the Immobility penalty is a genjutsu, however, other effects which move the target (such as Wind God's Breath, or any Knockback) work like normal.  Being moved does not mean they can automatically realize they're in a genjutsu, as the target's mind is sufficiently tricked to not notice the contradiction from movement alone.
 
 #### --( Jigyaku no Jutsu - Time Reversal Technique )--
 Used on willing recipitants, this jutsu puts the target in a trance like state, and keeps them hypnotized, to uncover forgotten memories or past events. Its often used to uncover important details that have been missed or forgotten on missions, or to help shinobi make 100% accurate reports on the most important of missions, rarely on unimportant missions.
