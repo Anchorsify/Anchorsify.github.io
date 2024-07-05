@@ -139,12 +139,16 @@ Effects: To use this technique you must have your opponent in an arm or leg lock
 #### --( Pressure Point )--
 You find, grab, and press down on an opponent's pressure point, temporarily immobilizing them; these are painful while maintained, but more to the point (ahaha, get it, because they're... never mind) it prevents the nerves you're isolating from working properly while the pressure is maintained.
 
- - Stamina: 10 + X * 2
+ - Stamina: 10 + X * 4
  - Speed: 5
  - Special: Interrupt
  - Requires: Medicine 10
 
-Effects: This may be used to Interrupt any grapple move used by the defender, other than Headbutt or Break Grapple checks (Shift Grapple and Escape Grapple are fair game). You quickly find a pressure point on their body and immobilize it, preventing them from completing whatever they were attempting. This requires an arm free; you may release a lock, if necessary, as part of this interrupt, to free up your hand. Roll an opposed grapple check. If you are successful, they are prevented from taking their action. Against Escape Grapple or Counter Throw (or any techniques with similar variable effects), the "X" value the user pays for their failed technique is half the amount you beat their roll by. For Pressure Point's cost, X is the number of times you've used Pressure Point in that battle--making it 10 the first time, 12 the second, and so on.
+Effects: This may be used to Interrupt any grapple move used by the defender, other than Headbutt or Break Grapple checks (Shift Grapple and Escape Grapple are fair game), regardless of their Speed. You quickly find a pressure point on their body and immobilize it, preventing them from completing whatever they were attempting. This requires an arm free; you may release a lock, if necessary, as part of this interrupt, to free up your hand. 
+
+Roll an opposed grapple check, applying no penalties from holds or locks. If you are sucessful, they are prevented from taking their action.
+
+Against Escape Grapple or Counter Throw (or any techniques with similar variable effects), the "X" value the user pays for their failed technique is half the amount you beat their roll by. For Pressure Point's cost, X is the number of times you've used Pressure Point in that battle--making it 10 the first time, 14 the second, and so on.
 
 #### --( Compression Hold )--
 A less brutal alternative to joint locking (which has this nasty tendency to tear people apart), a compression hold is still exceptionally painful--that's the point. You twist the victim's body in such a way that their own joints are being used to hurt them--forcing their elbow to press against their sternum is a popular one.

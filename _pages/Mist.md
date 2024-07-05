@@ -542,4 +542,4 @@ Water is gathered from the air and then formed into dozens or hundreds (but ‘t
 
 Effects: X has a maximum of CHA/6. Half the gallons of water and/or ice used with this technique are removed from the battlefield after use.
 
-For the purposes of defending against this technique it is considered a multi-throw, though it is not subject to other multi-throw rules, and it is still considered a Ninjutsu attack. If this attack would Wound an enemy, it also applies a second Wound of one severity lower (a Minor wound wouldn't get this benefit, but inflicting a Major would also inflict a Minor, etc).
+For the purposes of defending against this technique it is considered a multi-throw, though it is not subject to other multi-throw rules, and it is still considered a Ninjutsu attack. If this attack would Wound an enemy, it also applies a second Wound of one severity lower to the same location (a Minor wound wouldn't get this benefit, but inflicting a Major would also inflict a Minor, etc).
