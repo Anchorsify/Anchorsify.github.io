@@ -134,7 +134,7 @@ You focus your chakra on a victim, and simply light them ablaze.
  - Speed: 15
  - Special: X Ignite + Special
 
-Effects: This technique ignores the normal rule that Shakuton can not inflict Ignite; X is the victim’s Dehydration status (and thus, if you use it on someone without it, this technique has no effect), and does enjoy Shakuton’s typical +CHA/30 Accuracy.  Your target’s Dehydrate status is removed (after applying the Ignite) if they pass a status roll; if they fail, then their Dehydrate status is instead only lowered by half, rounding up.
+Effects: This technique ignores the normal rule that Shakuton can not inflict Ignite; X is the victim’s Dehydration status (and thus, if you use it on someone without it, this technique has no effect), and does enjoy Shakuton’s typical +CHA/40 Accuracy.  Your target’s Dehydrate status is removed (after applying the Ignite) if they pass a status roll; if they fail, then their Dehydrate status is instead only lowered by half, rounding up.
 
 In addition to the Ignite, your target suffers a penalty to their Resistance equal to X, which doesn't go away until the Ignite itself does.
 
