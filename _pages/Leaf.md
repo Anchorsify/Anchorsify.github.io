@@ -340,6 +340,124 @@ This technique is only usable after an Akimichi has consumed a Red Chili Pill, d
 
 Effects: You gain double your normal Physical Damage Bonus to this attack. Your target takes full damage, and anyone else in its area takes half damage. You must use at least 50 CP each time you perform this attack; if you don’t have enough CP, you can’t use it.
 
+## Hyuuga
+Throughout their history, the Hyuuga have adhered closely to a tradition of segregating family members into either the Main House or the Branch House, typically on the basis of gender and sibling birth order. Members of the Main House control and direct the affairs of the Hyuuga clan at large, whereas the Branch House is tasked with faithfully serving and protecting members of the Main House and -- in a wider scope -- the interests of the entire Hyuuga clan.
+
+This practice of sealing Branch House family members, however, came to its end through the concerted influence of three famed Hyuuga of the Fourth Shinobi World War.  Thanks to their tireless spirit, cooperation, and heroic reputation garnered from the War, they won the crucial number of Main House members to their side, greatly healing a rift between the houses that had been ever-widening in previous decades.  Soon afterward, the head of the Hyuuga clan decreed that thenceforth none would be branded with the seal.
+
+With the divide between the houses now gone, the Hyuuga have risen to prominence both within and beyond their village as one of the most noble clans of Konoha. They are widely known for the distinct milky-white eyes, dark hair, and sophistication in the way they dress and talk. Shinobi of other nations tend to be wary of them, as their gentle fist style of fighting makes it impossible to tell just how competent a Hyuuga may be by their physical stature, with legends of one touch being enough to cripple an opponent.
+
+**Hyuuga begin with 1 less Unique Point.**
+
+#### -=[ Byakugan – White Eye ]=-
+Activating Byakugan is a Speed 0, Seal Speed 6 action which, once you can reduce its Seal Speed to 0, you no longer need to perform handseals to activate it.  You can activate Byakugan when rolling Initiative with the Preparation ability. Byakugan has an Upkeep of 2, grants +5 to Awareness rolls, and while active, anyone Hidden (or who attempts to Hide) within Byakugan’s range is automatically spotted if their Stealth TN is lower than your total bonus to Awareness (without the normal 1d20, or anything in place of it).
+
+You can differentiate between people and clones (except for Kage Bunshin), and can tell if someone is using Henge (though this does not allow you to see their true form).
+
+Byakugan allows you to see through physical objects (though you’re still aware of their presence), giving you (in crude terms) “X-ray vision”, except you see Chakra instead of bones and dense objects.  You can see everything in a CHA yard radius around you this way. This allows you to spot jutsu-based traps and effects, and detect the presence of Fuinjutsu placed on a person, item, or area.  When actively searching for an opponent in combat, you double Byakugan’s normal Awareness bonus.
+
+Finally, you are immune to all Visibility Penalties from external sources, such as blindfolds, ninjutsu-induced mists, and bombs.  You are immune to Genjutsu which target an area instead of people, can automatically see through them as if they weren’t there, and can tell when someone else (not yourself) is being affected by a Genjutsu (of any kind) from the disturbance in their chakra flow.
+
+#### --( Jyuuken – Gentle Fist )--
+The Hyuuga’s signature fighting style which makes use of Byakugun's ability to see an opponent's chakra flow alongside graceful taijutsu strikes.  With every contact the Hyuuga injects small bursts of chakra into calculated points within the opponent's chakra flow, sealing them off and damaging internal organs directly.  Save for unique physiology or other abilities, Jyuuken is notoriously difficult to defend against once contact is made.
+
+ - Type: Unarmed Taijutsu, Rank E
+ - Chakra: 5
+ - Damage: (CHA/10)d4
+ - Special: Opener
+ - Speed: 8
+ - Requires: Byakugan active
+
+Effects: Jyuuken uses half your Ninjutsu Damage Bonus, instead of your Physical Damage Bonus.  Its damage cannot be blocked, ignores armor, and bypasses DR.  Jyuuken’s damage is dealt directly to an opponent’s HP (instead of Vitality).  Every time you hit someone with Jyuuken, you inflict Sealed Tenketsu 1.  Jyuuken inflicts Energy Wounds.
+
+When used as an Opener, Jyuuken allows you to convert any subsequent Combo jutsu you use into a Jyuuken variant without paying the normal +5 Chakra cost (but you gain all the other effects listed below, as normal for a Jyuuken conversion), for that duration of that Combo.
+
+In addition to the above attack, once you learn this jutsu, you can use Jyuuken to convert any Unarmed or Combo Taijutsu into a Jyuuken variation, applying the following effects:
+
+- The Stamina Cost is replaced with a Chakra Cost, +5 (if it has both, add them together as a singular Chakra cost, without adding the normal +5).
+- Blocking’s effectiveness is reduced by 25%.
+- It ignores armor, and bypasses half of an opponent’s DR.
+- It uses your NDB in place of PDB, CHA in place of STR, and DEX in place of RES wherever applicable.
+- On hit, inflict Sealed Tenketsu 1 per Rank of the Jutsu above E (D = 1, C = 2, etc).
+- In the case of Combos, you can not switch from a regular Combo to a Jyuuken Combo, with the sole exception that you may go from an ordinary Opener into a Jyuuken Combo, and you use Jyuuken’s damage as your Basic Unarmed Attack damage.
+- Any Wounds dealt are Energy Wounds, instead of normal.
+
+#### --( Hakke Kuushou – Eight Trigrams Empty Palm )--
+One offensive counterpart to the defensive Hakkeshou Kaiten.  Rather than releasing chakra from all tenketsu to form a protective barrier, chakra is released from certain tenketsu, typically the forearm and palm, to create a forceful thrust, which damages an opponent at a distance.
+
+ - Type: Taijutsu, Rank D
+ - Chakra: +5
+ - Range: CHA/4
+ - Speed: +2
+ - Requires: Byakugan active
+
+Effects: This is added to any Jyuuken or Jyuuken-converted Unarmed or Combo attack, increasing its Chakra cost and Speed accordingly (though its damage does not increase). It allows those techniques to be performed at the listed range (and, accordingly, does not break combos).  Because this changes the technique into what is essentially a wave of force, it prevents them from being parried as a normal Unarmed Taijutsu, and converts them (for the purposes of defending against them) into being considered Ranged Ninjutsu Projectiles, as it is essentially a wave of force.  It cannot, however, be used to extend the range of the various Gentle Fist finishers.
+
+#### --( Hakkeshou Kaiten – Eight Trigrams Palm Revolving Heaven )--
+The absolute defense of the Hyuuga clan, to use this technique the Hyuuga simultaneously releases chakra from every tenketsu in their body and begins spinning rapidly.  The combined effect is to generate a virtually impervious shield of rotating chakra; what makes it truly effective is that the chakra used won't dissipate until the user finally comes to a stop.
+
+ - Type: Taijutsu, Rank C
+ - Stamina: 5 + X
+ - Chakra: 5 + X
+ - Damage: (CHA/10)d4
+ - Area: CHA/10
+ - Speed: 6 + X
+ - Special: Interrupt, Abort
+ - Requires: Byakugan active
+
+Effects: Kaiten's final Speed my never go below its base Speed, and it always uses its base Speed for its damage (i.e., X does not add to NDB * Spd for damage). If used as an Interrupt, you make an Accuracy Roll with a +X/2 bonus against all attacks directed at you that IC; failure means you are hit, but activate Kaiten immediately afterwards.  Kaiten deals Energy wounds.
+
+Kaiten lasts for its full Speed in IC after being used.  For example, if you used it on IC 22 when attacked, paying 8 Chakra and Stamina, it would last until IC (22+6+3) = 31.  Anytime after the first 6 IC have passed (on IC 28), you may abort Kaiten.
+
+Kaiten flawlessly deflects any Ninjutsu (including Area of Effect Ninjutsu) or Taijutsu while you are spinning.  Though it can not be used to interrupt Genjutsu, you cannot be targeted by them while Kaiten is in progress.
+
+Anyone within Kaiten’s Area when it’s activated must defend against it as an area of effect ninjutsu attack, and those who fail are moved to the edge of its Area. If Kaiten is activated inside of a persistent AoE effect (such as a cloud, or water slick) with an area equal to or less than its own, Kaiten ends that effect.
+
+This technique’s only true weakness is that it is ineffective if the user cannot spin: If you are suffering from a -5 or greater Immobilization Penalty, you may not utilize Kaiten.
+
+#### --( Juukenpo Ichigekishin – Gentle Fist Art One Blow Body )--
+Another offensive use of the Hyuuga's ability to release chakra from his tenketsu.  Here a force is created and directed against an opponent, or even against the espied weakness of some technique in order to dispel it, using the Byakugan's ability to see chakra.  In either case, the force created can easily send most opponents flying.
+
+ - Type: Taijutsu, Rank C
+ - Chakra: 10 + X
+ - Speed: 10
+ - Requires: Byakugan Active
+
+EffectS: If used in a grapple, make a grapple check against those grappling you, using your NDB in place of PDB; X is how much, if any, you fail the roll by. The grapple immediately ends, and you attack your grappler with Jyuuken at the same time (though it is defended against at its normal Speed, which can be reduced by AP, if you wish).  If they take any damage from the attack, they’re knocked back CHA/15 yards away from you.
+
+You can also use this Jutsu to end any effect which restrains you externally, from being tied up with ropes, to being trapped inside a Water Prison, or Immobilized by a Clay Bullet. If used against a Jutsu, X is that technique’s Upkeep (if it has one) or Immobilization penalty (if it has both, use the higher of the two). Otherwise, X is zero.
+
+#### --( Hakke Rokujuyon Shou – Eight Trigrams Sixty-Four Palms )--
+A devastating series of Jyuuken strikes carried out in rapid succession, sealing many of an opponent’s Tenketsu in the process. The strikes are made in increasing powers of two: two strikes, followed by another two, then four, then eight, then sixteen, then thirty-two, for a total of sixty-four strikes. The damage to internal organs and chakra flow is often so debilitating that the victim can no longer stand.
+
+ - Type: Unarmed Taijutsu, Rank C
+ - Stamina: 20
+ - Damage: (CHA/4+12)d4
+ - Speed: 16
+ - Special: Finisher
+ - Requires: Byakugan active
+ - Combo Bonus: +4d4 damage, +2 Stun, +1 Sealed Tenketsu, +0.5 Immobilize
+
+ Effects: This attack uses your NDB and inflicts Sealed Tenketsu 3, reduces Blocking's effectiveness by 25%, ignores armor, bypasses half of an opponent's DR, and deals Energy wounds.  This attack may not be converted with Jyuuken.
+
+#### --( Hakke Hyaku Nijuuhachi Shou – Eight Trigrams One Hundred Twenty-Eight Palms )--
+The ultimate and most lethal usage of Jyuuken, and the final development of Hakke Rokujuyon Shou.  The Hyuuga’s speed and chakra control have reached truly amazing levels, adding a seventh series of strikes which doubles the number of strikes made from sixty-four to one hundred twenty-eight.
+
+ - Type: Unarmed Taijutsu, Rank B
+ - Stamina: 35
+ - Damage: (CHA/2 + 28)d4
+ - Special: Finisher
+ - Speed: 20
+ - Requires: Byakugan Active
+ - Combo Bonus:  +8d4 damage, +4 Stun, +2 Sealed Tenketsu, +1 Immobilize
+
+  Effects: This attack uses your NDB and inflicts Sealed Tenketsu 4, reduces Blocking's effectiveness by 25%, ignores armor, bypasses half of an opponent's DR, and deals Energy wounds. This attack may not be converted with Jyuuken.
+
+###### -=[ Sealed Tenketsu ]=-
+This is a Status Effect, applied on hit, that penalizes Chakra Exhaustion and Chakra Control rolls equal to its Severity, and half that (rounding down) to Stamina rolls. If you ever fail a Chakra Exhaustion roll while you have this status, whatever technique you were trying to use fails (but you advance in Fatigue as normal), and you lose Hit Points (not Vitality) equal to the Chakra cost of that technique.
+
+Sealed Tenketsu stacks fully with itself, but a victim’s body naturally will try to correct its chakra flow to meet demands in battle: Every time someone with this status takes the Rest action it reduces by 1, and when they advance in Fatigue, they lower their Sealed Tenketsu Severity by their (Chakra Control Ranks)/5, minimum 1.  Outside of combat, Sealed Tenketsu is reduced by the same (Chakra Control Ranks)/5, minimum 1, every hour.
+
 ## Inuzuka
 Inuzuka are highly spirited, highly loyal individuals, much like the ninken (ninja dogs) they fight alongside. Despite being one of the smaller clans in Konoha, their presence has long been valued by the village as a whole.
 
@@ -473,124 +591,6 @@ These are ways you can train your Ninken to excel!  Your Ninken gains one from t
  - *Swift*: Your Ninken gains +3 Dodge when it’s on its own. This can be taken up to 3 times.
  - *Vicious*: Your Ninken’s Basic Attack becomes d8’s. Taken a second time, it increases to d10’s.
  - *Well-Trained*: Your Ninken gains +1 Rank in Awareness, Stealth, and Survival. You may take this up to 5 times.
-
-## Hyuuga
-Throughout their history, the Hyuuga have adhered closely to a tradition of segregating family members into either the Main House or the Branch House, typically on the basis of gender and sibling birth order. Members of the Main House control and direct the affairs of the Hyuuga clan at large, whereas the Branch House is tasked with faithfully serving and protecting members of the Main House and -- in a wider scope -- the interests of the entire Hyuuga clan.
-
-This practice of sealing Branch House family members, however, came to its end through the concerted influence of three famed Hyuuga of the Fourth Shinobi World War.  Thanks to their tireless spirit, cooperation, and heroic reputation garnered from the War, they won the crucial number of Main House members to their side, greatly healing a rift between the houses that had been ever-widening in previous decades.  Soon afterward, the head of the Hyuuga clan decreed that thenceforth none would be branded with the seal.
-
-With the divide between the houses now gone, the Hyuuga have risen to prominence both within and beyond their village as one of the most noble clans of Konoha. They are widely known for the distinct milky-white eyes, dark hair, and sophistication in the way they dress and talk. Shinobi of other nations tend to be wary of them, as their gentle fist style of fighting makes it impossible to tell just how competent a Hyuuga may be by their physical stature, with legends of one touch being enough to cripple an opponent.
-
-**Hyuuga begin with 1 less Unique Point.**
-
-#### -=[ Byakugan – White Eye ]=-
-Activating Byakugan is a Speed 0, Seal Speed 6 action which, once you can reduce its Seal Speed to 0, you no longer need to perform handseals to activate it.  You can activate Byakugan when rolling Initiative with the Preparation ability. Byakugan has an Upkeep of 2, grants +5 to Awareness rolls, and while active, anyone Hidden (or who attempts to Hide) within Byakugan’s range is automatically spotted if their Stealth TN is lower than your total bonus to Awareness (without the normal 1d20, or anything in place of it).
-
-You can differentiate between people and clones (except for Kage Bunshin), and can tell if someone is using Henge (though this does not allow you to see their true form).
-
-Byakugan allows you to see through physical objects (though you’re still aware of their presence), giving you (in crude terms) “X-ray vision”, except you see Chakra instead of bones and dense objects.  You can see everything in a CHA yard radius around you this way. This allows you to spot jutsu-based traps and effects, and detect the presence of Fuinjutsu placed on a person, item, or area.  When actively searching for an opponent in combat, you double Byakugan’s normal Awareness bonus.
-
-Finally, you are immune to all Visibility Penalties from external sources, such as blindfolds, ninjutsu-induced mists, and bombs.  You are immune to Genjutsu which target an area instead of people, can automatically see through them as if they weren’t there, and can tell when someone else (not yourself) is being affected by a Genjutsu (of any kind) from the disturbance in their chakra flow.
-
-#### --( Jyuuken – Gentle Fist )--
-The Hyuuga’s signature fighting style which makes use of Byakugun's ability to see an opponent's chakra flow alongside graceful taijutsu strikes.  With every contact the Hyuuga injects small bursts of chakra into calculated points within the opponent's chakra flow, sealing them off and damaging internal organs directly.  Save for unique physiology or other abilities, Jyuuken is notoriously difficult to defend against once contact is made.
-
- - Type: Unarmed Taijutsu, Rank E
- - Chakra: 5
- - Damage: (CHA/10)d4
- - Special: Opener
- - Speed: 8
- - Requires: Byakugan active
-
-Effects: Jyuuken uses half your Ninjutsu Damage Bonus, instead of your Physical Damage Bonus.  Its damage cannot be blocked, ignores armor, and bypasses DR.  Jyuuken’s damage is dealt directly to an opponent’s HP (instead of Vitality).  Every time you hit someone with Jyuuken, you inflict Sealed Tenketsu 1.  Jyuuken inflicts Energy Wounds.
-
-When used as an Opener, Jyuuken allows you to convert any subsequent Combo jutsu you use into a Jyuuken variant without paying the normal +5 Chakra cost (but you gain all the other effects listed below, as normal for a Jyuuken conversion), for that duration of that Combo.
-
-In addition to the above attack, once you learn this jutsu, you can use Jyuuken to convert any Unarmed or Combo Taijutsu into a Jyuuken variation, applying the following effects:
-
-- The Stamina Cost is replaced with a Chakra Cost, +5 (if it has both, add them together as a singular Chakra cost, without adding the normal +5).
-- Blocking’s effectiveness is reduced by 25%.
-- It ignores armor, and bypasses half of an opponent’s DR.
-- It uses your NDB in place of PDB, CHA in place of STR, and DEX in place of RES wherever applicable.
-- On hit, inflict Sealed Tenketsu 1 per Rank of the Jutsu above E (D = 1, C = 2, etc).
-- In the case of Combos, you can not switch from a regular Combo to a Jyuuken Combo, with the sole exception that you may go from an ordinary Opener into a Jyuuken Combo, and you use Jyuuken’s damage as your Basic Unarmed Attack damage.
-- Any Wounds dealt are Energy Wounds, instead of normal.
-
-#### --( Hakke Kuushou – Eight Trigrams Empty Palm )--
-One offensive counterpart to the defensive Hakkeshou Kaiten.  Rather than releasing chakra from all tenketsu to form a protective barrier, chakra is released from certain tenketsu, typically the forearm and palm, to create a forceful thrust, which damages an opponent at a distance.
-
- - Type: Taijutsu, Rank D
- - Chakra: +5
- - Range: CHA/4
- - Speed: +2
- - Requires: Byakugan active
-
-Effects: This is added to any Jyuuken or Jyuuken-converted Unarmed or Combo attack, increasing its Chakra cost and Speed accordingly (though its damage does not increase). It allows those techniques to be performed at the listed range (and, accordingly, does not break combos).  Because this changes the technique into what is essentially a wave of force, it prevents them from being parried as a normal Unarmed Taijutsu, and converts them (for the purposes of defending against them) into being considered Ranged Ninjutsu Projectiles, as it is essentially a wave of force.  It cannot, however, be used to extend the range of the various Gentle Fist finishers.
-
-#### --( Hakkeshou Kaiten – Eight Trigrams Palm Revolving Heaven )--
-The absolute defense of the Hyuuga clan, to use this technique the Hyuuga simultaneously releases chakra from every tenketsu in their body and begins spinning rapidly.  The combined effect is to generate a virtually impervious shield of rotating chakra; what makes it truly effective is that the chakra used won't dissipate until the user finally comes to a stop.
-
- - Type: Taijutsu, Rank C
- - Stamina: 5 + X
- - Chakra: 5 + X
- - Damage: (CHA/10)d4
- - Area: CHA/10
- - Speed: 6 + X
- - Special: Interrupt, Abort
- - Requires: Byakugan active
-
-Effects: Kaiten's final Speed my never go below its base Speed, and it always uses its base Speed for its damage (i.e., X does not add to NDB * Spd for damage). If used as an Interrupt, you make an Accuracy Roll with a +X/2 bonus against all attacks directed at you that IC; failure means you are hit, but activate Kaiten immediately afterwards.  Kaiten deals Energy wounds.
-
-Kaiten lasts for its full Speed in IC after being used.  For example, if you used it on IC 22 when attacked, paying 8 Chakra and Stamina, it would last until IC (22+6+3) = 31.  Anytime after the first 6 IC have passed (on IC 28), you may abort Kaiten.
-
-Kaiten flawlessly deflects any Ninjutsu (including Area of Effect Ninjutsu) or Taijutsu while you are spinning.  Though it can not be used to interrupt Genjutsu, you cannot be targeted by them while Kaiten is in progress.
-
-Anyone within Kaiten’s Area when it’s activated must defend against it as an area of effect ninjutsu attack, and those who fail are moved to the edge of its Area. If Kaiten is activated inside of a persistent AoE effect (such as a cloud, or water slick) with an area equal to or less than its own, Kaiten ends that effect.
-
-This technique’s only true weakness is that it is ineffective if the user cannot spin: If you are suffering from a -5 or greater Immobilization Penalty, you may not utilize Kaiten.
-
-#### --( Juukenpo Ichigekishin – Gentle Fist Art One Blow Body )--
-Another offensive use of the Hyuuga's ability to release chakra from his tenketsu.  Here a force is created and directed against an opponent, or even against the espied weakness of some technique in order to dispel it, using the Byakugan's ability to see chakra.  In either case, the force created can easily send most opponents flying.
-
- - Type: Taijutsu, Rank C
- - Chakra: 10 + X
- - Speed: 10
- - Requires: Byakugan Active
-
-EffectS: If used in a grapple, make a grapple check against those grappling you, using your NDB in place of PDB; X is how much, if any, you fail the roll by. The grapple immediately ends, and you attack your grappler with Jyuuken at the same time (though it is defended against at its normal Speed, which can be reduced by AP, if you wish).  If they take any damage from the attack, they’re knocked back CHA/15 yards away from you.
-
-You can also use this Jutsu to end any effect which restrains you externally, from being tied up with ropes, to being trapped inside a Water Prison, or Immobilized by a Clay Bullet. If used against a Jutsu, X is that technique’s Upkeep (if it has one) or Immobilization penalty (if it has both, use the higher of the two). Otherwise, X is zero.
-
-#### --( Hakke Rokujuyon Shou – Eight Trigrams Sixty-Four Palms )--
-A devastating series of Jyuuken strikes carried out in rapid succession, sealing many of an opponent’s Tenketsu in the process. The strikes are made in increasing powers of two: two strikes, followed by another two, then four, then eight, then sixteen, then thirty-two, for a total of sixty-four strikes. The damage to internal organs and chakra flow is often so debilitating that the victim can no longer stand.
-
- - Type: Unarmed Taijutsu, Rank C
- - Stamina: 20
- - Damage: (CHA/4+12)d4
- - Speed: 16
- - Special: Finisher
- - Requires: Byakugan active
- - Combo Bonus: +4d4 damage, +2 Stun, +1 Sealed Tenketsu, +0.5 Immobilize
-
- Effects: This attack uses your NDB and inflicts Sealed Tenketsu 3, reduces Blocking's effectiveness by 25%, ignores armor, bypasses half of an opponent's DR, and deals Energy wounds.  This attack may not be converted with Jyuuken.
-
-#### --( Hakke Hyaku Nijuuhachi Shou – Eight Trigrams One Hundred Twenty-Eight Palms )--
-The ultimate and most lethal usage of Jyuuken, and the final development of Hakke Rokujuyon Shou.  The Hyuuga’s speed and chakra control have reached truly amazing levels, adding a seventh series of strikes which doubles the number of strikes made from sixty-four to one hundred twenty-eight.
-
- - Type: Unarmed Taijutsu, Rank B
- - Stamina: 35
- - Damage: (CHA/2 + 28)d4
- - Special: Finisher
- - Speed: 20
- - Requires: Byakugan Active
- - Combo Bonus:  +8d4 damage, +4 Stun, +2 Sealed Tenketsu, +1 Immobilize
-
-  Effects: This attack uses your NDB and inflicts Sealed Tenketsu 4, reduces Blocking's effectiveness by 25%, ignores armor, bypasses half of an opponent's DR, and deals Energy wounds. This attack may not be converted with Jyuuken.
-
-###### -=[ Sealed Tenketsu ]=-
-This is a Status Effect, applied on hit, that penalizes Chakra Exhaustion and Chakra Control rolls equal to its Severity, and half that (rounding down) to Stamina rolls. If you ever fail a Chakra Exhaustion roll while you have this status, whatever technique you were trying to use fails (but you advance in Fatigue as normal), and you lose Hit Points (not Vitality) equal to the Chakra cost of that technique.
-
-Sealed Tenketsu stacks fully with itself, but a victim’s body naturally will try to correct its chakra flow to meet demands in battle: Every time someone with this status takes the Rest action it reduces by 1, and when they advance in Fatigue, they lower their Sealed Tenketsu Severity by their (Chakra Control Ranks)/5, minimum 1.  Outside of combat, Sealed Tenketsu is reduced by the same (Chakra Control Ranks)/5, minimum 1, every hour.
 
 ## Nara
 A modestly-sized yet highly influential clan within Konoha, the Nara primarily use secret ninjutsu techniques which manipulate shadows, using them to disable opponents and control the battlefield.

@@ -17,13 +17,13 @@ toc:
 #### --( Bunshin no Jutsu - Clone Technique )--
 One of the three basic ninja techniques, this creates one or more intangible copies of the user. These are nothing but weak constructs of chakra, and cannot interact with the world around them--though they can speak.
 
- - Chakra: 10 + 3 per clone
+ - Chakra: 5 + 3 per clone
  - Speed: 6 + 1 per clone
  - Seal Speed: 4 + 1 per clone
 
 Effects: You may create up to 3 clones. During this process you can 'hide' among your clones, making it impossible to tell which one is the fake. Any targeting you must roll 1d(1 + number of clones). On a roll of 1, it targets you; on anything else, it aims at a clone; clones cannot dodge, parry, or use jutsu. A clone that's been hit is destroyed; if you're hit, your clones remain but are mostly useless (as you've been identified by your opponents). If you make new clones (of the same type, or a different variety), all your pre-existing ones are immediately destroyed.
 
-Several other actions related to this jutsu are significant:
+Several other actions related to this jutsu are significant:  
 ###### Hide Among Clones
 *(Speed 4, or Speed +6)*  
 You pull off a quick shell-game maneuver, confusing your opponents. If they've singled you out from your clones, and you're free to maneuver, you may do this to hide yourself. You roll Stealth against their Awareness skill; success means you've once again concealed yourself. Doing this alone is a Speed 4 action, but it may also be used with another action (such as an attack) by increasing that action's Speed by 6.
@@ -94,7 +94,7 @@ This technique temporarily restrains the victim with chakra by disrupting their 
  - Status: Immobilize 2 + Special
  - Tags: Internal
 
-Effects: If your target fails a status roll, they're inflicted with an Immobilize 2, +1 for every 3 you beat their roll by, to a maximum of of Immobilize 8; every time after the first someone has to roll against this technique's effects in the same battle, they gain +5 to their roll.
+Effects: If your target fails a status roll, they're inflicted with an Immobilize 2, +1 for every 4 you beat their roll by, to a maximum of of Immobilize 6; every time after the first someone has to roll against this technique's effects in the same battle, they gain +5 to their roll.
 
 #### --( Utsusemi no Jutsu - Cicada Shell Technique )--
 One of the oldest, most iconic techniques possessed by ninjas, in the eyes of civilians. It's very useful for the ninja who are concerned with acting "ninja-like", as it allows a shinobi to project their voice over an area while concealing their presence. This means that a shinobi can talk to someone without giving away their location, and can also be very unnerving. This isn't a megaphone, and it doesn't let you broadcast your voice over entire towns. Your voice won't carry any farther than it normally would, but it seems to be coming from all around.

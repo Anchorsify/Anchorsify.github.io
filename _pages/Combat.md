@@ -355,7 +355,7 @@ Poison sometimes has special rules in this regard, but they can be found in the 
 ### Bleed
 Profuse bleeding from an injury. Among other things, this can ruin your clothes; bloodstains absolutely refuse to come out of most fabrics.
 
-While bleeding, you lose Vitality (or HP) equal to double the severity of the Bleed status every 5 IC, and have a penalty to your Stamina rolls equal to half its severity, rounded down. Every 20 IC, you reduce the severity of the status by RES/30 (after taking the damage).
+While bleeding, you lose Vitality (or HP) equal to double the severity of the Bleed status every 5 IC, and have a penalty to your Stamina rolls equal to half its severity, rounded down. Every 20 IC, you reduce the severity of the status by RES/20 (after taking the damage, minimum 1).
 
 Bleeds from the same source do not stack; the higher one overwrites the lower. Bleeds from different sources, however, all do their damage separately, though you still use only the highest Bleed to determine your Stamina penalty from the status.
 
@@ -369,7 +369,7 @@ You are on fire. Literally, you are burning. This is probably one of the most ex
 
 Ignite's effects are somewhat complicated. Like most statuses, it has a severity. You suffer a penalty to your Stealth checks equal to its severity, and every 5 IC you take damage equal to its severity, plus its severity in percent of your current Vitality.
 
-Thus, an Ignite 10 would give you -10 to your Stealth and would deal 10 damage, plus 10% of your current Vitality. This damage can Wound, and wounds from Ignite are Energy Wounds. Each time it does damage, you subtract (RES/20) from its severity.
+Thus, an Ignite 10 would give you -10 to your Stealth and would deal 10 damage, plus 10% of your current Vitality. This damage can Wound, and wounds from Ignite are Energy Wounds. Each time it does damage, you subtract (RES/30, minimum 1) from its severity.
 
 If you have no Vitality remaining, it instead does damage equal to its severity in percent of your maximum HP. The above Ignite 10 effect would deal 10% of your maximum HP in damage.
 

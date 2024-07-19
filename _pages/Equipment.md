@@ -566,7 +566,7 @@ No matter how many poisons you're afflicted by, their effects do not stack. Thus
 
 Poisons which inflict Suffocation do so when first poisoned, and then again 20 IC later until the Poison's duration ends (which ends the Suffocation immediately).
 
-All types of Poison are considered to have the 'Internal' and 'Consumable' tags, even if the method of their application is often external (in the case of poison types besides ingested; once it's in your system, removing it from you does little good against it).
+All types of Poison are considered to have the 'Internal' and 'Consumable' tags, even if the method of their application is often external (in the case of poison types besides Ingestion; once it's in your system, removing it from you does little good against it).
 
 #### Identifying Poisons
 When you or someone else has been poisoned, it's possible to identify the venom just based on the symptoms. You may do so after 1/10 of the poison's total duration has passed. At that point, you can roll a Research, Toxicology, or Medicine skill check (your preference) against 20 + the poison's Toxicology rating. Success means you've identified the poison.
@@ -590,7 +590,7 @@ Snake poison, and not a particularly troublesome variety of it. There's intense 
  - Toxicology: 6
  - Cost: 80
 
-###### Yew (Injury, Ingested)
+###### Yew (Injury, Ingestion)
 Only relatively dangerous in its normal form, the yew's toxin has proven its value to ninja by being versatile, easily refined, and easy to get ahold of. Unlike poisonous animals, trees don't tend to be small or wander around. While poisoned, any time your Stamina penalty increases, it increases by an additional 2 points.
 
  - Poison: 1
@@ -626,7 +626,7 @@ Despite the name, one of the world's most venomous scorpions isn't all that leth
  - Toxicology: 12
  - Cost: 200
 
-###### Death Cap (Ingested)
+###### Death Cap (Ingestion)
 The death cap is one of, if not the, most poisonous mushrooms in the world. Mercifully, there's no way to process it into a weaponized form. In addition to its Poison rating, every 10 IC which pass a victim loses 1 point of RES. These recover at the rate of 1 per week which passes (double with medical treatment). Someone who reaches 0 RES simply dies.
 
  - Poison: 1

@@ -186,7 +186,7 @@ Adapted--in purpose, method, and name--from a 'normal' style of martial arts, th
  - Damage: (STR/6)d4
  - Speed: 16
  
-Effects: This may be used outside of a grapple; in fact, it may only be used outside of a grapple. If you hit, you deal damage and initiate a grapple with your opponent, and may immediately apply any of the D-rank locks or knock them prone automatically. Additionally, make an opposed Athletics roll: If you beat your target's roll, they must immediately make a Stamina 10 + X roll, with X being how much you beat their Athletics roll by.
+Effects: This may be used outside of a grapple; in fact, it may only be used outside of a grapple. If you hit, you deal damage and initiate a grapple with your opponent, and may immediately apply any of the D-rank locks or knock them prone automatically. Additionally, make an opposed Athletics roll: If you beat your target's roll, they must immediately make a Stamina 10 + X roll, with X being how much you beat their Athletics roll by, to a maximum of Stamina 25.
 
 #### --( Tora Rakka - Tiger Drop )--
 You flip your opponent over you and hurl them to the ground (or otherwise maneuver them unpleasantly if you're both already on the ground) and slam an elbow, knee, or other body part into them, using gravity to assist your momentum. Nobody really knows what this has to do with tigers.

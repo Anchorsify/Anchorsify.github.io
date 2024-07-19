@@ -149,7 +149,7 @@ The cobra must be able to make eye contact to use any of its Serpent Illusion ab
 Cobras have a +5 bonus to their defensive rolls against genjutsu, raised to +10 for rolls to see through already-in place static genjutsu. Anyone who fails to affect one with a genjutsu must immediately defend against one of the cobra's Serpentine Illusions (at the summoner's choice) with a -5 penalty, with the cobra paying no cost (in Speed or Chakra) for this.
 
 **Snake**  
-Because they are snakes, cobras cannot be tripped. Any immobilization penalties are reduced by 5, and any reductions in movement speed from other sources are halved.
+Because they are snakes, cobras cannot be knocked prone. Any immobilization penalties are reduced by 5, and any reductions in movement speed from other sources are halved.
 
 **Venom**  
 As might be expected, cobras are venomous. Certain of their attacks have a chance to poison their enemies, as will be described in Abilities. It has the following statistics.
@@ -244,7 +244,7 @@ Hydras have a Damage Reduction of 40.
 Hydras cannot dodge area-of-effect attacks; instead, they automatically block them as a Speed 0 defense. Hydras cannot hide (via stealth) due to being enormous. They cannot be knocked airborne, and any knockback effects have their efficacy reduced by half.
 
 **Snake**  
-Because they are snakes, hydras cannot be tripped. Any immobilization penalties are reduced by 5, and any reductions in movement speed from other sources are halved.
+Because they are snakes, hydras cannot be knocked prone. Any immobilization penalties are reduced by 5, and any reductions in movement speed from other sources are halved.
 
 **Tireless**  
 Hydras do not need to make Stamina or Chakra Exhaustion rolls when they act. If forced to by an outside force (such as Suffocation), they have +15 to their rolls.

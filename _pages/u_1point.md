@@ -39,7 +39,7 @@ So long as your allies are with you, you excel in the face of adversity. For eve
 *Upgrades Into: Avenger, Protector*
 
 ##### Elementally Gifted
-While most shinobi struggle to learn the basics of elemental control, you took to it like a fish to water (or a bird to wind, or... you know what, this joke is just bad). Your early aptitude is the first sign of a potential that'll leave even many experienced shinobi envious. You can use an element of your choice as if you had the Elemental Aptitude ability for it, without actually having to use one of your ranks of Elemental Aptitude, and you can apply the benefits of the ability Elemental Affinity to two elements of your choice.
+While most shinobi struggle to learn the basics of elemental control, you took to it like a fish to water (or a bird to wind, or... you know what, this joke is just bad). Your early aptitude is the first sign of a potential that'll leave even many experienced shinobi envious. You can use an element of your choice as if you had the Elemental Aptitude ability for it, without actually having to use one of your ranks of Elemental Aptitude, and you can apply the benefits of the ability Elemental Affinity to one additional element of your choice.
 
 *Upgrades Into: Elementalist*
 
