@@ -116,7 +116,7 @@ Accuracy: 30
 Chakra Exhaustion: +14
 Dodge: +22  
 Genjutsu Defense: +14  
-Initiative Bonus: +20
+Initiative Bonus: +20  
 Physical Damage Bonus: 3.0  
 Ninjutsu Damage Bonus: 6.6  
 Movement: 3 yard per IC, Floating  
