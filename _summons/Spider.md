@@ -110,18 +110,25 @@ Despite being far more intelligent than they should be for something of their si
 ###### 3. Attributes
 
 Vitality: N/A  
-Accuracy: 20  
-Dodge: +8  
+Accuracy: 23  
+Dodge: +12  
 Damage Bonus: 4.0  
 Movement: N/A  
 
-Athletics: +5  
+Athletics: +10  
 Awareness: +10  
-Resistance: +1  
+Resistance: +5  
 Survival: +15  
 
 **Horde**  
-The spider swarm takes only 1/4 damage from single-target attacks, and is immune to genjutsu. Area-of-effect techniques have their damage reduced by (Swarm size)%, to a maximum of 50%. They cannot be grappled and are immune to status effects other than area-affecting immobilization and visibility penalties. They are also immune to any single-target non damaging effects (such as Trip and Feint).
+The spider swarm takes only 1/4 damage from single-target attacks, and is immune to genjutsu. Area-of-effect techniques have their damage reduced by (Swarm size)%, to a maximum of 50%. They cannot be grappled and are immune to status effects other than area-affecting immobilization and visibility penalties. They are also immune to any single-target non-damaging effects (such as Trip and Feint).
+
+**Might of the Meek**  
+Spiders are, more than any other creature, unknowable--which goes doubly so when they are called forth enmasse, skittering around in a manner that tends to make even their own summoners question whether they are truly working together, or simply conveniences to the spider's own mysterious desires.  Whatever the case may be, whenever you summon a Spider Swarm, subtract the minimum XP required to summon it (1500 XP) from your Earned XP: that is the X value to determine what bonuses, if any, it gets from the following modifiers.  X has a maximum of 3500.  
+ + ( X/200 ) to Accuracy, Defensive rolls, and Skill rolls
+ + ( X/50 ) * 0.1 to Damage Bonuses
+
+In all cases, you round down. The bonus to skill rolls only applies to skills the summon has listed.  
 
 **Swarm**  
 For combat purposes the swarm is treated as a single entity. It has a bonus to Accuracy and d20 rolls of (Swarm sze)/8. Swarm size is determined when the spiders are summoned, and raised by repeated use of this summoning technique. Rather than having Vitality like a normal summon, every 10 points of damage reduces the Swarm size by 1. A single target attack may not remove more than half (rounded up) the Swarm's size in a single attack.
@@ -130,11 +137,11 @@ For combat purposes the swarm is treated as a single entity. It has a bonus to A
 The spiders are constantly creeping around, sneaking up on unsuspecting foes--and have some eerie way of never being too far from their summoner. Rather than moving, the swarm can attack (and be attacked) from anywhere within (DEX /2) yards of their summoner.
 
 **Web Body**  
-Despite being spiders, they're also ninja spiders! When these creatures 'die', they explode into a burst of extremely sticky webbing. Any melee attack which reduces the Swarm size causes a -2 Immobilization penalty on the attacker which fades at the rate of 1 point per 10 IC. Any area-of-effect technique which reduces the swarm size instead inflicts this penalty on everyone within (number the Swarm was reduced by) yards. Anyone who has the Spider contract is immune to this immobilization penalty. The penalty from Web Body spiders stacks additively with any other Immobilization effect caused by some portion of the Spider contract. If someone already suffering from Web Body's immobilization is afflicted by it again, their existing penalty is instead increased by 1, to a maximum of -6.
+Despite being spiders, they're also ninja spiders! When these creatures 'die', they explode into a burst of extremely sticky webbing. Any melee attack which reduces the Swarm size causes a -2 Immobilization penalty on the attacker which fades at the rate of 1 point per 10 IC. Any area-of-effect technique which reduces the swarm size instead inflicts this penalty on everyone within (number the Swarm was reduced by) yards, centered at the same spot the area of effect was (if it was within the Swarm's area, if not then it's centered on the closest edge to the Swarm's area, as listed in Unnerving Presence, above). Anyone who has the Spider contract is immune to this immobilization penalty. The penalty from Web Body spiders stacks additively with any other Immobilization effect caused by some portion of the Spider contract. If someone already suffering from Web Body's immobilization is afflicted by it again, their existing penalty is instead increased by 1, to a maximum of -6.
 
 ###### 4. Abilities
 **Standard Actions**  
-The spider swarm may use Dodge as described in the Combat chapter of the PHB without spending any of the summoner's AP; however, since it cannot actually move on its own, it is likely to suffer massive dodge penalties against area-of-effect techniques.
+The spider swarm may use the Dodge and Hide actions as described in the Combat chapter of the PHB without spending any of the summoner's AP; however, since it cannot actually move on its own, it is likely to suffer massive dodge penalties against area-of-effect techniques.
 
 **Detonate** *(Speed 4, X AP)*  
 Spiders explode into a mess of sticky webbing! This reduces your Swarm size by X, and has an Area of X; it can be centered on any location in your Swarm's range. If the swarm's last action was to use Poisonous Bite on someone, and that person is the target of their Detonate, they will be automatically hit. Detonate causes no damage, but inflicts the Web Body immobilization penalty on anyone who fails to defend themselves.
@@ -142,9 +149,8 @@ Spiders explode into a mess of sticky webbing! This reduces your Swarm size by X
 **Gnaw** *(Speed 12, 4 * X AP)*  
 The spiders swarm over the user and gnaw off anything that may be hindering them. Their super chakra-enhanced mandibles can break through chains, vines, or even webs. This lowers an existing Immobilization penalty on the user or someone within the swarm's range by X. This cannot remove Immobilization penalties based on the terrain (such as Yomi Numa) or caused by wounds. "X" has a maximum of the Swarm size.
 
-**Poisonous Bite** *(Speed 6, 6+X/5 AP)*  
-The spiders swarm a victim and bite them, injecting venom and causing a surprising level of immediate physical harm (they are, after all, ninja spiders). This deals (X/3)d20 damage, ignores armor, inflicts Piercing wounds, and causes a Poison (X/5) effect which lasts for 25 IC. X has a maximum of the Swarm size.
-
+**Poisonous Bite** *(Speed 6, 6 + X/5 AP)*  
+The spiders swarm a victim and bite them, injecting venom and causing a surprising level of immediate physical harm (they are, after all, ninja spiders). This deals (X/4)d20 damage, ignores armor, inflicts Piercing wounds, and causes a Poison (X/5) effect which lasts for 25 IC. X has a maximum of the Swarm's Size, or 100, whichever is lower.
 
 ###### 5. Terms of Contract
 Unlike most summoned creatures, Spider Swarms will not 'care' if you catch them in your own area-of-effect techniques.

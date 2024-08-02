@@ -91,27 +91,29 @@ If ever left to wait around (say, outside a building while the summoner infiltra
 ###### 3. Attributes
 
 Vitality: 1000  
-STR: 100  
+STR: 80  
 RES: 60  
 CHA: 40  
-DEX: 80  
-AGI: 80  
+DEX: 90  
+AGI: 100  
 
 Accuracy: 35  
-Dodge: +30  
-Damage Bonus: 6.6  
+Dodge: +28  
+Damage Bonus: 6  
+Genjutsu Defense: +33
 Movement: 6 yards per IC.  
 
-Athletics: +15  
+Athletics: +25  
 Awareness: +25  
-Resistance: +15  
-Stealth: +30  
+Resistance: +30  
+Stealth: +35  
+Survival: +15  
 
 **Agile**  
 The chameleon does not suffer AoE penalties for dodging area-of-effect techniques, and indeed has a +5 bonus to dodge them.
 
 **Bestial**  
-The Chameleon isn't driven by higher desires, and as a result it cannot be negotiated or reasoned with. It has a +10 bonus to its rolls against genjutsu.
+The Chameleon isn't driven by higher desires, and as a result it cannot be negotiated or reasoned with. It has a +10 bonus to its rolls against genjutsu, which is already factored into its listed bonus.
 
 **Expert Climber**  
 Due to a combination of chakra control, grasping claws, and small sticky pads on its feet, the chameleon can climb along any wall or surface, even upside-down, without any effort. Any immobilization penalties it suffers from the condition of the terrain are halved.
@@ -120,23 +122,32 @@ Due to a combination of chakra control, grasping claws, and small sticky pads on
 When the chameleon is fleeing (see "Terms of Contract"), it has a +5 bonus to dodge, cannot be stunned, reduces all immobilization penalties by 3, and moves at full speed when in Camouflage.
 
 **Large**  
-Given the chameleon's size, it can make melee attacks at a range of up to 5 yards.
+Given the chameleon's size, it can make melee attacks at a range of up to 5 yards. Against anyone who is not Large or larger in size, its physical damage bonus is doubled (meaning all ninja except those with the Large Unique, Akimichi in Baika X = 6+, or Summons with the Large, Huge, or Titanic attributes).  They halve any knockback effects.
+
+**Might of the Meek**  
+Chameleons, while cautious creatures (despite their size), are crafty enough to keep pace with their summoners through careful observation. Whenever you summon a Chameleon, subtract the minimum XP required to summon it (2500 XP) from your Earned XP: that is the X value to determine what bonuses, if any, it gets from the following modifiers.  X has a maximum of 2500.  
+ + ( X/50 ) * 10 to Vitality
+ + ( X/200 ) to Accuracy, Defensive rolls, Skill rolls, and Genjutsu rolls
+ + ( X/50 ) * 0.1 to Damage Bonuses
+ + ( X/100 ) * 0.1 to Movement Speed
+
+In all cases, you round down. The bonus to skill rolls only applies to skills the summon has listed.  
 
 **Tireless**  
 Chameleons do not need to make Stamina or Chakra Exhaustion rolls when they act. If forced to by an outside force (such as Suffocation), they have +10 to their rolls.
 
 ###### 4. Abilities
 **Standard Actions**  
-This Summon may use Dodge, Move, and Block as described in the Combat chapter of the PHB without spending any of the summoner's AP.
+This Summon may use the Block, Dodge, Hide, Move, and Search actions as described in the Combat chapter of the PHB without spending any of the summoner's AP.
 
 **Camouflage** *(Speed 20, 10 AP)*  
 The chameleon blends into its surroundings, turning almost completely invisible. While camouflaged it can move at only half its normal speed, and is in Stealth 2. A camouflaged chameleon can Hide as a Speed 10 (5 AP) action, even if the normal requirements for hiding are not met. When rolling for stealth, and dodging in camouflage, the chameleon rolls 2d20.takeHighest(1) rather than 1d20.
 
 **Swat** *(Speed 8, 5 AP)*  
-Using one is its legs or tail, the Chameleon swings at an enemy as a last resort to get them away. This inflicts 8d10 Blunt damage and counts as a basic unarmed attack, which knocks whoever was hit 3d6 yards away and.
+Using one is its legs or tail, the Chameleon swings at an enemy as a last resort to get them away. This inflicts 8d10 Blunt damage and counts as a basic unarmed attack, which knocks whoever was hit 3d6 yards away.
 
 **Tongue Lash** *(Speed 10, 8 AP)*  
-Spitting out its tongue in a frog-like fashion, the chameleon lashes out and smacks a target with blinding speed. This inflicts 6d6 Blunt damage, a Stun 5, and trips anyone who doesn't pass an Athletics roll against the chameleon's. Used against any form of bug or insects (including Aburame swarms and Spider summons) this attack inflicts double damage. This attack has a 20 yard range.
+Spitting out its tongue in a frog-like fashion, the chameleon lashes out and smacks a target with blinding speed. This inflicts 12d6 Blunt damage, a Stun 5, and trips anyone who doesn't pass an Athletics roll against the chameleon's. Used against any form of bug or insects (including Aburame swarms and Spider summons) this attack inflicts double damage. This attack has a 20 yard range.
 
 **Wrap-Up** *(Speed 15, 10 AP)*  
 The chameleon attempts to capture and enemy with its tongue. This attack has a 20 yard range. If this hits, the opponent has an Immobilize penalty of 1 for every point their defense failed by (if their dodge was a 31 against the chameleon's 35 accuracy, they'd be at Immobilize -4).
@@ -150,7 +161,7 @@ With its mouth open, the benefits of camouflage are suspended (reduced to stealt
 
 Ordering the chameleon to move while in its mouth is 1 AP for every 5 IC the chameleon spends moving, and it cannot make tongue attacks (Tongue Lash and Wrap-Up) while carrying someone in its mouth.
 
-Being inside the chameleon's mouth makes it generally impossible to affect the outside world, and imposes a complete loss of visibility, with one exception. Someone using the blue blood can see through the chameleon's mouth, and view the outside world.
+Being inside the chameleon's mouth makes it generally impossible to affect the outside world, and imposes a complete loss of visibility, with one exception: Someone using the blue blood can see through the chameleon's mouth, and view the outside world.
 
 ###### 5. Terms of Contract
 The chameleon will flee under the following circumstances:
@@ -188,15 +199,16 @@ CHA: 60
 DEX: 80  
 AGI: 80  
 
-Accuracy: 32  
-Dodge: +22  
+Accuracy: 38  
+Dodge: +25  
 Damage Bonus: 8.3  
 Stamina: +15  
 Chakra Exhaustion: +10  
+Movement: 3 yards per IC.  
 
 Athletics: +20  
 Awareness: +20  
-Resistance: +20  
+Resistance: +25  
 
 **Bestial**  
 The Basilisk isn't driven by higher desires like many other summons (and ninja), as a result it cannot be bribed or reasoned with. It has a +10 bonus to its defenses aginst any form of genjutsu.
@@ -205,7 +217,7 @@ The Basilisk isn't driven by higher desires like many other summons (and ninja),
 Basilisks have a Damage Reduction of 60.
 
 **Large**  
-Given the Basilisk's building-smashing size, it can make melee attacks at a range of up to 10 yards. Humans, and summons without the Large or Huge attributes, cannot grapple the basilisk.
+Given the Basilisk's building-smashing size, it can make melee attacks at a range of up to 10 yards. Humans, and summons without the Large or Huge attributes, cannot grapple the basilisk, and its damage bonus is doubled against them.  Basilisks halve all knockback effects due to their size.
 
 **Obvious**  
 Basilisks are giant amphibians with iridescent skin. They cannot hide.
@@ -226,7 +238,7 @@ For example, if you had rank 4 Elemental Affinity: Fire, once your Petrify reach
 
 ###### 4. Abilities
 **Standard Actions** *(Speed as normal)*  
-A Basilisk may use Dodge, Move, and Block as described in the Combat chapter of the PHB without spending any of the summoner's AP.
+A Basilisk may use the Block, Dodge, Move, and Search actions described in the Combat chapter of the PHB without spending any of the summoner's AP.
 
 **Fang and Claw** *(Speed 6, 5 AP)*  
 The Basilisk charges, moving up to 10 yards and making a melee range attack with its fangs or claws inflicting 10d10 Piercing or Slashing damage. This counts as a basic unarmed attack, and may target up to three people in its range. If directed against a single target, the basilisk's damage bonus is increased by 50%.
@@ -276,9 +288,9 @@ Damage Bonus: 11.5
 
 Athletics: +20  
 Awareness: +25  
-Resistance: +20  
+Resistance: +30  
 Stealth: +30  
-Toxicology: +35  
+Toxicology: +40  
 Stamina: +15  
 Chakra Exhaustion: +15  
 
@@ -289,7 +301,11 @@ Ibuse takes only 25% damage from Suiton techniques; any techniques or advanced e
 Ibuse has very slippery skin, as well as pourous, spongy flesh. Blunt attacks deal only 25% damage, Piercing attacks do only 50% damage, and Katon does 75% damage (though advanced natures using it still deal full damage). He is immune to Burns and Ignite. He cannot be grappled, even by summons prodigiously large enough to accomplish that feat.
 
 **Huge**  
-Ibuse cannot dodge area-of-effect attacks; instead, he automatically blocks them as a Speed 0 defense. Ibuse cannot hide (via stealth) due to being enormous. He cannot be knocked airborne, and any knockback effects have their efficacy reduced by half.
+Ibuse cannot dodge area-of-effect attacks; instead, he automatically blocks them as a Speed 0 defense. Ibuse cannot hide (via stealth) due to being enormous. He cannot be knocked airborne, knocked back, or knocked prone, and ignore any jutsu or effects that work by binding or physically restraining him.  Damage from all Small weapons (including Multi-throws) deals half its normal damage, calculated before any potential Partial Success (and before Spongey, above).
+
+His physical damage bonus is doubled against anyone who is not Huge or Titanic in size, and he does not take penalties for being in a grapple with anyone who is not Huge or Titanic in size;  anyone who is not at least Large (meaning all humans except those with the Large unique, or Akimichi in Baika X = 6+) cannot grapple Ibuse due to his size, and gaining control of a grapple he initiated merely has the grapple end, rather than allowing them to take control of it.  
+
+Attempting to parry an attack from Ibuse requires a Strength of 125 or more, or an unarmed physical damage bonus of 12.5 or greater.
 
 **Thick Skin**  
 Ibuse has a Damage Reduction of 100.
@@ -299,7 +315,7 @@ Ibuse does not need to make Stamina or Chakra Exhaustion rolls when it act. If f
 
 ###### 4. Abilities
 **Standard Actions**  
-Ibuse may use Dodge, Move, and Block as described in the Combat chapter of the PHB without spending any of the summoner's AP.
+Ibuse may use the Block, Dodge, Move, and Search actions as described in the Combat chapter of the PHB without spending any of the summoner's AP.
 
 **Block** *(Speed 4, 2 AP)*  
 Ibuse may use Block as a Speed 4 Interrupt, even when he hasn't declared that he's blocking for a period of time.
@@ -314,7 +330,7 @@ Using his mass, Ibuse aims to stomp a target, slap his tail down on them, or att
 If underground and within 5 yards of an enemy, Ibuse can be commanded to try to swallow them. This counts as a Area 10 attack, and if it hits, the enemy is swallowed up and trapped inside Ibuse's stomach. While inside, the enemy is subject to stomach acid that inflicts a Poison 10 status as long as they are trapped inside. An enemy traped inside Ibuse can try to force their way out, damaging the stomach as a target that can't defend itself but with all actions they take having their normal Speed doubled (which does not increase their damage). Once at least 1000 damage has been dealt to the inside of Ibuse's stomach, anyone alive inside has broken out and can escape. After someone has escaped from Ibuse's stomach this way, Swallow Whole cannot be used for the remainder of the battle. This damage is not actually dealt to Ibuse's Vitality.
 
 **Poison Mist** *(Speed 20, 10 AP, Chakra 25)*  
-Ibuse opens his mouth and exhales a cloud of powerful, paralytic poison, in the form of a frothing purple mist. Everyone in a 100 yard radius of Ibuse has to make a Resistance roll against Ibuse's toxicology, or be poisoned.
+Ibuse opens his mouth and exhales a cloud of powerful, paralytic poison, in the form of a frothing purple mist. Everyone in a 100 yard radius of Ibuse has to make a Resistance roll against Ibuse's toxicology, or be poisoned.  Ibuse is immune to his own Poison Mist.
 
 Whenever someone enters the cloud, and every 10 IC they spend in it, they also need to make a Resistance roll. The cloud itself lingers for 30 IC, after which time it disperses. Ibuse can only store so much poison at once, and it takes a while for the chemical reactions that prime it inside his body to take place; once this ability is used, Ibuse can't utilize it again for another 100 IC.
 

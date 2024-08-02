@@ -317,7 +317,14 @@ This technique traps the victim in a state of dream-like hallucination. In that 
  - Speed: 20
  - Seal Speed: 50
 
-Effects: This technique may only be used on a helpless victim, and when used immediately puts them to sleep. The genjutsu user must then focus for the victim's maximum Willpower in hours. The interrogator asks a question up to twelve words long, and an opposed genjutsu roll is made. If the interrogator succeeds, the subject must answer the question truthfully and without obfuscation. (To the question, 'Where is the scroll?', "In the castle" would not be a legitimate answer, but "In my room in the castle" would). The subject only has to answer the question asked, not the question intended. If the interrogator fails, the subject does not have to answer that question. Alternately, they may spend a point of Willpower and automatically succeed against a given question. Each time a question is asked, the subject gets a +2 bonus on future genjutsu rolls against this technique, unless they spent a point of Willpower to automatically avoid answering. So long as this bonus lasts, the following questions cannot be asked:
+Effects: This technique may only be used on a helpless victim, and when used immediately puts them to sleep. The genjutsu user must then focus for the victim's maximum Willpower in hours. The interrogator asks one question up to twelve words long, and an opposed genjutsu roll is made. 
+
+If the interrogator succeeds, the subject must answer the question truthfully and without obfuscation (To the question, 'Where is the scroll?', "In the castle" would not be a legitimate answer, but "In my room in the castle" would). The subject only has to answer the question asked, not the question intended. Alternately, they may spend a point of Willpower and automatically succeed against a given question.
+
+If the interrogator fails, the subject does not have to answer that question.
+
+This jutsu is often used in succession by interrogators: Each time it is used, a single question is asked. When used against the same target repeatedly, the subject gets a +2 bonus on future genjutsu rolls against this technique, unless they spent a point of Willpower to automatically avoid answering a question. So long as this bonus lasts, the following questions cannot be asked:  
+
  - Any question that they've previously been asked during that session.
  - A rewording of a previous question ("Who was that person?" instead of "Who was that man?", for example)
 

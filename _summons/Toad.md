@@ -139,43 +139,50 @@ As this is one of the more commonly called-upon summons of its contract, many su
 
 ###### 3. Attributes
 
-Vitality: 1000  
+Vitality: 1200  
 STR: 60  
 RES: 50  
 CHA: 60  
 DEX: 50  
 AGI: 50  
 
-Accuracy: 20  
-Dodge: +10  
-Damage Bonus: 3.0  
+Accuracy: 24  
+Dodge: +14  
+Damage Bonus: 5.0  
 Movement: 2 yards per IC.  
 
-Athletics: +10  
-Awareness: +10  
-Resistance: +15  
+Athletics: +15  
+Awareness: +15  
+Espionage: +10  
+Resistance: +20  
 
 **Armor**  
-The Guardian is heavily armored, having a DR of (Damage Bonus*10).
+The Guardian is heavily armored, having a DR of (Damage Bonus * 10).
 
 **Big Mouth**  
 The Guardian has a large enough mouth that it can fit many small objects within it, keeping them protected from harm and outside influence. The object can only be removed by inflicting a called shot to the toad's mouth that does 500 or more damage in a single strike(it doesn't inflict a wound, just frees the object). The toad can hold about the same amount as a single sealing scroll in its mouth (or a Scroll Toad).
 
 **Shatei**  
-The Guardian Toad works hard to keep up with its summoner, gaining a bonus of (Summoner's XP)/250 to accuracy, defenses, and skill rolls. In addition, the Guardian's damage bonus is increased by (Summoner's XP)/500. Finally, their Vitality is increased by (Summoner's XP / 500)*100.
+The Guardian Toad works hard to keep up with its summoner. Whenever you summon a Guardian Toad, subtract the minimum XP required to summon it (1000 XP) from your Earned XP: that is the X value to determine what bonuses, if any, it gets from the following modifiers.  X has a maximum of 4000.  
+ + ( X/50 ) * 10 to Vitality
+ + ( X/200 ) to Accuracy, Defensive rolls, Skill rolls, and Genjutsu rolls
+ + ( X/50 ) * 0.1 to Damage Bonuses
+ + ( X/100 ) * 0.1 to Movement Speed
+
+In all cases, you round down. The bonus to skill rolls only applies to skills the summon has listed.  
 
 ###### 4. Abilities
 **Standard Actions**  
-Guardian Toads may use Dodge, Move, and Parry as described in the Combat chapter of the PHB without spending any of the summoner's AP.
+Guardian Toads may use the Dodge, Move, Parry, and Search actions as described in the Combat chapter of the PHB without spending any of the summoner's AP.
 
 **Defend** *(Speed 1 or 6, Interrupt, AP 1 or 6)*  
 Guardians can block as a Speed 1 Interrupt by spending 1 AP. Alternately, they can use Take the Hit as a Speed 6 Interrupt with a cost of 6 AP; after taking the hit they are considered to be blocking if they succeed by at least 1 point.
 
 **Toad Strike** *(Speed 10, AP 4)*  
-The toad leaps forward and delivers a powerful palm strike inflicting 10d10.extra(6) blunt damage. This counts as a basic unarmed attack.
+The toad leaps forward and delivers a powerful palm strike inflicting 12d10.extra(6) Blunt damage. This counts as a basic unarmed attack.
 
 **Tongue Lash** *(Speed 4, AP 8)*  
-Once every 20 IC, the toad may lash out with its tongue; this has a range of 10 yards and +2 Accuracy. Used as an attack, this deals 5d20.extra(12) blunt damage. Alternately, it may be used to retrieve an object on the battlefield and hide it in their mouth. This can also be used to strike a weapon or object someone is holding, making a disarm check (with no penalty for large or small weapons). If successfully used as a disarm the toad may either toss the object aside (as per normal disarm rules) or immediately retrieve it and store it in its mouth. Tongue Lash cannot be used while the toad already has something stored in its mouth.
+Once every 20 IC, the toad may lash out with its tongue; this has a range of 10 yards and +2 Accuracy. Used as an attack, this deals 6d20.extra(12) blunt damage. Alternately, it may be used to retrieve an object on the battlefield and hide it in their mouth. This can also be used to strike a weapon or object someone is holding, making a disarm check (with no penalty for large or small weapons). If successfully used as a disarm the toad may either toss the object aside (as per normal disarm rules) or immediately retrieve it and store it in its mouth. Tongue Lash cannot be used while the toad already has something stored in its mouth.
 
 ###### 5. Terms of Contract
 
@@ -217,7 +224,7 @@ Damage Bonus: 10
 Movement: 4 yards per IC  
 
 Athletics: +25  
-Awareness: +20  
+Awareness: +25  
 Espionage: +20  
 Resistance: +30  
 
@@ -225,7 +232,11 @@ Resistance: +30
 Parrying a giant toad's weapons is not generally advisable. It can only be done by someone with at least 140 STR, and they suffer a Stun (200 - their STR)/10 whether or not they succeed. Otherwise, all normal rules for parrying weapons apply.
 
 **Huge**  
-Kyodai cannot hide, due to their size. They cannot be knocked airborne or tripped, and any knockback effects have their efficacy reduced by half. Additionally, their attacks have a range of 20 yards, though are still considered to be melee range.
+Kyodai cannot dodge Area of Effect attacks; instead, they block them automatically as a Speed 0 defense.  They can not enter any level of Stealth, nor Hide.  They are too heavy to be knocked airborne, knocked back, or knocked prone, and ignore any jutsu or effects that work by binding or physically restraining them.  Damage from all Small weapons (including Multi-throws) deals half its normal damage, calculated before any potential Partial Success.
+
+Their physical damage bonus is doubled against anyone who is not Huge or Titanic in size, and they do not take penalties for being in a grapple with anyone who is not Huge or Titanic in size;  anyone who is not at least Large (meaning all humans except those with the Large unique, or Akimichi in Baika X = 6+) cannot grapple them due to their size, and gaining control of a grapple the creature initiated merely has the grapple end, rather than allowing them to take control of it.  
+
+Additionally, their attacks have a range of 20 yards, though are still considered to be melee range.
 
 **Jump**  
 Being toads, they're quite adept at jumping, and frequently do so when they need to cross large distances in a pinch. When a Kyodai moves as part of an attack, they may a distance equal to the full Speed worth of movement--in other words, if using a Speed 12 attack they may move up to (12 * 4) 48 yards as part of it.
@@ -233,19 +244,19 @@ Being toads, they're quite adept at jumping, and frequently do so when they need
 **Kyodai**  
 As befits their rank and skill, the giant toad warriors all bring some form of weapon to battle. When you summon a warrior, choose which of the following weapons they'll be equipped with. You may summon a different sort of weapon-user each time, if you please.
 
- - *Mancatcher and Shield*: The toad's mancatcher is a vaguely Y-shaped metal weapon, with short spikes covering each prong. The shield allows this toad to block attacks as a Speed 5 Interrupt by paying 5 AP, which reduces damage by 60% and is fully effective when blocking weapons. The shield will break, however, once the total damage of all attacks it's been used to block reaches 3000. The mancatcher can be used as a Speed 14 attack dealing 16d10 Blunt damage, and has a +1 bonus to Accuracy. Used against human-sized opponents, they suffer a -4 immobilization penalty until their next action.
+ - *Mancatcher and Shield*: The toad's mancatcher is a vaguely Y-shaped metal weapon, with short spikes covering each prong. The shield allows this toad to block attacks as a Speed 5 Interrupt by paying 5 AP, which reduces damage by 60% and is fully effective when blocking weapons. The shield will break, however, once the total damage of all attacks it's been used to block reaches 3000. The mancatcher can be used as a Speed 14 attack dealing 16d12 Blunt damage, and has a +1 bonus to Accuracy. Used against human-sized opponents, they suffer a -4 immobilization penalty until their next action.
 
 Against Large summons, they suffer a -4 immobilization penalty that does not reduce their movement speed until the Kyodai attacks with it again or they move outside of its attack range. Their movement speed is reduced by (Kyodai's STR - that summon's STR)/10 yards per IC. Any summons with a size description other than Large suffer a Stun equal to however many points they were hit by.
 
- - *Twin Katana*: The toad appears with two katanas. Using them is a Speed 14 attack dealing 28d8 Slashing damage; if used to parry, they have a +2 bonus. Whenever the toad attacks with these weapons they may select two targets who are both in range, attacking one with each weapon. Both katanas may be used to simultaneously attack any Large or larger summon, in which case the number of damage dice remains unchanged but the toad's damage bonus is increased to 15 for that attack.
+ - *Twin Katana*: The toad appears with two katanas. Using them is a Speed 14 attack dealing 15d10 Slashing damage each (rolling damage separately for each sword, as normal for a dual-wield attack), using the attack's full Speed for each damage roll; if used to parry, they have a +2 bonus. Whenever the toad attacks with these weapons they may select two targets who are both in range, attacking one with each weapon.
 
- - *Wakizashi*: The Wakizashi deals 14d12 Slashing damage, and is a Speed 12 attack with +2 Accuracy. The toad may use it to attack without spending the summoner's AP, but if it does so it cannot attack again for 20 IC (instead of 12 IC, based on the attack's Speed); this does not actually change the Speed of the attack.
+ - *Wakizashi*: The Wakizashi deals 10d10 Slashing damage, and is a Speed 12 attack with +2 Accuracy. The toad may use it to attack without spending the summoner's AP, but if it does so it cannot attack again for 20 IC (instead of 12 IC, based on the attack's Speed); this does not actually change the Speed of the attack.
 
- - *Tetsubo*: Yes, a huge wooden club, probably made from an actual tree trunk and fitted with metal studs. This attack has -4 Accuracy, but cannot be parried. It is a Speed 20 attack dealing 20d20 Blunt damage, with a damage bonus of 20. If it hits, in inflicts a Stun 8. However, the AP cost to attack with it is increased by 5 (to 10 for Skillful Strike, and 15 + X for Leap Attack).
+ - *Tetsubo*: Yes, a huge wooden club, probably made from an actual tree trunk and fitted with metal studs. This attack has -4 Accuracy, but cannot be parried. It is a Speed 20 attack dealing 20d20 Blunt damage, with a damage bonus of 20. If it hits, it inflicts a Stun 8. However, the AP cost to attack with it is increased by 5 (to 10 for Skillful Strike, and 15 + X for Leap Attack).
 
- - *Twin Sai*: A paired set of sai; while they do have a +4 bonus to parrying weapons, it's usually not all that useful for a giant toad. Attacking with them is a Speed 12 action, and they deal 14d10 Blunt damage. If an attack with these weapons misses, the summoner may spend 5 AP for the toad to make a strike with the second sai, in which case an Accuracy roll replaces their normal Accuracy.
+ - *Twin Sai*: A paired set of sai; while they do have a +4 bonus to parrying weapons, it's usually not all that useful for a giant toad. Attacking with them is a Speed 12 action, and they deal 12d10 Blunt damage. If an attack with these weapons misses, the summoner may spend 5 AP for the toad to make a strike with the second sai, in which case an Accuracy roll replaces their normal Accuracy.
 
- - *Bare Hands*: Yes! This toad knows martial arts! They make Speed 10 attacks dealing 10d12 Blunt damage. However, if their attacks miss they do not expend any of the summoner's AP. If their attacks hit, the summoner may immediately spend another 4 AP to have the toad perform a flashy series of blows which inflicts a Stun 4 on the victim.
+ - *Bare Hands*: Yes! This toad knows martial arts! They make Speed 10 attacks dealing 12d12 Blunt damage. However, if their attacks miss they do not expend any of the summoner's AP. If their attacks hit, the summoner may immediately spend another 4 AP to have the toad perform a flashy series of blows which inflicts a Stun 4 on the victim.
 
 ###### 4. Abilities
 **Standard Actions**  

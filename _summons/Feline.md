@@ -134,46 +134,46 @@ As the summoner trains and becomes a better ninja, so will 'their' ninja cat! Ov
 
 Yes, there really are cat ninjas. They all have impressive credentials, such as being masters of neko-ken ("cat fist") style martial arts. While their efficacy in battle leaves much to be desired, they do have the advantage of occasionally debilitating opponents with laughter.
 
-A visual aid, for those having trouble picturing a ninja cat
-
 
 ###### 2. Behavior
 Each summoner calls upon their own shinobi cat, who will be a faithful companion in times of need. While handseals are out of the question, these cats train diligently to master the shinobi arts in their off-time!
 
 ###### 3. Attributes
 
-Vitaity: 400  
+Vitaity: 600  
 STR: 40  
 RES: 50  
 CHA: 40  
 DEX: 60  
 AGI: 80  
 
-Accuracy: 15  
-Dodge: +6  
-Damage Bonus: 2.0  
-Movement: 3 yards per IC  
+Accuracy: 22  
+Dodge: +14  
+Damage Bonus: 4.0  
+Genjutsu Defense: +15
+Movement: 4 yards per IC  
 
-Athletics: +10  
-Awareness: +5  
-Espionage: +5  
-Stealth: +10  
-Survival: +5  
+Athletics: +15  
+Awareness: +15  
+Espionage: +10  
+Resistance: +15
+Stealth: +15  
+Survival: +10  
 
 **Devoted**  
-Your cat trains (sort of) hard to remain a valuable ally in combat! As your XP increases, so does its performance. The bonus movement speed is calculated to one decimal point (as is its increased damage bonus, as usual). The bonus to skill rolls only applies to skills the cat already has.  
+Your cat trains (sort of) hard to remain a valuable ally in combat! As your XP increases, so does its performance.  Whenever you summon a Ninja Cat, subtract the minimum XP required to summon it (1000 XP) from your Earned XP: that is the X value to determine what bonuses, if any, it gets from the following modifiers.  X has a maximum of 4000.  
+ + ( X/50 ) * 10 to Vitality
+ + ( X/200 ) to Accuracy, Defensive rolls, Skill rolls, and Genjutsu rolls
+ + ( X/50 ) * 0.1 to its Damage Bonuses
+ + ( X/100 ) * 0.1 to its Movement Speed
 
- - Accuracy, Dodge, Parry: (XP/200)
- - Damage Bonus: (XP/500) 
- - Movement Speed: +(XP/1000) yards per IC 
- - Skill Rolls: (XP/250) 
- - Vitality: (XP/100)*10
+In all cases, you round down. The bonus to skill rolls only applies to skills the summon has listed.  
 
 **Independent**  
 Your ninja cat can act on its own. It does not require you to spend AP for it to take actions unless the action itself specifies that it does.
 
 **Small**  
-If hit by an area-of-effect technique, the cat takes only half damage. However, it is blown clear of the area (usually in an over-the-top, and likely comedic, fashion), and suffers a knockback equal to the attack's Area.
+Due to the Ninja Cat's size, they can utilize the Hide action without needing to meet its normal requirements, in addition to gaining +5 to any grapple rolls made to end a grapple.  When they do Hide, they begin at Stealth level 2, and can move in Stealth level 2 without lowering the level of their Stealth, however none of their attacks are ever considered Surprise Attacks (even if made from hiding), as they just aren't very threatening. If hit by an area-of-effect technique, the cat takes only half damage. However, it is blown clear of the area (usually in an over-the-top, and likely comedic, fashion), and suffers a knockback equal to the attack's Area; knockback effects otherwise have their severity doubled.
 
 **Ninja Training**  
 Shinobi cats train tirelessly in the ninja arts, up to two hours a day! They'll work just hard enough to keep up with their summoner; any more would simply be an unreasonable amount of effort. For every 500 XP, pick one of the following improvements. You may not select any of them more than once.
@@ -189,13 +189,13 @@ Shinobi cats train tirelessly in the ninja arts, up to two hours a day! They'll 
 
 ###### 4. Abilities
 **Standard Actions**  
-Ninja cats can use the dodge, parry, move, block, and hide actions, as described in the Combat chapter of the PHB.
+This Summon can use the Block, Dodge, Move, Parry, and Search actions, as described in the Combat chapter of the PHB. In addition, they can use Escape Grapple (E-rank Grapple jutsu) without having to pay any cost for its use.
 
 **Agility** *(Speed 0, 5 AP)*  
 This ability can be activated at any time, including after the cat is attacked but before its defense has been declared. It ends any immobilization penalties it's suffering from, and makes it immune to that source (a specific instance of a jutsu, for example) from then on. This does not apply to 'internal' penalties--ones caused by poison, for example.
 
 **Cat Paw Strike** *(Speed 10)*  
-Your cat punches, kicks, or occasionally claws, someone! This is a basic unarmed taijutsu attack dealing 2d6 Blunt or Slashing damage. If your cat has the Neko-ken attribute, this is reduced to Speed 6 and adds a Stun 2, and its damage is raised to 4d8. Its damage bonus is multiplied by 10, rather than 6, even at this lower Speed.
+Your cat punches, kicks, or occasionally claws, someone! This is a basic unarmed taijutsu attack dealing 4d6 Blunt or Slashing damage. If your cat has the Neko-ken attribute, this is reduced to Speed 6 and adds a Stun 2, and its damage is raised to 8d8. Its damage bonus is multiplied by 10, rather than 6, even at this lower Speed.
 
 **Nyanjutsu** *(Speed Variable)*  
 The cat can perform various ninjutsu techniques after it has the "ninjutsu" attribute. They are as follows:
@@ -252,12 +252,15 @@ Chakra Exhaustion: +12
 The Nekomata is capable of floating, and spends most of its time walking or sitting on empty air. It ignores any effects associated with the condition of the ground, or requiring it to be in contact with it.
 
 **Small**  
-The Nekomata is the size of a very large housecat. It takes half damage of area-of-effect attacks, but any knockbacks its suffers are doubled.
+The Nekomata is the size of a very large housecat, and can utilize the Hide action without needing to meet its normal requirements, in addition to gaining +5 to any grapple rolls made to end a grapple.  When they do Hide, they begin at Stealth level 2, and can move in Stealth level 2 without lowering the level of their Stealth, however none of their attacks are ever considered Surprise Attacks (even if made from hiding), as they just aren't very threatening. If hit by an area of effect technique, the Nekomata takes only half damage and suffers a knockback equal to the Area of the attack; knockback effects otherwise have their severity doubled.  
 
 **Trickster**  
 By raising their Chakra cost by 10, the Nekomata can replace its genjutsu roll with 1d20, and the defender's roll with 1d20+4; this is declared when an appropriate ability is being used. Uniques, abilities, and doujutsu do not provide their normal benefits. The Iron Curtain technique still works, and similarly the Nekomata receives any bonuses specific to individual abilities it uses. Additionally, the Nekomata itself is immune to any targeted genjutsu.
 
 ###### 4. Abilities
+**Standard Actions**  
+This Summon can use the Dodge, Hide, Move, and Search actions, as described in the Combat chapter of the PHB. In addition, they can use Escape Grapple (E-rank Grapple jutsu) without having to pay any cost for its use.
+
 **Cremation** *(Chakra 16, Speed 6, 4 AP)*  
 This applies an Ignite 1 to everyone present in battle, as pale blue, ghostly flames briefly flicker over them.
 

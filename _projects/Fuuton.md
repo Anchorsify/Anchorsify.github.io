@@ -143,7 +143,7 @@ A relatively simple technique which creates a sudden gust of wind. Its actual fo
 
  - Chakra: 20
  - Damage: 5d4 * 5
- - Range: 15, +(NDB* 2)
+ - Range: 10
  - Speed: 12
  - Seal Speed: 12
  - Status: (NDB * 3) Knockback

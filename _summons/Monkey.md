@@ -181,22 +181,23 @@ One of the few monkeys that can't speak, the Partner Monkey can easily understan
 
 ###### 3. Attributes
 
-Vitality: 400  
-STR: 20  
+Vitality: 300  
+STR: 40  
 RES: 40  
-CHA: 20  
+CHA: 40  
 DEX: 60  
-AGI: 60  
+AGI: 80  
 
 Accuracy: 30  
 Dodge: +20  
-Damage Bonus: 1.3  
+Damage Bonus: 2.6
+Genjutsu Defense: +20    
 Movement Speed 3.0 per IC  
 
-Athletics: +15  
-Awareness: +10  
-Espionage: +15  
-Resistance: +5  
+Athletics: +25  
+Awareness: +20  
+Espionage: +20  
+Resistance: +10  
 Stealth: +20  
 
 **Almost Tireless**  
@@ -208,23 +209,32 @@ A Partner Monkey has small hands with powerful fingers, allowing it to pick lock
 **Extraordinary Reflexes**  
 Given the monkey's agility, it can dodge attacks as a Speed 0 interrupt.
 
+**Might of the Meek**  
+Though small and wary of any sort of direct combat, Partner Monkey's live up to their name of being capable allies to those that seek them out and are in fact highly capable of aiding their summoners, provided they know to convince them sufficiently to do so (aka, bribe them). Whenever you summon a Partner Monkey, subtract the minimum XP required to summon it (1600 XP) from your Earned XP: that is the X value to determine what bonuses, if any, it gets from the following modifiers.  X has a maximum of 3400.  
+ + ( X/50 ) * 10 to Vitality
+ + ( X/200 ) to Accuracy, Defensive rolls, Skill rolls, and Genjutsu rolls
+ + ( X/50 ) * 0.1 to Damage Bonuses
+ + ( X/100 ) * 0.1 to Movement Speed
+
+In all cases, you round down. The bonus to skill rolls only applies to skills the summon has listed.  
+
 **Small**  
-The Partner Monkey is very small and light, being able to move while still maintaining Stealth 2. In addition, all knockback effects have their efficacy doubled.
+The Partner Monkey is very small and light, and can utilize the Hide action without needing to meet its normal requirements.  When they do Hide, they begin at Stealth level 2, and can move in Stealth level 2 without lowering the level of their Stealth, however none of their attacks are ever considered Surprise Attacks (even if made from hiding), as they just aren't very threatening. If hit by an area of effect technique, the Partner Monkey takes only half damage and suffers a knockback equal to the Area of the attack; knockback effects otherwise have their severity doubled.
 
 ###### 4. Abilities
 **Standard Actions**  
-Partner Monkey may use Dodge, Move, and Block as described in the Combat chapter of the PHB, without their summoner needing to spend AP.
+Partner Monkey may use Dodge, Hide, Move, and Search as described in the Combat chapter of the PHB, without their summoner needing to spend AP.  In addition, they can use Escape Grapple (E-rank Grapple jutsu) without having to pay any cost for its use.
 
 **Bite** *(Speed 8, 4 AP)*  
-Not an amazing combatant, the Partner Monkey usually gets out of dangerous situations using it's teeth. A bite inflicts 4d6 piercing damage and is considered a basic unarmed attack. The Partner Monkey's bite is far more painful than it is actually damaging and if used in a grapple, it gets a +10 to the check to escape the grapple.
+Not an amazing combatant, the Partner Monkey usually gets out of dangerous situations using it's teeth. A bite inflicts 4d10 piercing damage and is considered a basic unarmed attack. The Partner Monkey's bite is far more painful than it is actually damaging and if it hits someone who is grappling it, it automatically gets a roll to escape the grapple, with a +10 to its roll.
 
 **Scout** *(Speed Variable, 10 AP)*  
-One of the few uses of the Partner Monkey in a combat situation, the Summoner can send the Partner Monkey out to scout an area. This works by giving the monkey a general location to scout out and choosing how long they wish the monkey to be gone. The Partner Monkey can move 3 yards per IC towards the location. Once there the monkey does a quick search (using up 0 IC), but can also use 6 more IC to do a search actions.
+One of the few uses of the Partner Monkey in a combat situation, the Summoner can send the Partner Monkey out to scout an area. This works by giving the monkey a general location to scout out and choosing how long they wish the monkey to be gone. The Partner Monkey can move 3 yards per IC towards the location. Once there the monkey does a quick search (using up 0 IC), but can also use 6 more IC to do a Search action.
 
-When declaring a scouting action you may choose to set a time for the monkey to return in which case it will only have scouted the area it was able to reach before have to come back... or you may have the Partner Monkey simply go to an area and search a few times(your choice) before coming back. Note that the speed of the action is based upon how far the Partner Monkey has to travel(and travel back from) as well as time spent searching. Upon it's return, the Monkey will perform a sort of pantomime that for some reason the Summoner is able to understand and gain general details about the scouted area. These details include: general terrain, prescence of enemies(that it saw using awareness), and any obstacles.
+When declaring a scouting action you may choose to set a time for the monkey to return in which case it will only have scouted the area it was able to reach before have to come back... or you may have the Partner Monkey simply go to an area and search a few times (your choice of how many) before coming back. Note that the speed of the action is based upon how far the Partner Monkey has to travel (and travel back from) as well as time spent searching. Upon it's return, the Monkey will perform a sort of pantomime that for some reason the Summoner is able to understand and gain general details about the scouted area. These details include: general terrain, prescence of enemies (that it saw using awareness), and any obstacles.
 
 **Monkey Mission** *(Speed Variable, 5 AP per action/skill use)*  
-Similar to the Scout action, the summoner sends the Monkey on a non-dangerous mission utilizing it's skills. This could be as simple as hopping over a fence and undoing a latch from the other side to as complicated as scaling a building, unlocking a window, opening a safe, and finally stealing a set of plans before coming back. Like scouting, the Partner Monkey can move 3 yards per IC and requires 10 IC for each use of a skill other than awareness. The Monkey can be sent on a wide range of missions, but be warned that if it senses any danger it can't be sure to avoid it will abandon the mission and return rather than braving the odds.
+Similar to the Scout action, the summoner sends the Monkey on a non-dangerous mission utilizing it's skills. This could be as simple as hopping over a fence and undoing a latch from the other side to as complicated as scaling a building, unlocking a window, opening a safe, and finally stealing a set of plans before coming back. Like scouting, the Partner Monkey's travel time is determined by how fast it can move and how far it's told to go and requires 10 IC for each use of a skill other than awareness. The Monkey can be sent on a wide range of missions, but be warned that if it senses any danger it can't be sure to avoid it will abandon the mission and return rather than braving the odds.
 
 **Perform Ninjutsu** *(Speed Variable, Variable AP)*  
 The Partner Monkey can actually perform a small selection of Ninjutsu, or be commanded to perform them at a set time. The Partner Monkey has a Seal Speed reduction of 6, and does not use Stamina or Chakra rolls when using the Jutsu it knows. Instead, subtract (Chakra Cost)*3 from the Partner Monkey's Vitality whenever it uses a Jutsu. The Summoner has to spend AP equal to 1/2 the speed of the jutsu(including the remaining seal speed).
@@ -362,7 +372,7 @@ DEX: 120
 AGI: 120  
 
 Accuracy: 46  
-Damage Bonus: 20.0  
+Damage Bonus: 10.0  
 Movement Speed: 2.5 per IC  
 
 Athletics: +30  
@@ -375,7 +385,11 @@ Stealth: +10
 Munamochi-Saru have a 10 yard attack range, which is still melee due to their large size.
 
 **Huge**  
-Munamochi-Saru cannot be tripped or knocked airborne, and any knockback effects have their efficacy reduced by half. However, they also cannot dodge or block.
+Munamochi-Saru cannot dodge; against Area of Effect attacks, they block them automatically as a Speed 0 defense.  They can not enter any level of Stealth, nor Hide.  They are too heavy to be knocked airborne, knocked back, or knocked prone, and ignore any jutsu or effects that work by binding or physically restraining them.  Damage from all Small weapons (including Multi-throws) deals half its normal damage, calculated before any potential Partial Success.
+
+Their physical damage bonus is doubled against anyone who is not Huge or Titanic in size, and they do not take penalties for being in a grapple with anyone who is not Huge or Titanic in size; anyone who is not at least Large (meaning all humans except those with the Large unique, or Akimichi in Baika X = 6+) cannot grapple them due to their size, and gaining control of a grapple the creature initiated merely has the grapple end, rather than allowing them to take control of it.  
+
+Attempting to parry an attack from this creature requires a Strength of 125 or more, or an unarmed physical damage bonus of 12.5 or greater.
 
 **Tireless**  
 Munamochi-Saru do not need to make Stamina or Chakra Exhaustion rolls when they act. If forced to by an outside force (such as Suffocation), they have +25 to their rolls.
@@ -391,9 +405,9 @@ The giant monkey punches, claws, or kicks those that it's set against. This deal
 Balling up both fists, Munamochi-saru slams both hands into the ground or upon a downed opponent in a hammering motion. Chakra is poured into the ground and it shatters, opening up around the monkey before it hops back out of the area. This strikes an area of 40 yards with a penalty of -2 to accuracy. It deals 28d20 damage and is considered Unarmed Taijutsu. If used on a prone target, Ground Pound's damage is considered 150% higher for inflicting wounds.
 
 **Tail Sweep** *(Speed 6, 5 AP)*  
-As Munamochi-saru are such a huge and imposing monkeys, most think of them as apes. However, they are in fact still monkeys, and as such have tails. A tail sweep usually involves the monkey feinting forwards ominously with one arm, then whipping their tail out to sweep an opponent off their feet. This attack only does 6d12 damage; if it hits, the victim next gets an Awareness roll against the monkey's Accuracy. If they pass, they suffer a Stun 2. If they fail, they're left prone as per the E-rank Trip taijutus.
+As Munamochi-saru are such a huge and imposing monkeys, most think of them as apes. However, they are in fact still monkeys, and as such have tails. A tail sweep usually involves the monkey feinting forwards ominously with one arm, then whipping their tail out to sweep an opponent off their feet. This attack only does 9d12 damage; if it hits, the victim next gets an Awareness roll against the monkey's Accuracy. If they pass, they suffer a Stun 2. If they fail, they're left prone as per the E-rank Trip taijutus.
 
-Tail Sweep always rolls Accuracy, using 1d20+36. If it knocks someone prone, the Munamochi-saru can pay 5 AP and immediately follow up with a Ground Pound (at its normal AP cost, and adding its normal Speed to when the monkey will act next) at that target, using its Tail Sweep accuracy with a -2 penalty in place of Ground Pound's normal accuracy.
+Tail Sweep always rolls Accuracy, using 1d20 + 36. If it knocks someone prone, the Munamochi-saru can pay 5 AP and immediately follow up with a Ground Pound (at its normal AP cost, and adding its normal Speed to when the monkey will act next) at that target, using its Tail Sweep accuracy with a -2 penalty in place of Ground Pound's normal accuracy.
 
 **Monkey Pillar** *(Speed 3 + X, Interrupt, X AP, Chakra 10 + 2 * X)*  
 In addition to acting as living pillars, the Munamochi-saru are quite capable of creating them. Driving their hands into the ground (be it loose earth or solid stone), they can lift a solid wall or pillar in front of them. Even if used on dirt or sand, the pillar will be hardened into solid stone when it's raised this way.

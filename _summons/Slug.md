@@ -117,7 +117,7 @@ In combat, they tend to swarm a single target and adhere to them, at which point
 
 ###### 3. Attributes
 
-Vitality: 150  
+Vitality: 200  
 Movement: 1.0 yards per IC  
 
 **Anesthetize**  
@@ -126,11 +126,18 @@ As is the case with many leeches, these ones suck blood! And, when they do so, t
 **Horde**  
 The leech swarm takes only 1/4 damage from single-target attacks, and is immune to genjutsu. Area-of-effect techniques do full damage. They're also immune to status effects other than area-of-effect Immobilization, all single-target non damaging effects (such as Trip), and grapples. Finally, they treat the severity of AoE Immobilization effects afflicting them as being 6 lower.
 
+**Might of the Meek**  
+Leech Swarms, while not what anyone would call intelligent, are able to seemingly meet the potential of their summoner, and are able to be called upon in greater numbers, even without additional Chakra expenditure, given the Shinobi calling on them is sufficiently skilled. Whenever you summon a Leech Swarm, subtract the minimum XP required to summon it (1500 XP) from your Earned XP: that is the X value to determine what bonuses, if any, it gets from the following modifiers.  X has a maximum of 3500.  
+ + ( X/50 ) * 10 to Vitality
+ + ( X/100 ) * 0.1 to Movement Speed
+
+In both cases, you round down.
+
 **Revitalization**  
 Keep track of all the damage done by the Bleed status caused by the leech swarm's Hemophagy ability. When the swarm is unsummoned for any reason other than a breach of contract, the summoner is healed for that much. This healing will first fill their HP, then begin restoring lost Vitality. It will not, however, take them above their maximum Vitality.
 
 **Swarm**  
-For combat purposes the swarm is treated as a single entity, its Vitality total representing the amount of damage that needs to be done before the leeches all unsummon at once. Additionally, by using more chakra in the summoning, more leeches can be summoned. A maximum of (XP)/200 can be added to the Chakra cost. Every +1 Chakra cost gives the swarm +30 Vitality and +0.1 yards per IC movement speed.
+For combat purposes the swarm is treated as a single entity, its Vitality total representing the amount of damage that needs to be done before the leeches all unsummon at once. Additionally, by using more chakra in the summoning, more leeches can be summoned. A maximum of (XP)/250 can be added to the Chakra cost, to a maximum of +20. Every +1 Chakra cost gives the swarm +30 Vitality and +0.1 yards per IC movement speed.
 
 ###### 4. Abilities
 **Standard Actions**  
@@ -161,21 +168,29 @@ When it comes to following orders, the slugs have something approaching human-le
 
 ###### 3. Attributes
 
-Vitality: 150  
+Vitality: 400  
 Accuracy: 20  
 Movement: 1.0 yards per IC  
 
 **Burning Bodies**  
 The slugs are coated with the same kind of acid they spit out and it burns! Anyone who attacks the slugs with a melee unarmed attack gets a little bit of the acid on their skin! This inflicts an Acid 2 effect as described in the Technique Acid Shot.
 
-**Horde**  
-The slug swarm takes only 1/4 damage from single-target attacks, and is immune to genjutsu. Area-of-effect techniques do full damage. They're also immune to status effects other than area-of-effect Immobilization, all single-target non damaging effects (such as Trip), and grapples. Finally, they treat the severity of AoE Immobilization effects afflicting them as being 6 lower.
-
 **Burrow**  
 Using their acid the swarm of slugs can burrow slowly through objects. This counts as using the C-rank Moving Underground As If Swimming but leaving it open long enough that one person can travel through it besides them.
 
+**Horde**  
+The slug swarm takes only 1/4 damage from single-target attacks, and is immune to genjutsu. Area-of-effect techniques do full damage. They're also immune to status effects other than area-of-effect Immobilization, all single-target non damaging effects (such as Trip), and grapples. Finally, they treat the severity of AoE Immobilization effects afflicting them as being 6 lower.
+
+**Might of the Meek**  
+Slug Swarms, while easily misunderstood and often disliked for their slimy, caustic natures, are able to summoned in greater numbers by more experienced shinobi, even without additional Chakra expenditure. Whenever you summon a Slug Swarm, subtract the minimum XP required to summon it (2500 XP) from your Earned XP: that is the X value to determine what bonuses, if any, it gets from the following modifiers.  X has a maximum of 2500.  
+ + ( X/50 ) * 10 to Vitality
+ + ( X/200 ) to Accuracy
+ + ( X/100 ) * 0.1 to Movement Speed
+
+In both cases, you round down.
+
 **Swarm**  
-For combat purposes the swarm is treated as a single entity, its Vitality total representing the amount of damage that needs to be done before the slugs all unsummon at once. Additionally, by using more chakra in the summoning, more slugs can be summoned. A maximum of (XP)/200 can be added to the Chakra cost. Every +1 Chakra cost gives the swarm +30 Vitality, +1 Accuracy, and +0.1 yards per IC movement speed.
+For combat purposes the swarm is treated as a single entity, its Vitality total representing the amount of damage that needs to be done before the slugs all unsummon at once. Additionally, by using more chakra in the summoning, more slugs can be summoned. A maximum of (XP)/250 can be added to the Chakra cost, to a maximum of +20. Every +1 Chakra cost gives the swarm +30 Vitality, +1 Accuracy, and +0.1 yards per IC movement speed.
 
 ###### 4. Abilities
 **Standard Actions**  
@@ -205,55 +220,57 @@ In combat its preferred tactic is to mentally stun its enemies, charge any the o
 ###### 3. Attributes
 
 Vitality: 3200  
-STR: 100  
+STR: 120  
 RES: 200  
-CHA: 90  
-DEX: 90  
-AGI: 30  
+CHA: 100  
+DEX: 100  
+AGI: 50  
 
-Accuracy: 32  
-Dodge: +0  
-Damage Bonus: 12.0  
+Accuracy: 42  
+Damage Bonus: 8.0
+Genjutsu Offense: +26  
+Genjutsu Defense: +36
+Movement: 5 yards per IC.  
 
-Genjutsu: +25  
-Stamina: +25  
-Chakra Exhaustion: +25  
 Athletics: +10  
-Awareness: +10  
+Awareness: +35  
+Chakra Control: +40  
 Resistance: +50  
 
 **Titanic**  
-The Rock Snail cannot dodge area-of-effect attacks; instead, they automatically block them as a Speed 0 defense. The Rock Snail cannot hide. Multi-throws inflict half damage to The Rock Snail. The Rock Snail is too large to be affected by any jutsu or effects that work by binding or physically immobilizing them. They cannot be grappled by any enemies who are not Huge or larger.
+The Rock Snail cannot dodge any attack; against Area of Effect attacks, they block them automatically as a Speed 0 defense. They can not enter Stealth, nor Hide. They are too large to be knocked airborne, knocked back, or knocked prone, and ignore any jutsu or effects that work by binding or physically restraining them. Damage from all Small weapons (including Multi-throws) deals one-fourth its normal damage; damage from non-Large weapons deals half its normal damage, both of which are calculated before any potential Partial Success.  Damage from any technique of D-rank or lower is halved in the same manner.
 
-The Rock Snail cannot dodge any attack. Attempting to parry the Rock Snail's attacks requires either a Strength of 80 or more, or an unarmed physical damage bonus of 10 or greater, as well as both hands free. It can also make its attacks at a range of 15.
+Their physical damage bonus is doubled against anyone that is not Titanic in size; against anyone that is not Large or larger, it is instead tripled. They can not be grappled by anyone who is not Huge or Titanic in size, and take no penalties for grappling anyone not of those sizes; gaining control of a grapple the creature initiated merely has the grapple end, rather than allowing them to take control of it, for anyone that is not Huge or Titanic in size.
+
+Anyone not of Huge size or larger attempting to parry an attack from this creature requires a Strength of 150 or more, or an unarmed physical damage bonus of 15 or greater.
 
 **Tireless**  
 The Rock Snail does not need to make Stamina rolls for its actions. If forced to for other reasons (such as Suffocation), it uses +25 for its effective bonus to Fatigue rolls.
 
 **Bestial**  
-The Rock Snail isn't driven by higher desires like many other summons (and ninja), as a result it cannot be bribed or reasoned with. It has a +10 bonus to its defenses aginst any form of genjutsu.
+The Rock Snail isn't driven by higher desires like many other summons (and ninja), as a result it cannot be bribed or reasoned with. It has a +10 bonus to its defenses aginst any form of genjutsu, which is factored into its aboe statistics.
 
-**Slimy Exterior**  
-When you roll to hit this creature with a taijutsu attack (Ranged OR Melee) you have to roll 2d20 and take the lowest one for your attack.
+**Rocky Exterior**  
+Rock Snails have a Damage Reduction of 50.
 
 **Gooey Center**  
-Rock Snails have a Damage Reduction of 40.
+Whenever someone attempts to avoid a Rock Snail's Lurching Crush, anyone who opts for a defense in which they roll has to roll 2d20 and take the lowest result.  Willpower (and similar effects) are not modified by this ability, however it does cancel out any ability that grants someone the option to roll 2d20 and take the highest roll.
 
 **Telepathic Bond**  
 The Rock Snail cannot talk but can feel the mind of the summoner. This way it can still communicate and will stay in contact with you at any distance after being summoned until dismissed. This allows you to give commands without breaking Stealth.
 
 ###### 4. Abilities
 **Standard Actions** *(Speed as normal)*  
-The Rock Snail may use Move and Block as described in the Combat chapter of the PHB without spending any of the summoner's AP.
+The Rock Snail may use the Block and Move actions as described in the Combat chapter of the PHB without spending any of the summoner's AP.
 
 **Mental Blast** *(Range 40, Speed 8, 10 AP)*  
-The Rock Snail has an incredibly powerful mind for a creature that seems huge and lumbering, it can reach into the minds of ninja and disorient them. This isn't an exceptionally powerful technique but using the Snail's genjutsu roll you make an attack that if successful inflicts the target with a Stun 10. This has a -2 to its attack every time you use it on the same target in a combat, cumulatively, but each time it's successful on the same target the Stun becomes 5 higher (Stun 15, Stun 20, etc.)
+The Rock Snail has an incredibly powerful mind for a creature that seems huge and lumbering, it can reach into the minds of ninja and disorient them. This isn't an exceptionally powerful technique but using the Snail's genjutsu offfense you make an attack that if successful inflicts the target with a Stun 10. This has a -2 to its roll every time it's used it on the same target in a combat, cumulatively, but each time it's successful on the same target the Stun becomes 5 higher (Stun 15, Stun 20, etc.)
 
 **Withdraw** *(Speed 4, 5 AP)*  
-This action can be used to bring the Rock Snail's head into its shell. Its Awareness rolls gain -10 and it triples its damage reduction. It can still attack but cannot move and if it uses Lurching Crush, Withdraw ends and Lurching Crush's line attack is doubled in length. Otherwise you can end Withdraw by using this action again.
+This action can be used to bring the Rock Snail's head into its shell. Its Awareness rolls gain -10 and it triples its damage reduction. It can still attack but cannot move and if it uses Lurching Crush, Withdraw ends and Lurching Crush's line attack is doubled in length. Otherwise you can end Withdraw by using this action again.  While in this state, it becomes immune to Ignite effects, however any existing Ignites are not ended.
 
 **Lurching Crush** *(Delay 5, Speed 15, 12 AP)*  
-The Rock Snail dives forward as fast as it's slimy underside can carry it. Making a rampaging charge, the Snail crushes anything that gets in it's path. It runs in a 20 yard straight line, that is 7 yards wide, dealing 6d20 damage to anything it goes over. If the terrain it moves through is rocky then it gains 5 DR every time it uses this.
+The Rock Snail dives forward as fast as it's slimy underside can carry it. Making a rampaging charge, the Snail crushes anything that gets in it's path. It runs in a 20 yard straight line, that is 7 yards wide, dealing 12d20 damage to anything it goes over. If the terrain it moves through is rocky then it gains 5 DR every time it uses this.
 
 **Like a Rock** *(Variable)*  
 Being almost a part of the mountains, the snail can use all E-rank, D-rank, and C-rank Doton Techniques. It cannot wield a weapon.

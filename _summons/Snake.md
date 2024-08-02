@@ -111,8 +111,6 @@ with the inside of its hood) a pale, striated purple-gray.
  - Speed: 15
  - Seal Speed: 20
 
-They look kind of like this. But somewhat less adorable.
-
 ###### 2. Behavior
 The cobras can talk, and they totally don't hiss their S-es. Well, some do, others don't; it varies from one to the other. Some summoners find themselves summoning the same cobra time and again, while others call a different one each time. The common theory is that this is the snakes just screwing with people (though they resent any such accusations). Cobras are highly critical of their summoners, in a smug fashion, but will ultimately still fulfill their summoner's requests.
 
@@ -126,7 +124,8 @@ DEX: 80
 SPD: 80  
 
 Accuracy: 32  
-Dodge: +26  
+Chakra Exhaustion: +15  
+Dodge: +24  
 Genjutsu: +20  
 Damage Bonus: 6.0  
 Movement: 2 yards per IC  
@@ -137,13 +136,21 @@ Resistance: +15
 Stealth: +25  
 Survival: +20  
 Toxicology: +20  
-Chakra Exhaustion: +15  
 
 **Enhanced Smell**  
 The cobra halves visibility penalties to its Awareness rolls and Accuracy.
 
 **Hypnotic Gaze**  
 The cobra must be able to make eye contact to use any of its Serpent Illusion abilities. As such, they can be avoided by someone who shuts their uses. Never looking directly at the cobra works... sort of. This afflicts them with an effective -4 visibility penalty, but snakes are highly agile, and able to move in ways people wouldn't expect. This doesn't confer immunity to its genjutsu, but does give a +10 bonus to any defensive rolls against it.
+
+**Machinations of the Mighty**  
+Cobras, being of exceptionally keen minds, are well aware of humanity's place in the pecking order, and will, if sufficiently convinced, deign to match their summoner's skills.. but only just, because if ninja realized just what they could really do, they'd become insufferable with their constant pleading to have their problems handled for them. Whenever you summon a Cobra, subtract the minimum XP required to summon it (2000 XP) from your Earned XP: that is the X value to determine what bonuses, if any, it gets from the following modifiers.  X has a maximum of 3000.  
+ + ( X/50 ) * 10 to Vitality
+ + ( X/200 ) to Accuracy, Defensive rolls, Skill rolls, and Genjutsu rolls
+ + ( X/50 ) * 0.1 to Damage Bonuses
+ + ( X/100 ) * 0.1 to Movement Speed
+
+In all cases, you round down. The bonus to skill rolls only applies to skills the summon has listed.  
 
 **Sly Mind**  
 Cobras have a +5 bonus to their defensive rolls against genjutsu, raised to +10 for rolls to see through already-in place static genjutsu. Anyone who fails to affect one with a genjutsu must immediately defend against one of the cobra's Serpentine Illusions (at the summoner's choice) with a -5 penalty, with the cobra paying no cost (in Speed or Chakra) for this.
@@ -156,16 +163,16 @@ As might be expected, cobras are venomous. Certain of their attacks have a chanc
 
 **Emperor Cobra Venom** *(Injury, Ingestion, Contact, Inhalation)*  
  - Poison: 4
- - Paralysis: 2
+ - Paralysis: 4
  - Duration: 250
  - Toxicology: 25 (to be used by a human)
 
 ###### 4. Abilities
 **Standard Actions**  
-Cobras may use Dodge, Move, Block, and Parry (unarmed only) as described in the Combat chapter of the PHB, without their summoner needing to spend AP.
+Cobras may use the Block, Dodge, Hide, Move, and Parry (unarmed only) actions as described in the Combat chapter of the PHB, without their summoner needing to spend AP.
 
 **Bite** *(Speed 10, 8 AP)*  
-The cobra bites someone! This does 5d6 damage. If partial defense does not apply, the opponent must also defend against the cobra's venom, with the cobra receiving a +5 bonus to its Toxicology roll.
+The cobra bites someone! This does 10d10 damage. If partial defense does not apply, the opponent must also defend against the cobra's venom, with the cobra receiving a +5 bonus to its Toxicology roll.
 
 **Constrict** *(Speed 14, 6 AP)*  
 A cobra can grab someone and wrap them in its tail. This is treated as a grapple, but the cobra suffers none of the normal penalties for being in a grapple; however, it cannot move while holding someone this way. Every 10 IC, the person being constricted suffers a Suffocation 1 and takes 5*(cobra's damage bonus) damage. The cobra has a +5 bonus to its rolls to maintain the grapple. Escape Grapple cannot be used to escape from a cobra's coils. If the cobra chooses to Bite the person it's constricting, their defense has a -6 penalty.
@@ -193,10 +200,11 @@ This jutsu drives its victims slowly, if temporarily, insane. It begins with a s
 Every 10 IC, the victim suffers a Suffocation 1, loses 5% of their maximum Vitality (or HP if they have run out of Vitality), and suffers a cumulative -1 penalty to defend against genjutsu. This will continue indefinitely until the victim falls unconscious or the cobra is unsummoned (due to taking too much damage, or for any other reason). There is no other way to break this technique.
 
 **Venomous Spit** *(Speed 12, 10 AP, Chakra 10)*  
-High-velocity projectile poison! It deals 2d4*5 damage, ignores damage reduction and blocking, and may be a called shot--if used as a called shot, it has +1d6 accuracy. Someone hit by the spit must make a Resistance roll with a +3 bonus or be poisoned. It does not inflict wounds. However, if it's a called shot made at the victim's head, they suffer a -8 visibility penalty which is reduced by 1 every 10 IC, to a minimum of -4. Afterwards, it is reduced by 1 every week, finally fading entirely after a month. As it turns out, having poison in your eyes sucks.
+High-velocity projectile poison! It deals 2d4 * 5 damage, ignores damage reduction and blocking, and may be a called shot--if used as a called shot, it has +1d6 accuracy. Someone hit by the spit must make a Resistance roll with a +3 bonus or be poisoned. It does not inflict wounds. However, if it's a called shot made at the victim's head, they suffer a -8 visibility penalty which is reduced by 1 every 10 IC, to a minimum of -4. Afterwards, it is reduced by 1 every week, finally fading entirely after a month. As it turns out, having poison in your eyes sucks.
 
 ###### 5. Terms of Contract
 A summoner may ask the cobra to provide some of its venom. It will offer enough venom to provide three doses. However, this is all it will do--after providing venom this way, it will unsummon itself (not staying around for combat, or to help otherwise); if it's already performed some other service for the summoner, it will refuse. This venom will last for three weeks, after which time it is no longer toxic.
+
 After being milked for venom, the cobra cannot be summoned for four weeks.
 
 ##### Hydra
@@ -241,7 +249,11 @@ The snakes have a 30 yard attack range, due to their immense size; these are sti
 Hydras have a Damage Reduction of 40.
 
 **Huge**  
-Hydras cannot dodge area-of-effect attacks; instead, they automatically block them as a Speed 0 defense. Hydras cannot hide (via stealth) due to being enormous. They cannot be knocked airborne, and any knockback effects have their efficacy reduced by half.
+Hydras cannot dodge Area of Effect attacks; instead, they block them automatically as a Speed 0 defense.  They can not enter any level of Stealth, nor Hide.  They are too heavy to be knocked airborne, knocked back, or knocked prone, and ignore any jutsu or effects that work by binding or physically restraining them.  Damage from all Small weapons (including Multi-throws) deals half its normal damage, calculated before any potential Partial Success.
+
+Their physical damage bonus is doubled against anyone who is not Huge or Titanic in size, and they do not take penalties for being in a grapple with anyone who is not Huge or Titanic in size;  anyone who is not at least Large (meaning all humans except those with the Large unique, or Akimichi in Baika X = 6+) cannot grapple them due to their size, and gaining control of a grapple the creature initiated merely has the grapple end, rather than allowing them to take control of it.  
+
+Attempting to parry an attack from this creature requires a Strength of 100 or more, or an unarmed physical damage bonus of 10 or greater.
 
 **Snake**  
 Because they are snakes, hydras cannot be knocked prone. Any immobilization penalties are reduced by 5, and any reductions in movement speed from other sources are halved.
@@ -251,7 +263,7 @@ Hydras do not need to make Stamina or Chakra Exhaustion rolls when they act. If 
 
 ###### 4. Abilities
 **Standard Actions**  
-Hydra may use Dodge, Move, and Block as described in the Combat chapter of the PHB, without their summoner needing to spend AP. They may use Take The Hit normally, but commanding them to do so costs 5 AP.
+Hydra may use the Block, Dodge, Move, and Search actions as described in the Combat chapter of the PHB, without their summoner needing to spend AP. They may use Take The Hit normally, but commanding them to do so costs 5 AP.
 
 **Combine** *(Speed 0)*  
 This requires the hydras to all be within 50 yards of one another. They physically combine into a single being, their bodies seeming to melt together while maintaining however many distinct heads. This has the following effects:
@@ -260,7 +272,7 @@ This requires the hydras to all be within 50 yards of one another. They physical
  - Their Extended Range is changed to 20* (number of snakes) yards.
  - Whenever they attack, thay may choose up to (number of snakes) different targets.
  - +4 Accuracy, defensive rolls, grapple rolls, and skill rolls, for each snake beyond the first.
- - Smash deals +5d12 damage per snake, and their damage bonus is increased by 2 per snake.
+ - Smash deals +5d12 damage per snake, and their damage bonus is increased by 1 per snake.
 
 **Constrict** *(Speed 10, 6 AP)*  
 A hydra can grab someone and wrap them in its tail. This is treated as a grapple, but the hydra suffers none of the normal penalties for being in a grapple. Every 10 IC, the person being constricted suffers a Suffocation 1 and takes 10* (hydra's damage bonus) damage. The hydra has a +10 bonus to its rolls to maintain the grapple. Escape Grapple cannot be used to escape from a hydra's constriction.

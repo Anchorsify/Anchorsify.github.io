@@ -95,7 +95,7 @@ No ninken are poodles, chihuahuas, or other small, annoying, yappy dogs.
 
 ###### 3. Attributes
 
-Vitality: 600  
+Vitality: 400  
 STR: 50  
 RES: 50  
 CHA: 30  
@@ -105,13 +105,14 @@ AGI: 50
 Accuracy: 21  
 Dodge: +11  
 Damage Bonus: 3.3  
+Genjutsu Defense: +8  
 Movement: 2 yards per IC.  
 
 Athletics: +10  
 Awareness: +10  
 Chakra Control: +10  
 Espionage: +10  
-Resistance: +10  
+Resistance: +15  
 Stealth: +10  
 Survival: +15  
 
@@ -124,12 +125,21 @@ Ninken do not need to make Stamina or Chakra Exhaustion rolls when they act. If 
 **Tracking Fang Technique**  
 If the shinobi uses the Tracking Fang Technique jutsu while one or more ninken are present on the battlefield, they will all burrow underground. They are effectively removed from combat until the end of that technique's duration, at which point they return to fight normally. Rather than immediately un-summoning themselves after taking 300 damage (as would be normal for Tracking Fang), they take damage normally (though taking that much damage will still end Tracking Fang, as discussed in its effects).
 
+**Might of the Meek**  
+Ninken are loyal followers of their summoners (even if they most loyal when given something to eat), and are in fact capable of learning from them (no matter what people say) to perform adequately beside their summoners throughout their lives.  Whenever you summon a Ninken, subtract the minimum XP required to summon it (1000 XP) from your Earned XP: that is the X value to determine what bonuses, if any, it gets from the following modifiers.  X has a maximum of 4000.  
+ + ( X/50 ) * 10 to Vitality
+ + ( X/200 ) to Accuracy, Defensive rolls, Skill rolls, and Genjutsu rolls
+ + ( X/50 ) * 0.1 to its Damage Bonuses
+ + ( X/100 ) * 0.1 to its Movement Speed
+
+In all cases, you round down. The bonus to skill rolls only applies to skills the summon has listed.  
+
 ###### 4. Abilities
 **Standard Actions** *(Speed as normal)*  
-This Summon may use Dodge, Move, and Block as described in the Combat chapter of the PHB without spending any of the summoner's AP.
+This Summon may use Block, Dodge, Move, and Search actions as described in the Combat chapter of the PHB without spending any of the summoner's AP.  In addition, they can use Escape Grapple (E-rank Grapple jutsu) without having to pay any cost for its use.
 
 **Bite** *(Speed 10, AP 6)*  
-The standard method of attack for a canine is the bite and takedown, something they've been doing for millenia. Attacking at the feet and legs, this counts as a basic unarmed attack and inflicts 4d10 Blunt damage. If the canine succeeds by 5 or more, it can make a automatic grapple check. If the canine wins the grapple check, the opponent does not suffer the normal penalties for being grabbed, but may break free using the normal methods; the main purpose of this is enabling use of the Takedown ability (below).
+The standard method of attack for a canine is the bite and takedown, something they've been doing for millenia. Attacking at the feet and legs, this counts as a basic unarmed attack and inflicts 5d10 Blunt damage. If the canine succeeds by 5 or more, it can make a automatic grapple check. If the canine wins the grapple check, the opponent does not suffer the normal penalties for being grabbed, but may break free using the normal methods; the main purpose of this is enabling use of the Takedown ability (below).
 
 **Takedown** *(Speed 6, AP 8)*  
 After getting a good bite down on an opponent, the canine gives a good shake and tug, aiming to drag their target down to the ground. This can be used while the canine is grappling a foe, make a grapple check, if succesful the target is knocked prone and still trapped in the grapple. A prone person has -3 accuracy, -2 to defensive actions, and moves at reduced speed (check grapple, or half if the canine loses the grapple).
@@ -204,7 +214,7 @@ AGI: 100
 
 Accuracy: 35  
 Dodge: +25  
-Damage Bonus: 6.6  
+Damage Bonus: 8  
 Movement: 10 yards per IC.  
 
 Athletics: +20  
@@ -217,7 +227,7 @@ Survival: +40
 Whenever a mountain dog strikes someone with their Bite attack, that person's movement speed is reduced by 5% for the next 20 IC. This ability stacks with itself, up to a maximum of 10 times. All stacks of Hamstring expire 20 IC after the most recently applied one. For example, if you were hit by Hamstring 12 times, once every 10 IC, the last time being on IC 123, you would be at -50% movement speed until IC 143. This does not stack with immobilization; whichever provides the higher movement speed reduction overrides the other (though this has no bearing on immobilization's accuracy and dodge penalties).
 
 **Large**  
-Anyone of human size attempting to maintain control of a grapple with the Mountain Dogs has a -10 penalty to their grapple rolls, and deals only half damage.
+Against anyone who is not Large or larger in size, their physical damage bonus is doubled (meaning all ninja except those with the Large Unique, Akimichi in Baika X = 6+, or Summons with the Large, Huge, or Titanic attributes). They halve any knockback effects due to their size.
 
 **Pack Tactics**  
 Wolves excel at attacking as a group. Whenever anyone with the Pack Tactics ability acts on the same initiative count and makes a melee-range unarmed, any number of them may declare they are using Pack Tactics. When using Pack Tactics, the target uses the Speed of the slowest attack (that is, the one with the highest numerical Speed) to determine which interrupts their target can use, but must defend against each attack separately. The sum of the Speed of the defenses that the target wishes to use must be valid to use against that speed. For example, if both wolves attack with a Speed 10 Bite, the target's defenses cannot have a total Speed greater than (10/2) 5. They could dodge and parry, or dodge both, but two parries would be impossible (Speed 3*2 = 6).
@@ -233,7 +243,7 @@ Mountain Dogs do not need to make Stamina or Chakra Exhaustion rolls when it act
 
 ###### 4. Abilities
 **Standard Actions**  
-The Mountain Dogs can use the Dodge, Move, and Block actions as described in Combat without spending any of the summoner's AP.
+The Mountain Dogs can use the Block, Dodge, Move, and Search actions as described in Combat without spending any of the summoner's AP.
 
 **Bite** *(Speed 10, AP 6)*  
 The preferred attack for a canine is the bite and takedown, something they've been doing for millenia. Whereas a smaller dog would go for the legs, the mountains wolves have no need to do so. A bite is a basic unarmed attack inflicting 12d12 Blunt damage. If the attack hits by 5 points or more, it may automatically use its Takedown attack (see below).

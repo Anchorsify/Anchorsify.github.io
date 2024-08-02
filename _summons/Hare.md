@@ -105,47 +105,58 @@ Said to be the rabbit who lives under the moon, it only comes out at night. One 
 
 ###### 3. Attributes
 
-Vitality: 650  
-STR: 20  
+Vitality: 400  
+STR: 45  
 RES: 40  
 CHA: 100  
-DEX: 60  
+DEX: 80  
 AGI: 80  
 
 Accuracy: 30  
+Chakra Exhaustion: +14
 Dodge: +22  
-Genjutsu: +14  
-Damage Bonus: 3.0  
+Genjutsu Defense: +14  
+Initiative Bonus: +20
+Physical Damage Bonus: 3.0  
+Ninjutsu Damage Bonus: 6.6  
 Movement: 3 yard per IC, Floating  
 
 Athletics: +15  
 Awareness: +18  
 Resistance: +10  
-Stealth: +5  
-Chakra Exhaustion: +14  
-
-**Shining Light**  
-While under the moonlight the rabbit emits a bright light, this shines out for 20 yards and anyone in stealth is revealed, but while this light shines you cannot stealth either.
+Stealth: +20  
 
 **Elusive Target**  
-The rabbit is small and has the luck of the moon! It has access to the Ninjutsu, Kawarimi. It also takes no damage from AoE attacks where it isn't the sole target.
+The rabbit is small and has the luck of the moon! It has access to the Ninjutsu, Kawarimi, which it does not have to pay any CE or AP to utilize. It also takes no damage from AoE attacks where it isn't the sole target.
+
+**Might of the Meek**  
+Jade Rabbits, while they do not speak (at least, not to humans), are capable of understanding them sufficiently to work alongside them, provided they respect the Jade Rabbit's nocturnal natures.  Whenever you summon a Jade Rabbit, subtract the minimum XP required to summon it (1600 XP) from your Earned XP: that is the X value to determine what bonuses, if any, it gets from the following modifiers.  X has a maximum of 3400.  
+ + ( X/50 ) * 10 to Vitality
+ + ( X/200 ) to Accuracy, Defensive rolls, Skill rolls, and Genjutsu rolls
+ + ( X/50 ) * 0.1 to Damage Bonuses
+ + ( X/100 ) * 0.1 to Movement Speed
+
+In all cases, you round down. The bonus to skill rolls only applies to skills the summon has listed.  
+
+**Shining Light**  
+While under the moonlight the rabbit emits a bright light, this shines out for 20 yards and anyone in Stealth is revealed, but while this light shines you cannot stealth either.
 
 ###### 4. Abilities
 **Standard Actions**  
-The Jade Rabbit may use Dodge, Move, and Block as described in the Combat chapter of the PHB, without their summoner needing to spend AP.
+The Jade Rabbit may use the Dodge and Move actions as described in the Combat chapter of the PHB, without their summoner needing to spend AP.
 
-**Blinding Flash** *(Speed 10, AP 12)*  
-The Jade Rabbit is a beacon of hope but also one of light! This technique uses the C-rank Raiton Taiyoken
+**Blinding Flash** *(Speed 10, 12 AP)*  
+The Jade Rabbit is a beacon of hope but also one of light! This technique uses the C-rank Raiton Taiyoken.
 
 **Bite** *(Speed 8, 4 AP)*  
-Not an amazing combatant, the Jade Rabbit usually gets out of dangerous situations using it's teeth. A bite inflicts 4d6 piercing damage and is considered a basic unarmed attack. The Jade Rabbit bite is far more painful than it is actually damaging and if used in a grapple, it gets a +10 to the check to escape the grapple.
+Not an amazing combatant, the Jade Rabbit usually gets out of dangerous situations using it's teeth. A bite inflicts 4d8 piercing damage and is considered a basic unarmed attack. The Jade Rabbit's bite is far more painful than it is actually damaging and if it hits someone who is grappling it, it automatically gets a roll to escape the grapple, with a +10 to its roll.
 
 **Burning Brilliance** *(Special)*  
-If you do, in fact, summon the rabbit during the day, it appears in a spot 1d12 Yards away from you in a random direction (Chosen by rolling a D8 and north, north-east, etc). Once it appears there it bursts into flames and suddenly combusts, unsummoning itself in a burst of fiery flames, the blast counting as a C-rank Katon that does 8d20 damage in an 8 yard AoE centered on the Rabbit. The Rabbit's damage bonus is tripled and if it hits the user, it deals double damage.
+If you do, in fact, summon the rabbit during the day, it appears in a spot 1d12 Yards away from you in a random direction (Chosen by rolling a D8 and north, north-east, etc). Once it appears there it bursts into flames and suddenly combusts, unsummoning itself in a burst of fiery flames, the blast counting as a C-rank Katon that does 10d20 damage in an 8 yard AoE centered on the Rabbit. The Rabbit's damage bonus is tripled and if it hits the user, it deals double damage.
 
 ###### 5. Terms of Contract
 
-The Jade Rabbits are a straightforward bunch and will stick around with you as long as you need their light and as long as it's not day time! If you do summon one during the day it will stay for the duration of one combat and then not be summonable for 30 Days OOC.
+The Jade Rabbits are a straightforward bunch and will stick around with you as long as you need their light and as long as it's not day time! If you do summon one during the day it will perform Burning Brilliance (see above) and then not be summonable for 30 Days OOC.
 
 ##### Yojimbo
 ###### 1. Summoning

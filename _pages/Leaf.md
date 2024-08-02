@@ -368,7 +368,7 @@ The Hyuuga’s signature fighting style which makes use of Byakugun's ability to
  - Speed: 8
  - Requires: Byakugan active
 
-Effects: Jyuuken uses half your Ninjutsu Damage Bonus, instead of your Physical Damage Bonus.  Its damage cannot be blocked, ignores armor, and bypasses DR.  Jyuuken’s damage is dealt directly to an opponent’s HP (instead of Vitality).  Every time you hit someone with Jyuuken, you inflict Sealed Tenketsu 1.  Jyuuken inflicts Energy Wounds.
+Effects: Jyuuken uses half your Ninjutsu Damage Bonus, instead of your Physical Damage Bonus.  Its damage cannot be blocked, ignores armor, and bypasses DR.  Jyuuken’s damage is dealt directly to an opponent’s HP (instead of Vitality).  Every time you hit someone with Jyuuken, you inflict Sealed Tenketsu 1, or increase their existing Sealed Tenketsu status by one (if they already have the Status effect).  Jyuuken inflicts Energy Wounds.
 
 When used as an Opener, Jyuuken allows you to convert any subsequent Combo jutsu you use into a Jyuuken variant without paying the normal +5 Chakra cost (but you gain all the other effects listed below, as normal for a Jyuuken conversion), for that duration of that Combo.
 
@@ -378,7 +378,7 @@ In addition to the above attack, once you learn this jutsu, you can use Jyuuken 
 - Blocking’s effectiveness is reduced by 25%.
 - It ignores armor, and bypasses half of an opponent’s DR.
 - It uses your NDB in place of PDB, CHA in place of STR, and DEX in place of RES wherever applicable.
-- On hit, inflict Sealed Tenketsu 1 per Rank of the Jutsu above E (D = 1, C = 2, etc).
+- On hit, inflict Sealed Tenketsu 1 per Rank of the Jutsu (E = 1, D = 2, C = 3, etc).
 - In the case of Combos, you can not switch from a regular Combo to a Jyuuken Combo, with the sole exception that you may go from an ordinary Opener into a Jyuuken Combo, and you use Jyuuken’s damage as your Basic Unarmed Attack damage.
 - Any Wounds dealt are Energy Wounds, instead of normal.
 
@@ -456,7 +456,9 @@ The ultimate and most lethal usage of Jyuuken, and the final development of Hakk
 ###### -=[ Sealed Tenketsu ]=-
 This is a Status Effect, applied on hit, that penalizes Chakra Exhaustion and Chakra Control rolls equal to its Severity, and half that (rounding down) to Stamina rolls. If you ever fail a Chakra Exhaustion roll while you have this status, whatever technique you were trying to use fails (but you advance in Fatigue as normal), and you lose Hit Points (not Vitality) equal to the Chakra cost of that technique.
 
-Sealed Tenketsu stacks fully with itself, but a victim’s body naturally will try to correct its chakra flow to meet demands in battle: Every time someone with this status takes the Rest action it reduces by 1, and when they advance in Fatigue, they lower their Sealed Tenketsu Severity by their (Chakra Control Ranks)/5, minimum 1.  Outside of combat, Sealed Tenketsu is reduced by the same (Chakra Control Ranks)/5, minimum 1, every hour.
+Sealed Tenketsu stacks partially with itself. If you already have the status applied, and are struck by another attack which it inflicts it, add half (rounded down) the lower severity to the higher; this is the new severity of your Sealed Tenketsu status. For example, if you were at 3, then hit by an attack which inflicted Sealed Tenketsu 5, your status would be (5 + 3/2) = (5 + 1) = 6. Another attack with ST 3 would, then, raise you to 7.
+
+A victim’s body naturally will try to correct its chakra flow to meet demands in battle: Every time someone with this status takes the Rest action it reduces by 1, and when they advance in Fatigue, they lower their Sealed Tenketsu Severity by their (Chakra Control Ranks)/5, minimum 1.  Outside of combat, Sealed Tenketsu is reduced by the same (Chakra Control Ranks)/5, minimum 1, every hour.
 
 ## Inuzuka
 Inuzuka are highly spirited, highly loyal individuals, much like the ninken (ninja dogs) they fight alongside. Despite being one of the smaller clans in Konoha, their presence has long been valued by the village as a whole.
@@ -506,7 +508,9 @@ Derived from the basic Henge, this technique transforms the ninken into the like
  - Seal Speed: 6
  - Requires: Shikyaku no Jutsu active
 
-Effects: This technique changes your ninken into an exact look alike of you. By default, you are considered Hidden Among Clones when you activate it, and while this jutsu is maintained you can perform the Hide Among Clones action listed under Bunshin (and your opponents can take the Observe action to distinguish you from your ninken, as well). Unlike regular Henge, which is broken upon taking damage, this technique is broken only when the ninken suffers a Stun of severity 20 or higher.
+Effects: This technique changes your ninken into an exact look alike of you. By default, you are considered Hidden Among Clones when you activate it, and while this jutsu is maintained you can perform the Hide Among Clones action listed under Bunshin (and your opponents can take the Observe action to distinguish you from your ninken, as well). 
+
+Anytime your Ninken is struck by an attack because of the clone miss chance it gives (to be hit instead of you), compare the damage it takes to your own wounding thresholds: If it would be enough to wound you, your Ninken suffers a Stun equal to 10 * Severity (Minor = 1, Major = 2, etc).  Unlike regular Henge, which is broken upon taking damage, this technique is broken only when the ninken suffers a Stun of severity 20 or higher.
 
 While your ninken remains transformed, they can perform the Tsuga jutsu on their own, and cooperate with you to perform Gatsuga.
 
@@ -890,15 +894,19 @@ The signature ability of the Yamanaka, this jutsu allows them to send their cons
  - Speed: 12
  - Seal Speed: 8
 
-Effects: You gain control of the target’s body (but not any allies, or clones, of which they control), using their attributes and abilities, but your skills.  You may use any Jutsu you know, however elemental ninjutsu require the appropriate Aptitude to utilize (as you are using their abilities), and you use their Affinity instead of your own.  While you are controlling their body, your IC advances like normal for anything you have them do, and theirs does not.
+Effects: If you hit, the target suffers a Stun 20, and you gain control of the target's body (but not any allies, or clones, of which they continue to control). Your own body is rendered comatose, prone (as per the E-Rank Taijutsu, Trip) and helpless, but you control your target's actions.
 
-While you maintain control of their body, your own is helpless: it appears to be asleep, and cannot be woken up by any means. You are aware of any injuries your body sustains, but not its surroundings or condition.
+You may decide what non-interrupt actions they perform and what words they speak. They are still the ones performing the action, and use their attributes, abilities, et cetera. You may have them perform any jutsu you know, even if they lack the requirements to perform it, however elemental ninjutsu require the appropriate Aptitude to utilize (as you are using their abilities), and you use their Affinity instead of your own. You may only take actions with a final Stamina and/or Chakra Exhaustion cost of 15 + (your Chakra Control Ranks)/5 or less, including all links and modifiers. If an action requires an item or other physical component (such as a weapon) then they must have that item, not you. If an action has a cost other than a Chakra Cost, Stamina Cost, or physical object, then you pay that cost, not the target (i.e. willpower cost, fatigue levels, AP). The target is otherwise still considered to be the one performing the action.
 
-When the body you’re possessing takes damage, your body takes the same amount of damage (after reductions they might have, but ignoring any of your own). You receive any Wounds they suffer (but not Wounds for your own Vitality or HP being depleted by this).  When you return to your body, your Fatigue increases by as many levels as theirs did.
+When the victim's life is threatened, survival instinct kicks in to override the Yamanaka's control: Anytime someone you possess is attacked, the victim may decide their own interrupt response, although if they opt to not defend against an attack, you may declare a defense on their behalf. The victim can't be made to take actions that bring themselves physical harm, such as jumping off a cliff, drinking poison, attacking oneself, or activating any of the eight gates. Because their psyches are connected, this is based on the Yamanaka's knowledge as well as the victim's. You suffer any damage, wounds, and fatigue level advancements the target suffers while possessing them.
 
-Someone possessed by this technique can, as a Speed 12 action, attempt to eject your consciousness from their mind, rolling their Genjutsu Defense against your Genjutsu Offense+5+CHA/25. Whenever they are wounded or advance a Fatigue level, they are allowed a free roll to eject you, and can choose to spend a point of Willpower to gain a roll as a Speed 0 Interrupt at any point.  They gain a bonus to their Genjutsu Defense roll equal to their current Fatigue level (Fatigue 3 = +3), replacing the normal penalty to Genjutsu Defenses from Fatigue, and for each roll they’ve made previously in the battle, they have a +1 bonus.
+While possessed, the victim is aware of what their body is doing and is effectively a powerless bystander. They may communicate with the Yamanaka and engage in a battle of wills. Once per hour out of combat, the victim may make a Genjutsu Defense roll against the Yamanaka's Genjutsu Offense. On a success, the Yamanaka is ejected from the body and wakes up in their own body 20 IC later (remaining helpless until that time). An additional test is made every time the Yamanaka would force them to physically harm an ally or loved one, when the target's body suffers a Wound, and when they advance a fatigue level.  Finally, the victim may spend a point of Willpower as a Speed 0 interrupt to make another Genjutsu Defense roll that, even if it fails, still cancels the action it interrupted (no costs are paid, and their IC does not advance), and inflicts a Stun 10 on both themselves and the Yamanaka.
 
-You do not need to meet the normal skill or rank requirements for this technique.  This technique’s normal Accuracy penalty is instead a bonus to Accuracy if your target is Stunned, or unable to move (such as by a -10 Immobilization penalty, or Kagemane).  If you miss with it, however, you receive a Stun 10, +1 per point you failed by, though you are not helpless; you’re still in control of your body, just disoriented.
+You gain a +5 bonus to your Genjutsu Offense rolls to maintain control of the target, but every time someone makes a Genjutsu Roll to try and escape from Shintenshin, Shinranshin, or Shinten Bunshin, they gain a cumulative +1 to all future Genjutsu Defense rolls to break free from any of those jutsu.  The bonus does not go away until they've gone 24 hours without making such a roll.
+
+This technique may never be performed by clones, nor may it be used to possess a clone: Successfully hitting a clone with this technique immediately destroys it.
+
+You do not need to meet the normal skill or rank requirements for this technique. This technique’s normal Accuracy penalty is instead a bonus to Accuracy if your target is Stunned, or unable to move (such as by a -10 Immobilization penalty, or Kagemane). If you miss with it, however, you receive a Stun 20, though you are not helpless; you’re still in control of your body, just disoriented.
 
 #### --( Shinranshin no Jutsu - Mind Body Disturbance Technique )--
 A more powerful version of Shintenshin, this variant allows the Yamanaka to seize control of a victim’s body without abandoning their own. The control’s not complete, as a possessed person can still talk, shout a warning and so forth, but they can’t control their actions otherwise.
@@ -910,11 +918,9 @@ A more powerful version of Shintenshin, this variant allows the Yamanaka to seiz
  - Speed: 20
  - Seal Speed: 16
 
-Effects: You gain control of the victim’s body.  So long as you maintain its Upkeep, they cannot take any actions other than those you dictate. Unlike Shintenshin, this does not have any feedback effects; the victim could be killed, and you would be unharmed.
+Effects: You gain control of the victim’s body, controlling them as per Shintenshin (above). Unlike Mind Body Switch, your body does not become comatose and you do not receive any damage, wounds, or fatigue from this control. However, you have to spend AP equal to half the Speed of the action you force them to perform in combat (rounding up).
 
-Whatever action you force them to take advances their IC like normal, but costs you 1 AP per 2 Speed of the action.  You may allow them to choose their own defenses (in which case you don’t pay AP for them) or dictate which defensive actions they take (in which case you do).  
-
-Breaking free from this control operates exactly as described in Shintenshin, except that the person controlled does not have to take an action to attempt to break free, and instead gets a roll to break free every iteration of 10 IC after you take control of them,  and the cumulative bonus to their Genjutsu Defense roll to break free is +2 for this technique for each roll made.  The triggers remain otherwise the same, however if you force them to not defend against an attack, or force them to take an invalid defense (one which will not in any way protect them from the attack, such as blocking a move which does not have its damage reduced by blocking) they immediately get a roll to break the effect (before the attack/defense is resolved), with a +10 bonus.
+In place of the normal once per hour Genjutsu Defense roll to break free, victims get a roll every 10 IC in combat, and once per minute outside of combat.  The cumulative penalty to retain control of someone is shared between this technique, Mind Body Switch, and Mind Clone Switch.
 
 #### --( Shinten Bunshin no Jutsu - Mind Clone Switch Technique )--
 The final form of Shintenshin no Jutsu, this technique allows the Yamanaka to clone their own consciousness and transfer it into multiple targets at once, gaining complete control over all of them.  Beyond the obvious tactical advantages, this allows for unprecedented coordination between the two bodies, as they share a single mind.
@@ -926,4 +932,10 @@ The final form of Shintenshin no Jutsu, this technique allows the Yamanaka to cl
  - Speed: 20 + X * 5
  - Seal Speed: 20
 
-Effects: You target, and can gain control of, X people, to a maximum of CHA/40. Your control functions exactly like Shintenshin no Jutsu, including receiving damage, fatigue and wounds from all people you control with this technique. You gain a +3 Accuracy to this technique against any targets who are Stunned or unable to move, as described in Shintenshin.
+Effects: This functions as Mind Body Switch, except that you may target up to X people, and it does not have Shintenshin's Accuracy penalty (though it can gain its normal Accuracy bonus). X has a maximum of CHA/40. So long as you successfully hit one person, you are rendered unconcious, as described in Shintenshin.
+
+Unlike Mind Body Switch, you do not take damage or fatigue levels immediately: Instead, when this jutsu ends (either because you ended the upkeep or all targets have broken free) you take the highest amount of damage all targets took while under the effect and gain Fatigue Levels equal to the highest number of Fatigue Levels gained by the targets while affected by this jutsu.
+
+Unfortunately, this jutsu does nothing to mitigate your sympathetic trauma. All wounds gained by each target are applied to your body immediately, just as with Shintenshin.
+
+The cumulative penalty to retain control of someone else is shared between Mind Body Switch, Mind Body Disturbance, and this technique. 

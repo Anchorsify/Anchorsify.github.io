@@ -94,26 +94,29 @@ Ravens are known to be exceptionally intelligent for birds, able to create tools
 
 ###### 2. Behavior
 
-Despite being very clever, ravens don't talk. Or, it might be accurate to say they don't speak.
+Despite being very clever, Ravens don't talk. Or, it might be accurate to say they don't speak.
 
 They are able to communicate ideas to their summoner. After returning from scouting, it will perch somewhere the summoner can see it (on a tree stump, on a forearm if one is offered, and so forth) and begin tilting its head, pecking aimlessly with its peak, and shifting from side to side. Anyone looking at it will be able to tell it's doing something unusual, but the summoner will actually understand what it's "saying."
 
 ###### 3. Attributes
 
-Vitality: 200  
-STR: 10  
-RES: 10  
-CHA: 10  
-DEX: 40  
-AGI: 50  
+Vitality: 300  
+STR: 25  
+RES: 25  
+CHA: 25  
+DEX: 80  
+AGI: 80  
 
 Accuracy: 30  
 Dodge: +20  
+Genjutsu Defense: +20  
 Movement: 5 yards per IC  
 
 Awareness: +20  
-Espionage: +25  
+Espionage: +30  
+Resistance: +20  
 Stealth: +30  
+
 
 **Enhanced Vision**  
 Ravens ignore bonuses to Stealth TNs based on Stealth level. For example, if someone was in Stealth 3 with a Stealth TN of 45, it would be treated only as 30 for the raven (as it ignores the +15 from Stealth 3).
@@ -124,9 +127,18 @@ The raven can act competently without guidance from its summoner. None of its ac
 **Flight**  
 By default, the raven is airborne; it may land or take off as a Speed 10 action. When airborne, it cannot be targeted by any attacks with a range of less than 100 yards. After descending to Steal (see below) an item, it is effectively 0 yards from the ground; it regains 3 yards of altitude every IC. Melee attacks can reach it only if the attacker can move (i.e. jump) far enough to reach the raven as part of their attack.
 
+**Might of the Meek**  
+Raven's are surprisingly intelligent and, though they do not speak, are more than capable of learning from their summoner to improve their own abilities based off of their time spent working alongside them.  Whenever you summon a Raven, subtract the minimum XP required to summon it (1600 XP) from your Earned XP: that is the X value to determine what bonuses, if any, it gets from the following modifiers.  X has a maximum of 3400.  
+ + ( X/50 ) * 10 to Vitality
+ + ( X/200 ) to Accuracy, Defensive rolls, Skill rolls, and Genjutsu rolls
+ + ( X/50 ) * 0.1 to Damage Bonuses
+ + ( X/100 ) * 0.1 to Movement Speed
+
+In all cases, you round down. The bonus to skill rolls only applies to skills the summon has listed.  
+
 ###### 4. Abilities
 **Standard Actions**  
-Ravens may use Dodge and Move as described in the Combat chapter of the PHB.
+Ravens may use the Dodge, Hide, Move, and Search actions as described in the Combat chapter of the PHB.  In addition, they can use Escape Grapple (E-rank Grapple jutsu) without having to pay any cost for its use.
 
 **Scout** *(Speed N/A)*  
 The raven leaves to scout the area. Depending on the radius of the area it's told to scout, how long it will take varies. 25 yards: 30 seconds 50 yards: 2 minutes 100 yards: 5 minutes 200 yards: 10 minutes The raven will make an Awareness check against everyone and everything in the area. It will then report back to its summoner. It can communicate basic concepts, such as number and location of people; presence of buildings, carriages, and obvious traps; and so forth. It can make basic guesses about people based on their appearance: a group of four people leaping through trees are probably ninja, the people working in the rice fields are probably farmers, and so forth. It requires a break of at least twice as long as it spent scouting before it will go scout the area again.
@@ -135,7 +147,7 @@ The raven leaves to scout the area. Depending on the radius of the area it's tol
 After finding something while scouting, or given instructions by its summoner (like, "wait here"), the raven will go to an area and do something appropriately bird-like, such as perching nearby or pecking at the ground. It will wait there until a condition, specified by the summoner is met, then fly back and alert its summoner. A good example would be, "Go watch the group you saw camped out in the woods, let me know if any of them leave." Anyone being spied upon for more than two minutes can make an Awareness roll against the raven's Espionage to realize that it's behaving unnaturally for a bird.
 
 **Steal** *(Speed 15)*  
-Ravens may pick up any small, unattended objects, or minor things like shiny buttons on people's coats or lightweight pieces of headgear. If instructed by their summoner, they can go for specific items; if not, they'll pick up whatever is most useful (a discarded kunai to let their summoner know that ninja are ahead, for example) or, failing that, shiniest. Stopping the raven from stealing something requires an Awareness roll (to notice it) and then an Accuracy roll against its accuracy (to grab the item before it can), both of which are allowed of anyone within 10 yards of whatever it's trying to steal.
+Ravens may pick up any small, unattended objects, or minor things like shiny buttons on people's coats or lightweight pieces of headgear (including forehead protectors). Ravens can also steal any non-sealed, non-large object that weighs less than 5 lb; in the case of small thrown weapons, they can steal up to 2 (one in each claw!) per Steal attempt. If instructed by their summoner, they can go for specific items; if not, they'll pick up whatever is most useful (a discarded kunai to let their summoner know that ninja are ahead, for example) or, failing that, shiniest. Stopping the raven from stealing something requires an opposed roll of its Espionage against the target's Awareness (to notice it).  If the target succeeds, they can make an unarmed parry (at its normal speed) against the Raven's Accuracy to prevent it from stealing the object(s) it's after.  Both the awareness and the parry attempt are allowed to be made by anyone within 10 yards of whatever it's trying to steal.
 
 ###### 5. Terms of Contract
 When summoned, the raven will stay around until the next time the sun sets (in other words, the rest of the day) or until it's badly injured enough to be unsummoned.
@@ -246,7 +258,7 @@ AGI: 100
 
 Accuracy: 50  
 Dodge: N/A  
-Damage Bonus: 14  
+Damage Bonus: 10  
 Movement: 6 yards per IC  
 
 Awareness: +30  
@@ -257,7 +269,7 @@ Stealth: Yeah, no.
 Any time an enemy in Stealth moves within a Sky King's shadow (see "Shade"), it automatically sees them regardless of their current Stealth level or Stealth TN. Making any attack, even a ranged weapon attack, from stealth while in its Shade is also enough motion to draw its attention this way.
 
 **Buffet**  
-Whenever a Sky King attacks, everyone within its Shade other than the target must make an Athletics roll against a TN of 30 or be immediately Tripped, and Stunned for the next 6 IC.
+Whenever a Sky King attacks, everyone within its Shade other than the target must make an Athletics roll against a TN of 45 or be immediately knocked Prone (as per Trip), and Stunned for the next 6 IC.
 
 **Flight**  
 Unless they deliberately land (doing so, and taking off again, are both Speed 15 actions), Sky Kings are always considered airborne, and as such ignore effects dependant upon the condition of the ground. When they attack, they are considered to be at ground level. Every IC which bases after they take off or attack, they rise 5 yards straight up, to a maximum of 100 yards. Any attack from the ground must have sufficient range to hit them; melee attacks can be used as long as the attacker can travel that far as part of their attack (by jumping!).
@@ -266,11 +278,11 @@ Unless they deliberately land (doing so, and taking off again, are both Speed 15
 The area beneath a Sky King in flight is subjected to heavy gusts of wind every time it beats its wings. Within that area (see "Shade") every time the IC reaches a multiple of 20 all clouds (such as from Mist Blaze Dance, or Hidden Mist Technique) are removed.
 
 **Titanic**  
-Amahaou cannot dodge area-of-effect attacks; instead, they automatically block them as a Speed 0 defense. Amahaou cannot hide. Multi-throws inflict half damage to an Amahaou. Amahaou are too large to be affected by any jutsu or effects that work by binding or physically immobilizing them. They cannot be grappled by any enemies who are not Huge or larger.
+A Sky King cannot dodge any attack with a range greater than its current altitude. This means that it is completely unable to dodge any attack with a maximum range of greater than 100 yards (its maximum atitude). This does mean that it cannot dodge while on the ground.  Amahaou cannot dodge Area of Effect attacks; instead, they block them automatically as a Speed 0 defense.  They can not enter Stealth, nor Hide.  They are too large to be knocked airborne, knocked back, or knocked prone, and ignore any jutsu or effects that work by binding or physically restraining them.  Damage from all Small weapons (including Multi-throws) deals one-fourth its normal damage; damage from non-Large weapons deals half its normal damage, both of which are calculated before any potential Partial Success.  Damage from any technique of D-rank or lower is halved in the same manner.
 
-A Sky King cannot dodge any attack with a range greater than its current altitude. This means that it is completely unable to dodge any attack with a maximum range of greater than 100 yards (its maximum atitude). This does mean that it cannot dodge while on the ground.
+Their physical damage bonus is doubled against anyone that is Huge in size; against anyone that is not Large or larger, it is instead tripled.  They can not be grappled by anyone who is not Huge or Titanic in size, and take no penalties for grappling anyone that is not Huge or Titanic in size; gaining control of a grapple the creature initiated merely has the grapple end, rather than allowing them to take control of it.
 
-Attempting to parry the Amahaou's attacks requires either a Strength of 100 or more, or an unarmed physical damage bonus of 10 or greater, as well as both hands free.
+Anyone not of Huge size or larger attempting to parry an attack from this creature requires a Strength of 150 or more, or an unarmed physical damage bonus of 15 or greater.
 
 **Shade**  
 When in flight, an Amahaou is considered to occupy an area with a 100 yard radius centered on its "actual" location; anyone in that area is effectively in melee range of it (not counting distance from the ground). Anyone below it is immune to any weather-based effects caused by thunderstorms, rain, and so forth.
@@ -286,7 +298,7 @@ An Amahou does not need to make Stamina rolls for its actions. If forced to for 
 Amahaou may use Move and Search.
 
 **Crush** *(Speed 12, 10 AP)*  
-Usable while on the ground. This may only be used while someone is Pinned by the Amahaou. It deals (damage), which is doubled for the purposes of inflicting (Blunt) wounds, and applies a Suffocation 2 each time it's used. Crushing cannot be avoided, and deals no base damage. However, it uses double the Amahaou's standard damage bonus for determining its damage dealt (making it, under normal circumstances, (14 * 2 * 12) = 336 damage, raised to 672 for inflicting wounds).
+Usable while on the ground. This may only be used while someone is Pinned by the Amahaou. It deals no base damage, but still inflicts the Sky King's DB * Speed, which is doubled for the purpose of inflicting (Blunt) wounds, along with Suffocation 2 each time it's used.  which is doubled for the purposes of inflicting (Blunt) wounds, and applies a Suffocation 2 each time it's used. Crush automatically hits.
 
 **Peck** *(Speed 20, 16 AP)*  
 Usable while on the ground. It's not actually a peck. It's actually a bite from a titanic bird's equally oversized beak. If this wounds a victim it inflicts both a Blunt (from the crushing force) and Slashing (from... being bitten) wound of the appropriate severity. It deals 20d20 damage, but has a -5 Accuracy penalty. If used against a Pinned opponent, this hits automatically.
@@ -298,7 +310,7 @@ Usable while in flight. The Amahou simultaneously lands and attacks a single tar
 Usable while in flight. The Amahaou swoops down and snatches up an unfortunate victim. This may target up to two people within its Shade at once, as a single action. People grabbed this way are treated as if held by the E-rank Grab taijutsu. Escaping the grapple results in one falling 5 yards per IC (because calculating actual acceleration due to gravity would not be worth the effort). For every yard they were above 20 when they escaped, they take 1d12+1 damage when they hit the ground. Falling inflicts Blunt wounds. The Amahaou may also drop one or both of the people it's holding, as a (Speed 10, 5 AP) action.
 
 **Rake** *(Speed 24, 10 AP)*  
-Usable while in flight. The Amahou rakes with its claws. It may choose up to two areas ten yards across within its Shade to attack. This attack targets everyone within both those areas, though is not treated as an area-of-effect attack. This deals 4d8*10 damage to anyone it hits.
+Usable while in flight. The Amahou rakes with its claws. It may choose up to two areas ten yards across within its Shade to attack. This attack targets everyone within both those areas, though is not treated as an area-of-effect attack. This deals 4d8 * 10 damage to anyone it hits.
 
 **Scratch** *(Speed 16, 10 AP)*  
 Usable on the ground. The Amahaou scratches an area within 20 yards with one of its claws. This targets everyone in an area 10 yards across, though is not treated as an area-ofeffect attack. It deals 4d6*10 damage to anyone hit by the attack.

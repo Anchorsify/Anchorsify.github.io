@@ -103,8 +103,8 @@ Effects: While Rakurai Heishi is maintained, any time a combo you are performing
 #### --( Bunka-ken - Splintering Fist )--
 A powerful blow that smashes through defenses. Your attack carries almost concussive force behind it, enough to overcome all but the most resilient of enemies.
 
-- Stamina: +7
-- Speed: +4
+- Stamina: +11
+- Speed: +6
 - Damage: Basic Unarmed Attack, Maximized
 - Special: Finisher
 - Combo Bonus: Ignore 10 points of DR, enemy takes +2 damage from all attacks for the rest of the battle
