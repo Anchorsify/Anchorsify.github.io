@@ -12,53 +12,53 @@ First and foremost, without Miss Pink / Green Rabite, this game would not exist,
 
 But in addition to Green Rabite's superb work on the game, it would not exist and thrive if not for the combined efforts of the following people who have helped to improve the game for others.  In alphabetical order, I want to personally thank:
 
-Adam500
-Akio
-Amalkamis
-Antares
-Ashley
-Ashton
-Chase
-Cain
-Chiotuz
-CrushU
-Elegard
-Erra
-Jewel
-Jondd23
-Kask
-Kalypso
-Kaiya Silverthorn
-Lana
-Marcemallow
-Mark
-Marquez
-MechaX
-Minzara
-Mortimer De La Vigo
-Mourdos
-Mosano
-Pip
-Ralphp
-Recludere
-Rusty
-Seishinryoku
-Seraph
-Sestren
-Sexy Bob
-Shadow
-Shigeo
-Snark
-SoulGambit
-Splatterk
-Tark
-Terrato
-TheOracle
-Thinkalot
-TR
-Trister
-Vatoreus
-Xeno
-Xeriar
-Yukino
-Zeke
+ - Adam500
+ - Akio
+ - Amalkamis
+ - Antares
+ - Ashley
+ - Ashton
+ - Chase
+ - Cain
+ - Chiotuz
+ - CrushU
+ - Elegard
+ - Erra
+ - Jewel
+ - Jondd23
+ - Kask
+ - Kalypso
+ - Kaiya Silverthorn
+ - Lana
+ - Marcemallow
+ - Mark
+ - Marquez
+ - MechaX
+ - Minzara
+ - Mortimer De La Vigo
+ - Mourdos
+ - Mosano
+ - Pip
+ - Ralphp
+ - Recludere
+ - Rusty
+ - Seishinryoku
+ - Seraph
+ - Sestren
+ - Sexy Bob
+ - Shadow
+ - Shigeo
+ - Snark
+ - SoulGambit
+ - Splatterk
+ - Tark
+ - Terrato
+ - TheOracle
+ - Thinkalot
+ - TR
+ - Trister
+ - Vatoreus
+ - Xeno
+ - Xeriar
+ - Yukino
+ - Zeke
