@@ -10,4 +10,6 @@ news: true # includes a list of news items
 
 On behalf of everyone who's worked on the PHB, we hope you'll join us to create more engaging stories.
 
-On this page you'll also find link to the most recent updates, click them to see a full list of changes as they're published. You should expect any updates to the PHB to be released on Sunday evenings.
+On this page you'll also find link to the most recent updates, click them to see a full list of changes as they're published. You should expect any updates to the PHB to be released on Friday evenings.
+
+While this game has been a collaborative effort from dozens of people throughout the years, I want to first and foremost thank the late, great Emily, without whom this game would not exist, though there is a more exhaustive list of contributors that have worked on the game throughout the years that you can find [HERE](https://anchorsify.github.io/Credits/).
