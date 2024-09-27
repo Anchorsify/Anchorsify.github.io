@@ -21,7 +21,7 @@ One of the three basic ninja techniques, this creates one or more intangible cop
  - Speed: 6 + 1 per clone
  - Seal Speed: 4 + 1 per clone
 
-Effects: You may create up to 3 clones. During this process you can 'hide' among your clones, making it impossible to tell which one is the fake. Any targeting you must roll 1d(1 + number of clones). On a roll of 1, it targets you; on anything else, it aims at a clone; clones cannot dodge, parry, or use jutsu. A clone that's been hit is destroyed; if you're hit, your clones remain but are mostly useless (as you've been identified by your opponents). If you make new clones (of the same type, or a different variety), all your pre-existing ones are immediately destroyed.
+Effects: You may create up to 3 clones. During this process you can 'hide' among your clones, making it impossible to tell which one is the fake. Any targeting you must roll 1d(1 + number of clones). On a roll of 1, it targets you; on anything else, it aims at a clone; clones cannot dodge, parry, or use jutsu. A clone that's been hit or takes any damage is destroyed; if you're hit, your clones remain but are mostly useless (as you've been identified by your opponents). If you make new clones (of the same type, or a different variety), all your pre-existing ones are immediately destroyed.
 
 Several other actions related to this jutsu are significant:  
 ###### Hide Among Clones
@@ -74,7 +74,7 @@ The most common and perhaps most effective method of combatting genjutsu, if one
  - Speed: 8
  - Seal Speed: 5
 
-Effects: This can be done on yourself, or someone else, but you must be able to touch the other person when performing the jutsu. This allows the person it's used on to make another roll against a Genjutsu affecting them, with a bonus of X. X has a limit of (5+XP/300). This may also be done against area-of-effect genjutsu, in which case this technique's user makes a genjutsu roll against the original roll made by whoever put the technique in place. If successful, the technique is dispelled in its entirety.
+Effects: This can be done on yourself, or another willing person.  You must be able to touch the other person when performing the jutsu. This allows the person it's used on to make another roll against a Genjutsu affecting them, with a bonus of X. X has a limit of (5+XP/300). This may also be done against area-of-effect genjutsu, in which case this technique's user makes a genjutsu roll against the original roll made by whoever put the technique in place. If successful, the technique is dispelled in its entirety.
 
 #### --( Shunshin no Jutsu - Body Flicker Technique )--
 A high-speed movement technique which allows the user to travel incredibly distances in the blink of eye; used by a sufficiently powerful ninja, this can be mistaken for teleportation by an untrained observer.

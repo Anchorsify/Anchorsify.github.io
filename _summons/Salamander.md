@@ -129,7 +129,7 @@ Chameleons, while cautious creatures (despite their size), are crafty enough to 
  + ( X/50 ) * 10 to Vitality
  + ( X/200 ) to Accuracy, Defensive rolls, Skill rolls, and Genjutsu rolls
  + ( X/50 ) * 0.1 to Damage Bonuses
- + ( X/100 ) * 0.1 to Movement Speed
+ + ( X/200 ) * 0.1 to Movement Speed
 
 In all cases, you round down. The bonus to skill rolls only applies to skills the summon has listed.  
 
@@ -202,6 +202,7 @@ AGI: 80
 Accuracy: 38  
 Dodge: +25  
 Damage Bonus: 8.3  
+Genjutsu Defense: +36
 Stamina: +15  
 Chakra Exhaustion: +10  
 Movement: 3 yards per IC.  
@@ -211,7 +212,7 @@ Awareness: +20
 Resistance: +25  
 
 **Bestial**  
-The Basilisk isn't driven by higher desires like many other summons (and ninja), as a result it cannot be bribed or reasoned with. It has a +10 bonus to its defenses aginst any form of genjutsu.
+The Basilisk isn't driven by higher desires like many other summons (and ninja), as a result it cannot be bribed or reasoned with. It has a +10 bonus to its defenses aginst any form of genjutsu, which is already factored into its listed bonus above.
 
 **Thick Hide**
 Basilisks have a Damage Reduction of 60.
@@ -284,6 +285,7 @@ AGI: 100
 
 Accuracy: 45  
 Dodge: +30  
+Genjutsu Defense: +40
 Damage Bonus: 11.5  
 
 Athletics: +20  

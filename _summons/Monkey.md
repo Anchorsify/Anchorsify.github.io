@@ -214,7 +214,7 @@ Though small and wary of any sort of direct combat, Partner Monkey's live up to 
  + ( X/50 ) * 10 to Vitality
  + ( X/200 ) to Accuracy, Defensive rolls, Skill rolls, and Genjutsu rolls
  + ( X/50 ) * 0.1 to Damage Bonuses
- + ( X/100 ) * 0.1 to Movement Speed
+ + ( X/200 ) * 0.1 to Movement Speed
 
 In all cases, you round down. The bonus to skill rolls only applies to skills the summon has listed.  
 
@@ -281,6 +281,7 @@ AGI: 120
 Accuracy: 35  
 Dodge: +30  
 Damage Bonus: 6.0  
+Genjutsu: +30  
 Movement Speed: 4 per IC  
 
 Athletics: +30  
@@ -302,18 +303,18 @@ The Monkey Prince does not need to make Stamina or Chakra Exhaustion rolls when 
 The Monkey Prince is too vain to be given orders by the Summoner. Instead the Monkey Prince will simply attack anyone immediately hostile to his loyal subject (the summoner). In addition, the Monkey Prince acts of his own volition, not requiring AP from the summoner.
 
 **Mountain-Conquering Pride**  
-If pitted against another summoned creature, the Handsome Monkey Prince receives a bonus to his Accuracy, dodge, and skill rolls equal to (the minimum listed XP needed to summon that creature)/500, and an increase to his damage bonus equal to (that amount of XP)/1000, to one decimal place as usual. If its XP level is 4000 or higher, he does not pay any cost when using his ninjutsu against them.
+If pitted against another summoned creature, the Handsome Monkey Prince receives a bonus to his Accuracy, Dodge, Genjutsu, and skill rolls equal to (the minimum listed XP needed to summon that creature)/500, and an increase to his damage bonus equal to (that amount of XP)/1000, to one decimal place as usual. If its XP level is 4000 or higher, he does not pay any cost when using his ninjutsu against them.
 
 If fighting a person, these bonuses instead come from that individual's actual XP (sub-total XP, in the case of clanless). If fighting both people and summons (or multiple of either), he only uses the highest bonus.
 
 **Peerless Champion**  
-The monkey prince uses only a fraction of his real strength in order to give his opponents a sporting chance, and if someone exceeds his expectations will raise them accordingly. Every time one of his attacks misses, he gains +2 Accuracy for the rest of the battle. Every time he fails to dodge an attack, he gains +1 dodge for the rest of the battle.
+The monkey prince uses only a fraction of his real strength in order to give his opponents a sporting chance, and if someone exceeds his expectations will raise them accordingly. Every time one of his attacks misses, he gains +2 Accuracy for the rest of the battle. Every time he fails to dodge an attack, he gains +1 dodge for the rest of the battle.  Every time he has a Genjutsu used against him (successful or not), he gains +2 to his Genjutsu defense.
 
 Finally, every time the damage from one of his attacks is completely prevented (such as by DR, or the Earth Shore Return technique) his physical and ninjutsu damage bonuses are both increased by 2 for the remainder of the battle.
 
 ###### 4. Abilities
 **Standard Actions**  
-The Monkey Prince may use Dodge, Move, and Block as described in the Combat chapter of the PHB.
+The Monkey Prince may use Dodge, Parry, Move, and Block as described in the Combat chapter of the PHB.
 
 **Strike** *(Speed 8)*  
 Skilled with using his hands, feet, tail, and most other parts of his body as a weapon the Monkey Prince can strike pretty hard when he wants to. While he could hit much harder than he does--he's strong enough to lift mountains overhead, he'll assure his summoners--he prefers to goad his opponents with weaker, glancing blows. A strike from the Prince does 10d10 Blunt damage, as a basic unarmed attack.
@@ -373,6 +374,7 @@ AGI: 120
 
 Accuracy: 46  
 Damage Bonus: 10.0  
+Genjutsu Defense: +25  
 Movement Speed: 2.5 per IC  
 
 Athletics: +30  

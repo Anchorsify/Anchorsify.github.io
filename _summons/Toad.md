@@ -149,6 +149,7 @@ AGI: 50
 Accuracy: 24  
 Dodge: +14  
 Damage Bonus: 5.0  
+Genjutsu Defense: +10  
 Movement: 2 yards per IC.  
 
 Athletics: +15  
@@ -167,7 +168,7 @@ The Guardian Toad works hard to keep up with its summoner. Whenever you summon a
  + ( X/50 ) * 10 to Vitality
  + ( X/200 ) to Accuracy, Defensive rolls, Skill rolls, and Genjutsu rolls
  + ( X/50 ) * 0.1 to Damage Bonuses
- + ( X/100 ) * 0.1 to Movement Speed
+ + ( X/200 ) * 0.1 to Movement Speed
 
 In all cases, you round down. The bonus to skill rolls only applies to skills the summon has listed.  
 
@@ -221,6 +222,7 @@ AGI: 100
 Accuracy: 40  
 Dodge: +25  
 Damage Bonus: 10  
+Genjutsu Defense: +28
 Movement: 4 yards per IC  
 
 Athletics: +25  

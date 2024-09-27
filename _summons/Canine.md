@@ -70,6 +70,7 @@ Not only is the Inugami able to curse an enemy but it can also take over a perso
  - Upkeep: 4
  - Speed: 8
  - Seal Speed: 20
+ - Tags: Preparation
 
 Effects: The severity of any Bleed, Paralysis, Shock, and Poison effects you are suffering from is reduced by X for the duration of the possession. If this reduces a Poison to 0, it will not automatically negate any other effects of that poison. Every 10 IC you recover X Hit Points, or X Vitality if you aren't missing any Hit Points.
 
@@ -130,7 +131,7 @@ Ninken are loyal followers of their summoners (even if they most loyal when give
  + ( X/50 ) * 10 to Vitality
  + ( X/200 ) to Accuracy, Defensive rolls, Skill rolls, and Genjutsu rolls
  + ( X/50 ) * 0.1 to its Damage Bonuses
- + ( X/100 ) * 0.1 to its Movement Speed
+ + ( X/200 ) * 0.1 to its Movement Speed
 
 In all cases, you round down. The bonus to skill rolls only applies to skills the summon has listed.  
 
@@ -215,6 +216,7 @@ AGI: 100
 Accuracy: 35  
 Dodge: +25  
 Damage Bonus: 8  
+Genjutsu Defense: +30  
 Movement: 10 yards per IC.  
 
 Athletics: +20  

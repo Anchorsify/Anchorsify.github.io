@@ -88,7 +88,7 @@ Avatars are also much more independent than the other animals their contracts ca
 In game terms, what this means is that a GM must be around whenever you summon an avatar; they will handle the details of the above.
 
 ### **Limitations**
-The greatest limitation in most summons is how frequently they can be used. Each individual summon may only be called upon once per week, unless specified otherwise. For example, if you had the Bird contract and summoned the Corpse-Devouring Crows, you coldn't use that particular technique for an IC week (OOC day); on the other, you could still summon an Owl Sage or Flawless Messenger.
+The greatest limitation in most summons is how frequently they can be used. Each individual summon may only be called upon once per week (OOC day), unless specified otherwise. For example, if you had the Bird contract and summoned the Corpse-Devouring Crows, you coldn't use that particular technique for an IC week (OOC day); on the other, you could still summon an Owl Sage or Flawless Messenger.
 
 Additionally, summons will not directly work against someone with their contract. The techniques granted by a summoning contract can still be used, but the full-fledged "Summons" of the contract will refuse to act in a battle between contract-holders.
 

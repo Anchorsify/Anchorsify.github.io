@@ -125,14 +125,14 @@ Ravens ignore bonuses to Stealth TNs based on Stealth level. For example, if som
 The raven can act competently without guidance from its summoner. None of its actions require AP to perform, and when given general instructions ("scout the area", "see if you can find any clues") it will do so to the best of its ability.
 
 **Flight**  
-By default, the raven is airborne; it may land or take off as a Speed 10 action. When airborne, it cannot be targeted by any attacks with a range of less than 100 yards. After descending to Steal (see below) an item, it is effectively 0 yards from the ground; it regains 3 yards of altitude every IC. Melee attacks can reach it only if the attacker can move (i.e. jump) far enough to reach the raven as part of their attack.
+By default, the raven is airborne; it may land or take off as a Speed 10 action. When airborne, its altitude automatically increases by 3 yards every IC, to a maximum of 100 yards.  It cannot be targeted by any attacks with a range of less than its altitude. Melee attacks can reach it only if the attacker can move far enough to reach the owl as part of their attack (by jumping!).  After descending to Steal (see below) an item, it is effectively 0 yards from the ground, and will then regain altitude accordingly.
 
 **Might of the Meek**  
 Raven's are surprisingly intelligent and, though they do not speak, are more than capable of learning from their summoner to improve their own abilities based off of their time spent working alongside them.  Whenever you summon a Raven, subtract the minimum XP required to summon it (1600 XP) from your Earned XP: that is the X value to determine what bonuses, if any, it gets from the following modifiers.  X has a maximum of 3400.  
  + ( X/50 ) * 10 to Vitality
  + ( X/200 ) to Accuracy, Defensive rolls, Skill rolls, and Genjutsu rolls
  + ( X/50 ) * 0.1 to Damage Bonuses
- + ( X/100 ) * 0.1 to Movement Speed
+ + ( X/200 ) * 0.1 to Movement Speed
 
 In all cases, you round down. The bonus to skill rolls only applies to skills the summon has listed.  
 
@@ -187,6 +187,7 @@ AGI: 60
 
 Accuracy: 28  
 Dodge: +32  
+Genjutsu Defense: +30  
 Movement: 4 yards per IC  
 Awareness: +20  
 Espionage: +20  
@@ -206,7 +207,7 @@ Owls ignore all darkness-based visibility penalties.
 
 ###### 4. Abilities
 **Standard Actions**  
-Owls can use Move, Dodge, and Search.
+Owls can use the Dodge and Move actions without using any of the Summoner's AP.
 
 **Disarm** *(Speed 10, 6 AP)*  
 The owl swoops down and tries to grab something an enemy is holding, then fly away with it! The enemy defends against this as if it was a normal disarm attempt. If they fail, the owl takes whatever weapon they had and flies up with it. The owl will drop it 15 IC later, at which point it can be retrieved.
@@ -227,7 +228,7 @@ Note that for clans, it will provide general information: "Yamanaka can enter th
 **Scout** *(Speed 0, 10 AP)*  
 The owl will scout an area for its summoner. Out of battle this has no Speed or AP cost, takes 10 minutes, and covers an area with a 100 yard radius. The owl will report back with what it found (it makes an Awareness roll against everyone and everything in the area).
 
-Used in combat, it uses the listed Speed and AP and attempts to find a hidden enemy. It will continually perform Search actions until the enemy (or enemies) it was asked to find are discovered or break stealth. Once it finds them, it will, as a Speed 0 action, Point Out whoever it found (as per the rules in Combat -> Stealth).
+Used in combat, it performs a single Search action at Speed 0 when first commanded, and then continues to perform Search actions at Speed 5 with a stacking +5 bonus for each consecutive Search action performed, until the enemy (or enemies) it was asked to find are discovered or break stealth. Once it finds them, it will, as a Speed 0 action, Point Out whoever it found (as per the rules in Combat -> Stealth).
 
 ###### 5. Terms of Contract
 
@@ -259,6 +260,7 @@ AGI: 100
 Accuracy: 50  
 Dodge: N/A  
 Damage Bonus: 10  
+Genjutsu Defense: +35  
 Movement: 6 yards per IC  
 
 Awareness: +30  
@@ -295,7 +297,7 @@ An Amahou does not need to make Stamina rolls for its actions. If forced to for 
 
 ###### 4. Abilities
 **Standard Actions**  
-Amahaou may use Move and Search.
+Amahou may use the Move and Search actions without spending any of its Summoner's AP.
 
 **Crush** *(Speed 12, 10 AP)*  
 Usable while on the ground. This may only be used while someone is Pinned by the Amahaou. It deals no base damage, but still inflicts the Sky King's DB * Speed, which is doubled for the purpose of inflicting (Blunt) wounds, along with Suffocation 2 each time it's used.  which is doubled for the purposes of inflicting (Blunt) wounds, and applies a Suffocation 2 each time it's used. Crush automatically hits.

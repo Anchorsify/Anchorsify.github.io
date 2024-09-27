@@ -44,7 +44,7 @@ While most shinobi struggle to learn the basics of elemental control, you took t
 *Upgrades Into: Elementalist*
 
 ##### Expansive Chakra
-Chakra flows readily through your body and into your jutsu, allowing you to effortlessly mold it into techniques. The Chakra costs for all your jutsu are reduced by 1 per rank (1 for E-rank, 2 for D-rank, etc), and your ninjutsu damage bonus is increased by half that amount (0.5 for E-rank, 1 for D-rank, etc).  For Action Chains, this bonus is applied only once, and uses the base action's rank to determine its benefits.
+Chakra flows readily through your body and into your jutsu, allowing you to effortlessly mold it into techniques. You gain a bonus to your Chakra Exhaustion rolls when using a Jutsu of 1 per rank (+1 for E, +2 for D, etc), up to +5 for A-rank techniques. Your ninjutsu damage bonus is increased by half that amount (0.5 for E-rank, 1 for D-rank, etc).  For Action Chains, this bonus is applied only once, and uses the base action's rank to determine its benefits.
 
 *Upgrades Into: Boundless Chakra*
 

@@ -103,7 +103,7 @@ A moderately advanced technique is the appropriately named water-walking techniq
  - Requires: 4 gallons of water, 10 Chakra Control
  - Tags: Preparation
 
-Effects: You reduce any Ground or terrain-based immobilization penalties by 2, and ignore any other mechanical effects (such as damage for walking across caltrops) if they're C-rank or lower. This does mean that you are not directly in contact with the ground (for the purposes of, say, the Doton jutsu Shindou and Yurokensei).
+Effects: You reduce any Ground or terrain-based immobilization penalties by 4, and ignore any other mechanical effects (such as damage for walking across caltrops) if they're C-rank or lower. This does mean that you are not directly in contact with the ground (for the purposes of, say, the Doton jutsu Shindou and Yurokensei).
 
 #### --( Gyoushuu no Tebukuro - Gloves of Cohesion )--
 You mold chakra around your palms to maintain a thick film of water around them, similar to how it's possible for a ninja with excellent chakra control to stand on walls, or, well, water. This uses an extension of that sort of chakra control, using the water film as a medium to latch on to other people.
@@ -177,7 +177,7 @@ The user converts chakra into water, and infuses it with enough chakra to alter 
  - Area: 20
  - Speed: 16
  - Seal Speed: 14
- - Requires: (Area)/3 gallons of water
+ - Requires: 8 gallons of water
  - Tags: Area of Effect, Environmental, Ground
 
 Effects: Everyone within the area of this technique takes a -4 Immobilization penalty; anyone with the Water Walking ability instead only takes a -2 penalty, which remains until you leave its area. This technique's effects remain regardless of whether you maintain its Upkeep, however while you do maintain it, you can control the syrup field to make it 'grab' someone within its area, making a grapple roll using your NDB in place of PDB against them (with you as the attacker) as a Speed 8 action; if you succeed, they are caught and take the full -4 Immobilization penalty regardless of whether or not they have the Water Walking ability.
@@ -200,7 +200,7 @@ Effects: The gallons of water used to create clones are removed from the battlef
  - [ X AP ] Move: Your clones can move, with X being half the speed of the Move action they take.
  - [ X AP ] Basic Unarmed: A basic unarmed attack, using your attributes. X is half the Speed of the attack.
  - [ X AP ] Basic Weapon: You may add melee weapons to Mizu Bunshin when they're created by expending more gallons of water, paying +1 gallon per 4 dice of weaponry you give them, rounded up, to a maximum of (NDB/3) weapons. They may attack with those weapons, using your abilities. X is half the Speed of the attack.
- - [ 10 AP ] The clone can use itself to create a water prison (as per Suiton: Suirou no Jutsu). This is considered a Speed 14 action with no associated Fatigue cost or gallons of water requirement. The clone remains present, but can take no other non-defensive-interrupt action while maintaining the water prison. The water prison lasts for 10 + (Chakra Control ranks)/2 IC, after which the clone is destroyed and the prison ends unless you or another water clone touches the water prison to maintain the technique (and take on the normal Upkeep), following its normal restrictions.
+ - [ 10 AP ] The clone can use itself to create a water prison (as per Suiton: Suirou no Jutsu), as a Speed 12 action at its normal CE cost. The clone uses is own gallons of war to contribute to the gallons required for Suirou no Jutsu, but if it does not have enough, it must create more as part of the action in order to perform Suirou no Jutsu.  The clone remains present, but follows the normal restrictions for maining the water prison, as described in Suirou no Jutsu.  The clone, and the prison, last for 10 + (Chakra Control Ranks/2) IC, after which the clone is destroyed and the prison ends unless you or another water clone touches the water prison to maintain it, taking on its normal upkeep and restrictions.  If a water clone maintaining a water prison is destroyed by an area of effect attack, then the person inside the water prison must also (if within the area to be hit) defend against the attack, and is not protected by the Water Prison.
 
 #### --( Mizugakure no Jutsu - Hidden in Water Technique )--
 The user sinks into a shallow pool of water, much too little to actually fit a person (it's ninja magic, don't ask questions), where they'll be able to easily lie in wait for a target to pass by, or spy on someone who might be near.
@@ -244,8 +244,8 @@ A derivative of a more advanced technique, this was created to help teach up-and
 
  - Chakra: 17
  - Special: Interrupt
- - Speed: 10
- - Seal Speed: 8
+ - Speed: 8
+ - Seal Speed: 10
  - Requires: 8 gallons of water
 
 Effects: Make an accuracy roll against an incoming attack, with a bonus of NDB/2 or this technique's final, modified Speed, whichever is lower. If you meet or exceed the attack's accuracy, you protect yourself from it completely. This works against Katon up to B rank, Doton up to D-rank, and all other jutsu (including Taijutsu) up to C-rank, and uses up a number of gallons equal to twice the rank of the technique it's used against, which are removed from the battlefield thereafter (basic attacks, however, do not have any gallons of water lost in this way).
@@ -255,7 +255,7 @@ Effects: Make an accuracy roll against an incoming attack, with a bonus of NDB/2
 This move forms multiple pressurized, spiralling columns of water that have a drill-like ability to pierce and destroy their target. As this attack can originate from any body of water (rather than being shot directly from the attacker), in the right environments this has a 360 degree range of attack, making it incredibly difficult to defend against adequately.
 
  - Chakra: 28
- - Damage: 10d20+60
+ - Damage: 12d20 + 80
  - Range: 30
  - Speed: 14
  - Seal Speed: 16
@@ -285,22 +285,23 @@ This defensive technique creates a wall of water around you, which forms a viole
  - Special: Interrupt, Abort
  - Speed: 12
  - Seal Speed: 12
- - Requires: 10+NDB*2 gallons of water
+ - Requires: 10 + NDB*2 gallons of water
 
 Effects: If using Suijinheki as an interrupt: Make an accuracy roll against an incoming attack, with a bonus of half your ninjutsu damage bonus or this technique's final, modified Speed, whichever is lower. Once Suijinheki has been deployed, it lasts for your NDB in IC (whether your defense succeeded or failed), stopping any other incoming attacks automatically without having to roll. Anytime after the initial attack, you may Abort this technique, which is necessary if you need to move or attack through it. This technique protects you from any Katon up to A-rank, Doton up to C-rank, and all other techniques (including taijutsu) up to B-rank, and uses up a number of gallons equal to twice the rank of the technique it's first used against, plus 2 gallons per IC it's deployed, which are removed from the battlefield thereafter (basic attacks, however, do not have any gallons of water lost in this way).  If the full gallons of water used in the technique are destroyed by it preventing attacks, it is automatically aborted early.
 
 #### --( Bakusui Shouha - Exploding Water Shockwave )--
 The user creates an enormous amount of water by spewing it from their mouth, flooding the battlefield and potentially crushing foes in its path. Best of all, they get to look awesome while doing it! The wave rises up from beneath the user, and they can 'ride' it to its destination.
 
- - Chakra: 18 + X
- - Damage: Xd12 + X * 8
- - Area: 10 + X * 2
- - Speed: 16
- - Seal Speed: 26
- - Status: Stun X 
+ - Chakra: 30
+ - Damage: 15d12 + 45
+ - Area: Half the number of gallons created
+ - Speed: 16, cannot be reduced below 12
+ - Seal Speed: 30
+ - Status: Stun 8
+ - Special: Can not be dodged.
  - Tags: Area of Effect, Blunt, Projectile
 
-Effects: Adds X * 4 gallons of water to the battlefield. X has a maximum of your Chakra Control ranks. You may move a number of yards equal to the final Speed of this attack toward your opponent (in place of your normal attack-move distance), unhindered by anything which would normally slow (but not prevent) you from moving.  Anyone other than yourself within the area must defend against this technique.
+Effects: This adds 40 + (NDB * 4) gallons of water to the battlefield every time it is used.  When performing this technique, you may move a number of yards equal to its final Speed, in any direction.  The Area itself is centered on where you start your movement.
 
 #### --( Benzaiten no Jutsu - River Goddess Technique )--
 Named after the deity who supposedly watches over a major river, this technique coats the user's body with a thin layer of chakra-infused water. It offers no real protection from impacts or weapons, but can be an effective supplement to one's defenses against heat and other unpleasantness.
@@ -338,7 +339,7 @@ As a weather-manipulation jutsu, this technique is extremely taxing upon its use
  - Requires: 32 gallons of water
  - Tags: Area of Effect, Environmental
 
-Effects: Every 10 IC, everyone other than the user and up to (Chakra Control)/5 people they've designated as allies has their Chakra Exhaustion penalty increased by 1, and the user has their Chakra Exhaustion penalty decreased by 1,so long as at least one person had their CE penalty increased. This remains centered on the user as they move.
+Effects: Every 5 IC, everyone other than the user and up to (Chakra Control)/5 people they've designated as allies has their Chakra Exhaustion penalty increased by 1, and the user has their Chakra Exhaustion penalty decreased by 1, so long as at least one person had their CE penalty increased. This remains centered on the user as they move.
 
 ## A-Rank
 #### --( Daibakufu - Great Waterfall )--
@@ -371,7 +372,7 @@ This creates an enormous shark out of water and sends it crashing across the bat
 
 Effects: If used as an Interrupt, you may choose to reduce this technique's Seal Speed by 10 and increase its Chakra cost by 10. You can choose to use more than the required amount of gallons of water for this technique, adding 2 points of damage per extra gallon used; all gallons of water used in this technique are removed from the battlefield afterward. Used as a normal attack, it does full damage to a single target, and half damage to everyone else within its Area (including you, if you are in it).
 
-As an Interrupt, it can be used to counter any ranged ninjutsu attack. Daikoudan may be used to Interrupt techniques so long as its Speed is equal to or less than theirs. The two attacks collide, and their damage is compared. For this comparison, treat Katon technqiues as dealing 25% less damage, and Doton as dealing 25% more. If the incoming attack does more damage, you are hit by it, but it has its damage reduced by half. If Daikoudan's damage is greater, it becomes an attack against the opponent with +5 Accuracy, along with any Accuracy bonuses (but not penalties) of the attack it countered. It does an additional (X * 10) damage, where X is the Chakra cost of the move it countered. Similarly, if a non-Doton ninjutsu-based defense is used against Daikoudan, and fails to stop it completely, it does full damage (bypassing partial success) and adds (X * 10) damage, with X being the Chakra cost of the failed defense; against Doton defenses, it still does full damage if the defense fails to stop it, but it does not gain damage based upon the Chakra cost of the failed defense.
+As an Interrupt, it can be used to counter any damage-dealing ranged ninjutsu attack. Daikoudan may be used to Interrupt techniques so long as its Speed is equal to or less than theirs. The two attacks collide, and their damage is compared. For this comparison, treat Katon technqiues as dealing 25% less damage, and Doton as dealing 25% more. If the incoming attack does more damage, you are hit by it, but it has its damage reduced by half. If Daikoudan's damage is greater, it becomes an attack against the opponent with +5 Accuracy, along with any Accuracy bonuses (but not penalties) of the attack it countered. It does an additional (X * 10) damage, where X is the Chakra cost of the move it countered. Similarly, if a non-Doton ninjutsu-based defense is used against Daikoudan, and fails to stop it completely, it does full damage (bypassing partial success) and adds (X * 10) damage, with X being the Chakra cost of the failed defense; against Doton defenses, it still does full damage if the defense fails to stop it, but it does not gain damage based upon the Chakra cost of the failed defense.
 
 #### --( Dai Bakusui Shouha - Great Exploding Water Shockwave )--
 A stronger version of the B-rank Exploding Water Shockwave, the user spits out a truly prodigious amount of water.

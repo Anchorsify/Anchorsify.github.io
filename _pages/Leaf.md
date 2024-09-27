@@ -489,6 +489,7 @@ The Inuzuka launches themselves forward toward an opponent while spinning at suc
  - Range: AGI/10 + Special
  - Speed: 12
  - Special: Sudden Attack can not be used with this attack
+ - Tags: Slashing
 
 Effects: This technique’s Range is increased by how far you could move during the attack: That is, you always travel the maximum distance possible, though your target can be anywhere within that range to be a valid target for Tsuga.  Movement speed increases (such as Shikyaku) modify this like normal to increase its total range. Despite the listed range, however, Tsuga is considered a melee attack, not a ranged attack.
 
@@ -524,6 +525,7 @@ Tsuga twice over.  Both the Inuzuka and their transformed Ninken coordinate thei
  - Speed: 16
  - Requires: Jujin Bunshin active, 8 AP to pay for your Ninken’s attack
  - Special: Sudden Attack can not be used with this attack
+ - Tags: Slashing
 
 Effects: This attack has two accuracies your target must defend against: One which you roll (as 1d20+Accuracy bonuses), and the other being your regular Taijutsu Accuracy TN.  The higher of the two becomes the Accuracy that determines if your technique hits, while the lower increases this technique’s damage by +1d8 per point it beats your opponent’s Defense by, if any.
 
@@ -555,6 +557,7 @@ Tsuga, but in Sotoro form, where an Inuzuka’s speed (and tail!) can be used to
  - Speed: 20
  - Requires: Inuzuka-Ryu: Jinju Konbi Henge: Sotoro be active
  - Special: Sudden Attack can not be used with this attack
+ - Tags: Slashing
 
 Effects: When you use this attack, first make an opposed roll of your Survival vs their Stealth: You gain +1d12 damage per point you beat their roll, or they get +1 to their following Defensive roll per point they beat your roll by, as appropriate.
 This attack functions otherwise like Tsuga for how you determine your movement (and how you must move the technique’s full Range), and accordingly how you determine your bonus (if any) to Accuracy and penalty to Damage based on how far you are from your target. 
@@ -852,6 +855,8 @@ After seeing this result, you may choose to use any technique of the declared ty
 
 If you choose to use a technique against which their reaction is invalid (such as performing Doton: Domu after they had rolled a 20 on their Suiton: Sujinheki), they do not have to pay the chakra costs or Speed of their Interrupt. On the other hand, using a technique that somehow bypasses their defense (such as Retsudotensho against Kazekame Kaigara no Jutsu) is fair game.
 
+Techniques with a Delay can be used normally after declaring Foresight, but Foresight does not prevent or negate the Delay, meaning in all cases their defensive response would be invalid (as it is not taking place on the IC in which you declared Foresight, given the Delay), and Foresight would not benefit the action any further after the Delay is finished and the action resolves (though it would still incerease its Fatigue cost(s)).
+
 ## Yamanaka
 A fairly small clan within Konoha, the Yamanaka are highly prized by the village’s Recon and Investigation divisions. In part this is due to the disproportionate number of Yamanaka who happen to be sensor shinobi, and in part it’s thanks to the special type of ninjutsu the Yamana have developed that allows them to directly affect the minds of others, including seizing control of another person’s body.
 
@@ -896,7 +901,7 @@ The signature ability of the Yamanaka, this jutsu allows them to send their cons
 
 Effects: If you hit, the target suffers a Stun 20, and you gain control of the target's body (but not any allies, or clones, of which they continue to control). Your own body is rendered comatose, prone (as per the E-Rank Taijutsu, Trip) and helpless, but you control your target's actions.
 
-You may decide what non-interrupt actions they perform and what words they speak. They are still the ones performing the action, and use their attributes, abilities, et cetera. You may have them perform any jutsu you know, even if they lack the requirements to perform it, however elemental ninjutsu require the appropriate Aptitude to utilize (as you are using their abilities), and you use their Affinity instead of your own. You may only take actions with a final Stamina and/or Chakra Exhaustion cost of 15 + (your Chakra Control Ranks)/5 or less, including all links and modifiers. If an action requires an item or other physical component (such as a weapon) then they must have that item, not you. If an action has a cost other than a Chakra Cost, Stamina Cost, or physical object, then you pay that cost, not the target (i.e. willpower cost, fatigue levels, AP). The target is otherwise still considered to be the one performing the action.
+You may decide what non-interrupt actions they perform and what words they speak. They are still the ones performing the action, and use their attributes, abilities, et cetera. You may have them perform any jutsu you know, even if they lack the requirements to perform it, however elemental ninjutsu require the appropriate Aptitude to utilize (as you are using their abilities), and you use their Affinity instead of your own. You may only take actions with a final Stamina and/or Chakra Exhaustion cost of 15 + (your Chakra Control Ranks)/5 or less, including all links and modifiers. If an action requires an item or other physical component (such as a weapon) then they must have that item, not you. If an action has a cost other than a Chakra Cost, Stamina Cost, or physical object, then you pay that cost, not the target (i.e. willpower cost, fatigue levels, AP). Finally, you can not utilize the Eight Gates, Kage Bunshin, Summoning Contracts, or Natural Chakra while inside someone else's body, to cause them to use any such talents; any of those talents you had open or were using before the possession, however, you can continue to use as normal.  The target is otherwise still considered to be the one performing the action.
 
 When the victim's life is threatened, survival instinct kicks in to override the Yamanaka's control: Anytime someone you possess is attacked, the victim may decide their own interrupt response, although if they opt to not defend against an attack, you may declare a defense on their behalf. The victim can't be made to take actions that bring themselves physical harm, such as jumping off a cliff, drinking poison, attacking oneself, or activating any of the eight gates. Because their psyches are connected, this is based on the Yamanaka's knowledge as well as the victim's. You suffer any damage, wounds, and fatigue level advancements the target suffers while possessing them.
 

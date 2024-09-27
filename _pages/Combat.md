@@ -38,7 +38,7 @@ Every action a player can take has a given Speed associated with it. When they t
 
 For example, if you use a Speed 6 action on IC 5, your action will be resolved then and there. After it finishes, combat will progress to IC 6, other people will take their turns, and so on, until IC (5+6 =) 11 is reached, when you will be able to act again.
 
-Some effects may lower an action's Speed. No matter how many such effects are applied, no action's Speed may ever go below half its original value, rounded up, and no action's Speed can be reduced below 3, which means that an action with a base Speed of 3 or lower may not have its Speed decreased at all.
+Some effects may lower an action's Speed. No matter how many such effects are applied, no action's Speed may ever go below half its original value, rounded up, and no action's Speed (base or Final) can be reduced below 3, which means that an action with a base Speed of 3 or lower may not have its Speed decreased at all.
 
 ### Simultaneous Actions
 If two people act on the same initiative count, both of their actions are declared and resolved simultaneously. Thus, you and your opponent will both fully declare and resolve your attacks (you can take turns doing so, for the sake of convenience), but not apply their effects until after you've both done so, at the very end of the IC. The exception to this is any Fatigue rolls which you must make during that IC: You roll and resolve them immediately in the midst of that IC, though you can choose to do so in any order. Penalties or changes from advancing a Fatigue level, however, do not apply to any other rolls for that IC (such as rolling a Dodge after you advanced a Fatigue level from your attack).
@@ -140,6 +140,8 @@ With regards to defensive jutsu: Partial success typically applies to any jutsu 
 
 ### Damage Reduction
 Some effects, such as uniques and clan abilities, provide Damage Reduction (DR). This reduces incoming damage directly: if you have 10 DR, and an attack does 100 damage, you would only take 90 damage from it. Damage Reduction does not apply to status effects, nor does it apply to any effect which does not actually deal damage to you.
+
+Combining effects which reduce, or bypass, Damage Reduction works additively: If you use Raiton Chakra Flow (which bypasses half an opponent's Damage Reduction) with Kaminari (which does the same), then you completely bypass your target's Damage Reduction for that attack.  If combining something which reduces it by a set amount (i.e., 5 points) with something that reduces it by half, you apply the flat reduction first, then half any Damage Reduction they might have remaining.
 
 ### Mitigation Order
 As it's inevitable that you will have multiple ways to reduce damage when hit, you apply effects in the following order:
@@ -255,8 +257,8 @@ If you take damage while forming handseals (between the declaration of your Perf
 
 This should be obvious, but since it needs to be said, unless you can do Handseals one handed (i.e., unless you have Single-Handed Seals, the unique), while Performing Handseals, your hands are not free to do other things (such as parry, or grab someone, or draw a weapon).  Nor are they free to do a separate Perform Handseals action (even at SS 0) for a defensive interrupt.
 
-**Rest** ***(Speed 10)***  
-Resting is pausing to cool down and gather your breath. Since it doesn't directly lead to incapacitating your enemy, most ninja prefer to do this out of battle; however, sometimes pacing yourself is the only way to achieve victory. Every Rest action you take reduces your Stamina penalty (see the 'Fatigue' portion of this chapter) by 1, to a minimum of 0. You cannot use AP to reduce the speed of your Rest action; 'resting as fast as you can' is, after all, something of an oxymoron.
+**Rest** ***(Speed 5)***  
+Resting is pausing to cool down and gather your breath. Since it doesn't directly lead to incapacitating your enemy, most ninja prefer to do this out of battle; however, sometimes pacing yourself is the only way to achieve victory. Every Rest action you take reduces your Stamina penalty (see the 'Fatigue' portion of this chapter) by 1, to a minimum of 0. Rest can not have its base Speed reduced, nor can you use AP to reduce the speed of your Rest action; 'resting as fast as you can' is, after all, something of an oxymoron.
 
 **Take the Hit** ***(Speed 6, Interrupt)***  
 Taking the hit is the glorious move the stronger person or sensei uses to protect their weaker ally! You make a Dodge roll with a +5 bonus; if successful, you've leapt in the way of an attack aimed at your ally. If you fail, your ally takes 20% of the damage per point you failed by. (For example: If you fail by 2 points, you'd take 60% damage, and your ally 40% damage). If you were Blocking as a Variable Speed Action when you used this, you may block as long as you were successful by 1 point or more. You may also use interrupts to defend yourself, up to a maximum Speed of how many points your Take The Hit roll beat the opponent's accuracy; you can't dodge, but you could parry, or use a ninjutsu-based defense that raises a protective wall.
@@ -418,7 +420,7 @@ If an effect says that it increases stun, it means that it increase the stun sta
 Stun ends when get your next action; if the Stun is removed by some means prior to your next action, the effect the Stun has on your IC is removed, though this cannot bring your next action back to earlier than the current IC.  Variable Speed Actions being performed when affected by a Stun (of any severity) are forcibly Aborted.
 
 ### Suffocation
-Someone or something is hindering your ability to breathe. Suffocation penalties stack, from different sources or multiple ones. Your suffocation penalty is applied to any Stamina and Chakra Exhaustion rolls you make, and every time its value increases you have to make a Stamina 15 roll. Unlike normal Fatigue-related penalties, suffocation is not reset to 0 when your Fatigue advances. When you stop being suffocated, your suffocation penalty is reduced by 1 every 5 initiative counts.
+Someone or something is hindering your ability to breathe. Suffocation penalties stack, from different sources or multiple ones. Your suffocation penalty is applied to any Stamina and Chakra Exhaustion rolls you make, and every time its value increases you have to make a Stamina 15 roll (with a penalty to the roll equal to your new, increased Suffocation severity). Unlike normal Fatigue-related penalties, suffocation is not reset to 0 when your Fatigue advances. When you stop being suffocated, your suffocation penalty is reduced by 1 every 5 initiative counts.
 
 ### Visibility
 These are penalties which reduce a person's ability to see clearly, impairing the use of their most valuable sense in combat. Visibility penalties do not stack; if you have a -6 and a -2, you ignore the -2 until the -6 is gone. The maximum visibility penalty you can suffer from (after any increases and reductions) is -10.
@@ -548,7 +550,7 @@ One exception. If you suffer a critical wound, it overrides all lesser wounds on
 ### Called Shots
 A called shot is an attack specifically targeting a certain location. After checking your attack's damage type, choose any of the locations which can be Wounded by damage of that type. You declare that when you make your attack, for example, "Hinotama, Called Shot: Arm".
 
-The attack has a -4 Accuracy penalty. However, if it hits, any wounds it inflicts will automatically be dealt to that location.
+The attack has a -4 Accuracy penalty. However, if it hits, any wounds it inflicts will automatically be dealt to that location. You can not used Called Shot with Area of Effect attacks, except for Targeted Area of Effect attacks, where you can make the attack a Called Shot against your chosen target, but anyone else within range to be hit by it will not consider it a Called Shot (though the penalty to its Accuracy applies regardless, as it is penalizing the attack itself).
 
 
 ## Recovery

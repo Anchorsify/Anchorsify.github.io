@@ -260,7 +260,7 @@ You unleash a wave of chakra converted into gale-force winds, knocking away ever
 
 Effects: Every IC, everyone in the technique's radius is pushed 1 yard away from you, towards its edge. Effects which reduce knockbacks do not prevent this movement, though any effect which anchors someone to a point will, as does any Immobility penalty someone is suffering from, reducing their movement by 0.1 per severity (meaning that, at Immobility 2, you would be pushed bac 0.8 yards per IC: 0.8 after one IC, 1.6 after two IC, etc).
  
-All Raiton and ranged taijutsu attacks within or passing through this area have their damage reduced by 20%. Fuuton you use against those within the area have +3 Accuracy, though you deal 15% less damage with Katon, and take 15% more from Katon.
+All Raiton and ranged taijutsu attacks within or passing through this area have their damage reduced by 20%. Fuuton you use against those within the area have +3 Accuracy, though you deal 15% less damage with Katon, and Katon used against you have their damage increased by 15%.
 
 #### --( Ama no Yachimata - Crossroads of Heaven )--
 One of the more reliable defensive measure Fuuton users are capable of deploying, this creates a sphere of whipping winds around them. Aside from dramatically tossing their hair, causing loose clothes to flap about, and knocking up loose terrain, this makes a sufficiently skilled user virtually impervious to most long-range assaults.
@@ -284,7 +284,9 @@ An advanced surveillance technique that, ultimately, falls far short of the effi
  - Seal Speed: 16
  - Tags: Preparation
 
-Effects: When performing a Search (in Combat -> Stealth) or Observe (Ninjutsu -> Bunshin) action, you may use your Chakra Control skill ranks in place of your Awareness skill ranks, and receive a bonus of (ninjutsu damage bonus)/2 either way. Additionally, when targeted by a Surprise or Sneak Attack, you may make an Awareness roll (receiving the benefits of this technique's effects) against a Stealth roll from your opponent; if your result is higher, their attack is not considered a Surprise Attack or Sneak Attack, and they are no longer hidden from you.
+Effects: When performing a Search (in Combat -> Stealth) or Observe (Ninjutsu -> Bunshin) action, you may use your Chakra Control skill ranks in place of your Awareness skill ranks, and receive a bonus of (ninjutsu damage bonus)/3 either way. 
+
+When targetted by a Surprise or Sneak Attack, you are allowed an Awareness roll (with this technique's effects) against your opponent's Stealth TN, unreduced by their attack; if you meet or exceed their TN, you can choose to negate the effect of it being a Surprise or Sneak Attack (against you only), or to spot their location, causing them to no longer be hidden from you after the attack (in the event the attack itself does not remove them from Stealth).
 
 ## A-rank
 #### --( Kaze no Yaiba - Blade of Wind )--
@@ -315,7 +317,7 @@ A technique originated in Sand, supposedly derived from what was alleged to be a
  - Seal Speed: 25
  - Tags: Blunt, Projectile 
 
-Effects: After completing this technique's seals you may use it immediately (as Speed 10, and Delay 0), or begin 'charging' it as a Variable Speed Action. X is the number of IC spent charging Renkuudan. 
+Effects: After completing this technique's seals you may use it immediately (as Speed 10, and Delay 0), or begin 'charging' it. X is the number of IC spent charging Renkuudan. 
 
 You do not need to declare how long you intend to do this. For example, say you finished the handseals on IC 100. You would then be able to declare you were charging Renkuudan, without specifying when you intended to stop. On IC 120, an enemy might begin running towards you; at this point you could stop charging and fire your technique, with X = 20. X can never exceed 50. The severity of wounds for Renkuudan are reduced by one category (major to minor, minor to no wound, and so on). Renkuudan uses double your normal ninjutsu damage bonus for its damage.
 
@@ -364,9 +366,11 @@ So long as this technique's maintained, it's impossible to grapple you. You may 
 #### --( Fuuton: Kitakaze - Wind Release: The North Wind )--
 The north wind wind cleanses the world of its impurities and soothes the raging elements. Once its handseals are completed, a calm but strong wind blows in from the north.
 
- - Chakra: 28
- - Speed: 16
+ - Chakra: 30
+ - Speed: 22
  - Seal Speed: 20
  - Tags: Area of Effect, Environmental
 
-Effects: All status effects and environmental effects caused by the five base elemental ninjutsu (Doton, Fuuton, Katon, Raiton, and Suiton) end immediately, and no such environmental or status effects may be activated for double the user's NDB in IC; however, this cannot end Ignite statuses (which are instead halved (round down)), nor can it end or disperse B- or A- Rank Katon techniques. Effects caused by paraelemental jutsu (such as Incarnation of Desert and its associated status, Dehydrate) are unaffected by this technique.
+Effects: All environmental effects caused by Ninjutsu (such as Yomi Numa, or Four Pillar Bind) end immediately, and no such techniques may be activated for (NDB * 2) IC; hoever, this does not end or prevent B- or A-Rank Katon.
+
+Any Ninjutsu-based Immobility, Paralysis, or Shock status effects are removed, while Ignite effects have their severity halved, rounded down.

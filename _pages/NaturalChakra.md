@@ -71,19 +71,19 @@ However: If your meditation is broken through any means other than an End Medita
 
 Once a person stops meditating, this chakra is quickly cycled through their system and disposed of. You lose one NC every 5 IC when not meditating.
 
-###### Body of Metal (30 XP)
+###### Body of Metal (20 XP)
 Nature is unyielding; it is powerful, and will crush any who think themselves its better. For every NC you currently have, your damage bonuses are increased by 0.1 with everything but weapons; with weapons, your damage bonus is increased by 0.1 for every 2 NC you currently have.
 
-###### Body of Water (30 XP)
+###### Body of Water (20 XP)
 Nature is adaptable; it changes to meet the needs of its current situation, not because it yields, but because it will always be victorious under any circumstances. After seeing the result of a Chakra Exhaustion or Stamina roll, you may spend 3 NC to increase the result by 1; there is no limit on how many NC you may spend this way on a single roll.
 
-###### Body of Fire (30 XP)
+###### Body of Fire (20 XP)
 Nature is furious; it destroys, it obliterates. It is the raging wildfire, the roar of thunder. You may spend NC to increase your damage bonus by a single attack, at the rate of 0.3 for every NC spent, or 0.1 for each NC spent with weapon attacks. You may increase your base damage bonus by up to 25% of its base value using Body of Fire.
 
-###### Body of Wood (30 XP)
+###### Body of Wood (20 XP)
 Nature is patient; it grows slowly, knowing that there is no need to rush, that the destination is what matters, not the time taken to get there. When taking any action, you may spend up to 5 NC to improve the result of any Stamina or Chakra Exhaustion rolls it causes you to make. Every NC spent gives you +1 to that roll's result.
 
-###### Body of Earth (30 XP)
+###### Body of Earth (20 XP)
 Nature is gentle; it nourishes, it strengthens, and it protects. While flowing through your chakra coils it infuses every bit of your body, reinforcing your skin, bones, muscles, and nerves.
 
 Every NC you currently have gives a Damage Reduction (DR) of 2.
@@ -117,19 +117,19 @@ Sage Mode lasts until you run out of NC; however, while it is active you lose 2 
 
 For example, if you entered Sage Mode with 60 NC, and had spent 40 of them, you would still receive (60*2) 120 Damage Reduction from Body of Earth, until your Sage Mode expired.
 
-###### Awakening: Water (40 XP)
+###### Awakening: Water (30 XP)
 While in Sage Mode, you have a +1 bonus to Stamina and Chakra Exhaustion rolls for every 10 NC you had when you activated Sage Mode. After seeing the result of an attack (whether it hits or not) or a defensive roll (successful or not), you may improve the result by up to 3 by spending NC, at the rate of 5 NC per +1.
 
-###### Awakening: Fire (40 XP)
+###### Awakening: Fire (30 XP)
 When using Body of Fire in Sage Mode, every 1 NC spent increases your damage bonus by 0.5, or 0.2 for weapon attacks, to a maximum of 50% of your base damage bonus.
 
-###### Awakening: Earth (40 XP)
+###### Awakening: Earth (30 XP)
 While in Sage Mode, your damage reduction from Body of Earth cannot be bypassed or reduced by effects which would normally do so. When an attack wounds you, you may spend nature chakra counters to lower its severity, at the rate of 5 NC per level: for example, for 15 NC you could negate a Severe wound entirely.
 
-###### Awakening: Air (40 XP)
+###### Awakening: Air (30 XP)
 While in Sage Mode, you have a +1 bonus to Accuracy and dodge for every 20 NC you entered Sage Mode with. For every 10 NC, you have a +1 bonus to Athletics, Awareness, Chakra Control, and Resistance rolls.
 
-###### Awakening: Void (40 XP)
+###### Awakening: Void (30 XP)
 *Requires: A Dream of a Dream*  
 When in Sage Mode, A Dream of the World and A Dream of a Dream are both automatically active at all times, with a radius of your Sage Mode NC (if you entered with 54 NC, 54 yards). As a Speed 5 action you may make a Chakra Control roll to locate all hidden enemies in range, with a +1 bonus for every 10 NC you have.
 

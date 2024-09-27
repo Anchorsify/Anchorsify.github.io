@@ -91,7 +91,7 @@ An exceptionally useful technique, as it approaches the much yearned-for concept
 - Seal Speed: +10
 
 Effects: This is used to supplement another sealing technique of rank C or higher. When you apply it, specify an activation condition and a deactivation condition. Possible triggers include:  
- -  Someone passes within (up to 10) yards of it.
+ - Someone passes within (up to 10) yards of it.
  - There is nobody within (up to 10) yards of it.
  - A certain word is said or noise is made.
  - Someone touches the seal.
@@ -102,11 +102,12 @@ If keyed to touch-activation or -deactivation by specific people, you can specif
 #### --( Tsuiseki Fuuin - Tracking Seal )--
 A very useful seal, though one which suffers from a number of limitations. When applied to a person, the seal vanishes almost immediately, becoming invisible and virtually undetectable, even to shinobi capable of seeing chakra (such as the Hyuuga and Uchiha). Afterwards, whoever applied the seal will be able to get a vague idea of the location of the sealed individual, allowing them to be tracked across any distance.
 
-- Chakra: +10, raised to +25 if it hits
-- Speed: +8
+- Chakra: 10, raised to 25 if it hits
+- Range: Touch
+- Speed: 14
 - Special: Exclusive
 
-Effects: This is used as a link to any basic unarmed attack.  If you hit, you roll Espionage + 5 opposed by your target's Espionage. If you succeed, they think you simply hit them with a good punch or palm strike; if you fail, they realize you used some sort of jutsu on them, though not what its effect was. 
+Effects: If you hit, you roll Espionage + 5 opposed by your target's Espionage. If you succeed, they think you simply hit them with a good punch or palm strike; if you fail, they realize you used some sort of jutsu on them, though not what its effect was. 
 
 Once applied, the seal is invisible and undetectable. It will only be discovered by a sealing expert who knows to look for it. These seals have been known to go undetected for years, as a result. 
 
@@ -144,11 +145,12 @@ You may summon weapons sealed with this technique as a Speed 0 Interrupt. In the
 #### --( Keiyaku Fuuin - Contract Seal )--
 Implemented on a summoner, this removes any control the summoner has over their summoned creature, and in most cases will temporarily nullify the contract altogether.
 
- - Chakra: +15, raised to +30 if it hits
- - Speed: +10
+ - Chakra: 15, raised to 30 if it hits
+ - Range: Touch
+ - Speed: 16
  - Special: Exclusive
 
-Effects: This is used as a link to any basic unarmed attack. Any summoning contracts the victim possesses are considered null and void until this seal is removed. In most cases, this will forcibly de-summon anything they've already summoned. Defensive Summoning techniques used against this automatically fail.
+Effects: Any summoning contracts the victim possesses are considered null and void until this seal is removed. In most cases, this will forcibly de-summon anything they've already summoned. Defensive Summoning techniques used against this automatically fail.
 
 #### --( Tsuyome Fuuin - Strengthening Seal )--
 An advanced and demanding seal, this applies a resilient lattice of chakra to enhance the physical integrity of walls, floors, ceilings, and the like.
@@ -163,16 +165,18 @@ Effects: This may be applied to any surface up to (CHA /10) square yards, and no
 #### --( Shinsei Chinmoku Fuuin - Sacred Silence Seal )--
 Often used as a form of so-called 'loyalty seal', this has seen moderate popularity among various clandestine and/or extremist organizations within the ninja villages, as well as a means of helping ensure that double agents don't turn into triple agents.
 
- - Chakra: +15, raised to +30 if it hits
- - Speed: +10
- - Accuracy: -3
+ - Chakra: 15, raised to 30 if it hits
+ - Range: Touch
+ - Speed: 18
  - Special: Exclusive
 
-Effects: This is used as a link to any basic unarmed attack. When you apply this seal to a person, specify a topic. This may be as broad ("anything involving Sand village") or as narrow ("the new jutsu you saw me use") as you wish.
+Effects: When you apply this seal to a person, specify a topic. This may be as broad ("anything involving Sand village") or as narrow ("the new jutsu you saw me use") as you wish.
 
 The victim may not attempt to communicate about that topic in any way, be it through speech, writing, or other methods. Intent is what matters here; if they think they're giving information about the subject, they are unable to. The same restrictions apply regarding this seal itself. That said, it's not particularly inconspicuous. While the seal itself prevents the victim from showing it off, it takes the form of a hexagram somewhere on their torso, back, or tongue (in which case it can't be seen without the person actually sticking their tongue out and someone checking for it) and is easily identifiable by anyone with Seal Training.
 
-You may, when applying this seal, also specify one exception to its restrictions. For example, you could say "other Leaf nin"--in which case the person with this seal could talk to other Leaf nin about the sealed topic, but nobody else. This seal trumps any genjutsu short of the Poison Truth Technique.
+You may, when applying this seal, also specify one exception to its restrictions. For example, you could say "other Leaf nin"--in which case the person with this seal could talk to other Leaf nin about the sealed topic, but nobody else. 
+
+This seal trumps any genjutsu short of the Poison Truth Technique.
 
 #### --( Moji Hyouki no Jutsu - Rune Inscribing Technique )--
 A tricky seal, this allows the user to mold the chakra necessary for any ninjutsu technique they know and then 'freeze' it, holding it primed but inactive inside of a seal. Once a trigger condition occurs, the jutsu is released. Use of this technique to prepare explosive Katon techniques and leaving them around as a practical joke is strongly discouraged.
@@ -215,22 +219,23 @@ The technique stored inside a Transciption Seal may not be a Taijutsu, nor may i
 #### --( Gogyou Fuuin - Five Elements Seal )--
 This jutsu produces a powerful seal that disrupts the flow of chakra in the target. In most cases this is crippling.
 
-- Chakra: +20, raised to +40 if it hits
-- Speed: +12
-- Accuracy: -5
+- Chakra: 20, raised to 40 if it hits
+- Range: Touch
+- Speed: 18
 - Special: Exclusive
 
-Effects: This is used as a link to any basic unarmed attack. If you hit, The unfortunate victim has a -20 penalty to all Chakra Exhaustion rolls, and has their Chakra Control skill ranks reduced by 15, which can also temporarily lower their ranks in abilities (such as Water Walking). Any jutsu with Upkeeps they have activated end immediately due to the disruption of their chakra.
+Effects: If you hit, The unfortunate victim has a -20 penalty to all Chakra Exhaustion rolls, and has their Chakra Control skill ranks reduced by 15, which can also temporarily lower their ranks in abilities (such as Water Walking). Any jutsu with Upkeeps they have activated end immediately due to the disruption of their chakra.
 
 If they fail a Chakra Exhaustion roll, they fail to use the jutsu they were trying to (but still advance a Fatigue category as normal). Furthermore, even if they succeed they must pass a Chakra Control check against the technique's Chakra cost or fail anyway.
 
 #### --( Gogyou Kaiin - Five Elements Unseal )--
 The opposite of the Five Elements Seal, but of much broader utility, this technique can remove any seal of equal or lesser strength.
 
- - Chakra: +20, raised to +40 if it hits
- - Speed: +14
+ - Chakra: 20, raised to 40 if it hits
+ - Range: Touch
+ - Speed: 15
 
-Effects: This is used as a link to any basic unarmed attack, and can target a single seal on an object or person; On an object it typically doesn't have any associated Accuracy to worry about, but on a person it requires a Called Shot be made to the part of the body where the Seal is located. On a hit, That seal is removed. This affects any seals described in this section. This technique may be able to remove seals not described in the PHB... or, it may not.
+Effects: This can target a single seal on an object or person; On an object it typically doesn't have any associated Accuracy to worry about, but on a person it requires a Called Shot be made to the part of the body where the Seal is located. On a hit, That seal is removed. This affects any seals described in this section. This technique may be able to remove seals not described in the PHB... or, it may not.
 
 #### --( Fuuja Houin - Evil Sealing Method )--
 Not all seals can be removed easily. This circumvents that by suppressing Fuuinjutsu, Juuinjutsu, or any sort of chakra-based markings, on a person. The technique's greatest failing is its dependence upon the recipient to provide some of the strength behind it, meaning they can overcome its effects at will, making it useless for offensive applications.
@@ -238,18 +243,19 @@ Not all seals can be removed easily. This circumvents that by suppressing Fuuinj
 - Chakra: 30
 - Range: Touch
 - Speed: 10
-- Seal Speed: 20
+- Seal Speed: 40
 
 Effects: This suppresses any seal in this section of the PHB, and many which are not. While the seal won't be removed, it won't activate or have any of its normal effects as long as the Evil Sealing Method remains in place. This technique is dependent upon the recipient's willpower: all a person has to do is focus and the Evil Sealing Method will be disabled, until they spend 1 Willpower to reactivate it. Virtually any long-term chakra-based effect (even ones that aren't actually fuuinjutsu) can be suppressed by it. Even the effects and abilities of bloodlines can be sealed.
 
 #### --( Tsute Fuuin - Influence Seal )--
 This seal was originally created and placed upon servants of the Diamyo, ensuring those closest to them could not spy or sabotage the feudal lords. Over time, shinobi adapted to suit their own needs, which naturally meant that it found a usage in combat.
 
-- Chakra: +20, raised to +36 if it hits
-- Speed: +12
+- Chakra: 20, raised to 36 if it hits
+- Range: Touch
+- Speed: 20
 - Special: Exclusive
 
-Effects: This is used as a link to any basic unarmed attack. When you hit, make an opposed Espionage roll: If you succeed, the seal is placed without the target knowing.
+Effects: If you hit, make an opposed Espionage roll: If you succeed, the seal is placed without the target knowing.
 
 The seal is inactive by default, but as a Speed 4, Chakra 10 + X interrupt in response to any non-interrupt action they take, you can create a temporary form of paralysis which turns their own Chakra against them, preventing the action they were going to perform, and forcing them to make a Chakra (X * 2) roll. If they fail, they are not fatigued, and they do not roll the Chakra or Stamina rolls associated with their action, as they are prevented from performing it. Their IC is not advanced by the action's Speed, and instead they suffer a Stun 5. X has a maximum value of your Chakra Control Ranks. 
 
@@ -268,8 +274,9 @@ Effects: You can seal a single weapon with this technique. The weapon vanishes, 
 #### --( Nenshou Fuuin - Burning Seal )--
 A highly-specialized, highly-effective sealing technique used to prevent an individual from handling weapons. Though it's applied as a single seal, it appears on both the recipient's (or rather, victim's) hands, clearly recognizable as some form of ninja sealing technique or tattoo meant to emulate one. Whenever the recipient holds a weapon, the seal activates. As the lines of the seal begin glowing a dark, heated red, the victim's skin will start to burn and smolder. Within seconds their flesh will start to smoke as they're baked alive; if one is willful or self-destructive enough to not drop the weapon they're holding, they'll soon have their arms reduced into charred, blackened husks.
 
-- Chakra: +20, raised to +40 if it hits
-- Speed: +14
+- Chakra: 20, raised to 40 if it hits
+- Range: Touch
+- Speed: 16
 - Special: Exclusive
 
-Effects: This is used as a link to any basic unarmed attack. On a hit, you apply the seal, which activates whenever the person it's applied to holds a weapon. After 10 IC, a Minor Energy Wound is inflicted to whichever arm they were holding the weapon with; in the case of a two handed weapon, this is both arms. Dropping the weapon will end this technique's effects immediately. If they're currently suffering from a wound inflicted by the Burning Seal, it instead inflicts a wound of one higher category on that arm: Major, then Severe, then finally Critical. For example, if a shinobi drew a nodachi and decided to use it one-handed (holding it in their right hand) starting on IC 12, on IC 22 they would suffer a Minor Energy wound to their right arm. If they then began two-handing it, on IC 32 they would have a Minor on their left arm and a Major (in addition to the existing Minor) on their right. On IC 42 those would be Major and Severe; on IC 52, they would become Severe and Critical; and finally, by IC 62 they would have a Critical Energy wound on both arms.
+Effects: If you hit, you apply the seal, which activates whenever the person it's applied to holds a weapon. After 10 IC, a Minor Energy Wound is inflicted to whichever arm they were holding the weapon with; in the case of a two handed weapon, this is both arms. Dropping the weapon will end this technique's effects immediately. If they're currently suffering from a wound inflicted by the Burning Seal, it instead inflicts a wound of one higher category on that arm: Major, then Severe, then finally Critical. For example, if a shinobi drew a nodachi and decided to use it one-handed (holding it in their right hand) starting on IC 12, on IC 22 they would suffer a Minor Energy wound to their right arm. If they then began two-handing it, on IC 32 they would have a Minor on their left arm and a Major (in addition to the existing Minor) on their right. On IC 42 those would be Major and Severe; on IC 52, they would become Severe and Critical; and finally, by IC 62 they would have a Critical Energy wound on both arms.

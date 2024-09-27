@@ -107,7 +107,13 @@ A simple but elegant technique, the user brings their weapon up in a sequence of
  - Speed: 15 + (weapon's Speed)/2
  - Type: Slashing Melee
 
-Effects: Cross Wave has only a single Accuracy, and is treated as one attack. However, if the opponent uses a defense where they roll for a result (such as dodge or parry), they must roll twice. If the attack hits the first defense, that roll is used to determine how much partial defense, if any, is applied. If the second defense also fails (partial defense being ignored for this purpose), your attack's dice damage is tripled (from, for example, 5d8 to 5d8*3). If the attack misses against your opponent's first defensive roll, make the second roll. If it hits, this attack deals damage as a regular attack with your weapon (with the higher Speed associated with this technique). Using a two-handed weapon with this technique increases the Stamina cost by an additional +5.
+Effects: Using a two-handed weapon with this technique increases its Stamina cost by an additional +5. Cross Wave has only a single Accuracy, and is treated as one attack. However, if the opponent uses a defense where they roll for a result (such as dodge or parry), they must roll twice. 
+
+If their first defensive roll fails, that roll is used to determine how much, if any, Partial Success applies to the attack's damage.  If the second roll also fails (with partial success not applying to its result), your attack's damage dice are tripled (from, for example, 5d8 to 5d8*3).  
+
+If their first defensive roll succeeds, they still make a second defensive roll.  If they succeed a second time, they have successfully avoided the attack; if they fail, then this technique deals damage as a regular attack with your weapon (using the final speed of Kousanami for its damage).  
+
+If someone blocks against this technique, it does not get its damage dice tripled.  If someone elects to not defend against Kousanami, however, it does.
 
 #### --( Kusari no Hebi - Chain Serpent )--
 With sufficient practice, the user can throw their chain weapon in such a way that it ricochets to strike their opponent multiple times, hitting and disarming them or tripping them at the same time, tugging on the chain to redirect it.

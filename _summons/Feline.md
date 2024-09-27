@@ -165,7 +165,7 @@ Your cat trains (sort of) hard to remain a valuable ally in combat! As your XP i
  + ( X/50 ) * 10 to Vitality
  + ( X/200 ) to Accuracy, Defensive rolls, Skill rolls, and Genjutsu rolls
  + ( X/50 ) * 0.1 to its Damage Bonuses
- + ( X/100 ) * 0.1 to its Movement Speed
+ + ( X/200 ) * 0.1 to its Movement Speed
 
 In all cases, you round down. The bonus to skill rolls only applies to skills the summon has listed.  
 
@@ -259,15 +259,15 @@ By raising their Chakra cost by 10, the Nekomata can replace its genjutsu roll w
 
 ###### 4. Abilities
 **Standard Actions**  
-This Summon can use the Dodge, Hide, Move, and Search actions, as described in the Combat chapter of the PHB. In addition, they can use Escape Grapple (E-rank Grapple jutsu) without having to pay any cost for its use.
+This Summon can use the Dodge and Move actions without spending any of its Summoner's AP. They can also use the Hide and Search actions, as described in the Combat chapter of the PHB. Finally, they can use Escape Grapple (E-rank Grapple jutsu) without having to pay any cost for its use.
 
 **Cremation** *(Chakra 16, Speed 6, 4 AP)*  
-This applies an Ignite 1 to everyone present in battle, as pale blue, ghostly flames briefly flicker over them.
+This applies an Ignite 1 to everyone present in battle, as pale blue, ghostly flames briefly flicker over them.  There is no defense or status roll with this.  The Nekomata themselves are immune, but their summoners are not.  This Ignite stacks with Spirit Flame's Ignite.
 
 **Spirit Flame** *(Chakra 10 * X, Speed 14)*  
 The nekomata creates Xd4 wisps of hovering blue fire. You may pay 2 AP to have the Nekomata launch one of these at a target, using its normal Accuracy +3. After somebody's been hit by Spirit Fire, they can't be targeted by it again until at least 5 IC have passed.
 
-Anyone struck by a Spirit Flame suffers Ignite 5 and Burns 3. Both those statuses will stack with multiple uses of Spirit Fire, increasing the victim's current severity (from this source) appropriately. By raising the cost to attack with a flame to 5 AP, you may use your Accuracy in place of the Nekomata's; you may do this no more than once every 10 IC.
+Anyone struck by a Spirit Flame suffers Ignite 5 and Burns 3. Both those statuses will stack with multiple uses of Spirit Flame (and with Cremation), increasing the victim's current severity (from this source) appropriately. By raising the cost to attack with a flame to 5 AP, you may use your Accuracy in place of the Nekomata's; you may do this no more than once every 10 IC.
 
 **Phantasmal Flames** *(Chakra 16, Speed 10, 8 AP)*  
 This multiplies the number of Spirit Flames present by 1d4. Any 'extras' created this way are just illulsions. For example, if there were 3 Spirit Flames, and you rolled a 3 on Illusionary Flames, you would wind up with 3 real flames, and 6 illusions, for (3*3) 9 total. If you use this ability again, it replaces (rather than adds to) any currently-existing phantasmal flames.
@@ -349,6 +349,7 @@ Unlike most summons, the Rakshasa may spend Willpower-- or, more specifically, i
 Unlike most summons, Rakshasa will sometimes turn against the ninja who called upon them--but there's no way of knowing that one is planning to do so until it's too late. Every time the Rakshasa is given a task, or acts in combat, there is a 10% chance that it will somehow turn against the summoner. This could mean informing people who it was sent to spy on that the summoner is nearby, or sabotaging the path it was sent to scout; in combat, this check is made whenever it attacks. If the 10% chance takes place, it instead attacks the summoner with the same technique. After the Rakshasa betrays their summoner this way, it will disappear (often cackling evilly as it does so); after five checks have been made without betraying the summoner, that particular Rakshasa will not do so for the remainder of the time it's summoned. Additionally, Rakshasa will not betray summoners with 6000 or more XP.
 
 ###### 4. Abilities
+Rakshasa can use the Dodge and Move actions without spending any of the Summoner's AP.
 
 **Banishment** *(Speed 6, Chakra 30, 4 AP)*  
 This technique can be used in response to any attack which targets the Rakshasa, including area-of-effect techniques whose radius it's in. The Rakshasa traces a mandala in mid air, the symbols etching themselves in ghostly flames, and the offending objects are removed. Used against ninjutsu, the technique disappears completely, as if it had never been used (though any costs are still paid). Against weapon taijutsu, the weapons vanish; unique weapons (ones not from the Equipment section of the PHB) reappear 2d100 yards away from the Rakshasa, in the opposite direction from the attacker. Melee attackers instead reappear 2d20 yards in a direction of the Rakshasa's choosing.

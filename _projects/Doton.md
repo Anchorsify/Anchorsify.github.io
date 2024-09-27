@@ -264,6 +264,8 @@ The dome has 400 + (Ninjutsu damage bonus)*10 HP; anyone who can see or sense Ch
 
 You must keep one hand on the dome at all times, and accordingly can not move; if you break contact the above effects end (and cannot be reestablished), but the dome retains any HP it had at that point.
 
+Attempts to go underground will be prevented and automatically fail while the Dome retains hit points, such as through Moguragakure no Jutsu.  Earth Shaping, similarly, will not work to damage the dome, as it is constantly reinforced with Chakra.  Similarly, other area of effect upkeeps (such as Grudge Rain) will not work on anyone within Dorou Domu, as the dome protects them from its effects while it's retained (though the person outside of the dome is certainly effected). Effects which are not upkeeps (such as Dokugiri), if already present when this technique is used, continue to persist within the dome and affect everyone within the dome normally.
+
 #### --( Doryuu Jouheki - Earth Flow Rampart )--
 Feeding your chakra into the ground you cause the earth to rise under your feet into a large rampart. The shape of the rampart can be anything from level ground to a steep, needle like mountain, and it is mostly used for walling something off, slowing down pursuers, or reaching that jar off the top shelf that is always so hard to reach.
 

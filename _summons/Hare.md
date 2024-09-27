@@ -151,7 +151,7 @@ The Jade Rabbit is a beacon of hope but also one of light! This technique uses t
 **Bite** *(Speed 8, 4 AP)*  
 Not an amazing combatant, the Jade Rabbit usually gets out of dangerous situations using it's teeth. A bite inflicts 4d8 piercing damage and is considered a basic unarmed attack. The Jade Rabbit's bite is far more painful than it is actually damaging and if it hits someone who is grappling it, it automatically gets a roll to escape the grapple, with a +10 to its roll.
 
-**Burning Brilliance** *(Special)*  
+**Burning Brilliance** *(Speed 14, Delay 4 + Special)*  
 If you do, in fact, summon the rabbit during the day, it appears in a spot 1d12 Yards away from you in a random direction (Chosen by rolling a D8 and north, north-east, etc). Once it appears there it bursts into flames and suddenly combusts, unsummoning itself in a burst of fiery flames, the blast counting as a C-rank Katon that does 10d20 damage in an 8 yard AoE centered on the Rabbit. The Rabbit's damage bonus is tripled and if it hits the user, it deals double damage.
 
 ###### 5. Terms of Contract
@@ -183,7 +183,7 @@ AGI: 70
 Accuracy: 32  
 Dodge: +18  
 Parry: +26  
-Genjutsu: +10  
+Genjutsu: +16  
 Damage Bonus: 3.0  
 Movement: 3 yard per IC, Floating  
 
@@ -198,10 +198,10 @@ For every Yojimbo after the first present on the battlefield, all the others rec
 
 ###### 4. Abilities
 **Standard Actions**  
-Yojimbo may use Dodge, Move, Parry, Katana Base Attack (8d8, Speed 13) and Block as described in the Combat chapter of the PHB, without their summoner needing to spend AP.
+Yojimbo may use Dodge, Move, Parry, Katana Base Attack (10d10, Speed 13) and Block as described in the Combat chapter of the PHB, without their summoner needing to spend AP.
 
 **Iajutsu Strike** *(Speed 10, AP 15)*  
-The Yojimbo can make a quick strike as their first unsheathing, it gains an additional +3 Accuracy. The base damage is 8d8.
+The Yojimbo can make a quick strike as their first unsheathing, it gains an additional +3 Accuracy. The base damage is 10d10.
 
 **Defensive Formation** *(Speed Variable)*  
 Protecting a target is their bread and butter, well-trained Yojimbo keep their targets alive, it is their honor and their life. While there are two or more Yojimbo present, they can use the ability Defensive Formation, Total Defense, and Guard, as detailed in the Physical Abilities section.
@@ -259,6 +259,7 @@ The mind of this rabbit is very singular. It is immune to Stun, Genjutsu, Immobi
 The rabbit is small and has the luck of the moon! It has access to the Ninjutsu, Kawarimi. It also takes no damage from AoE attacks where it isn't the sole target.
 
 ###### 4. Abilities
+Satsu no Usagi can use the Dodge and Move actions without spending any of its Summoner's AP.
 
 **Sharp Teeth** *(Speed 8, AP 10)*  
 And he can leap about! When you use this attack, you can move up to 40 yards. This does 5d20 damage, and after you calculate it fully out, you double the total. In addition, it counts 50% higher for the purposes of wounding. It inflicts Slashing wounds and if it every inflicts a critical head, roll 1d20. On a 20, the opponent's head comes clean off and they die.

@@ -148,7 +148,7 @@ Cobras, being of exceptionally keen minds, are well aware of humanity's place in
  + ( X/50 ) * 10 to Vitality
  + ( X/200 ) to Accuracy, Defensive rolls, Skill rolls, and Genjutsu rolls
  + ( X/50 ) * 0.1 to Damage Bonuses
- + ( X/100 ) * 0.1 to Movement Speed
+ + ( X/200 ) * 0.1 to Movement Speed
 
 In all cases, you round down. The bonus to skill rolls only applies to skills the summon has listed.  
 
@@ -175,7 +175,7 @@ Cobras may use the Block, Dodge, Hide, Move, and Parry (unarmed only) actions as
 The cobra bites someone! This does 10d10 damage. If partial defense does not apply, the opponent must also defend against the cobra's venom, with the cobra receiving a +5 bonus to its Toxicology roll.
 
 **Constrict** *(Speed 14, 6 AP)*  
-A cobra can grab someone and wrap them in its tail. This is treated as a grapple, but the cobra suffers none of the normal penalties for being in a grapple; however, it cannot move while holding someone this way. Every 10 IC, the person being constricted suffers a Suffocation 1 and takes 5*(cobra's damage bonus) damage. The cobra has a +5 bonus to its rolls to maintain the grapple. Escape Grapple cannot be used to escape from a cobra's coils. If the cobra chooses to Bite the person it's constricting, their defense has a -6 penalty.
+A cobra can grab someone and wrap them in its tail. This is treated as a grapple, but the cobra suffers none of the normal penalties for being in a grapple; however, it cannot move while holding someone this way. Every 10 IC, the person being constricted suffers a Suffocation 1 and takes 5*(cobra's damage bonus) damage, which can not wound. The cobra has a +5 bonus to its rolls to maintain the grapple. Escape Grapple cannot be used to escape from a cobra's coils. If the cobra chooses to Bite the person it's constricting, their defense has a -6 penalty.
 
 **Devour Illusion** *(Speed 15, 5 AP, Chakra 20)*  
 When confronted with a genjutsu, cobras can siphon the chakra sustaining it out of the air and "eat" it. This works against area-of-effect genjutsu as well as genjutsu affecting individuals, though in the latter case whoever has the genjutsu on them broken also advances 1 Fatigue level. This may only be used on willing individuals.
@@ -200,7 +200,7 @@ This jutsu drives its victims slowly, if temporarily, insane. It begins with a s
 Every 10 IC, the victim suffers a Suffocation 1, loses 5% of their maximum Vitality (or HP if they have run out of Vitality), and suffers a cumulative -1 penalty to defend against genjutsu. This will continue indefinitely until the victim falls unconscious or the cobra is unsummoned (due to taking too much damage, or for any other reason). There is no other way to break this technique.
 
 **Venomous Spit** *(Speed 12, 10 AP, Chakra 10)*  
-High-velocity projectile poison! It deals 2d4 * 5 damage, ignores damage reduction and blocking, and may be a called shot--if used as a called shot, it has +1d6 accuracy. Someone hit by the spit must make a Resistance roll with a +3 bonus or be poisoned. It does not inflict wounds. However, if it's a called shot made at the victim's head, they suffer a -8 visibility penalty which is reduced by 1 every 10 IC, to a minimum of -4. Afterwards, it is reduced by 1 every week, finally fading entirely after a month. As it turns out, having poison in your eyes sucks.
+High-velocity projectile poison! It deals 2d4 * 5 damage with a Range of 15, ignores damage reduction and blocking, and may be a called shot--if used as a called shot, it has +1d6 accuracy. Someone hit by the spit must make a Resistance roll with a +3 bonus or be poisoned. It does not inflict wounds. However, if it's a called shot made at the victim's head, they suffer a -8 visibility penalty which is reduced by 1 every 10 IC, to a minimum of -4. Afterwards, it is reduced by 1 every week, finally fading entirely after a month. As it turns out, having poison in your eyes sucks.
 
 ###### 5. Terms of Contract
 A summoner may ask the cobra to provide some of its venom. It will offer enough venom to provide three doses. However, this is all it will do--after providing venom this way, it will unsummon itself (not staying around for combat, or to help otherwise); if it's already performed some other service for the summoner, it will refuse. This venom will last for three weeks, after which time it is no longer toxic.
@@ -271,11 +271,11 @@ This requires the hydras to all be within 50 yards of one another. They physical
  - Damage reduction, remaining Vitality, and maximum Vitality is combined.
  - Their Extended Range is changed to 20* (number of snakes) yards.
  - Whenever they attack, thay may choose up to (number of snakes) different targets.
- - +4 Accuracy, defensive rolls, grapple rolls, and skill rolls, for each snake beyond the first.
+ - +4 Accuracy, defensive rolls, and skill rolls, for each snake beyond the first.
  - Smash deals +5d12 damage per snake, and their damage bonus is increased by 1 per snake.
 
 **Constrict** *(Speed 10, 6 AP)*  
-A hydra can grab someone and wrap them in its tail. This is treated as a grapple, but the hydra suffers none of the normal penalties for being in a grapple. Every 10 IC, the person being constricted suffers a Suffocation 1 and takes 10* (hydra's damage bonus) damage. The hydra has a +10 bonus to its rolls to maintain the grapple. Escape Grapple cannot be used to escape from a hydra's constriction.
+A hydra can grab someone and wrap them in its tail. This is treated as a grapple, but the hydra suffers none of the normal penalties for being in a grapple. Every 10 IC, the person being constricted suffers a Suffocation 1 and takes 10* (hydra's damage bonus) damage, which can not wound. The hydra has a +5 bonus to its rolls to maintain the grapple. Escape Grapple cannot be used to escape from a hydra's constriction.
 
 **Reflexive Block** *(Speed 4, 4 AP)*  
 In addition to being able to declare blocking normally, hydras may do so reflexively as a Speed 4 Interrupt if their summoner spends 4 AP.

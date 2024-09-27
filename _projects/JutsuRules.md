@@ -88,6 +88,8 @@ By default, all Bunshin follow the same basic rules listed in the Bunshin no Jut
 
  - Clones, when created, copy over any Genjutsu affecting their creator automatically.  If the creator was aware they were under a genjutsu, so are the clones.
 
+ - Clones copy over any status effects affecting their creator (except for Kage Bunshin) at the time they were created.
+
  - Clones can only perform actions listed in their action options (which means only Moku and Kage Bunshin could perform actions such as Meditation), though you can spend AP to reduce their speeds. Bunshin act on their own IC, separate from their creator, and using them does not increase the user's IC unless explicitly mentioned. 
 
  - As they are separate entities, they do not benefit from any jutsu you use that designates you. They would also count as individual entities for jutsu that can target/avoid a set number of targets. Any bunshin that can take actions (such as through the use of AP, or being independent) can talk, Bunshin that can not take actions cannot. 
@@ -100,7 +102,7 @@ By default, all Bunshin follow the same basic rules listed in the Bunshin no Jut
  
  - Effects based upon consecutive actions (such as Tsuga, or Relentless, or Combos) are tracked separately for each bunshin (and accordingly, separately from you), and you do not gain any bonuses (or penalties) associated with their actions.
 
- - Bunshin which have their own Fatigue are created as a Fatigue 1 version of you, with all the normal benefits and penalties, along with all status effects present on you at the time of their creation.  Bunshin which specify they have their own Fatigue and pay their own costs accordingly can take on their own Upkeeps, otherwise, you pay all their Fatigue costs (all Stamina and Chakra Exhaustion rolls they make, or are forced to make), and take on any Upkeeps from actions they perform. Bunshin which have their own Fatigue can never use the medical ninjutsu Vital Repair or Mystic Palm (including Wood and Shadow clones).
+ - Bunshin which have their own Fatigue are created as a Fatigue 1 version of you, with all the normal benefits and penalties.  Bunshin which specify they have their own Fatigue and pay their own costs accordingly can take on their own Upkeeps, otherwise, you pay all their Fatigue costs (all Stamina and Chakra Exhaustion rolls they make, or are forced to make), and take on any Upkeeps from actions they perform. Bunshin which have their own Fatigue can never use the medical ninjutsu Vital Repair or Mystic Palm (including Wood and Shadow clones).
  
  - Should a Bunshin that can make their own Fatigue rolls fail a Stamina or Chakra Exhaustion check badly enough that it would bring them one or more levels of fatigue beyond the point at which it would normally destroy itself, the technique fails outright in addition to the clone destroying itself. This is effectively just an extension of the normal rules of what happens when someone knocks themselves too far unconscious from the costs of one technique.
 

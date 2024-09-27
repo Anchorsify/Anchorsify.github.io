@@ -187,11 +187,11 @@ Blinds opponents who don't know to close their eyes. Not affected by doujutsu wh
  - Seal Speed: 10
  - Tags: Area of Effect
 
-Effects: When you use this technique, you and anyone in range make an opposed Initiative roll, with the victims getting a +4 bonus for each previous time this technique has been used in the current battle. If you beat their roll, they're blinded; if not, they managed to close their eyes in time.
+Effects: When you use this technique, you and anyone in range make an opposed Initiative roll with the victims getting a +4 bonus for each previous time this technique has been used in the current battle. If you beat their roll, they're blinded; if not, they managed to close their eyes in time.  There is no associated Accuracy or defensive interrupt allowed against this technique besies the Initiative roll to determine if you avoid its effects.
 
 Anyone who is blinded is inflicted with a -8 Visibility Penalty which fades at a rate of 1 per 5 IC, and temporarily loses all ranks of the Enhanced Sight ability, as well as those dependent on it (namely Keen Senses, Assassin's Eye and Genjutsu Awareness). 
 
-Anyone with a Doujutsu (active or not) reduces their bonuse to successive rolls against this technique to only +2, and if blinded, has the effects of their Doujutsu suppressed until the Visibility Penalty from this technique has been reduced to -3 (which Byakugan can not ignore, as they are temporarily blinded).
+Anyone with a Doujutsu (active or not) reduces their bonus to successive rolls against this technique to only +2, and if blinded, has the effects of their Doujutsu suppressed until the Visibility Penalty from this technique has been reduced to -3 (which Byakugan can not ignore, as they are temporarily blinded).
 
 #### --( Chuubu Gaki no Jutsu - Ghoul Paralysis Technique )--
 After making contact with an enemy, you send a powerful pulse of electricity through their body, momentarily overstimulating their nervous system. For several seconds afterwards, the recipient of the shock will find their body sluggish and poorly responsive. While not actual harmful, this is exceptionally painful.
@@ -401,4 +401,6 @@ Concentrating your chakra, you project an invisible, wide area dome of chakra. M
  - Seal Speed: 34
  - Tags: Area of Effect, Environmental
 
-Effects: You can move up to CHA/10 yards from your original location while maintaining this technique; moving (or being forcibly moved) any further causes it to end. Within the field, all chakra-based sensing (such as chakra-sensory ninja, and the Yurokensei technique) has a -20 penalty, and Doujutsu outright fail to function (i.e., they give none of their normal benefits). Electronic and electrical devices in this area are additionally useless. The dampening also interferes with other lightning-based chakra, reducing the damage of all Raiton in its Area by 20%, and the large amounts of ambient lightning chakra interferes with earth-based chakra, reducing the damage of Doton by 25% and increasing their Chakra costs and Upkeeps (if relevant) by 5.
+Effects: Within the field, all chakra-based sensing (such as chakra-sensory ninja, and the Yurokensei technique) has a -20 penalty, and Doujutsu outright fail to function (i.e., they give none of their normal benefits). Electronic and electrical devices in this area are additionally useless. The dampening also interferes with other lightning-based chakra, reducing the damage of all Raiton in its Area by 20%, and the large amounts of ambient lightning chakra interferes with earth-based chakra, reducing the damage of Doton by 25% and increasing their Chakra costs and Upkeeps (if relevant) by 5.
+
+This technique is centered on the user and moves with them, but does so slowly; The field itself can shift its center point to follow you at a rate of 1 yard per IC, but if you ever go further than (CHA/10) yards from the center of the field, the upkeep is forcibly aborted, and the technique ends.

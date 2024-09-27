@@ -11,6 +11,7 @@ toc:
  - name: Rank Benefits
  - name: Infamy
  - name: Logs
+ - name: Second Characters
 ---
 
 The first question everyone has once they've spent their starting XP is, of course, what about breakfast? Becuase of course they've had one, but what second breakfast? Elevenses? Luncheon? Afternoon tea? Dinner? Supper? 
@@ -126,15 +127,15 @@ There are two ways to gain more Unique Points after creation: The first is by ra
 Because of the potential to *both* rank up *and* earn enough XP for additional Unique Points, there is a caveat: The first and second Unique Points earned by XP (at 2000 and 3000 XP, respectively), do not stack with those earned by any Chuunin: That is, even if you're a 3k XP Chuunin, you'd have a total of +2 Unique Points, not +4.  Similarly, the Unique Points earned from ranking up to Jounin do not stack with those gained at 5000 and 6000 XP.  The Unique points gained from other ranks stack with any earned from XP, however, you can only have a maximum of +4 Unique Points from Rank and XP Total, ever, which also means the maximum Unique Points you could ever have is 9.
 
 #### Village Status
- - 1. Academy Student
- - 2. Genin
- - 3. Chuunin
- - 4. Jounin
- - 5. Special Jounin
- - 6. ANBU
- - 7. Missing Nin
- - 8. Sennin
- - 9. Kage
+1. Academy Student
+2. Genin
+3. Chuunin
+4. Jounin
+5. Special Jounin
+6. ANBU
+7. Missing Nin
+8. Sennin
+9. Kage
 
 No matter what ranks or combination of ranks you obtain, you may only acquire a total of 4 Unique Points from ranking up. Thus, if you were promoted to Chuunin, then to Special Jounin, and later transferred to full Jounin status, you would have 2+1+2 = 5 -> +4 UP from your rank.
 
@@ -317,7 +318,7 @@ Pick one Chuunin rank benefit you don't have. You acquire it.
 
 #### Special Jounin
 ##### Skill Mastery
-Choose a single skill which relates to your role as a Special Jounin; Medicine for a medic nin, Survival for a tracker, Chakra Control for a seal specialist, and so forth. You must already have the Specialization ability for that skill. When you roll below a 10 when using that skill, your d20 roll is instead considered to be a 10. Your maximum skill ranks are also increased by 3.
+Choose a single skill which relates to your role as a Special Jounin; Medicine for a medic nin, Survival for a tracker, Chakra Control for a seal specialist, and so forth. You must already have the Specialization ability for that skill. When you roll below a 10 when using that skill, your d20 roll is instead considered to be a 10.  This does not apply if you use a Willpower (or effects which follow the rules for Willpower). Your maximum skill ranks are also increased by 3.
 
 You must have GM approval for which skill you take this for. You may take Mastery more than once, each time applied to a different skill.
 
@@ -479,3 +480,17 @@ XP Bonus is only important if you have one. Unless you are a Clanless, a Juugo S
 You should rename "XP Bonus (__%)" to the actual percent you have; for example, "XP Bonus (10%)". In the accompanying box, multiply your Total by that percent. 10% of 131, for example, is 13.
 
 Total + Bonus is your Total XP, plus your XP Bonus.
+
+## Second Characters
+
+By default, you can only create and play one character at a time, as we want to encourage you to build up a character that is both mechanically and aesthetically complex and attached to both other characters, and plots, to engage in the world more with a character you'll stick with and grow to enjoy alongside others.  That said, once you've hit the cap of how much XP you're allowed to have spent, it can be demoralizing to be waiting for day rollovers to have XP to spent and to feel like you can't really engage with the game as much as you'd like, so second characters are allowed to be made--with some restrictions.
+
+Firstly, to create a second character, your first character must not just be at the XP Cap, but be **100 XP past it** in order to create a second character.  At present, third characters are not allowed to be created, though this may at some point change.
+
+Next, your second character can not be from the same village as your first: This both helps to create more diversity and increase player population within each village, and also helps protect against the next thing..
+
+.. Which is that your second character can't be related to or meaningfully know about, your first character.  Being 'aware of their existence' is fine, but your characters should never be said to, and are not allowed to, 'meet'.  Neither of your characters can aid or give or receive help from the other, be it Doctoring, Savings, items of any kind, Mentoring, or *any* other mechanical benefit. If you're found to be using one of your characters to aid another, you will lose your second character.
+
+Finally, you can only be in-character with one character at a time.  This means you can not spar with one character and RP with another simultaneously: we want people who you interact with to have as much of your attention as is needed for a scene, which means no multi-tasking by playing both at once, to show respect to your fellow players.
+
+The sheet at present tracks whether you are eligible for a second character automatically, so be sure to check 'The Log' tab and look at M22 (as of the most recent sheet) to see whether you are eligible for a second character.

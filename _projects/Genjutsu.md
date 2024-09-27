@@ -244,7 +244,7 @@ Effects: This can only be used on helpless or willing recipients. It places the 
 #### --( Magen: Tetsuotome no Jutsu - Demonic Illusion: Iron Maiden Technique )--
 Chains burst from the ground beneath the victim and wrap around their legs, anchoring them in place, followed by two halves of an iron maiden, either on each side of the victim or in front of and behind them. The iron maiden slams shut with them in it, causing excruciating pain and a slew of debilitating injuries.
 
- - Chakra: 36
+ - Chakra: 32
  - Range: 25
  - Speed: 20
  - Seal Speed: 18

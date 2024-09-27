@@ -129,7 +129,7 @@ The leech swarm takes only 1/4 damage from single-target attacks, and is immune 
 **Might of the Meek**  
 Leech Swarms, while not what anyone would call intelligent, are able to seemingly meet the potential of their summoner, and are able to be called upon in greater numbers, even without additional Chakra expenditure, given the Shinobi calling on them is sufficiently skilled. Whenever you summon a Leech Swarm, subtract the minimum XP required to summon it (1500 XP) from your Earned XP: that is the X value to determine what bonuses, if any, it gets from the following modifiers.  X has a maximum of 3500.  
  + ( X/50 ) * 10 to Vitality
- + ( X/100 ) * 0.1 to Movement Speed
+ + ( X/200 ) * 0.1 to Movement Speed
 
 In both cases, you round down.
 
@@ -185,7 +185,7 @@ The slug swarm takes only 1/4 damage from single-target attacks, and is immune t
 Slug Swarms, while easily misunderstood and often disliked for their slimy, caustic natures, are able to summoned in greater numbers by more experienced shinobi, even without additional Chakra expenditure. Whenever you summon a Slug Swarm, subtract the minimum XP required to summon it (2500 XP) from your Earned XP: that is the X value to determine what bonuses, if any, it gets from the following modifiers.  X has a maximum of 2500.  
  + ( X/50 ) * 10 to Vitality
  + ( X/200 ) to Accuracy
- + ( X/100 ) * 0.1 to Movement Speed
+ + ( X/200 ) * 0.1 to Movement Speed
 
 In both cases, you round down.
 
@@ -227,9 +227,10 @@ DEX: 100
 AGI: 50  
 
 Accuracy: 42  
-Damage Bonus: 8.0
-Genjutsu Offense: +26  
-Genjutsu Defense: +36
+Damage Bonus: 8.0  
+Chakra Exhaustion: +25  
+Genjutsu Offense: +32  
+Genjutsu Defense: +36  
 Movement: 5 yards per IC.  
 
 Athletics: +10  
@@ -248,7 +249,7 @@ Anyone not of Huge size or larger attempting to parry an attack from this creatu
 The Rock Snail does not need to make Stamina rolls for its actions. If forced to for other reasons (such as Suffocation), it uses +25 for its effective bonus to Fatigue rolls.
 
 **Bestial**  
-The Rock Snail isn't driven by higher desires like many other summons (and ninja), as a result it cannot be bribed or reasoned with. It has a +10 bonus to its defenses aginst any form of genjutsu, which is factored into its aboe statistics.
+The Rock Snail isn't driven by higher desires like many other summons (and ninja), as a result it cannot be bribed or reasoned with. It has a +10 bonus to its defenses aginst any form of genjutsu, which is factored into its above statistics.
 
 **Rocky Exterior**  
 Rock Snails have a Damage Reduction of 50.
@@ -273,7 +274,7 @@ This action can be used to bring the Rock Snail's head into its shell. Its Aware
 The Rock Snail dives forward as fast as it's slimy underside can carry it. Making a rampaging charge, the Snail crushes anything that gets in it's path. It runs in a 20 yard straight line, that is 7 yards wide, dealing 12d20 damage to anything it goes over. If the terrain it moves through is rocky then it gains 5 DR every time it uses this.
 
 **Like a Rock** *(Variable)*  
-Being almost a part of the mountains, the snail can use all E-rank, D-rank, and C-rank Doton Techniques. It cannot wield a weapon.
+Being almost a part of the mountains, the snail can use all E-rank, D-rank, and C-rank Doton Techniques. It cannot wield a weapon.  It costs 1 AP per 2 speed of the technique it is commanded to use at its regular Chakra cost, though the Rock Snail ignores any Seal Speeds the techniques may have.
 
 ###### 5. Terms of Contract
 The Rock Snail is slightly a coward and will keep itself away from some situations, but it will never abandon you until you dismiss it. It is a loyal creature and feels that if you summon it you really need its aid. It still cannot be convinced to go into saltwater or to go through fire.

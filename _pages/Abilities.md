@@ -87,7 +87,7 @@ Your precise control of chakra allows you to spend it more efficiently, wasting 
 
 - Base Cost: 6
 - Scale: 2
-- Limit: Chakra Control /5
+- Limit: Chakra Control /5, max 5
 
 #### -=[ Wall Walking ]=-
 Every village teaches this, usually to their genin, as a form of training to hone their chakra control skills. Training involves focusing a fixed amount of chakra at the bottom of one's feet and using that to adhere to a wall, tree, or other vertical surface. With this ability you can scale vertical surfaces, stand on ceilings, and so forth, at your normal movement speed.
@@ -212,7 +212,7 @@ Normally, when partial defense applies you would deal 20% of your attack's damag
 
 ##### 2. Weapons, Melee
 #### -=[ Ambidextrous ]=-
-You've trained yourself to use your off-hand just as well as your dominant one, or you really are naturally ambidextrous. Each rank reduces the Accuracy penalty for the Dual Wield Attack action (see Dual Wielding, below) and each even rank (2 and 4) gives you a +1 bonus to parries while holding a weapon in each hand.
+You've trained yourself to use your off-hand just as well as your dominant one, or you really are naturally ambidextrous. Each rank reduces the Accuracy penalty for the Dual Wield Attack action (see Dual Wielding, below) and each odd rank rank (1, 3, and 5) gives you a +1 bonus to Parry when using your weapons to do so.
 
 - Base Cost: 5
 - Scale: 2
@@ -360,7 +360,7 @@ Your extensive physical conditioning has given you an almost preternatural abili
 - Requires: 60 RES
 
 #### -=[ Fortitude ]=-
-Every rank of this ability gives you a +1 bonus to Resistance rolls when you block an attack (even if you are doing so reflexively); if you've declared that you're blocking, this also applies to any effects requiring a Resistance roll which you wouldn't normally get to defend against (such as the B-rank Poison Mist). If you've declared you're blocking as a Variable Speed Action, and take another defense (for example: you are blocking from IC 20 to IC 30, and on IC 24 you dodge an attack, and are hit), you still gain this bonus.
+Every rank of this ability gives you a +2 bonus to Resistance rolls when you block an attack (even if you are doing so reflexively); if you've declared that you're blocking, this also applies to any effects requiring a Resistance roll which you wouldn't normally get to defend against (such as the B-rank Poison Mist). If you've declared you're blocking as a Variable Speed Action, and take another defense (for example: you are blocking from IC 20 to IC 30, and on IC 24 you dodge an attack, and are hit), you still gain this bonus.
 
 - Base Cost: 2
 - Scale: 2
@@ -386,7 +386,7 @@ You get plenty of exercise, and probably eat healthily. When your job places ser
 
 - Base Cost: 6
 - Scale: 2
-- Limit: Athletics /5
+- Limit: Athletics /5, max 5
 
 #### -=[ Power Attack ]=-
 You put extra force behind your unarmed strikes, turning your feeble punches into fearsome punches! Or... something like that. Each rank allows you to increase the Stamina cost, and die size, of your basic unarmed attack by 2. So at rank 1, you could deal 2d6 damage for 7 Stamina; and at rank 4, you could deal 2d12 damage for 13 Stamina.
@@ -612,13 +612,13 @@ Your force of will is as powerful an advantage in combat as your strength of bod
 - Limit: XP /1000
 
 #### -=[ Focus ]=-
-Being left reeling and disoriented is an all-too-common experience for shinobi. Sometimes it's the result of genjutsu, other times it's a lucky blow to the solar plexus (or... lower). You're able to bring yourself back to the presence, by sheer mental fortitude, though doing so is bound to wear you out faster in the long run. By spending 1 Willpower, you end any Stuns you're suffering from and become immune to any other instances of that status effect until the end of the current Initiative Count.
+Being left reeling and disoriented is an all-too-common experience for shinobi. Sometimes it's the result of genjutsu, other times it's a lucky blow to the solar plexus (or... lower). You're able to bring yourself back to the present, by sheer mental fortitude, though doing so is bound to wear you out faster in the long run. By spending 1 Willpower, you end any Stuns you're suffering from and become immune to any other instances of that status effect until the end of the current Initiative Count.
 
 - Base Cost: 40
 - Requires: 4 Willpower
 
 #### -=[ Guts ]=-
-You refuse to go down in battle. So long as you're physically able to breathe, you will not stop fighting when your values are on the line. This can get downright frightening to behold, depending upon the circumstances. Whenever you would be reduced to 0 HP or lower, roll a TN 25 Stamina check. If you succeed, you are left with 1 HP, and cannot have your HP reduced until the end of that initiative count. If you fail, in addition to your Fatigue progressing you take the damage you normally would have from the attack. Damage negated through this ability still wounds you normally.
+You refuse to go down in battle. So long as you're physically able to breathe, you will not stop fighting when your values are on the line. This can get downright frightening to behold, depending upon the circumstances. Whenever you would be reduced to 0 HP or lower, roll a TN 25 Stamina check. If you succeed, you are left with 1 HP, and cannot have your HP reduced until the end of that initiative count. If you fail, in addition to your Fatigue progressing you take the damage you normally would have from the attack. Damage negated through this ability still wounds you normally.  Clones, of any kind, can never benefit from this ability.
 
 - Base Cost: 50
 - Requires: 3 Willpower
@@ -714,7 +714,7 @@ This ability allows you to focus on a single skill at the expense of your overal
 - Scale: +1 Skill Point every odd-numbered rank (Ranks 1 and 2 cost 2 SP; ranks 3 and 4 cost 3 SP; and so forth).
 
 #### -=[ Specialization ]=-
-You practice extensively with a chosen skill, so that even while you may still make mistakes, you don't make catastrophic ones; even at your worst, you're not terrible. Any time you roll below a 5 on a roll with that skill, your d20 roll is instead considered to be a 5. You may take this ability multiple times. Each time you take it, it applies to a different skill.
+You practice extensively with a chosen skill, so that even while you may still make mistakes, you don't make catastrophic ones; even at your worst, you're not terrible. Any time you roll below a 5 on a roll with that skill, your d20 roll is instead considered to be a 5. You may take this ability multiple times. Each time you take it, it applies to a different skill.  This does not apply if you use a Willpower (or effects which follow the rules for Willpower).
 
 - Base Cost: 10
 - Scale: 0

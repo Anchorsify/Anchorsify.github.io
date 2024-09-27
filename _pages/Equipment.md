@@ -59,7 +59,7 @@ You pick up a weapon on the ground. This can be your weapon, or someone else's, 
 You use a weapon you're holding to knock an enemy's out of their grasp, usually by hitting it at such an angle, and with enough force, that it becomes physically impossible for them to hold onto it. This is a basic weapon attack that does no damage, but if it hits you knock their weapon STR/10 yards in any direction (if straight up, the weapon lands at their feet but cannot be retrieved for STR/10 IC). Trying to Parry a Disarm attempt has a -3 penalty. Small weapons cannot disarm Large weapons, and Large weapons lack the finesse to be used to disarm at all.
 
 ## Melee Weapons
-Next to a weapon's name are various characteristics of the weapon, useful for determining what kind of wounds it inflicts and what jutsu it may be used with. Of particular note is the "Two-Handed" descriptor, meaning the weapon in question may only be used by holding it in both hands. When being used two-handed, the weapon increases its user's Damage Bonus by 25%. This multiplication only applies to the STR/15 (or similar stat-derived divisor, if it's somehow changed), and does not apply to abilities or jutsu which add to or subtract from your damage bonus.
+Next to a weapon's name are various characteristics of the weapon, useful for determining what kind of wounds it inflicts and what jutsu it may be used with. Of particular note is the “Two-Handed” descriptor, meaning the weapon in question may only be used by holding it in both hands. When being used two-handed, the weapon increases its user’s stat-derived Damage Bonus by 33%. This multiplication only applies to the STR/15 (or similar stat-derived divisor, if it’s somehow changed), and does not apply to abilities or jutsu which add to or subtract from your damage bonus.
 
 ##### Blunt Weapons
 ###### Bo Staff (Blunt, Polearm, Two-Handed)
@@ -67,12 +67,10 @@ A weapon which sees more use in martial arts than among ninja, the bo staff is t
 
 - Cost: 100 Ryo
 - Stamina: 14
-- Damage: 6d10
+- Damage: 8d10
 - Accuracy: +1
 - Speed: 14
-- Special: Attacks from a Bo Staff do not trigger effects dependent upon being in melee with an enemy (such as most damage-on-hit effects), and you can parry unarmed attacks with a Bo Staff.  When attacking, you may "dual wield" a Bo staff with itself by attacking with both ends allowing it to be considered to have the 'Dual' tag for the attack, but when doing you lose its Accuracy bonus. If used in this way, you do not receive the Two-handed damage bonus multiplier.
-
- You can add the "Dual" tag for a Bo Staff when attacking, losing its Two-Handed tag and Accuracy bonus to do so, along with its ability to avoid effects dependent upon being in melee.
+- Special: Attacks from a Bo Staff do not trigger effects dependent upon being in melee with an enemy (such as most damage-on-hit effects). You can use Unarmed Taijutsu (but not Combo taijutsu) even while wielding a Bo Staff, so long as you are not wielding any other weapons. When attacking, you may "dual wield" a Bo staff with itself by attacking with both ends allowing it to be considered to have the 'Dual' tag for the attack, but when doing you lose its Accuracy bonus. If used in this way, you do not receive the Two-handed damage bonus multiplier.
 
 ###### Gunbai (Large, Blunt, Fan, Two-Handed)
 Large fans with reinforced wooden slats, these were originally used by generals to signal soldiers on battlefields. Then some ninja was looking for a way to be unique, got ahold of the idea, and, well... the usual. Though they're several feet long, these fans do (impressively) fold.
@@ -104,7 +102,7 @@ A pair of wooden handles attached by a length of rope or chain, a single nunchak
 - Damage: 5d8
 - Accuracy: +1
 - Speed: 10
-- Special: Consecutive basic attacks with Nunchaku with no other non-interrupt actions between them lowers its Speed by 1 and increases your Damage Bonus by 0.5, to a maximum of -4 and +2. The Speed reduction acts in all ways as if you'd spent AP to do so (and follows its normal limits). You can add the "Dual" tag to any attack you make with a Nunchaku, but you lose its Accuracy bonus for that attack.
+- Special: Consecutive basic attacks (or dual wield attacks with itself, see below) with Nunchaku with no other non-interrupt actions between them lowers its Speed by 1 and increases your Damage Bonus by 0.5, to a maximum of -4 and +2. The Speed reduction acts in all ways as if you'd spent AP to do so (and follows its normal limits). By using a single Nunchaku with both hands (which does not grant the Two-handed tag), You can add the "Dual" tag to any attack you make with a Nunchaku, but you lose its Accuracy bonus for that attack.
 
 ###### Sai (Blunt, Dual)
 A martial arts weapon, the sai consists of a single main, dagger-like spike, with two prongs extending from the handle. The points of this weapon are blunted, and the prongs reinforced; it's a primarily defensive weapon.
@@ -180,7 +178,6 @@ An infantry weapon among mundane armies, the Yari is about as simple as a polear
 - Cost: 125 Ryo
 - Stamina: 14
 - Damage: 8d12
-- Accuracy: -1
 - Speed: 14
 - Special: This weapon's damage is considered 20% higher for the purpose of inflicting wounds. Attacks from a Yari do not trigger effects dependent upon being in melee with an enemy (such as most damage-on-hit effects).
 
@@ -200,6 +197,7 @@ A weapon almost as traditional as the katana, and even more rarely appropriated 
 - Cost: 150 Ryo
 - Stamina: 16
 - Damage: 6d12
+- Accuracy: +1
 - Speed: 14
 - Special: Attacks from a Naginata do not trigger effects dependent upon being in melee with an enemy (such as most damage-on-hit effects).
 
@@ -767,7 +765,7 @@ Detonating a tag is a Chakra 5, Speed 10, Delay X action which requires you to p
 
 Fire will not cause tags to explode, nor will they explode in a “chain reaction”. A tag that is blown up or burnt, even a primed one, is just destroyed, however Tags that have been set to Detonate may not be attacked, and are immune to all damage once they begin their countdown.
 
-Tags do 5d20.open(10) damage, in Area 20. If multiple tags are set off on the same IC (and someone is hit by them all), their damage is combined for determining what wounds they inflict; explosions inflict Blunt wounds. When detonated, tags count as a Speed 8 (+2 per tag) attack that cannot be made faster by any means. When detonated, the explosion can not be defended against. Anyone who escapes their area in time automatically avoids all damage.
+Tags do 5d20.open(10) damage, in Area 20. If multiple tags are set off on the same IC (and someone is hit by them all), their damage is combined for determining what wounds they inflict; explosions inflict Blunt wounds.  When detonated, the explosion can not be defended against, but anyone who escapes their area in time automatically avoids all damage.
 
 Certain jutsu may cause tags to explode immediately; in this case, the explosion may be dodged normally, using the attack's Speed to determine valid defenses and area-of-effect dodge penalties, if any.
 
@@ -821,7 +819,7 @@ Once someone's a chuunin, they have enough pull to get these: smoke bombs design
 
 A more powerful version of the regular exploding tags, not given to genin because experience has shown, time and again, that genin really can't be trusted with high-end explosives. Chuunin, however, are more responsible--at least, in theory.
 
-Therefore, they get to play with the big explosions! Type 2 tags function identically to regular exploding tags more regards, though the deal 7d20.open(10) damage and have an Area of 30, and are considered C-rank General Ninjutsu, with a +7 bonus to the user's Ninjutsu Accuracy. Additionally, they deal double damage to inanimate objects (such as walls, but not including jutsu-based defenses).
+Therefore, they get to play with the big explosions! Type 2 tags function identically to regular exploding tags more regards, though the deal 7d20.open(10) damage and have an Area of 30. Additionally, they deal double damage to inanimate objects (such as walls, but not including jutsu-based defenses).
 
 #### Jounin
 ##### Hand Guards
@@ -841,7 +839,7 @@ You may also block with these guards, with the same wound location and severity 
 
 The end-all and be-all of 'mundane' explosives, reserved for jounin simply because of how difficult they are to produce, which is in turn reflected in how troublesome they are to get ahold of.
 
-Type 3, like Type 2, deal double damage to inanimate objects. They deal 10d20.open(10) damage, and have an Area of 50, and are considered B-rank General Ninjutsu, with a +10 bonus to the user's Ninjutsu Accuracy.
+Type 3, like Type 2, deal double damage to inanimate objects. They deal 10d20.open(10) damage, and have an Area of 50, and deal triple damage to inanimate objects (such as Walls, but not including jutsu-based defenses).
 
 #### ANBU
 ##### ANBU Mask

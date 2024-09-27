@@ -110,6 +110,7 @@ Any Katon or Fuuton technique can be converted to Shakuton as a Chakra +5, Speed
  - Inflict a Dehydration status of severity (1 per Rank of the jutsu) + CHA / (90 - 10*Rank). In other words, for an E-Rank this is 1+CHA/80, for a D-Rank it is 2+CHA/70, and so on, up to 5+CHA/40 for A-rank techniques
  - Shakuton can increase a victim’s Dehydration status up to a maximum of 3+(CHA/8)
  - Shakuton can not inflict Burns or Ignite
+ - Fuuton converted to Shakuton may not be used with a Fan.
  - Any Ignite a technique would normally inflict instead adds +5% to Wounding per severity of Ignite
  - Any jutsu converted with an inherent bonus to Wounding instead applies a Stun of (Wounding Bonus%)/20, rounded down
  - Shakuton techniques can not be reduced below Speed 5, after all other modifications
@@ -440,6 +441,7 @@ Any Fuuton or Doton technique can be converted to Jiton as a Chakra +5, Speed +0
  - Interrupt Jiton do not create Sand; those of Rank D or below remove all Gallons of Sand used with them from the battlefield, while those of Rank C or higher remove only half the Gallons of Sand used with them.
  - Non-Interrupt Jiton have their base Speed increased by 1 per Rank (E = +1, D = +2, etc, up to A = +5).  Thus, a Jiton Retsudotensho would be treated as a Speed 23 action for all purposes (including its minimum Speed after reductions), rather than 20.
  - Jiton with Upkeeps grant the Monkasei an amount of Charge equivalent to the Upkeep the Monkasei suffers from while maintaining them; Upkeeps from other sources (such as Chakra Strengthening) do not grant the Monkasei any Charge.
+ - Fuuton converted to Jiton may not be used with a fan.
  - If a Jiton has its Seal Speed reduced to 0, then you need not make any handseals for it at all.
  - Jiton is strong against Doton and Raiton, but weak against Fuuton.
 

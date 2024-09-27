@@ -112,7 +112,7 @@ Much like Kaguya themselves in battle, their bloodline seems to grow stronger ov
  - Scale: 0
  - Limit: Maximum Willpower
 
-Effects: Whenever you acquire a Skeletal Modification, from any source, you may increase your Stamina penalty by 2 and gain any other Skeletal Modification (which does not have to be one that technique could normally provide). This may be used a number of times per battle equal to your Rank in this ability. 
+Effects: Whenever you acquire a Skeletal Modification, from any source other than Corpse Bone Chain, you may increase your Stamina penalty by 2 and gain any other Skeletal Modification (which does not have to be one that technique could normally provide). This may be used a number of times per battle equal to your Rank in this ability. 
 
 #### --( Teshi Sendan - Ten-Finger Drilling Bullets )--
 You fire the bones of your fingertips at opponents.  They fly faster than most weapons, and rotate quickly enough to literally drill through most defenses before losing their momentum.
@@ -210,7 +210,7 @@ When used, this technique effectively destroys any other terrain-based effects (
 After a few hours the bones will grow brittle as the chakra dissipates, beginning to crumble. Within a day there will be nothing left but dust and bone chips.
 
 ###### -=[ Skeletal Modifications ]=-
-As the Kaguya fight, their skeletal structure becomes increasingly better-adapted for combat. Every time you use one of your clan jutsu, you gain one of the following modifications. You can apply them repeatedly, their effects stacking additively.
+As the Kaguya fight, their skeletal structure becomes increasingly better-adapted for combat. Every time you use one of your clan jutsu in combat, you gain one of the following modifications. You can apply them repeatedly, their effects stacking additively.
 
 Additionally, every time you suffer a Wound you gain a Skeletal Modification of your choice.
 
@@ -501,7 +501,8 @@ Touu have the ability to use one of the coveted advanced chakra natures: Ice Rel
 
 Any Suiton or Fuuton technique can be converted to Fuuton as a Chakra +5, Speed +0 link, with the following changes: 
 
- - Hyouton inflicts Piercing wounds, and blocking reduces the damage of Hyouton techniques by 25% less.
+ - Hyouton inflicts Piercing wounds, and Ignores Armor.
+ - Blocking reduces the damage of Hyouton techniques by 25% less.
  - Hyouton’s damage for the purpose of wounding is considered 25% higher, which stacks additively with other increases on converted techniques (50% + 25% = 75%)
  - You may forego rolling any or all of the damage dice when using a Hyouton technique, treating the result of those dice as equal to one higher than half the die size (d4’s become 3, d6’s become 4, d8’s become 5, etc).  You must declare how many dice you are applying this to before rolling damage.
  - Fuuton converted to Hyouton may not be used with a fan, and gain a gallons of water requirement equal to 1/5 their Chakra cost.
@@ -513,9 +514,9 @@ Hyouton is weak against Katon, and strong against Doton and Suiton
 ###### --( Frostbite )--
 This is a Status Effect, applied on hit. As someone is struck by Hyouton, their core body temperature begins to lower from the extreme cold, slowing their movements and actions.  Frostbite inflicts an Immobilization penalty equal to its severity, and for each point of Frostbite someone has, they take 1% of their current Vitality in damage every 10 IC.  If they have no Vitality remaining, the damage is calculated and done to their HP, instead.
 
-If someone is suffering from Ignite or Frostbite and is then inflicted with the other, they suffer a Burns X from the sudden extreme shift in temperature, and then both their Ignite and Frostbite statuses are reduced by X, which is the lower of the two effects.  (e.g., If you were at Frostbite 5 and were hit with an Ignite 2, your Frostbite would be reduced to 3 and you would receive a Burns 2)
+If someone is suffering from Ignite or Frostbite and is then inflicted with the other, they suffer a Burns X from the sudden extreme shift in temperature and immediately lose X% of their Current Vitality, where X is the lower of the two effects.  This also occurrs if Frostbite is removed with Katon such as Ember-Burning Technique, which remove Immobility penalties, treating X as the Frostbite which was removed. (e.g., If you were at Frostbite 5 and were hit with an Ignite 2, your Frostbite would be reduced to 3 and you would receive a Burns 2)
 
-Frostbite from the same source (person) stacks fully with itself; if you suffer Frostbite from different people, only the highest severity applies for both penalties and damage taken. The maximum Frostbite you can afflict someone with is 2+CHA/30, and fades at a rate of 1 per 10 IC (the reduction happens after taking damage from it).
+Frostbite from the same source (person) stacks fully with itself; if you suffer Frostbite from different people, only the highest severity applies for both penalties and damage taken. The maximum Frostbite you can afflict someone with is 2 + CHA/30, and fades at a rate of 1 per 10 IC (the reduction happens after taking damage from it).
 
 #### -=[ Suitenhoufukyuu - Water Sky Convergence ]=- 
 Often considered the mark of the Touu bloodline, even more so than their ability to use Hyouton.  All members of the bloodline, even ones without ninja training, exhibit from a young age the ability to mentally control water. They can lift it off of the ground, cause it to float between their hands, and even freeze it with a thought (or, conversely, liquify ice).

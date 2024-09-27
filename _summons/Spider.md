@@ -181,6 +181,7 @@ AGI: 40
 Accuracy: 30  
 Dodge: +10  
 Damage Bonus: 7.5  
+Genjutsu Defense: +37  
 Movement: 1 yard per IC  
 
 Athletics: +25  
@@ -192,7 +193,7 @@ Survival: +25
 Chakra Exhaustion: +15
 
 **Bestial**  
-The Kyodaigumo isn't driven by higher desires, and as a result cannot be negotiated or reasoned with and has a +15 defensive bonus to Genjutsu rolls. They are, however, fairly intelligent.
+The Kyodaigumo isn't driven by higher desires, and as a result cannot be negotiated or reasoned with and has a +15 defensive bonus to Genjutsu rolls, which is included in its listed total above. They are, however, fairly intelligent.
 
 **Brood Mother**  
 Every Spider Swarm active while Kyodaigumo is present needs to be dealt twice as much damage to reduce its size, and has its Swarm size increased by 1d10 every time the IC reaches a multiple of 10. The first benefit is lost if the Kyodaigumo is unsummoned, but the increased size remains.
@@ -208,7 +209,7 @@ If the Kyodaigumo is suffering an Immobilization penalty caused by spider webs, 
 
 ###### 4. Abilities
 **Standard Actions**  
-The kyodaigumo may use the dodge, block, and move actions as described in the Combat chapter of the PHB without spending any of hte summoner's AP.
+The kyodaigumo may use the Dodge, Block, and Move actions as described in the Combat chapter of the PHB without spending any of the summoner's AP.  It may be comm
 
 **Egg Sac** *(Speed X*5, X*3 AP)*  
 The spider summons an egg sac filled with baby spiders, which immediately bursts and releases the creatures onto the battlefield. This may either create a new Spider Swarm, containing Xd20 spiders, or add to an already-existing swarm. This cannot take a swarm above 100 spiders (any 'extra' are simply lost).
@@ -245,10 +246,10 @@ AGI: 100
 Accuracy: 36  
 Dodge: +40  
 Parry: +45  
+Genjutsu: +40  
 Damage Bonus: 10.5  
 Movement: 3 yard per IC  
 
-Genjutsu: +40  
 Athletics: +45  
 Awareness: +45  
 Espionage: +50  
