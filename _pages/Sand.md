@@ -147,6 +147,7 @@ You project your chakra out across the battlefield, with devastating results.  T
  - Upkeep: 6
  - Speed: 16
  - Area: Ninjutsu Damage Bonus * 2
+ - Tags: Area of Effect, Environmental
 
 Effects: Everyone within the range except you has their Dehydrate status increased by 1+(CHA/50) when you activate this technique, and every 10 IC afterward, so long as you maintain its Upkeep.  Anyone within the area (which moves with you) with a Dehydration status (again, except you) takes a penalty to their Chakra Exhaustion rolls equal to their Dehydrate status, and has their Ninjutsu Damage Bonus lowered by 0.3 per point of Dehydration they have; this penalty remains until they leave the area (or remove their Dehydration status).
 
