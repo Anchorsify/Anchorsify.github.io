@@ -330,13 +330,6 @@ When you wound an enemy with a senbon attack, you have a 10% chance per rank for
 ## Physical
 
 ##### 1. Vigor
-#### -=[ Breathing Exercises ]=-
-Quick recovery and bursts of speed are integral to the way Shinobi fight, as most opponents feign ignorance whenever you try to remind them of the genin training-ground rule of 'time out'. In such cases, it's important to know how to circulate air efficiency as opposed to just panting like a ninken. Each rank reduces the base Speed of the Rest action by 1.
-
-- Base Cost: 8
-- Scale: 4
-- Limit: RES /40, Max 5
-
 #### -=[ Brute Force ]=-
 You're good at... well, exactly what it sounds like: applying a lot of force all at once. It might be sheer physical strength, or you could just know how to strike properly. Each rank increases your physical damage bonus by 0.2.
 
