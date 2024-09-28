@@ -177,7 +177,7 @@ The user converts chakra into water, and infuses it with enough chakra to alter 
  - Area: 20
  - Speed: 16
  - Seal Speed: 14
- - Requires: 8 gallons of water
+ - Requires: 7 gallons of water
  - Tags: Area of Effect, Environmental, Ground
 
 Effects: Everyone within the area of this technique takes a -4 Immobilization penalty; anyone with the Water Walking ability instead only takes a -2 penalty, which remains until you leave its area. This technique's effects remain regardless of whether you maintain its Upkeep, however while you do maintain it, you can control the syrup field to make it 'grab' someone within its area, making a grapple roll using your NDB in place of PDB against them (with you as the attacker) as a Speed 8 action; if you succeed, they are caught and take the full -4 Immobilization penalty regardless of whether or not they have the Water Walking ability.
