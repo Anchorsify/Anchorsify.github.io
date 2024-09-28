@@ -38,7 +38,7 @@ But in addition to Green Rabite's superb work on the game, it would not exist an
  - Mortimer De La Vigo
  - Mourdos
  - Mosano
- - Pip
+ - PipSqueak
  - Ralphp
  - Recludere
  - Rusty
