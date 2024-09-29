@@ -373,4 +373,4 @@ The north wind wind cleanses the world of its impurities and soothes the raging 
 
 Effects: All environmental effects caused by Ninjutsu (such as Yomi Numa, or Four Pillar Bind) end immediately, and no such techniques may be activated for (NDB * 2) IC; hoever, this does not end or prevent B- or A-Rank Katon.
 
-Any Ninjutsu-based non-Internal Immobility, Paralysis, or Shock status effects are removed, while Ignite effects have their severity halved, rounded down.
+Any Ignite status effects have their severity halved (round down), and any Immobility penalties with set durations (meaning, ones that fade by a certain amount every so-many IC) are removed, as is any Paralysis or Shock that was originally caused by a Raiton technique (including Shock from Elemental Mastery).
