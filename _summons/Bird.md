@@ -274,7 +274,7 @@ Any time an enemy in Stealth moves within a Sky King's shadow (see "Shade"), it 
 Whenever a Sky King attacks, everyone within its Shade other than the target must make an Athletics roll against a TN of 45 or be immediately knocked Prone (as per Trip), and Stunned for the next 6 IC.
 
 **Flight**  
-Unless they deliberately land (doing so, and taking off again, are both Speed 15 actions), Sky Kings are always considered airborne, and as such ignore effects dependant upon the condition of the ground. When they attack, they are considered to be at ground level. Every IC which bases after they take off or attack, they rise 5 yards straight up, to a maximum of 100 yards. Any attack from the ground must have sufficient range to hit them; melee attacks can be used as long as the attacker can travel that far as part of their attack (by jumping!).
+Unless they deliberately land (doing so, and taking off again, are both Speed 15 actions), Sky Kings are always considered airborne, and as such ignore effects dependant upon the condition of the ground. When they attack, they are considered to be at ground level. Every IC which passes after they take off or attack, they rise 5 yards straight up, to a maximum of 100 yards. Any attack from the ground must have sufficient range to hit them; melee attacks can be used as long as the attacker can travel that far as part of their attack (by jumping!).
 
 **Great Bird**  
 The area beneath a Sky King in flight is subjected to heavy gusts of wind every time it beats its wings. Within that area (see "Shade") every time the IC reaches a multiple of 20 all clouds (such as from Mist Blaze Dance, or Hidden Mist Technique) are removed.
