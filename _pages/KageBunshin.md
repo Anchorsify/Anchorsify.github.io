@@ -12,7 +12,9 @@ Perhaps the pinnacle of development for the ninja replication technique is this 
 - Speed: 5, +2 per clone
 - Seal Speed: 5, +2 per clone
 
-Effects: You can't regain Fatigue or Willpower spent on clones so long as they exist. Fatigue level changes caused by creating or ending Kage Bunshin do not reset your Stamina and Chakra Exhaustion penalties, nor do they affect any status effects you're suffering from (such as Sealed Tenketsu). When created, Kage Bunshin have all Wounds and Upkeeps you do, but not status effects (unlike normal). Wounds gained, and Upkeeps activated, after they're created do not transfer to your clones.
+Effects: You can't regain Fatigue or Willpower spent on clones so long as they exist. Fatigue level changes caused by creating or ending Kage Bunshin do not reset your Stamina and Chakra Exhaustion penalties, nor do they affect any status effects you're suffering from (such as Sealed Tenketsu). 
+
+When created, Kage Bunshin have all Wounds you do, but not status effects (unlike normal). Wounds gained, and Upkeeps activated, after they're created do not transfer to your clones. Kage Bunshin also copy any Upkeeps you are maintaining at the time of their creation which affect only yourself (which then affect only them, so long as they maintain the Upkeep), which means they only copy Upkeeps with the 'Preparation' tag.
 
 Kage bunshin can perform any action other than creating more clones; they can even perform handseals and use jutsu. Kage Bunshin are always created at Fatigue 1 (gaining the penalties and bonuses as normal), and if they fail a Fatigue roll or take any damage they're destroyed. If a clone is destroyed, you do not get the Fatigue level or Willpower spent to create it back. You may, as a Speed 5 + X * 2 action, end 1 + X clones. Clones ended this way vanish in a puff of smoke as soon as they're next able to act (if they are able to act on that same IC, and choose not to, they disappear at the end of the IC in which they're unsummoned), and you regain any Fatigue levels spent to create them. Willpower spent to create clones can never be regained.
 

@@ -82,17 +82,19 @@ These tags indicate which category of Wound a jutsu inflicts, if it happens to d
 #### Clone
 By default, all Bunshin follow the same basic rules listed in the Bunshin no Jutsu technique (see [here](https://anchorsify.github.io/projects/GeneralNin/#e-rank)). More advanced types of Bunshin than that exist, however, and changes to how they operate are clarified here:
 
- - Bunshin, unless stated otherwise, can act on the IC after they were created. If they were created before the initiative, then they use your initiative roll to determine when they can first act.
-
  - Bunshin (of any type) can never make Bunshin (of any type).
 
- - Clones, when created, copy over any Genjutsu affecting their creator automatically.  If the creator was aware they were under a genjutsu, so are the clones.
+ - Bunshin, unless stated otherwise, can act on the IC after they were created. If they were created before the initiative, then they use your initiative roll to determine when they can first act.
 
- - Clones copy over any status effects affecting their creator (except for Kage Bunshin) at the time they were created.
+ - Bunshin, when created, copy over any Genjutsu affecting their creator automatically.  If the creator was aware they were under a genjutsu, so are the clones.
 
- - Clones can only perform actions listed in their action options (which means only Moku and Kage Bunshin could perform actions such as Meditation), though you can spend AP to reduce their speeds. Bunshin act on their own IC, separate from their creator, and using them does not increase the user's IC unless explicitly mentioned. 
+ - Bunshin copy over all status effects affecting their creator (except for Kage Bunshin) at the time they were created, along with all Wounds their creator had.
 
- - As they are separate entities, they do not benefit from any jutsu you use that designates you. They would also count as individual entities for jutsu that can target/avoid a set number of targets. Any bunshin that can take actions (such as through the use of AP, or being independent) can talk, Bunshin that can not take actions cannot. 
+ - Bunshin can only perform actions listed in their action options (which means only Moku and Kage Bunshin could perform actions such as Meditation), though you can spend AP to reduce their speeds. Bunshin act on their own IC, separate from their creator, and using them does not increase the user's IC unless explicitly mentioned. 
+
+ - Bunshin do not benefit from any jutsu you use that designates you. They also count as individual entities for jutsu that can target/avoid a set number of targets. Bunshin share all per-combat limitations of effects (such as a Jutsu that can be used as a surprise attack once per combat: If you acted simultaneously with them to perform it, you'd pick which one of you gets that effect).
+ 
+ - Bunshin that can take actions (such as through the use of AP, or being independent) can talk, Bunshin that can not take actions cannot.
 
  - All Bunshin that state they can dodge or parry can do so without you having to pay AP for them to defend themselves, though doing so advances their IC like normal (and may require AP be spent to reduce their Dodge or Parry speed against particularly low-speed attacks). Anything beyond either of those two actions incurs their normal costs (both with appropriate Fatigue rolls and AP costs depending on the Speed and the type of Bunshin used).
  
@@ -138,7 +140,7 @@ In the case of using Ninjutsu of multiple elements at once (such as a Raisen and
 Lastly, any attack utilizing an Elemental Nintaijutsu (be it a weapon creation jutsu, or a link) can not have Poisons of any kind applied to them; doing so simply wastes the dose(s) of Poison applied, which lose their potency and are still considered spent.  
 
 ##### Preparation
-Jutsu with this tag can be activated when rolling Initiative. [See the Preparation ability, here.](https://anchorsify.github.io/Abilities/#other)
+Jutsu with this tag can be activated when rolling Initiative, [See the Preparation ability, here,](https://anchorsify.github.io/Abilities/#other) and are copied over to any Kage Bunshin you create, if you are capable of doing so.
 
 ##### Projectile
 A generic tag describing things that are thrown, fly through the air, or otherwise *are* projectiles in some form or fashion, whether it is a cutting wind or a bolt of lightning, the majority of ninjutsu attacks are considered projectiles, though not all.  Many effects are specific in that they relate to, or affect, projectiles in some fashion, in which case you check for this tag to see if they qualify.
@@ -182,10 +184,12 @@ Combos are a special type of unarmed taijutsu attack which benefit from being us
 When a combo jutsu references your Basic Unarmed Attack, it includes any ranks of Unarmed Focus you might have, and can benefit from any ranks of Power Attack you have and wish to apply. Any time a jutsu says 'd*', this is an improvement to the base damage, and likewise benefits from Power Attack. Power Attack does not apply to any dice that have a size listed (d6, d8, d12, etc), only d*.
 
 ###### Openers
-Openers are not, themselves, combo moves. However, after an opener hits, you may launch into a combo (i.e. use a Combo jutsu). Openers are marked as such in their entry, usually by "Special: Opener."
+Openers are not always, themselves, Combo moves, though some are.  Openers can be used without being in a Combo, and after an opener hits, you may launch into a combo (i.e. use a Combo jutsu). Openers are marked as such in their entry, usually by "Special: Opener."
+
+Using an Opener when you are already in a Combo has no effect: You can not get the bonuses of multiple Openers for a Combo and can not change which Opener effect you have for your Combo after you've started a Combo.  If the Opener itself is not a Combo jutsu, however (such as with Kage Buyou), using it will still break your Combo.
 
 ###### Combos
-Combo moves indicate as much in their name (typically being named "___ Combo"), or by being in the Taijutsu Combo category. You cannot use a combo jutsu unless the last non-Interrupt action you took was a Combo or Opener; similarly, if your combo is broken (see below), you have to start with a new opener. When you begin a combo, you have a "Combo Counter"-- basically, the number of combo moves you've strung together. This starts at 1 when you hit with an opener. Each time you hit with a combo, the combo counter increases by 1.
+Combo moves indicate as much in their name (typically being named "___ Combo"), or by being in the Taijutsu Combo category. You cannot use a combo jutsu unless the last non-Interrupt action you took was a Combo or Opener, or the Combo move itself has an Upkeep; similarly, if your combo is broken (see below), you have to start with a new opener. When you begin a combo, you have a "Combo Counter"-- basically, the number of combo moves you've strung together. This starts at 1 when you hit with an opener. Each time you hit with a combo, the combo counter increases by 1.
 
 Each combo will have a combo counter entry; for example, here is Lotus Combo's:
 Combo Counter: +1 Accuracy, +2d10 damage, +1 Stun, +2 Stamina

@@ -33,6 +33,8 @@ Uniques are, as the name implies, unique aspects of your character that give the
 
 Some uniques will state they "Upgrade Into" or "Upgrade From". This is simply a method of paying the difference in cost between two associated uniques to change from one to another.  For example, if at character creation you began with Elementally Gifted, and then gained another Unique Point later on from Experience Point progression, you could then pay the difference between Elementally Gifted (a 1-point unique) and Elementalist (a 2-point unique) of 1, lose Elementally Gifted (and all associated benefits it gave), and then gain Elementalist (as you have effectively spent 2 UP to do so).  If you were to gain another Unique Point later, you could again upgrade from Elementalist, into Elemental Mastery.  Note that you can not "Upgrade Down" to gain UP back; Upgrades From entries are listed simply to show you at a glance what leads to that unique.
 
+Because it has to be said, you can not take the same Unique more than once, because they are.. ... .... *Unique!*
+
 #### Determine Attributes
 Attributes (also known as Stats) represent your character’s raw capabilities. The five attributes are: Strength (STR), Resilience (RES), Chakra (CHA), Dexterity (DEX), and Agility (AGI). More information is covered in the Attributes page.
 

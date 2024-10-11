@@ -231,7 +231,7 @@ The user gathers chakra around them--the 'rising phoenix' actually refers to the
  - Seal Speed: 14
  - Tags: Energy, Projectile
 
-Effects: When used as an Interrupt, Rising Phoenix Blast's damage becomes 10d20.open(11) and it receives double your ninjutsu damage bonus. It functions differently if when used against a melee attack, or ranged ninjutsu attack. It may Interrupt attacks so long as its Speed is equal to or less than theirs (rather than needing to be equal to or less than half the original attack's Speed).
+Effects: When used as an attack, it receives double your ninjutsu damage bonus.  When used as an Interrupt, Rising Phoenix Blast's damage becomes 10d20.open(11). It functions differently if when used against a melee attack, or ranged ninjutsu attack. It may Interrupt attacks so long as its Speed is equal to or less than theirs (rather than needing to be equal to or less than half the original attack's Speed).
 
 Against a melee action: The user may choose to call off their attack, or press on regardless of the danger. If they do not cancel their attack, they take Rising Phoenix Blast's full damage, without any defense. However, you are also hit by their attack automatically, and cannot defend against it. If they choose to defend themselves, their attack is cancelled; they do not pay any Chakra or Stamina costs, and it's considered half its actual speed for determining when their next action comes; any AP or other effects spent on it, however, are not regained. They then defend against Rising Phoenix Blast, with a +3 bonus to any d20 rolls made as part of their defense.
 

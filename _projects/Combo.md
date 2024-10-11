@@ -39,6 +39,7 @@ The basis of combos in battle is maintaining one's momentum, striking one blow b
 - Stamina: 15
 - Upkeep: 1
 - Speed: 6
+- Tags: Preparation
 
 Effects: So long as you maintain Furious Charge, taking Move actions will not break your combos. Using movement based jutsu (such as Shunshin), however, will.
 
@@ -97,6 +98,7 @@ Conventional wisdom says that one must prioritize speed or power, having to choo
 - Stamina: 12
 - Upkeep: 0
 - Speed: 6
+- Tags: Preparation
 
 Effects: While Rakurai Heishi is maintained, any time a combo you are performing would be broken you may choose to increase this technique's Upkeep by 2; when you do so, your combo is not broken. If your combo is broken, Lightning Warrior's Upkeep is reset to 0. If you stop maintaining Lightning Warrior, your current combo is automatically broken. Rakurai Heishi cannot be used if your combo is broken because you performed a Finisher or a Move action.
 
@@ -141,6 +143,7 @@ Rather than waiting for your opponents to give you openings and then capitalizin
 - Stamina: 20
 - Upkeep: 0
 - Speed: 6
+- Tags: Preparation
 
 Effects: Whenever you hit with a technique that raises your Combo Counter, your Combo Counter increases by 1 more, and Aragami's Upkeep also increases by 2. When your combo is broken, Aragami's Upkeep is reset to 0. If you end Aragami, your Combo Counter is immediately set to 0.
 

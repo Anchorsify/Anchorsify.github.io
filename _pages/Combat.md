@@ -561,7 +561,7 @@ Lost Vitality recovers fairly quickly; ninja don't get too far through their tra
 Lost Hit Points are harder to deal with. By the time you're taking HP damage, your body's already reached its limit as far as soaking damage goes. You recovery 10% of your max HP every 1 hour OOC.
 
 ### Fatigue
-Fatigue is more than just being a little winded; it's exhaustion and bone-deep weariness. Ninja are just much better able to deal with such things than normal people. Every hour that passes OOC, your Fatigue is lowered by one level.
+Fatigue is more than just being a little winded; it's exhaustion and bone-deep weariness. Ninja are just much better able to deal with such things than normal people. Every hour that passes OOC, your Fatigue is lowered by one level.  Uniques and effects which recover penalties over time (such as Endless energy, or Regenerative Chakra) do not noticeably impact how quickly you recover fatigue, or fatigue penalties, outside of battle.
 
 ### Willpower
 You begin every (OOC) day with your full amount of Willpower. With the exception of some rare effects, you can't get Willpower back any faster than that.

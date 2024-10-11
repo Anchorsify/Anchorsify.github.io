@@ -197,7 +197,7 @@ Akimichi can convert excess calories to Chakra, and in fact, it is a well-kept s
 
 Effects: You gain 5 Calorie Points (CP) per rank of this ability taken.  CP can be spent to lower the Chakra cost of any Akimichi clan jutsu on a one-for-one basis, to a minimum of 0.  If you reduce any Jutsu’s Chakra cost to 0, you do not have to roll for it (but make sure you declare the CP is reducing it to 0 for clarity).
 
-You recover RES/5 CP per day, or half that amount if you can’t eat at least two full meals.  You can choose to stop at your maximum (5 per rank) or go up to double that value (with 4 ranks, you’d have a normal maximum of 20, and a true maximum of 40). Every 10 CP you are over your normal maximum (round up) applies a -1 to Dodge rolls and Athletics rolls. As you use CP in battle, you adjust these penalties accordingly.
+You recover RES/5 CP per day, or half that amount if you can’t eat at least two full meals.  You can choose to stop at your normal maximum (5 per rank) or go up to double that value (with 4 ranks, you’d have a normal maximum of 20, and a true maximum of 40). Every 10 CP you are over your normal maximum (round up) applies a -1 to Dodge rolls and Athletics rolls. As you use CP in battle, you adjust these penalties accordingly.
 
 In dire circumstances, you may spend HP (not Vitality) in place of CP.  This may only be done once you have 0 CP remaining, and for every 1 CP you wish to utilize to help pay for a Jutsu, you lose 4 HP.
 
@@ -217,9 +217,9 @@ The Akimichi’s signature jutsu, this increases the user’s height and weight 
  - Speed: 8
  - Tags: Preparation
 
-Effects: X has a maximum of 5. You gain +Xd* to all Taijutsu, increase (not decrease) the base Speed of all your Taijutsu attacks by X/2 (round down), add (or increase the existing) Area X/2 to all melee Taijutsu (round down), gain (STR/10)*X DR, and reduce all Knockbacks you suffer by X. Unfortunately, you also gain a -X to all Dodges while in this form, though if you choose to utilize the Take the Hit action, the penalty to Dodge is instead changed to a bonus, and you are allowed to automatically block whenever you successfully Take the Hit.
+Effects: X has a maximum of 5. You gain +Xd* to all Taijutsu, increase (not decrease) the base Speed of all your Taijutsu attacks by X/2 (round down), add (or increase the existing) Area X/2 (round down) to all melee Taijutsu (though if you use a single-target attack it still requires a target, even with the added Area), gain (STR/10)*X DR, and reduce all Knockbacks you suffer by X. Unfortunately, you also gain a -X to all Dodges while in this form, though if you choose to utilize the Take the Hit action, the penalty to Dodge is instead changed to a bonus, and you are allowed to automatically block whenever you successfully Take the Hit.
 
-You can opt to change the value of X as a Speed Y, CP Y action while you maintain this jutsu, with Y being the difference between its current value and the value you’re changing it to: going from X = 4 to X = 1 would be Speed 3 action that costs 3 CP.
+You can opt to change the value of X as a Speed Y * 2, CP Y * 5 action while you maintain this jutsu, with Y being the difference between its current value and the value you’re changing it to: going from X = 4 to X = 1 would be Speed 6 action costs 15 CP.
 
 #### --( Nikudan Sensha - Human Bullet Tank )--
 After enlarging with Baika no Jutsu, the Akimichi tucks their arms and legs close to their body (and usually under their similarly-enlarged clothing) and rolls semi-blindly toward a target to run right into them.  LIKE A WREEECKING BAAALLL.
@@ -229,7 +229,7 @@ After enlarging with Baika no Jutsu, the Akimichi tucks their arms and legs clos
  - Speed: Variable, Abort
  - Requires: Baika no Jutsu active
 
-Effects: When you use this Jutsu you declare that you are Rolling and for how many IC. You can also declare one other variable speed action (such as Block, or Defensive Formation) to utilize alongside it, which is not ended by any Bowl attacks you make so long as you continue Rolling. Its Chakra Cost is increased by 4 per rank of Power Attack you wish to apply to any of the Bowl attacks you make while Rolling (which doesn't then increase the Stamina cost of Bowl). While Rolling the only attack you can make is Bowl, below, you take Baika’s X as a penalty to Taijutsu parries and Awareness rolls, can not perform handseals or hold weapons, and any grapples you are in control of automatically end, but you ignore any Stuns of X or less. 
+Effects: When you use this Jutsu you declare that you are Rolling and for how many IC. You can also declare one other variable speed action (such as Block, or Defensive Formation) to utilize alongside it, which is not ended by any Bowl attacks you make so long as you continue Rolling. Its Chakra Cost is increased by 4 per rank of Power Attack you wish to apply to any of the Bowl attacks you make while Rolling, which doesn't then increase the Stamina cost of Bowl. While Rolling the only non-interrupt action you can take without first Aborrting your Rolling action is Bowl, below, or the Move action, though while you are moving your secondary variable speed action choice (if any) does not apply. You take Baika’s X as a penalty to Taijutsu parries and Awareness rolls, can not use any jutsu with a Seal Speed or hold weapons, and any grapples you are in control of automatically end, but you ignore any Stuns of X or less. 
 
 **--( Bowl )--**  
 
@@ -239,7 +239,7 @@ Effects: When you use this Jutsu you declare that you are Rolling and for how ma
  - Area: 2
  - Speed: 10
 
-Effects: This attack is modified by Baika no Jutsu, as normal for Taijutsu. If you hit someone with this attack, your IC advances only half as much as it ordinarily would (if you hit someone with a Speed 12 Bowl attack, you’d then only advance your IC by 6), and successive hits of Bowl against the same target(s) multiple times increases your Damage Bonus by 1, consecutively, up to half your normal damage bonus. However, if you miss someone with this attack, you can't target them again with it for double the speed of the Bowl attack you missed with, as you must make wide turns (though you can always elect to target someone else in that time).
+Effects: This attack is modified by Baika no Jutsu, as normal for Taijutsu, and does not end your Rolling action from Human Bullet Tank. If you hit someone with this attack, your IC advances only half as much as it ordinarily would (if you hit someone with a Speed 12 Bowl attack, you’d then only advance your IC by 6), and successive hits of Bowl against the same target(s) multiple times increases your Damage Bonus by 1, consecutively, up to half your normal damage bonus. However, if you miss someone with this attack, you can't target them again with it for double the speed of the Bowl attack you missed with, as you must make wide turns (though you can always elect to target someone else in that time).
 
 #### --( Partial Multi-Size Technique )--
 A more exhausting but wieldy version of Baika no Jutsu, this jutsu quickly enlarges only a single part of the Akimichi’s body, usually an arm or leg, in order to enhance a Taijutsu attack’s force and reach and take their opponents by surprise.
@@ -260,7 +260,7 @@ The Akimichi attaches dozens of kunai to multiple lengths of wire which they the
  - Speed: Variable, Abort
  - Requires: Baika no Jutsu active
 
-Effects: This jutsu functions in all the same ways as described in Nikudan Sensha, except that your Bowl attack is now Stamina 15 and considered to be a weapon attack (meaning Blocking reduces it by less, and it may be harder to parry), and you can take and apply Weapon Focus to it, as well as Power Attack and Unarmed Focus, with both abilities normal Stamina increase instead applying to its Chakra cost, at double the normal cost. For every point your attack hits by you add +1d* to the attack’s damage, and anyone who attempts to attack you in melee range while you’re Rolling takes half this technique’s damage automatically.  They can choose to opt out of their attack to avoid the damage, but otherwise get no defense against it if they continue with their attack. Thanks to the Kunai, the delay in how quickly you can turn to target someone is made easier, negating the delay before you can retarget someone after missing them with Bowl.
+Effects: This jutsu functions in all the same ways as described in Nikudan Sensha, except that your Bowl attack is now Stamina 15 and considered to be a weapon attack, meaning Blocking reduces it by less, and it may be harder to parry, and you can take and apply Weapon Focus to it, as well as Power Attack, with both abilities normal Stamina increase instead applying to its Chakra cost, at double the normal cost. For every point your attack hits by you add +1d* to the attack’s damage, though if they block or elect to not defend they do not take any addition damage, and anyone who attempts to attack you in melee range while you’re Rolling takes half this technique’s damage automatically.  They can choose to opt out of their attack to avoid the damage, but otherwise get no defense against it if they continue with their attack. Thanks to the Kunai, the delay in how quickly you can turn to target someone is made easier, negating the delay before you can retarget someone after missing them with Bowl.
 
 Using this Jutsu requires at least 30 Kunai attached by wire, which are not used up and may be used repeatedly for this technique, though repurposing them as throwing weapons (i.e., removing them from their wire) means they can not longer be used for this until reattached (as something to be done out of combat).
 
@@ -276,7 +276,7 @@ Effects: Baika no Jutsu’s X maximum is increased to 10.  When X is higher than
 
  -  You can not Hide; if Hidden when you perform Baika, you are automatically revealed.
  -  You may choose to automatically block any attack of C-rank or lower as a Speed 0 Interrupt; in essence, your size alone has most blows glancing off of you.  You can always do so against Basic Attacks.
- -  You can grapple someone in one hand, and gain +X to your Grapple rolls.  This does allow you to potentially grapple two people at once.
+ -  You gain +X to your Grapple rolls.
  -  All Taijutsu increase their range by X.
  -  You increase the die size of all Taijutsu by one step ( d4 -> d6 -> d8 -> d10 -> d12 ), to a maximum of d12; Taijutsu already at d12 instead gain +2 damage per die rolled.
 
@@ -307,21 +307,21 @@ As you may notice, it’s quite possible to go above “Fatigue 6”, which is t
 Akimichi are issued only one of each pill at a time.  Anyone other than an Akimichi who takes one of the pills suffers the Poison effect, and receives none of the benefits.  Giving these pills away is treason, and it’s a credit to the clan that to date no Akimichi has done so.
 
 ###### --( Hourengan - Green Spinach Pill )--
-You gain half your maximum Calorie Points, and your Chakra Exhaustion penalty is reset to 0.  For the pill’s duration, you gain +5 to all stats.
+You gain half your normal maximum Calorie Points, and your Chakra Exhaustion penalty is reset to 0.  For the pill’s duration, you gain +5 to all stats.
 
  - Duration: 50
  - Poison: 4
  - Special: When the Pill's duration expires, your Fatigue level is increased by 2.
 
 ###### --( Karengan - Yellow Curry Pill )--
-You gain half your maximum Calorie Points, and your Stamina penalty is reset to 0. For the pill’s duration, you gain +10 to all stats.
+You gain half your true maximum Calorie Points, and your Stamina penalty is reset to 0. For the pill’s duration, you gain +10 to all stats.
 
  - Duration: 75
  - Poison: 6
  - Special: When the Pill’s duration expires, your Fatigue level is increased by 4.
 
 ###### --( Red Chili Pill )--
-You gain your full maximum’s worth of CP, and your Fatigue level is reduced by 1.  For the Pill’s duration, you gain +15 to all stats, and you gain access to a special jutsu, detailed below.
+You gain your full true maximum’s worth of CP, and your Fatigue level is reduced by 1.  For the Pill’s duration, you gain +15 to all stats, and you gain access to a special jutsu, detailed below.
 
  - Duration: 100
  - Poison: 8
@@ -691,12 +691,12 @@ While similar in concept to Shadow Sewing, as the Nara is materializing shadows 
  - Tags: Preparation
 
 Effect: You can use your shadow tendrils to grab onto things (or people) or attack, in the following ways, for as long as you maintain this Upkeep:
- - *Retrieve Object (X AP)* - Your shadows pick up X unattended objects on the battlefield that are within range; if it’s ever relevant, you can pick up (and hold onto) up to CHA/8 objects this way at once.
+ - *Retrieve Object (X AP)* - Your shadows pick up X objects on your person, or unattended objects on the battlefield that are within range; if it’s ever relevant, you can pick up (and hold onto) up to CHA/8 objects this way at once.
  - *Grab (5 AP)* - As per the E-Rank Grapple jutsu.
  - *Bind (Variable AP)* - You can have your Shadows use any Grapple jutsu you know.
- - *Attack (Variable AP)* - Using a weapon it is holding or can get access to (including Multithrows).
+ - *Attack (Variable AP)* - Any basic weapon attack using a weapon it is holding or can get access to (including Multithrows).  These attacks can not have links used with them, or effects which increase their cost (such as Weapon Focus).
 
-You pay 1 AP for every 2 Speed of the action you wish your Shadows to make, and can pay more AP to reduce the effective Speed of their action further if you wish.  You may use any of the above options at most once every 10 IC. You use your NDB in place of PDB for damage and for grapple checks, with grapple checks receiving an additional +4.  You use CHA in place of STR or RES wherever appropriate otherwise. Your shadow tendrils are considered to have unlimited limbs for Grapples.
+You pay 1 AP for every 2 Speed of the action you wish your Shadows to make, and can pay more AP to reduce the effective Speed of their action further if you wish, but do not have to pay any fatigue costs associated with any action your shadow tendrils take.  You may use any one of the above options at most once every 10 IC. You use your NDB in place of PDB for damage and for grapple checks, with grapple checks receiving an additional +4.  You use CHA in place of STR or RES wherever appropriate otherwise. Your shadow tendrils are considered to have unlimited limbs for Grapples.
 
 ## Senju
 

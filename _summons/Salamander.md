@@ -64,7 +64,7 @@ Effects: You may close your eyes and take a Speed 5 action to coat your eyelids 
 
 For the next 100 IC, or until you open your eyes or wipe the blood away, you can 'see' despite your eyes being closed, viewing the world as black and all objects as chalky white outlines. While disorienting, it's quite effective.
 
-You halve all visibility penalties for the duration, and are immune to any effects requiring eye contact. Additionally, you have a +5 bonus to all your Awareness rolls, as this unnatural sight eliminates most visual distractions.
+You completely ignore the standard -10 Visibility Penalty that ordinarily comes from having your eyes closed, and halve all other visibility penalties for the duration, and are immune to any effects requiring eye contact. Additionally, you have a +5 bonus to all your Awareness rolls, as this unnatural sight eliminates most visual distractions.
 
 ## Summons
 ##### Chameleon

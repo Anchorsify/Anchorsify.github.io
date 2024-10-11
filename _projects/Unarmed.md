@@ -247,10 +247,10 @@ Effects: You may use this jutsu in a grapple; if you are the attacker in a grapp
 One of the simplest hand to hand maneuvers at the highest of levels, this attack is straight and to the point. Sacrificing trickery or fancy techniques, you deliver a powerful blow with the full weight of your body behind it.
 
  - Stamina: 28
- - Damage: As basic Attack (including Power Attack and Unarmed Focus)
+ - Damage: Basic Unarmed Attack
  - Speed: 8
 
-Effects: Your damage bonus is doubled for this attack.
+Effects: Dai Dageki gains the benefit of all ranks of Power Attack you have without increasing its Stamina cost. Your damage bonus is doubled for this attack.
 
 #### --( Gouken - Iron Fist )--
 A generalized term for one school of thought for how to approach taijutsu, the idea behind 'Iron Fist' is to give every attack one's all, aiming to cause the maximum amount of damage in as few strikes as possible. This often involves thrusting punches and short-range kicks, and is undeniably effective. The downside, however, is that putting all one's force into a single blow results in telegraphing one's motions to an observant opponent, and can quickly tire the user.

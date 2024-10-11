@@ -231,6 +231,7 @@ AGI: 80
 
 Accuracy: 40  
 Dodge: +25  
+Genjutsu Defense: +26  
 Damage Bonus: 10  
 Movement: 2.5 yards per IC  
 
@@ -271,7 +272,7 @@ This requires the hydras to all be within 50 yards of one another. They physical
  - Damage reduction, remaining Vitality, and maximum Vitality is combined.
  - Their Extended Range is changed to 20* (number of snakes) yards.
  - Whenever they attack, thay may choose up to (number of snakes) different targets.
- - +4 Accuracy, defensive rolls, and skill rolls, for each snake beyond the first.
+ - +4 Accuracy, Genjutsu, Defensive rolls, and Skill rolls, for each snake beyond the first.
  - Smash deals +5d12 damage per snake, and their damage bonus is increased by 1 per snake.
 
 **Constrict** *(Speed 10, 6 AP)*  

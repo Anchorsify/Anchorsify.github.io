@@ -355,13 +355,14 @@ A powerful wind technique, this emanates an incredibly powerful wind, starting a
  - Upkeep: 6 + (X)/100
  - Speed: 14
  - Seal Speed: 24
- - Tags: Preparation
 
-Effects: The tornado provides a Damage Reduction of (your ninjutsu damage bonus) * 10. Any time you use a Fuuton jutsu, this DR is increased by (the technique's Speed) * (your damage bonus, -2 for each rank the technique is below A).
+Effects: When first activated, the tornado pushes everyone away from you, causing any grapples you were a part of to automatically end and everyone within (NDB) yards of you must make a status roll to resist being knocked back (CHA/10) yards.  
 
-This DR doesn't apply to Katon, and is considered 50% higher against Raiton. Non-projectile ranged attacks (such as Retsudotensho) only have their damage reduced by half the normal amount. X is the current amount of DR this technique is granting you--its Upkeep steadily increases as its power does. Its primary downside, however, is the difficulty in dragging a raging tornado along: so long as it's maintained, the user's movement speed is reduced by 10% for every 100 DR, to a minimum of 0%. Additionally, the surge of wind each time this tornado is empowered pushes enemies (along with anyone and everything else) away from you. Anyone within (your ninjutsu damage bonus) yards is knocked back (1 per rank of the jutsu; 1 for E, 5 for A, etc.) * (your ninjutsu damage bonus)/3 yards. 
+The tornado provides a Damage Reduction of (your ninjutsu damage bonus) * 10. Any time you use a Fuuton jutsu, this DR is increased by (the technique's Speed) * (your damage bonus, -2 for each rank the technique is below A).  This DR doesn't apply to Katon, and is considered 50% higher against Raiton. Non-projectile ranged attacks (such as Retsudotensho) only have their damage reduced by half the normal amount. X is the current amount of DR this technique is granting you--its Upkeep steadily increases as its power does. 
 
-So long as this technique's maintained, it's impossible to grapple you. You may choose to end it at will, or when making any Fuuton attack (whose Chakra roll will still be penalized by Taifuu no Me's upkeep), adding your total amassed damage reduction to that technique's damage.
+Additionally, the surge of wind each time this tornado is empowered pushes enemies (along with anyone and everything else) away from you. Anyone within (your ninjutsu damage bonus) yards is knocked back (1 per rank of the jutsu; 1 for E, 5 for A, etc.) * (your ninjutsu damage bonus)/3 yards, if they fail a status roll.
+
+Its primary downside, however, is the difficulty in dragging a raging tornado along: so long as it's maintained, the user's movement speed is reduced by 10% for every 100 DR, to a minimum of 0%.  However, so long as this technique's maintained, it's impossible to grapple you. You may choose to end it at will, or when making any damage-dealing Fuuton attack (whose Chakra Exhaustion roll will still be penalized by Taifuu no Me's upkeep), adding your total amassed damage reduction to that technique's damage.
 
 #### --( Fuuton: Kitakaze - Wind Release: The North Wind )--
 The north wind wind cleanses the world of its impurities and soothes the raging elements. Once its handseals are completed, a calm but strong wind blows in from the north.

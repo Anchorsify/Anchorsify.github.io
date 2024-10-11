@@ -66,7 +66,7 @@ Notably, there is no defense against this curse; it cannot be dodged, blocked, o
 #### --( Inugami Hyoukyo - Dog Spirit Possession )--
 Not only is the Inugami able to curse an enemy but it can also take over a person's body. Ordinarily, this is incredibly difficult to do; however, if a shinobi wishes it they may willingly give themselves over to possession by the Inugami. While ordinary people possessed by an Inugami begin to act like dogs themselves, shinobi are able to stave off the worst of that.
 
- - Chakra: 20+2*X
+ - Chakra: 20 + 2 * X
  - Upkeep: 4
  - Speed: 8
  - Seal Speed: 20

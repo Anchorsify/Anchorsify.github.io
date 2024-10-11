@@ -137,7 +137,7 @@ In both cases, you round down.
 Keep track of all the damage done by the Bleed status caused by the leech swarm's Hemophagy ability. When the swarm is unsummoned for any reason other than a breach of contract, the summoner is healed for that much. This healing will first fill their HP, then begin restoring lost Vitality. It will not, however, take them above their maximum Vitality.
 
 **Swarm**  
-For combat purposes the swarm is treated as a single entity, its Vitality total representing the amount of damage that needs to be done before the leeches all unsummon at once. Additionally, by using more chakra in the summoning, more leeches can be summoned. A maximum of (XP)/250 can be added to the Chakra cost, to a maximum of +20. Every +1 Chakra cost gives the swarm +30 Vitality and +0.1 yards per IC movement speed.
+For combat purposes the swarm is treated as a single entity, its Vitality total representing the amount of damage that needs to be done before the leeches all unsummon at once, however due to the number of slugs involved with the swarm, it has an Area of (Current Vitality)/150, centered on you when they're first summoned, though it can move away from you thereafter. Additionally, by using more chakra in the summoning, more leeches can be summoned. A maximum of (XP)/250 can be added to the Chakra cost, to a maximum of +20. Every +1 Chakra cost gives the swarm +30 Vitality and +0.1 yards per IC movement speed.
 
 ###### 4. Abilities
 **Standard Actions**  
@@ -190,7 +190,7 @@ Slug Swarms, while easily misunderstood and often disliked for their slimy, caus
 In both cases, you round down.
 
 **Swarm**  
-For combat purposes the swarm is treated as a single entity, its Vitality total representing the amount of damage that needs to be done before the slugs all unsummon at once. Additionally, by using more chakra in the summoning, more slugs can be summoned. A maximum of (XP)/250 can be added to the Chakra cost, to a maximum of +20. Every +1 Chakra cost gives the swarm +30 Vitality, +1 Accuracy, and +0.1 yards per IC movement speed.
+For combat purposes the swarm is treated as a single entity, its Vitality total representing the amount of damage that needs to be done before the leeches all unsummon at once, however due to the number of slugs involved with the swarm, it has an Area of (Current Vitality)/150, centered on you when they're first summoned, though it can move away from you thereafter. Additionally, by using more chakra in the summoning, more slugs can be summoned. A maximum of (XP)/250 can be added to the Chakra cost, to a maximum of +20. Every +1 Chakra cost gives the swarm +30 Vitality, +1 Accuracy, and +0.1 yards per IC movement speed.
 
 ###### 4. Abilities
 **Standard Actions**  
