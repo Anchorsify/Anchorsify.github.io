@@ -300,7 +300,7 @@ An Amahou does not need to make Stamina rolls for its actions. If forced to for 
 Amahou may use the Move and Search actions without spending any of its Summoner's AP.
 
 **Crush** *(Speed 12, 10 AP)*  
-Usable while on the ground. This may only be used while someone is Pinned by the Amahaou. It deals no base damage, but still inflicts the Sky King's DB * Speed, which is doubled for the purpose of inflicting (Blunt) wounds, along with Suffocation 2 each time it's used.  which is doubled for the purposes of inflicting (Blunt) wounds, and applies a Suffocation 2 each time it's used. Crush automatically hits.
+Usable while on the ground. This may only be used while someone is Pinned by the Amahaou. It deals no base damage, but still inflicts the Sky King's DB * Speed, which is doubled for the purpose of inflicting (Blunt) wounds, along with Suffocation 2 each time it's used. Crush automatically hits.
 
 **Peck** *(Speed 20, 16 AP)*  
 Usable while on the ground. It's not actually a peck. It's actually a bite from a titanic bird's equally oversized beak. If this wounds a victim it inflicts both a Blunt (from the crushing force) and Slashing (from... being bitten) wound of the appropriate severity. It deals 20d20 damage, but has a -5 Accuracy penalty. If used against a Pinned opponent, this hits automatically.
@@ -315,7 +315,7 @@ Usable while in flight. The Amahaou swoops down and snatches up an unfortunate v
 Usable while in flight. The Amahou rakes with its claws. It may choose up to two areas ten yards across within its Shade to attack. This attack targets everyone within both those areas, though is not treated as an area-of-effect attack. This deals 4d8 * 10 damage to anyone it hits.
 
 **Scratch** *(Speed 16, 10 AP)*  
-Usable on the ground. The Amahaou scratches an area within 20 yards with one of its claws. This targets everyone in an area 10 yards across, though is not treated as an area-ofeffect attack. It deals 4d6*10 damage to anyone hit by the attack.
+Usable on the ground. The Amahaou scratches an area within 20 yards with one of its claws. This targets everyone in an area 10 yards across, though is not treated as an area-of-effect attack. It deals 4d6*10 damage to anyone hit by the attack.
 
 ###### 5. Terms of Contract
 An Amahaou can only be summoned once every three months (12 OOC days).
