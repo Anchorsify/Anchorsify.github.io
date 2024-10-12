@@ -202,7 +202,7 @@ AGI: 80
 Accuracy: 38  
 Dodge: +25  
 Damage Bonus: 8.3  
-Genjutsu Defense: +36
+Genjutsu Defense: +36  
 Stamina: +15  
 Chakra Exhaustion: +10  
 Movement: 3 yards per IC.  
