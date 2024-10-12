@@ -196,13 +196,13 @@ Research: +30
 Stealth: +25  
 Toxicology: +20  
 
-**Busy**
+**Busy**  
 The owl will perform a total of X actions (from Abilities) before leaving. This can be the same action multiple times. Standard Actions do not count.
 
-**Flight**
+**Flight**  
 By default, the owl will find somewhere to perch; it may take off or land as a Speed 10 action. When airborne, it altitude automatically increases by 3 yards every IC, to a maximum of 100 yards. It cannot be targeted by any attacks with a range of less than its altitude. Melee attacks can reach it only if the attacker can move (i.e. jump) far enough to reach the owl as part of their attack. After using its Distract or Disarm actions it is considered 0 yards from the ground, and will then regain altitude accordingly.
 
-**Night Vision**
+**Night Vision**  
 Owls ignore all darkness-based visibility penalties.
 
 ###### 4. Abilities
