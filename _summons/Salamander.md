@@ -214,7 +214,7 @@ Resistance: +25
 **Bestial**  
 The Basilisk isn't driven by higher desires like many other summons (and ninja), as a result it cannot be bribed or reasoned with. It has a +10 bonus to its defenses aginst any form of genjutsu, which is already factored into its listed bonus above.
 
-**Thick Hide**
+**Thick Hide**  
 Basilisks have a Damage Reduction of 60.
 
 **Large**  
