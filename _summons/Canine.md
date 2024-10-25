@@ -213,7 +213,7 @@ CHA: 100
 DEX: 120  
 AGI: 100  
 
-Accuracy: 35  
+Accuracy: 40  
 Dodge: +25  
 Damage Bonus: 8  
 Genjutsu Defense: +30  
@@ -226,7 +226,7 @@ Stealth: +30
 Survival: +40  
 
 **Hamstring**  
-Whenever a mountain dog strikes someone with their Bite attack, that person's movement speed is reduced by 5% for the next 20 IC. This ability stacks with itself, up to a maximum of 10 times. All stacks of Hamstring expire 20 IC after the most recently applied one. For example, if you were hit by Hamstring 12 times, once every 10 IC, the last time being on IC 123, you would be at -50% movement speed until IC 143. This does not stack with immobilization; whichever provides the higher movement speed reduction overrides the other (though this has no bearing on immobilization's accuracy and dodge penalties).
+Whenever a mountain dog strikes someone with their Bite attack, that person's movement speed is reduced by 5% for the next 25 IC. This ability stacks with itself, up to a maximum of 10 times. All stacks of Hamstring expire 25 IC after the most recently applied one. For example, if you were hit by Hamstring 12 times, once every 10 IC, the last time being on IC 123, you would be at -50% movement speed until IC 148. This does not stack with immobilization; whichever provides the higher movement speed reduction overrides the other (though this has no bearing on immobilization's accuracy and dodge penalties).
 
 **Large**  
 Against anyone who is not Large or larger in size, their physical damage bonus is doubled (meaning all ninja except those with the Large Unique, Akimichi in Baika X = 6+, or Summons with the Large, Huge, or Titanic attributes). They halve any knockback effects due to their size.

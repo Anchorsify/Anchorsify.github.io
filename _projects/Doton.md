@@ -87,15 +87,13 @@ Effects: This technique has its damage increased by 10% for Wounding.
 #### --( Tama no Nendo - Clay Bullet )--
 Pushing your chakra into the ground beneath you, you pull up a ball of earth and mud, globby and chakra filled that you then launch or literally throw sometimes at the opponent. Once on them, the mud is held semi-cohesive by the chakra lacing it, which can restrict the victim's movement.
 
- - Chakra: 15
+ - Chakra: 14
  - Damage: 8d10
  - Range: 8
  - Speed: 12
  - Seal Speed: 10
  - Status: Immobility 5
  - Tags: Blunt, Projectile
-
-Effects: Someone affected by this mud may, as a Speed 8 action, make a grapple roll (as the defender) against you (using your NDB in place of PDB) check to break free from the clay, reducing the penalty by 1 per point they beat your roll by.
 
 #### --( Iwa Funsai Buin - Rock Smashing Staff )--
 You hold out your hands or similarly grab some nearby rock and create a large, blunt object from it! This is often a hammer or staff, but also could be stylized however you see fit. As we all know, getting hit with rocks hurts, so this is rather painful.
@@ -117,7 +115,7 @@ After thoroughly concealing yourself, this technique allows you to move through 
  - Seal Speed: 8
  - Tags: Melee, Ground
 
-Effects: This technique can only be used if you are hidden from your target or underground, and uses your melee Taijutsu accuracy (rather than Ninjutsu). If used when hidden (but not underground), this technique is considered a surprise attack, and you briefly submerge underground and then move to melee range with your target to grab and pull them into the earth as you pop up from underneath them.
+Effects: This technique can only be used if you are hidden from your target or underground, and uses your melee Taijutsu accuracy (rather than Ninjutsu). If used when hidden (but not underground), you briefly submerge underground and then move to melee range with your target to grab and pull them into the earth as you pop up from underneath them.
 
 If you hit, you inflict them with a -1 Immobilization Penalty per point your Accuracy beats their defense, to a maximum of -6. They can dig themselves out from underground as a Speed 10 action which removes the penalty entirely. Until they get rid of the Immobilization penalty from this technique they can not move (as they are stuck to the spot), but can otherwise attack and defend themselves.
 
@@ -150,14 +148,16 @@ Effects: So long as this technique is maintained, your unarmed attacks are enhan
 This technique causes the ground surrounding the enemy to spiral inwards on itself, burying them alive or crushing them. This technique is capable of causing quite a bit of damage to the area. This technique is much more damaging if used in rocky mountainous areas, or inside a cave.
 
  - Chakra: 26
- - Damage: 28d12*1
+ - Damage: 28d12
  - Range: 25
  - Area: 15
  - Speed: 20
  - Seal Speed: 18
  - Tags: Blunt, Area of Effect, Ground
 
-Effects: Anyone hit by this technique suffers a Stun and Immobilization Penalty equal to the amount their defensive roll failed by, to a maximum of Stun 8 and -8 Immobilization. The Immobility lasts until they leave the area, though it reduces over time as normal for Immobility penalties, and the affected area has all other terrain-based effects removed. If someone uses a defense which does not require a roll, and takes damage from this technique, they instead make a status roll (and take both the Stun and Immobility penalty if they fail, as described above). If used in a cave, the Stun and Immobilization penalty is always 8.
+Effects: Anyone hit by this technique suffers a Stun and Immobilization Penalty equal to the amount their defensive roll failed by, to a maximum of Stun 8 and -8 Immobilization. The Immobility penalty lasts until they leave the affected area (and does not fade naturally over time), which has all other terrain-based effects removed.
+
+If someone uses a defense which does not require a roll, and takes damage from this technique, they instead make a status roll (and take both the Stun and Immobility penalty if they fail, as described above). If used in a cave, the Stun and Immobilization penalty is always 8.
 
 #### --( Doryuu Taiga - Earth Flow River )--
 You cause a long stretch of nearby ground to become mud and slide your opponents down a torrenting river of rocks and dirt, spewing them out at the end. This often leaves people hurt, and disoriented!
@@ -213,6 +213,7 @@ This technique reduces the consistency of earth into less than that of fine sand
 
  - Chakra: 18
  - Upkeep: 4
+ - Speed: 12
  - Seal Speed: 12
  - Tags: Preparation
 
@@ -345,15 +346,15 @@ Effects: Blocking reduces this technique's damage by only 25%.
 #### --( Iwa Renda no Jutsu - Rock Barrage Technique )--
 After performing the necessary seals, the user channels chakra into the rocks and stone around them. Their chakra causes large rocks to shatter into smaller ones, which are then launched as high-velocity projectiles towards potentially dozens of targets.
 
- - Chakra: 42
+ - Chakra: 48
  - Damage: 20d20*1
  - Accuracy: +2
- - Range: 7 * (ninjutsu damage bonus)
+ - Range: 25
  - Speed: 30
  - Seal Speed: 26
  - Tags: Blunt, Projectile
 
-Effects: This technique may only be used in rocky terrain. You may hit up to (ninjutsu damage bonus) targets. You may target the same person multiple times, up to one quarter of your maximum. Every additional 'target' spent on them gives a +1 bonus to Accuracy (against that target only) and increases the damage by 5d20.
+Effects: You may hit up to (NDB) targets. You may target the same person multiple times, up to one quarter of your maximum. Every additional 'target' spent on them gives a +1 bonus to Accuracy (against that target only) and increases the damage by 5d20.
 
 #### --( Yomi Numa - Swamp of the Underworld )--
 This changes the surface of the ground across a broad area into a viscous, muddy morass. While the amount of chakra required to perform this technique can be prohibitive in most combat situations, this technique, when properly used, can give incredible tactical control over an area.
@@ -374,16 +375,15 @@ Alternately, you may use form the 'swamp' in the form of a line up to 200 yards 
 #### --( Sando no Jutsu - Mountain Earth Technique )--
 The user creates two monolithic walls up from the ground, destroying the environment for several hundred yards in either direction, and sends them at one another. As they approach each other, their momentum builds, starting off slow and ending with a collision that removes the third dimension from anything unlucky enough to be caught between them.
 
- - Chakra: 40
+ - Chakra: 45
  - Damage: 50d20*1
- - Accuracy: -10
  - Range: 100
  - Area: 80
  - Speed: 30, Delay 30
  - Seal Speed: 26
  - Tags: Blunt, Area of Effect, Projectile
 
-Effects: This technique's damage is doubled for determining if it inflicts wounds. If it does cause a wound, it also causes two wounds of the next lower severity, three of the severity below that, and so forth. Thus, if it inflicted a Critical Wound, it would also inflict two Severes, three Majors, and four Minors. You may reduce Sando's speed below its Delay.
+Effects: This technique has +100% Wounding. If it does cause a wound, it also causes two wounds of the next lower severity, three of the severity below that, and so forth. Thus, if it inflicted a Critical Wound, it would also inflict two Severes, three Majors, and four Minors. You may reduce Sando's speed below its Delay, though you can not abort Sando once you have declared its use, as the massive walls of earth build and rush into one another.
 
 #### --( Chidoukaku - Moving Earth Core )--
 The user lowers or raises the ground in the surrounding area at high speed, creating giant depressions or spires. Despite how this might seem, it's fairly harmless to the surrounding area. People, plants, and buildings on the affected area will be largely undisturbed. The sides of the hole or spire are quite sturdy, and it's not in danger of collapsing on its own.

@@ -53,7 +53,7 @@ This jutsu creates clones that phase in and out of the ground as if they were ma
  - Upkeep: 4
  - Speed: 14
  - Seal Speed: 12
- - Tags: Clone
+ - Tags: Clone, Area of Effect
 
 Effects: This genjutsu creates dozens of illusions of the user. Anyone in combat with them must 'defend' against this technique with a genjutsu roll; against anyone who fails, you are considered to be in level 1 Stealth as one of the clones, making a Stealth roll to determine your Stealth TN.
 
@@ -66,7 +66,7 @@ This creates what appear to be ordinary bunshin, even responding and vanishing w
  - Upkeep: 0
  - Speed: 10
  - Seal Speed: 10
- - Tags: Clone
+ - Tags: Clone, Area of Effect
 
 Effects: You create three clones of yourself. These function as normal clones, but you are always 'hidden' among your clones (as per the 'Hide Among Clones' action), even after you've been hit by an opponent. 
 

@@ -242,7 +242,6 @@ AGI: 150
 
 Accuracy: 45  
 Dodge: +35  
-Genjutsu: +40  
 Damage Bonus: 17.0  
 Movement: 5 yard per IC  
 
@@ -262,7 +261,7 @@ The rabbit is small and has the luck of the moon! It has access to the Ninjutsu,
 Satsu no Usagi can use the Dodge and Move actions without spending any of its Summoner's AP.
 
 **Sharp Teeth** *(Speed 8, AP 10)*  
-And he can leap about! When you use this attack, you can move up to 40 yards. This does 5d20 damage, and after you calculate it fully out, you double the total. In addition, it counts 50% higher for the purposes of wounding. It inflicts Slashing wounds and if it every inflicts a critical head, roll 1d20. On a 20, the opponent's head comes clean off and they die.
+And he can leap about! When you use this attack, he can move up to 40 yards. This does 10d20 damage, and after you calculate it fully out, you double the total. In addition, it counts 100% higher for the purposes of wounding. It inflicts Slashing wounds and if it ever inflicts a critical head, roll 1d20. On a 20, the opponent's head comes clean off and they die.
 
 ###### 5. Terms of Contract
 Summoning this creature is actually considered a Breach of Contract for the hare contract itself; the Murder Rabbit can still be summoned during the regular Breach of Contract period, which does not count as a 'new' offense (the rest of the contract will be usable again after the three OOC week period from the initial summoning of the Murder Rabbit). Once the Rabbit has been summoned it cannot be dismissed until it has taken at least one human life.

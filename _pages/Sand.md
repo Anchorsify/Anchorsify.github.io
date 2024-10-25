@@ -442,6 +442,7 @@ Any Fuuton or Doton technique can be converted to Jiton as a Chakra +5, Speed +0
  - Interrupt Jiton do not create Sand; those of Rank D or below remove all Gallons of Sand used with them from the battlefield, while those of Rank C or higher remove only half the Gallons of Sand used with them.
  - Non-Interrupt Jiton have their base Speed increased by 1 per Rank (E = +1, D = +2, etc, up to A = +5).  Thus, a Jiton Retsudotensho would be treated as a Speed 23 action for all purposes (including its minimum Speed after reductions), rather than 20.
  - Jiton with Upkeeps grant the Monkasei an amount of Charge equivalent to the Upkeep the Monkasei suffers from while maintaining them; Upkeeps from other sources (such as Chakra Strengthening) do not grant the Monkasei any Charge.
+ - Doton-converted Jiton which inflict damage 
  - Fuuton converted to Jiton may not be used with a fan.
  - If a Jiton has its Seal Speed reduced to 0, then you need not make any handseals for it at all.
  - Jiton is strong against Doton and Raiton, but weak against Fuuton.
@@ -479,12 +480,13 @@ No one likes Sand.  It’s coarse, and rough, and irritating.  And it gets every
  - Chakra: +(2+X/4)
  - Speed: +Y
 
-Effects:  This can be added onto any damage-dealing Jiton Ninjutsu; X is the Gallons of Sand utilized in the Jutsu, while Y is the Rank of the Jutsu it is used with.  In addition to the attack’s normal damage and effects, anyone hit by the technique also takes a (1 +Y) Immobility Penalty, though in doing so you ‘use up’ the gallons of sand the jutsu required which stick to, and slow down, the movement of those affected.  
+Effects:  This can be added onto any damage-dealing Jiton Ninjutsu; X is the Gallons of Sand utilized in the Jutsu, while Y is the Rank of the Jutsu it is used with.  In addition to the attack’s normal damage and effects, anyone hit by the technique also takes a (1 + Y) Immobility Penalty, though in doing so you ‘use up’ the gallons of sand the jutsu required which stick to, and slow down, the movement of those affected.  
 
 Against someone already suffering from an Immobility Penalty caused by Sand Coffin you stack the Immobility Penalty as a single status (unlike normal), but the amount is reduced to Y, rather than (1+Y). Thus if you used a Jiton Earthworm Sabaku Kyu, it would initially apply a -2 Immobility Penalty; if hit again while still suffering from Sabaku Kyu’s Immobility Penalty, repeated applications would only increase the Immobility Penalty by 1.  
 
 Once the Sand is no longer applying a penalty to someone, it is added back to the battlefield for use.
-If used with a Jutsu which already applies an Immobility Penalty (such as a Jiton-converted Clay Bullet), you replace it with Sand Coffin’s penalty, although any special rules regarding the status remain, and apply to the total penalty from Sabaku Kyu: a Clay Bullet with Sabaku Kyu could be removed with a grapple roll (removing the entire penalty with a high enough roll), while a Retsudotensho with Sabaku Kyu will have anyone in its effect retaining their full Sabaku Kyu-applied Immobility Penalty until they leave the area, not fading over time (at which point it ends immediately).
+
+If used with a Jutsu which already applies an Immobility Penalty (such as a Jiton-converted Clay Bullet), you need not pay its normal Chakra or Speed cost. Doing so replaces its normal Immobility penalty with Sand Coffin’s, although any special rules regarding the status effect itself remain, and apply to the total penalty from Sabaku Kyu: a Retsudotensho with Sabaku Kyu will have anyone in its effect retaining their full Sabaku Kyu-applied Immobility Penalty until they leave the area, not fading over time (at which point it ends immediately).
 
 #### --( Sabaku Sousou - Sand Burial )--
 Once a target is encased in enough Sand, it’s a simple, yet devastating, measure to utilize their control over Jiton to crush a person in much the same way they crush up rocks or dirt.
@@ -497,7 +499,7 @@ Once a target is encased in enough Sand, it’s a simple, yet devastating, measu
  - Seal Speed: 20
  - Requires: Target to have an Immobilization Penalty from Sand Coffin
 
-Effects:  X is the current Immobilization Penalty of your target from Sand Coffin, to a maximum of 10, which ends immediately when you use this technique. This technique can not be dodged (as the sand is already stuck to, and on, the target), though other defenses could be utilized (such as Block, if you were doing so when targeted by this technique): the target is simply crushed from all sides by the sand that’s been piled onto them. If you inflict a Wound, you inflict a Blunt, and Slashing Wound of one tier lower, to a minimum of Minor.  You can not make Called Shots with Sand Burial.
+Effects:  X is the current Immobilization Penalty of your target from Sand Coffin, to a maximum of 10, which ends immediately when you use this technique (including a penalty from Retsudotensho). This technique can not be dodged (as the sand is already stuck to, and on, the target), though other defenses could be utilized (such as Block, if you were doing so when targeted by this technique): the target is simply crushed from all sides by the sand that’s been piled onto them. If you inflict a Wound, you inflict a Blunt, and Slashing Wound of one tier lower, to a minimum of Minor.  You can not make Called Shots with Sand Burial, nor can you have damage from other techniques (such as Eye of the Storm) added to its damage.
 
 ## Sabechi
 When Sunagakure initially organized itself into a formal village of Ninja, the Sabechi were the tribe most resistant to allying themselves with those who had been their rivals for generations. They fought against change and the alliances that were being made, relying upon nature for their survival against what quickly became a much larger force.

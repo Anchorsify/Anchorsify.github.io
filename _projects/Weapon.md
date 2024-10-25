@@ -57,12 +57,14 @@ Effects: Make an Initiative roll, opposed by your opponent's; they have a cumula
 #### --( Ichichi - First Blood )--
 Popularized by an Amegakure ANBU who liked to toy with their targets, injuring them quick and then slowly breaking them as they tried to fight back, it is an attack all about deception and timing: Pulling your hidden blade right as they move into a fighting stance, before they can even finish planning how they're going to kill you.
 
--	Stamina: +3
+-	Stamina: +4
 -	Speed: +0
 -	Type: Small Melee
 -	Special: Interrupt
 
-Effects: You declare this technique in your Initiative roll; after all Initiatives have been rolled, you perform a basic attack with your weapon on IC 0.  Multiple people utilizing this technique have them resolved as simultaneous attacks.  You are able to draw any applicable weapon you have on you when you use this technique, as part of the attack; in fact, you cannot perform it if your weapon is already drawn, as it relies upon an opponent not being prepared for your attack to work.  If you use this against someone who rolled a higher initiative than you, then they do not advance their IC for any defensive interrupt used in response to it; if used against a target whose initiative roll was lower, you gain +0.3 to your damage bonus per point you beat their initiative by, to a maximum of half your PDB.
+Effects: You declare this technique in your Initiative roll; after all Initiatives have been rolled, you perform a basic attack with your weapon on IC 0.  Multiple people utilizing this technique have them resolved as simultaneous attacks.  You are able to draw any applicable weapon you have on you when you use this technique, as part of the attack; in fact, you cannot perform it if your weapon is already drawn, as it relies upon an opponent not being prepared for your attack to work.  Additionally, you may, as part of the attack, apply a single dose of a single poison to the weapon you use to attack with.
+
+  If you use this against someone who rolled a higher initiative than you, then they do not advance their IC for any defensive interrupt used in response to it; if used against a target whose initiative roll was lower, you gain +0.3 to your damage bonus per point you beat their initiative by, to a maximum of half your PDB.
 
 Because this relies upon the moment shinobi move to strike, it’s of little use if you join a combat already in progress unless you are joining alongside someone else, in which case you could use this technique only against those joining the combat at the same time as you.  In such case, it occurs on the current initiative in which you join.
 

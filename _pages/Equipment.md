@@ -690,7 +690,7 @@ Also known as devil's berries, belladona's poison causes delirium, hallucination
 ###### Wandering Spider (Injury)
 Not only is it one of the most dangerous spiders, it's one of the most aggressive ones, and won't hesitate to attack humans. The venom is a neurotoxin.
 
-While poisoned you suffer from -3 Accuracy. Any time your Chakra penalty increases, your Stamina penalty increases by half that much, and vice versa.
+While poisoned you suffer from -3 Accuracy. Any time your Chakra penalty increases, your Stamina penalty increases by half that much, and vice versa, rounded down.
 
  - Poison: 4
  - Duration: 100

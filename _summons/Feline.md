@@ -277,9 +277,9 @@ Whenever you attack with a Spirit Flame, after it's determined if your attack wo
 In the above example, you would roll 1d9. On a roll of 1-3, an actual Spirit Flame would have been launched. On a roll of 4 - 9, it would be an illusion.
 
 **Mirage** *(Chakra 25)*  
-The Nekomata may perform the Double False Surroundings technique (C-rank genjutsu), with an additional +5 bonus to its genjutsu roll. The Nekomata does not need to pay the Upkeep for it, though it ends if the Nekomata is unsummoned. This may only be used out of combat.
+The Nekomata may perform the Double False Surroundings technique (B-rank genjutsu), using False Surroundings for the first layer, and either the genjutsu False Surroundings, Mirage, or Concealment for the second layer, with an additional +5 bonus to its genjutsu rolls. The Nekomata does not need to pay the Upkeep for it, though it ends if the Nekomata is unsummoned. This may only be used out of combat.
 
-Whenever it uses this ability, there is a 25% chance that it will, rather than accompanying the summoner, choose to lounge nearby and watch its illusion for the next 2d8 hours before unsummoning itself. If the illusion is dispelled before then, the Nekomata will still unsummon itself, but the summoner will somehow, intuitively know that someone removed the illusion.
+Whenever it uses this ability, there is a 25% chance that it will, rather than accompanying the summoner, choose to lounge nearby (entering Level 2 Stealth to do so) and watch its illusion for the next 2d8 hours before unsummoning itself. If the illusion is dispelled before then, the Nekomata will still unsummon itself, but the summoner will somehow, intuitively know that someone removed the illusion.
 
 **Illusion of Death** *(Chakra 16, Speed 10, 8 AP)*  
 An illusion which causes the victim to suffer from, essentially, a dangerously overactive imagination. Whenever faced with an impending attack, they briefly imagine fatal or otherwise crippling outcomes: senbon piercing their trachea, a sword cutting their head clean off, a fireball leaving them a charred corpse, and so forth. This applies a Stun 4 whenever they take a defensive Interrupt action. This follows all normal rules for genjutsu.

@@ -88,7 +88,7 @@ By default, all Bunshin follow the same basic rules listed in the Bunshin no Jut
 
  - Bunshin, when created, copy over any Genjutsu affecting their creator automatically.  If the creator was aware they were under a genjutsu, so are the clones.
 
- - Bunshin copy over all status effects affecting their creator (except for Kage Bunshin) at the time they were created, along with all Wounds their creator had.
+ - Bunshin copy over all status effects affecting their creator (except for Kage Bunshin) at the time they were created, along with all Wounds their creator had.  Bunshin that do not have their own fatigue, if forced to make a Fatigue roll (through Suffocation, or some similar effect), are destroyed as if struck.  Bunshin that have their own fatigue rolls suffer from such effects normally.
 
  - Bunshin can only perform actions listed in their action options (which means only Moku and Kage Bunshin could perform actions such as Meditation), though you can spend AP to reduce their speeds. Bunshin act on their own IC, separate from their creator, and using them does not increase the user's IC unless explicitly mentioned. 
 

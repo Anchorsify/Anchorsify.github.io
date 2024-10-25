@@ -533,6 +533,8 @@ For the sake of demonstration, we'll say that you have 600 Vitality, and 200 HP.
 
 On the other hand, if you had 60 Vitality remaining when that same attack hit, you'd lose 60 Vitality (10%) and 40 HP (25%), resulting in two Minor wounds.
 
+Effects which state they give an increase to Wounding mean that, after all reductions to damage are applied (but before armor), you increase the final damage taken by that amount (in the case of a flat value and a percentage, you add the flat value after the percentage increase).  Following the above example of being hit for 100 damage, if that same attack were to have +25% Wounding, you would only take 100 damage, but you would compare (100 * 1.25) = 125 against your Wound thresholds to determine what wound(s), if any, you would receive.  As mentioned above, if you happen to be low on vitality to where that Wounding damage would roll over into hit points, you do so accordingly after determining any increases (or decreaes) for Wounding.
+
 ### Damage Types
 After determining the severity of a wound, the next (fairly simple!) step is determining what type of wound it is. Being cut by a sword and being hit by a magical ninja fireball, even if they do the same amount of damage, have significantly different effects on the human body. For the most part this is self-explanatory, with only four damage types recognized: Blunt, Slashing, Piercing, and Energy.
 

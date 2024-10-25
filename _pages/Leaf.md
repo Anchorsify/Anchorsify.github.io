@@ -141,19 +141,21 @@ While this Jutsu is being maintained, the Swarm used in this Technique can not b
 The Aburame commands their Kikaichuu to disperse over a wide area of the battlefield and then transmits their Chakra to them, covering the field in chakra pathways.  Depending on the whims of the Aburame, they can produce a variety of effects, from sensor disruption to draining an entire enemy squadron simultaneously.
 
  - Type: Ninjutsu, Rank C
- - Chakra: 10 + X
+ - Chakra: 15 + X
  - Speed: 10 + X
  - Upkeep: X
  - Area: X * 5
  - Seal Speed: 12
  - Requires: Deployed X Swarm Size
 
-Effects:  You create a cloud of Kikaichuu that turn into, essentially, an Environmental effect, that can be used to do one of several things. You pick one from the list below when you first use this jutsu, and can switch between them as a Speed 4 + X action without repaying the cost, so long as the Upkeep is maintained.
+Effects:  You create a cloud of Kikaichuu that turn into an Environmental effect, that can be used to do one of several things. You pick one from the list below when you first use this jutsu, and can switch between them as a Speed 4 + X action without repaying the cost, so long as the Upkeep is maintained.
 
-The Swarm used for this technique can not be used for other things (drain, guard, creating clones) until the technique is dismissed, and can not be targetted or attacked, nor do they take damage from area of effect attacks. You are immune to the penalties of this technique, but can benefit from its effects (when using Disrupt Chakra Sensors, namely), and can specify (Chakra Control Ranks)/5 additional people to be immune to Bug Jamming's effects (chosen based on who is in the affected area at any given time).
+The Swarm used for this technique can not be used for anything else (drain, guard, creating clones, etc) until the technique is dismissed, and can not be targeted or attacked, nor do they take damage from area of effect attacks. You are immune to the penalties of this technique, but can benefit from its effects (when using Disrupt Chakra Sensors, namely), and can specify (Chakra Control Ranks)/5 additional people to be immune to Bug Jamming's effects (chosen based on who is in the affected area at any given time).
 
- - *Disrupt Chakra Sensors* - While maintaining the field, you take no penalty for the upkeep of your Kikaichuu (or this technique) when someone tries to sense or spot you, and instead have a bonus to of X*2 to disguise and/or hide yourself from Scanning or Searching attempts.  Chakra Sensors are not able to sense or identify anyone within the field based on their chakra signatures.
+ - *Disrupt Chakra Sensors* - While maintaining the field, you take no penalty for the upkeep of your Kikaichuu (or this technique) when someone tries to sense or spot you, and instead have a bonus to of X to disguise and/or hide yourself from attempts to detect you via Chakra (namely a Chakra Sensor's Scan, and a Natural Chakra user's A Dream of the World, though in the latter case, it does not prevent you from detecting your overall presence). Those able to identify individual chakra signaturs are unable to do so for anyone within the field.
+
  - *Obstruct Vision* - By constantly keeping in motion and following a synchronized pattern, the beetles can obstruct anyone’s vision who is within the field. While not an actual hindrance to movement, they impose a -X Visibility Penalty to anyone inside of it, or anyone attacking into the field, for as long as it’s maintained. If this technique has its visibility penalty reduced by other jutsu (such as by the E-rank Fuuton, Cleansing Winds) then it regains 1 point of its penalty every 5 IC that pass, so long as you maintain its Upkeep. On the other hand, effects which remove it entirely (such as the A-rank Fuuton, The North Wind) will, indeed, remove it (and end the Upkeep automatically).
+
  - *Chakra Drain* - Anyone inside of the field who makes a Chakra Exhaustion roll while within the field takes a penalty to their roll equal to X, which persists until they leave the field. Unlike normal penalties to Fatigue, it does not go away when you advance a Fatigue level: You must leave the area to get rid of the penalty.
 
 #### --( Mushi Bunshin – Bug Clone )--
@@ -453,7 +455,7 @@ The ultimate and most lethal usage of Jyuuken, and the final development of Hakk
   Effects: This attack uses your NDB and inflicts Sealed Tenketsu 4, reduces Blocking's effectiveness by 25%, ignores armor, bypasses half of an opponent's DR, and deals Energy wounds. This attack may not be converted with Jyuuken.
 
 ###### -=[ Sealed Tenketsu ]=-
-This is a Status Effect, applied on hit, that penalizes Chakra Exhaustion and Chakra Control rolls equal to its Severity, and half that (rounding down) to Stamina rolls. If you ever fail a Chakra Exhaustion roll while you have this status, whatever technique you were trying to use fails (but you advance in Fatigue as normal), and you lose Hit Points (not Vitality) equal to the Chakra cost of that technique.
+This is a Status Effect, applied on hit, that penalizes Chakra Exhaustion and Chakra Control rolls equal to its Severity, and half that (rounding down) to Stamina rolls. If you ever fail a Chakra Exhaustion roll while you have this status, whatever action you were trying to do fails (but you advance in Fatigue as normal), and you lose Hit Points (not Vitality) equal to the Chakra cost of that technique.
 
 Sealed Tenketsu stacks partially with itself. If you already have the status applied, and are struck by another attack which it inflicts it, add half (rounded down) the lower severity to the higher; this is the new severity of your Sealed Tenketsu status. For example, if you were at 3, then hit by an attack which inflicted Sealed Tenketsu 5, your status would be (5 + 3/2) = (5 + 1) = 6. Another attack with ST 3 would, then, raise you to 7.
 
