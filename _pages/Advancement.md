@@ -310,6 +310,8 @@ You may also teach any talents under the "Capabilities" heading which you alread
 
 Keep the GMs informed of who you're training, and with what. There are Infamy gains associated, for both teacher and student. And, notably, teaching members of other villages is looked upon very poorly by your own village and, if they find out, can be tantamount to treason.
 
+Mentor can not be acquired through the Prodigy talent.
+
 ##### Staying Power
 All this ninja-ing has given you exceptional resilience. You work yourself to the bone and fight against impossible odds on a regular basis; it's not even really all that memorable when you do it, any more! Your bonus to Chakra Exhaustion and Stamina rolls from Fatigue is raised by +2 per category (from a default of +5, giving you, under normal circumstances, +7 per Fatigue level).
 
