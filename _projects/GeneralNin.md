@@ -213,8 +213,8 @@ Effects: When you create the mist, roll the lower of your Chakra Control, Medici
 
 The cloud is a poison with the following effects:
  - Poison: (Toxicology)/5
- - Paralysis: (Medicine)/6, which lasts until you leave the cloud
- - Shock: (Medicine)/6, which lasts until you leave the cloud
+ - Paralysis: (Medicine)/6
+ - Shock: (Medicine)/6
  - Suffocation: (Research)/10, applied every 20 IC
 
 Additionally, the cloud itself has a (Chakra Control)/5 visibility penalty throughout its entire area.

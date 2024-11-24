@@ -286,7 +286,7 @@ An advanced surveillance technique that, ultimately, falls far short of the effi
 
 Effects: When performing a Search (in Combat -> Stealth) or Observe (Ninjutsu -> Bunshin) action, you may use your Chakra Control skill ranks in place of your Awareness skill ranks, and receive a bonus of (ninjutsu damage bonus)/3 either way. 
 
-When targetted by a Surprise or Sneak Attack, you are allowed an Awareness roll (with this technique's effects) against your opponent's Stealth TN, unreduced by their attack; if you meet or exceed their TN, you can choose to negate the effect of it being a Surprise or Sneak Attack (against you only), or to spot their location, causing them to no longer be hidden from you after the attack (in the event the attack itself does not remove them from Stealth).
+When targetted by a Surprise or Sneak Attack, you are allowed an Awareness roll (with this technique's effects) opposed by a Stealth roll from your attacker; if you beat their roll, you can choose to negate the effect of it being a Surprise or Sneak Attack (against you only), or to spot their location, causing them to no longer be hidden from you after the attack (in the event the attack itself does not remove them from Stealth).
 
 ## A-rank
 #### --( Kaze no Yaiba - Blade of Wind )--

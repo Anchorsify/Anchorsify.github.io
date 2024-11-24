@@ -214,7 +214,9 @@ Effects: When used, declare another technique which you know, pay its cost, and 
 
 Possible conditions include "when you see the daimyo" and "when you hear the word 'orange' ". A target can be specified within reason (such as "the daimyo", or "whoever said that word").
 
-The technique stored inside a Transciption Seal may not be a Taijutsu, nor may it have a cost of any kind other than Chakra Exhaustion (such as Willpower, or Stamina). If it is a Genjutsu or Sealing technique, it can apply to the person the Transcription Seal was placed on or the person who triggered the seal, as you prefer. If the technique in question has an Upkeep, the person the Seal was placed on immediately takes on the Upkeep, and can accordingly dismiss it at any time. A person may only have one Transcription Seal on them at a time. This seal is invisible and undetectable except for by a Fuuinjutsu expert who knows to look for it.
+The technique stored inside a Transciption Seal may not be a Taijutsu, and techniques which use your Taijutsu Accuracy may only target the person the seal is applied to, not anyone else.  It may not have a cost of any kind other than Chakra Exhaustion (such as Willpower, or Stamina), and if it has material components (a scroll, a weapon, etc), it is likewise ineligiable to be used with Transcrption Seal, with the sole exception of Suiton and gallons of water, which can be stored within the seal (so long as you have any necessary gallons at the time of its placement), and must be stored inside the seal ahead of time.
+
+If it is a Genjutsu or Sealing technique, it can apply to the person the Seal was placed on or the preson who triggered it, as you prefer. If the technique in question has an Upkeep, the person the Seal was placed on immediately takes on the Upkeep, and can accordingly dismiss it at any time. A person may only have one Transcription Seal on them at a time. This seal is invisible and undetectable except for by a Fuuinjutsu expert who knows to look for it.
 
 #### --( Gogyou Fuuin - Five Elements Seal )--
 This jutsu produces a powerful seal that disrupts the flow of chakra in the target. In most cases this is crippling.

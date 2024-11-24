@@ -274,14 +274,12 @@ Four pillars of rock, each about twenty feet tall, are summoned around an enemy 
  - Chakra: 33
  - Upkeep: 4
  - Range: 40
- - Area: 20 x 20 square
+ - Area: 25 x 25 square
  - Speed: 20
  - Seal Speed: 20
  - Tags: Area of Effect, Energy, Environmental
 
-Effects: This technique applies Paralysis 2, Shock 2, and Immobilize 2 to everyone within its area, and every IC someone remains in the area they take 4 damage which bypasses all reductions. This damage does not benefit from the technique's Speed or your NDB, and ends immediately upon leaving the area (as do the status effects).
-
-The pillars can be attacked, and each has 100+(NDB*5) HP, with CHA/2 DR, and do not take additional damage from Raiton (despite the fact that they're pillars of earth...); only one pillar needs to be destroyed in order to end this technique.
+Effects: This technique applies Paralysis 4, Shock 4, and Immobilize 4 to everyone within its area, and every IC someone remains in the area they take 4 damage which bypasses all reductions. This damage does not benefit from things which increase the damage you deal, or the technique's Speed or your NDB, and ends immediately upon leaving the area (as do the status effects).  You are immune to its effects.
 
 #### --( Tesura Karui - Tesla Minor )--
 This generates a semi-stable mass of lightning chakra which you can physically throw. It'll 'stick' to the first surface it comes into contact with (reminder: people are not surfaces). Once placed the ball is stationary, a bright and crackling hemisphere of chakra. Anyone unfortunate enough to wander into range will receive a face-full of electricity.
@@ -345,16 +343,14 @@ Effects: This hits everything in a line ten yards across (its area), and up to o
 Just as the four pillar bind, this surrounds the area, though this time it's a bit more solid. After creating a large, oven-like structure it then electrocutes the entire area inside, frying the contents and hopefully making it hard for them to escape.
 
  - Chakra: 44
- - Upkeep: 8
+ - Upkeep: 12
  - Range: 120
  - Area: 80
  - Speed: 24
  - Seal Speed: 32
  - Tags: Area of Effect, Energy, Environmental
 
-Effects: This is a 20 x 20 AoE, inside a 40 x 40, inside a 60 x 60, inside a 80 x 80; thus, it's 20 yards from the edge of one layer to the next. For each layer a person is inside they suffer Paralysis 1, Shock 1, and Immobilize 1, and takes 4 damage every IC which bypasses all reductions. This damage does not benefit from the technique's Speed or your NDB, and ends immediately upon leaving the area (as do the status effects).
-
-The pillars can be attacked, and each have 250+(NDB*10) HP, with CHA/2 DR, and do not take additional damange from Raiton (despite the fact that they're huge earthen pillars). Only one pillar of each set of four needs to be destroyed to end the effects of that layer.
+Effects: This is a 25 x 25 AoE, inside a 50 x 50, inside a 75 x 75, inside a 100 x 100; thus, it's 25 yards from the edge of one layer to the next. For each layer a person is inside they suffer Paralysis 2, Shock 2, and Immobilize 2, and takes 2 damage every IC which bypasses all reductions, meaning that being within all four layers imparts Paralysis 8, Shock 8, Immobilize 8, and 8 damage per IC. This damage does not benefit from things which increase the damage you deal, or the technique's Speed or your NDB, and ends immediately upon leaving the area (as do the status effects).  You are immune to its effects.
 
 #### --( Tesura Shousa - Tesla Major )--
 Filling both of your arms with an intense and energetic lightning chakra, you throw it out onto a surface. This time, instead of a small ball being produced as in Tesla Minor there is a great spire of electricity that stays in place, pulsating with energy. These usually tower over a battlefield and electrocute anything that comes within range.

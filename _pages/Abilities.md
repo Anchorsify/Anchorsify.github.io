@@ -353,7 +353,7 @@ Your extensive physical conditioning has given you an almost preternatural abili
 - Requires: 60 RES
 
 #### -=[ Fortitude ]=-
-Every rank of this ability gives you a +1 bonus to Resistance rolls when you block an attack (even if you are doing so reflexively); if you've declared that you're blocking, this also applies to any effects requiring a Resistance roll which you wouldn't normally get to defend against (such as the B-rank Poison Mist). If you've declared you're blocking as a Variable Speed Action, and take another defense (for example: you are blocking from IC 20 to IC 30, and on IC 24 you dodge an attack, and are hit), you still gain this bonus.
+Every rank of this ability gives you a +1 bonus to Resistance rolls when you block an attack (even if you are doing so reflexively); if you've declared that you're blocking, this also applies to any effects requiring a Resistance roll which you wouldn't normally get to defend against (such as the B-rank Poison Mist). If you've declared you're Blocking as a Variable Speed Action, and take another defense (for example: you are blocking from IC 20 to IC 30, and on IC 24 you dodge an attack, and are hit), you still gain this bonus.
 
 - Base Cost: 2
 - Scale: 2
@@ -545,14 +545,14 @@ Ninja with the ability to use chakra can get away with not solving every problem
 - Limit: Lower of Awareness /5, Espionage /5, or Stealth /5; max 5 ranks
 
 #### -=[ Defensive Formation ]=-
-You take up a position protecting someone from harm. Very useful on escort missions when you have to keep some blubbering civilian safe! You declare this as an action the same way you would blocking, while designating one or more (up to 1+XP/1000) targets within AGI/20 yards of you. If one of those people is attacked during your Defensive Formation, you may immediately attempt to Take The Hit, without increasing your next action as would be normal for using an Interrupt, with a +10 bonus (replacing the normal +5). Against area-of-effect attacks, if you do this you take the full damage, and they take only half (which they can reduce by their own defenses). The protected target can still defend themself, but if they move out of your protective radius the Defensive Formation is automatically aborted.
+You take up a position protecting someone from harm. Very useful on escort missions when you have to keep some blubbering civilian safe! You declare this as variable speed action the same way you would Blocking, while designating one or more (up to 1+XP/1000) targets within AGI/20 yards of you. If one of those people is attacked during your Defensive Formation, you may immediately attempt to Take The Hit, without increasing your next action as would be normal for using an Interrupt, with a +10 bonus (replacing the normal +5). Against area-of-effect attacks, if you do this you take the full damage, and they take only half (which they can reduce by their own defenses). The protected target can still defend themself, but if they move out of your protective radius the Defensive Formation is automatically aborted.
 
 You may simultaneously declare any two of: Block, Guard, Total Defense, Defensive Formation, and similar actions not listed in this chapter (such as the Uchiha's Observe).
 
 - Base Cost: 25
 
 #### -=[ Guard ]=-
-You ready yourself for an impending attack. Guard is an action declared similar to blocking. While Guarding, you have a +5 bonus to accuracy when parrying enemy attacks (including with jutsu, such as Halting Blow). Your Parry action itself becomes a Speed 0 Interrupt.
+You ready yourself for an impending attack. Guard is a variable speed action declared similar to blocking. While Guarding, you have a +5 bonus to accuracy when parrying enemy attacks (including with jutsu, such as Halting Blow). Your Parry action itself becomes a Speed 0 Interrupt.
 
 You may simultaneously declare any two of: Block, Guard, Total Defense, Defensive Formation, and similar actions not listed in this chapter (such as the Uchiha's Observe).
 
@@ -582,7 +582,7 @@ Not getting caught by one's opponents is always preferable when outmatched, but 
 - Requires: Basic Survival Tactics 5
 
 #### -=[ Total Defense ]=-
-You abandon all forms of attack and focus on staying alive. This is an action declared the same way as blocking. While in Total Defense, your dodge action becomes a Speed 0 Interrupt and has a +3 bonus.
+You abandon all forms of attack and focus on staying alive. This is a variable speed action declared the same way as blocking. While in Total Defense, your dodge action becomes a Speed 0 Interrupt and has a +3 bonus.
 
 You may simultaneously declare any two of: Block, Guard, Total Defense, Defensive Formation, and similar actions not listed in this chapter (such as the Uchiha's Observe).
 
@@ -592,7 +592,7 @@ You may simultaneously declare any two of: Block, Guard, Total Defense, Defensiv
 ## Other
 ##### 1. Willpower
 #### -=[ Desperation ]=-
-Being faced with truly dire straits brings out remarkable characteristics: in animals, in civilians, and in shinobi. Thankfully, you're one of those! You can activate this ability when defending against an attack by spending a point of Willpower. Your Interrupt only needs to be double or less the Speed of the attack you're defending against, rather than half or less. This effect persists of the duration of that IC; if you're being attack four times in the same IC, then all four defenses would receive this benefit.
+Being faced with truly dire straits brings out remarkable characteristics: in animals, in civilians, and in shinobi. Thankfully, you're one of those! You can activate this ability when defending against an attack by spending a point of Willpower. Your Interrupt only needs to be double or less the Speed of the attack you're defending against, rather than half or less. This effect persists of the duration of that IC, but applies only once per person, and can only be activated once per IC; if you're being attacked by four different people in the same IC, then all four defenses would receive this benefit, but if they respond with an interrupt in response to your own interrupt (typically as a result of it dealing damage or turning into an attack of some kind), your second interrupt (if needed) would not benefit from Desperation, nor may you activate Desperation a second time that IC.
 
 - Base Cost: 40
 - Requires: 6 Willpower
@@ -660,7 +660,7 @@ You get a lot done in combat. Whether it's quickly assessing the battlefield, ex
 - Limit: AGI /20
 
 #### -=[ Principle of Motion ]=-
-You're able to act blindingly fast, beyond what all reason suggests should be possible. You may at any time after your first non-interrupt action in combat cause your next action to come 1 IC earlier for every 2 AP you spend. For example, say it's initiative count 200, and you just took a speed 12 action. Your action ends that IC, moving the battle onto IC 201; normally your next action would occur on IC (200+12) = 212. By spending 22 AP, you could act on (IC 212 - 11) 201, in other words, immediately. This only allows your next action to come sooner; it does not let you finish an ongoing action sooner. As such, Principle of Motion can't be used to make you finish Handseals early, or while you are in the process of using any action with a Delay, or any Variable Speed Aaction (including the Move action). Similarly, you can not use Principle of Motion to reverse time. You may use Principle of Motion only to bring your next action to what the current initiative count is. This means that if you take an action on IC 16, once it is resolved IC 17 begins--and that is the earliest you could activate Principle of Motion, meaning you would be unable to act twice on the same initiative count. After using Principle of Motion, you may not use it again until 10 IC have passed. You may not use Principle of Motion while Stunned. 
+You're able to act blindingly fast, beyond what all reason suggests should be possible. You may at any time after your first non-interrupt action in combat cause your next action to come 1 IC earlier for every 2 AP you spend. For example, say it's initiative count 200, and you just took a speed 12 action. Your action ends that IC, moving the battle onto IC 201; normally your next action would occur on IC (200+12) = 212. By spending 22 AP, you could act on (IC 212 - 11) 201, in other words, immediately. This only allows your next action to come sooner; it does not let you finish an ongoing action sooner. As such, Principle of Motion can't be used to make you finish Handseals early, or while you are in the process of using any action with a Delay, or any Variable Speed Action (including the Move action). Similarly, you can not use Principle of Motion to reverse time. You may use Principle of Motion only to bring your next action to what the current initiative count is. This means that if you take an action on IC 16, once it is resolved IC 17 begins--and that is the earliest you could activate Principle of Motion, meaning you would be unable to act twice on the same initiative count. After using Principle of Motion, you may not use it again until 10 IC have passed. You may not use Principle of Motion while Stunned. 
 
 - Base Cost: 60
 - Requires: 100 DEX, 100 AGI

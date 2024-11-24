@@ -77,7 +77,7 @@ By unfolding their fan only a third of the way, the user creates a small but bit
  - Range: CHA/4
  - Type: Fan
 
-Effects: This attack uses your ninjutsu damage bonus, rather than your physical damage bonus. The Chakra cost of this technique is the same as, and replaces, the Fan's normal Stamina cost.  This attack can only be parried by things which state they can parry Ninjutsu.
+Effects: This attack is defended against as a Ninjutsu Projectile, and uses your NDB, rather than your PDB. The Chakra Cost of this technique is the same as, and replaces, the Fan's normal Stamina cost.
 
 #### --( Kage Shuriken no Jutsu - Shadow Shuriken Technique )--
 The user throws multiple Shuriken at the same time, positioning them in such a way that one or more weapons can hide within the shadow of another in flight, making the lower one(s) virtually invisible.
@@ -294,7 +294,7 @@ Extending out a polearm, you hold one end with both hands then commence whirling
  - Speed: (Weapon) + 4
  - Type: Polearm
 
-Effects: You may attack anyone you choose within Range 4. If you use this technique and attack only one person, you gain +2 to your Accuracy for the attack.
+Effects: You may attack anyone you choose within Area 4. If you use this technique and attack only one person, you gain +2 to your Accuracy for the attack.
 
 #### --( Nenten Tsuki - Twisting Stab )--
 The user lunges forward while turning their wrist, drilling their weapon into the opponent, using chakra to enhance their momentum. It is very effective at breaking an opponent's guard as you spin the weapon to go around their defense.
@@ -312,10 +312,10 @@ Opening the fan two-thirds of the way for this attack, the user lets out a stron
  - Chakra: Special
  - Damage: (Weapon)
  - Range: CHA/4
- - Speed: (Weapon) + 3
+ - Speed: (Weapon) + 5
  - Type: Fan
 
-Effects: This uses your ninjutsu damage bonus, plus one-fourth of your physical damage bonus, and knocks your target back (PDB/2) yards on hit. The Chakra cost of this technique is (the Fan's normal Stamina Cost) + 5. This attack can only be parried by things which state they can parry Ninjutsu.
+Effects: This attack is defended against as a Ninjutsu Projectile, and uses your NDB plus half your PDB, and knocks your target back (PDB/2) yards. The Chakra Cost of this technique is (10 + the Fan's normal Stamina cost).
 
 #### --( Nenshou Hoshi Shuriken - Burning Star Shuriken )--
 Taking a large throw weapon, you slap several explosive tags onto it and huck it at your enemies! Pretty simple, and pretty awesome!
@@ -409,7 +409,7 @@ The user of this technique throws multiple oversized shuriken in quick successio
  - Speed: 12 + X * 5
  - Type: Large Thrown
 
-Effects: You throw X Fuuma Shuriken or Large Star Shuriken, up to a maximum of STR/35 (May never exceed 4); all the weapons you throw must be of the same type. If this hits normally, its damage is increased by 5% per point it hits by (if Fuuma Shuriken were used), or 10% per point it hits by (if Large Star Shuriken were used); this is then reduced by partial defense normally.
+Effects: You throw X Fuuma Shuriken or Large Star Shuriken, up to a maximum of STR/35 (May never exceed 4); all the weapons you throw must be of the same type. If this hits normally, its damage is increased by 5% per point it hits by (if Fuuma Shuriken were used), or 10% per point it hits by (if Large Star Shuriken were used), replacing the weapon's normal percentage increase based on how much you hit by, to a maximum of +200% (for tripled damage); this is then reduced by partial defense normally.
 
 If Haruichiban misses, lower X by 1, its Speed by an additional 4, and raise its Accuracy by 3. Repeat this until Haruichiban hits or X is 0.
 
@@ -450,6 +450,17 @@ Effects: While this technique is maintained, your arrows deal an extra (CHA/12) 
 Additionally, you may create arrows out of pure chakra. Attacking with these arrows replaces your bow's normal Stamina cost with an equivalent Chakra cost +5 (a Daikyu, Stamina 20, would become Chakra 25). These deal (CHA/8) dice of damage, and use (ninjutsu damage bonus + physical damage bonus)/2 in place of your normal physical damage bonus. These arrows use d12 for their damage if used with a Daikyu, or d6 with a Yumi.
 
 These arrows have a faint glow about them until they hit, a result of the chakra enhancing them. This tends to draw attention. When attacking from Stealth with Phantom Ballista (either a normal arrow, or one created from chakra) your Stealth TN is reduced by 7 (rather than 5).
+
+#### --( San no Hoshi - Three Star )--
+By fully unfolding the user's fan and channeling their chakra through it as they make a wide sweeping gesture, they can produce a prodigious amount of wind that cuts through the air toward a distant target to send them reeling.
+
+ - Chakra: Special
+ - Damage: (Weapon)
+ - Range: CHA/3
+ - Speed: (Weapon) + 10
+ - Type: Fan
+
+Effects: This attack is defended against as a Ninjutsu Projectile, and uses your NDB plus your PDB, and knocks your target back (PDB) yards, along with knocking them prone automatically. The Chakra Cost of this technique is (20 + the Fan's normal Stamina cost).
 
 ## A-rank
 #### --( Mikazuki no Mai - Crescent Moon Dance )--

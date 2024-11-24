@@ -73,14 +73,7 @@ You take speed to a new level. You outrun the wind, your allies, and yes, even t
 *Upgrades From: Blur*
 
 ##### Fan of Knives
-You have a strong preference for thrown weapons of all kinds, and have the skill to prove it!   When determining the range of your thrown weapons, reduce the STR divisor by 1 (so Kunai would have a max range of 5+STR/3 yards, rather than 5+STR/4).  You may increase the damage of any ranged thrown weapon by up to 1% per yard the target is away, to a maximum of +25%, and can perform the following actions:
-
-###### Cut Off (Speed 4, Interrupt)
-You may perform a ranged Parry against any thrown weapon attack (including Jutsu-based and Jutsu-enhanced thrown weapon attacks such as Meteor Shower and linking Violent Wind Palm, respectively), with a +3 bonus. The attack parried does not have to include you as a target; you may parry attacks directed at others within the range of your thrown weapons. You must throw at least half as many weapons as the attack you try to parry.
-
-###### Cut In (Special, Interrupt)
-When you perform a successful Cut Off defense against an attack targeting you, you may choose to turn your defense into a thrown weapon attack, using your Cut Off parry roll as its accuracy. Calculate its speed, stamina cost and damage using the number of weapons thrown as part of the Cut Off defense.
-*Upgrades From: Quick Draw, Weapon Master*
+You have a strong preference for thrown weapons of all kinds, and have the skill to prove it!  Your Ranged Taijutsu attacks add (DEX/20) to their Range, and gain +1% damage per yard the target is from you, to a maximum of (15+DEX/10)%.  When you hit with a Ranged Taijutsu attack, you are considered to hit by 1 more than you actually did, affecting Partial Success and any modifiers based on how much you hit by. When performing a Multi-Throw, you can throw (DEX/40) additional weapons that do not count toward the Cost or Speed of the multithrow.  Finally, you may perform a parry using one or more Thrown weapons, and when you do, you may perform a basic attack or Multi-throw with those weapons afterwards if you succeed on your Parry, using your resulting Parry roll as your Accuracy (which can not then be modified further), at its normal Cost and Speed, as an Interrupt. In the case of parrying multiple projectiles or thrown weapons, you must use as many weapons as the original attack used, and all weapons you throw for your parry must be the same type of weapon.
 
 ##### Jutsu Master
 You have a knack for mastering new jutsu, and, more impressively, not confusing them with one another no matter how many you seem to learn. The cost to learn jutsu is reduced by 25% (round up on the cost if necessary).  If you have other sources of XP reductions for learning Jutsu, you apply them multiplicatively, rounding up the final cost. This is, in fact, retroactive! Your maximum Chakra Control rank is increased by 3, and you have +1 Accuracy for all jutsu you use (Genjutsu get +1 to their offense roll, instead), which is doubled if the jutsu in question has an inherent Accuracy penalty.  Finally, all Jutsu gain +5% to their damage.

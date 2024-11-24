@@ -40,6 +40,8 @@ You summon a small clay jug filled with thick, viscous red blood. The blood from
 
 Effects: If you take a Speed 8 action to smear the blood over yourself, you become highly resistant to heat and fire. For the next 200 IC, you are immune to the Ignite status effect and any ongoing Ignites will end. You become immune to Burns, but existing Burns won't be removed. You cannot be wounded by Katon, and the severity of wounds from para elements based on Katon (Shakuton and Futton) are reduced by one category. Finally, you take 25% less damage from Katon or its advanced elemental forms.
 
+Giving the blood to someone who does not hold a contract with the Salamanders constitutes an automatic Breach of Contract.
+
 #### --( Kuchiyose: Kurochi - Summoning: Black Blood )--
 You summon a small earthenware decanter filled with a pitch-black liquid the consistency of water. The blood of this species of salamander is poisonous--but, a single whiff of the stuff would be enough to convince most people not to even consider drinking it.
 
@@ -51,6 +53,8 @@ You summon a small earthenware decanter filled with a pitch-black liquid the con
 Effects: If you take a Speed 4 action to drink the blood, you... are poisoned!
 
 This has a Poison 1 effect, with a Duration of 1000 IC. However, the black blood blocks the action of any other poisons: while you can be poisoned, so long as the black blood is coursins through your veins you will ignore their effects, and their own durations will expire normally. You may purge the black blood from your system as a Speed 10 action, by "unsummoning" it.
+
+Giving the blood to someone who does not hold a contract with the Salamanders constitutes an automatic Breach of Contract.
 
 #### --( Kuchiyose: Aochi - Summoning: Blue Blood )--
 You summon a small wooden bowl with a tepid, syrupy substance inside it. If you hadn't figured it out yet, it's salamander blood, said to have mystical properties!
@@ -65,6 +69,8 @@ Effects: You may close your eyes and take a Speed 5 action to coat your eyelids 
 For the next 100 IC, or until you open your eyes or wipe the blood away, you can 'see' despite your eyes being closed, viewing the world as black and all objects as chalky white outlines. While disorienting, it's quite effective.
 
 You completely ignore the standard -10 Visibility Penalty that ordinarily comes from having your eyes closed, and halve all other visibility penalties for the duration, and are immune to any effects requiring eye contact. Additionally, you have a +5 bonus to all your Awareness rolls, as this unnatural sight eliminates most visual distractions.
+
+Giving the blood to someone who does not hold a contract with the Salamanders constitutes an automatic Breach of Contract.
 
 ## Summons
 ##### Chameleon

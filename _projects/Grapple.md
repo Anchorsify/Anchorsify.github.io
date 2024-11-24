@@ -33,7 +33,9 @@ Effects: You are grappling your opponent. This is not inherently a huge advantag
 
 Certain situations within a grapple may call for a 'grapple check'. This varies depending on whether you are the attacker or defender: The Attacker rolls 1d20 + PDB + DEX/15, while the Defender rolls 1d20 + PDB + AGI/15, with both people rounding down their Damage Bonus to the nearest whole number (7.2 and a 7.9 both round down to 7).
 
-The person who initiated the grapple is considered the 'attacker', and may end it at will, at any time; the person who was grabbed is the 'defender', and may not. Unless specified otherwise, all Grapple Jutsu may only be used by the attacker. However, the defender has two options (beyond normal actions and attacks) available to them:
+The person who initiated the grapple is considered the 'attacker', and may end it at will, at any time; the person who was grabbed is the 'defender', and may not. Unless specified otherwise, all Grapple Jutsu may only be used by the attacker.  Both take fatigue penalties to their grapple rolls as appropriate: the 'attacker' takes offensive roll penalties from fatigue, while the 'defender' takes defensive roll penalties from fatigue. 
+
+However, the defender has two options (beyond normal actions and attacks) available to them:
 
 ###### Shift Grapple
 *(Speed 5, Stamina 5)*  

@@ -105,8 +105,8 @@ Hitori begin with Elemental Aptitude for Fire and Wind ninjutsu, along with the 
 Combining Fire and Wind chakra results in the advanced nature of ‘Scorch Release’; as the name suggests, it involves using extreme heat as a weapon, with powerful users being able to reduce opponents to ash or evaporate the liquid inside their body, sapping away their strength.
 
 Any Katon or Fuuton technique can be converted to Shakuton as a Chakra +5, Speed +0 link, with the following changes:   
- - Deal 70% normal damage, but can not be blocked, and gain +50% for Wounding
- - They gain +CHA/40 to their Accuracy
+ - Deal 75% normal damage, but can not be blocked
+ - They gain +CHA/30 to their Accuracy
  - Inflict a Dehydration status of severity (1 per Rank of the jutsu) + CHA / (90 - 10*Rank). In other words, for an E-Rank this is 1+CHA/80, for a D-Rank it is 2+CHA/70, and so on, up to 5+CHA/40 for A-rank techniques
  - Shakuton can increase a victim’s Dehydration status up to a maximum of 3+(CHA/8)
  - Shakuton can not inflict Burns or Ignite
@@ -233,12 +233,14 @@ The Kairaishi’s signature technique and a unique ninjutsu, this allows the use
 - Type: Ninjutsu, Rank D
  - Chakra: 10 + X * 2
  - Upkeep: 3 + X/2
- - Range: 5 + CHA/6
+ - Range: 15 + CHA/10
  - Speed: 6 + X/2
 
 Effects: You gain control of 1 + X puppets which are uncontrolled on the battlefield, to a maximum of ten puppets.  If they are not your puppets, you take a -3 to all actions which utilize them. While controlling puppets, you cannot make handseals, use weapons, or otherwise make use of your hands.  You can use puppets while Hidden and using a puppet to attack while hidden does not reveal you, but it does lower your Stealth TN by 5 each time, and anyone who can see Chakra can see the Chakra Threads that connect you to your puppets, gaining a bonus on their Search action equal to the Upkeep from this technique to find you.
 
 You can change the value of X (i.e., how many puppets you are controlling) as a Speed 4, Chakra 10 + X * 2 action based on your new number of controlled puppets; your Upkeep is then modified accordingly, rounding up.
+
+When your puppets are attacked you can advance your IC to direct them to perform defensive interrupts, let them get hit, or pay a number of AP equal to the Speed of their defensive interrupt to avoid advancing your own IC. If you are subject to attack alongside your puppets, you and your puppets are all allowed to take a defensive action, and you advance your IC only by the highest Speed interrupt taken amongst the group (though you can not elect to spend AP to avoid advancing your own IC), though if there are multiple Fatigue costs incurred, you pay for all of them.
 
 While maintaining this technique’s Upkeep, you may use your Puppets in the following ways:
 
@@ -250,16 +252,14 @@ While maintaining this technique’s Upkeep, you may use your Puppets in the fol
 
 *Chakra no Ito: Puppet Show (Speed 0 Interrupt)* - Every iterative of 25 IC after you activate Kugutsu no Jutsu, you can use this action to direct all puppets you control to make basic attacks on anyone they can reach, using whatever they’re equipped with. You can have all your puppets attack the same person, or direct them to attack different targets, as you choose.  You can only direct puppets to attack in this fashion if you have been controlling them for the full 25 IC, and you did not use them in the above Attack or Defend actions for the past 25 IC.  Attacks from puppets in this manner have their attacks Held Back, as per the ability, even if you do not have it.  You may not spend AP to modify any puppet’s attack from this action, and you may not utilize any special abilities of your puppets with this action.
 
-Anyone targeted by a puppet in this fashion defends against the puppet’s attack as if it were its normal Speed (so someone attacked by a Katana-swinging puppet would defend against Puppet Show as if it were a Speed 13 attack); if attacked by multiple puppets, you use simply the highest Speed puppet attack to determine valid defenses against all attacking puppets.  Similarly, anyone attacked by multiple puppets at once can declare and use the same defense against multiple puppets (though you roll separately), and only has their IC advanced by the highest Speed defense they utilize.  Thus, if Sasuke dodged two of Kankuro’s puppets and decided to Parry a third, he would only advance his IC by 3, for the speed of the Parry, rather than account for all defenses.  Costs associated with either a puppet’s attack (such as Weapon Focus) or a Defense (such as Mizuhane) are paid for each instance they are used, however.
-
-When your puppets are attacked you can advance your IC to direct them to perform defensive interrupts, let them get hit, or pay a number of AP equal to the Speed of their defensive interrupt to avoid advancing your own IC. If you are subject to attack alongside your puppets, you and your puppets are all allowed to take a defensive action, and you advance your IC only by the highest Speed interrupt taken amongst the group (though you can not elect to spend AP to avoid advancing your own IC), though if there are multiple Fatigue costs incurred, you pay for all of them.
+Anyone targeted by a puppet in this fashion defends against the puppet’s attack as if it were its normal Speed (so someone attacked by a puppet using a Katana would defend against Puppet Show as if it were a Speed 13 attack); if attacked by multiple puppets, you use simply the highest Speed puppet attack to determine valid defenses against all attacking puppets.  Similarly, anyone attacked by multiple puppets at once can declare and use the same defense against multiple puppets (though you roll separately), and only has their IC advanced by the highest Speed defense they utilize.  Thus, if Sasuke dodged two of Kankuro’s puppets and decided to Parry a third, he would only advance his IC by 3, for the speed of the Parry, rather than account for all defenses.  Costs associated with either a puppet’s attack (such as Weapon Focus) or a Defense (such as Mizuhane) are paid for each instance they are used, however.
 
 #### --( Puppet Mastery )--
 A novice puppet master needs both hands to direct the motions of a single puppet, often using a finger for each joint or something similar. A master learns how to split their chakra threads, and with as little as the twitching of a single digit and modulating of their chakra flows gracefully direct their puppets.
 
  - Type: Ability
- - Base Cost: 0
- - Scale: 5
+ - Base Cost: 5
+ - Scale: 0
  - Limit: XP/500
 
 Effects: The first time you take this ability you learn how to maintain Kugutsu no Jutsu potentially one handed; so long as you control five or less puppets at once, you can retain the use of one of your hands for making handseals, holding a weapon and so forth.  Every Rank after the first, you pick between one of two options:  Gain another Puppet, or decrease the IC interval of the Puppet Show action by 1.  
@@ -267,22 +267,25 @@ Effects: The first time you take this ability you learn how to maintain Kugutsu 
 #### -=[ Puppets ]=-
 The weapons of choice of puppeteers, which can range from the size of a small human to that of a towering animal.  While each Kairaishi is given a basic puppet frame with which to utilize, every puppeteer takes the time to modify them, aesthetically and functionally, to fit their purposes.  It is considered a rite of passage for defunct and shabbily-repaired puppets of former Kairaishi to be handed down to new genin with an expectation that their creativity and ingenuity will bring life to a puppet which would otherwise remain in disuse.
 
-All Puppets acquired begin with 30 RES and AGI, with a basic frame of a head, torso, and a pair of arms and legs, and has three slots for upgrades.  When in use, a puppet uses their controller’s DEX, and their controller’s CHA in place of STR.  Regardless of a puppet’s attributes, they are only as good as the Kairaishi which utilizes them: A puppet’s RES is limited by, and can never be higher than, their controller’s DEX, and a puppet’s AGI is similarly restricted by their controller’s CHA.  Puppets use their controller’s abilities and skills, but can never make Medicine, Research or Chakra Control rolls, and effects which modify derived stats (such as changing your damage bonus from /15 to /12) that the puppeteer might have do not apply to them, nor do upkeeps or effects which are personal to the Kairaishi (such as Chakra Strengthening, or Domu).
+All Puppets begin with 30 RES and AGI, with a basic frame of a head, torso, and a pair of arms and legs, and has three slots for upgrades.  When in use, a puppet uses their controller’s DEX, and their controller’s CHA in place of STR.  Regardless of a puppet’s attributes, they are only as good as the Kairaishi which utilizes them: A puppet’s RES is limited by, and can never be higher than, their controller’s DEX, and a puppet’s AGI is similarly restricted by their controller’s CHA.  They utilize your Ninjutsu Damage Bonus instead of Physical Damage Bonus, and changes to your NDB apply to them normally.
 
-By default you can equip Puppets with any Small weapon, paying half the normal Ryo cost to equip them with it. This reflects adjustments made to attach the weapon to the puppet’s body and breaking it down as necessary to remove unneeded hilt space to integrate it into the Puppet’s frame, thereby making it impossible to use for anyone else, but grants a +3 to resist Disarm attempts.  Puppets can not, by default, ‘two hand’ any weapon, or gain any bonuses for doing so. Puppets also have a basic slam attack you can utilize, which is a Chakra 8, Speed 8 action that inflicts (RES/10)d6 blunt damage; Puppets can not have Unarmed Focus or Power Attack applied to them, but you can apply Weapon Focus to any weapons your Puppets use, increasing your Chakra cost for their attack.
+Puppets are functionally equivalent to weapons, except with moving parts and the capacity to wield weapons themselves. They can make skill rolls for you, but they can never be used to make Medicine, Research, or Chakra Control rolls.  Because they are effectively weapons, Puppets do not get the benefit of passive or active defensive benefits you may utilize (such as a Defender’s Damage Reduction, or Domu’s Damage Reduction, or Bruiser’s Stun), however they would gain the benefits of upkeeps meant to apply to weapons (such as Chakra Flow): In such instances, each puppet gains the benefit of the Upkeep, following its normal rules (i.e., Chakra Flow normally only applies to one weapon, unless you’re using weapons with the ‘Dual’ tag: Each puppet you use would then get the benefit of Chakra Flow to one of their weapons, unless they were similarly using ‘Dual’ tagged weapons, which would have it apply to two of them).
 
-Puppets have RES*6 Durability, which is a measure of how much damage they can take, but is otherwise incompatible with Vitality or HP: Puppets can not be healed by Medical Ninjutsu or similar effects, nor do Puppets suffer Wounds.  Effects which specifically deal damage to HP simply affect the Puppet’s Durability.  Puppets are immune to Genjutsu and all status effects except for Immobilization and Ignite, however penalties from status effects that apply to their controller apply to their actions, as well as Wounds and Fatigue penalties.  If a Puppet ever suffers from an Immobilization Penalty of -6 or greater, that puppet cannot act or be used with any part of Kugutsu no Jutsu.
+By default you can equip Puppets with any Small weapon, paying half the normal Ryo cost to equip them with it. This reflects adjustments made to attach the weapon to the puppet’s body and breaking it down as necessary to remove unneeded hilt space to integrate it into the Puppet’s frame. It makes it impossible to use for anyone else, but grants a +3 to resist Disarm attempts.  Puppets cannot, by default, ‘two hand’ any weapon, or gain any bonuses for doing so. Puppets also have a basic slam attack (which is still a weapon attack, not an unnarmed attack) you can utilize, which is a Chakra 8, Speed 8 action that inflicts (RES/10)d6 Blunt damage; Puppets cannot have Unarmed Focus or Power Attack applied to this Slam attack.  You can apply Weapon Focus to any weapons your Puppets use (including the slam), increasing your Chakra cost for their attack.
 
-Puppets can not have their Durability restored in combat, but on missions, assuming you have the proper tools, you can patch up a puppet and restore 10% of their maximum Durability per hour you have to work on it.  Puppets reduced to 0 Durability in combat are considered broken, and can not be repaired until you can return to a village and have time enough to replace critical parts.  For the purposes of sealing, puppets tend to weigh around twenty five pounds.
+Puppets have RES*6 Durability, which is a measure of how much damage they can take, but is otherwise incompatible with Vitality or HP: Puppets cannot be healed by Medical Ninjutsu or similar effects, nor do Puppets suffer Wounds.  Effects which specifically deal damage to HP simply affect the Puppet’s Durability.  Puppets are immune to Genjutsu and all status effects except for Immobilization and Ignite, however penalties from status effects that apply to their controller apply to their actions, as well as Wounds and Fatigue penalties.  If a Puppet ever suffers from an Immobilization Penalty of -6 or greater, that puppet cannot act or be used with any part of Kugutsu no Jutsu.
+
+Puppets cannot have their Durability restored in combat, but on missions, assuming you have the proper tools, you can patch up a puppet and restore 10% of their maximum Durability per hour you have to work on it.  Puppets reduced to 0 Durability in combat are considered broken, and cannot be repaired until you can return to a village and have time enough to replace critical parts.  For the purposes of sealing, puppets tend to weigh around twenty-five pounds.
+
 
 #### -=[ Puppet Customization ]=-
 Puppets have a known weakness in the eyes of most Shinobi, which the Kairaishi are well aware: Once you’ve seen the arsenal of a puppet, you can anticipate how to deal with them and counter them effectively.  To that end, Kairaishi are aware of that line of thinking and accordingly go to great lengths to keep modifying their puppets to catch their opponents unaware by a new trick or augment that they won’t anticipate.  Every Kairaishi gains XP/100 Customization Points which can be spent on any of their puppets, though once you spend them, they are spent and can not be reallocated.  You need not spend your CP as soon as you acquire them and can save them for later use if you wish.  Puppet Upgrades utilize one of three of a Puppet’s default Upgrade Slots and accordingly are limited in how many you can apply to a single puppet, while Modifications can be taken repeatedly for the same Puppet and any restrictions to how many times you can acquire them are noted in the individual entries.  In both cases you must choose when you acquire the Upgrade or Modification which puppet you are applying it to, which can not be changed later.
 
 #### -=[ Puppet Modifications ]=-
-Modifications can be taken repeatedly and if there are limits to how many times you can take them, they will be listed in their individual entries.
+Modifications can be taken repeatedly and if there are limits to how many times you can take them, they will be listed in their individual entries. By defualt, all Modifications cost 1 CP, but some might cost more, in which case they will say so.
 
 *— Quality*  
-You gain 10 points you can distribute between a puppet’s RES and AGI on a one for one basis.  Each time after the first this is applied to a puppet (read: it is tracked separately for each puppet), the puppet gains an additional point (second time is 11 points, third is 12, etc.), keeping in mind that a puppet’s stats are limited by your own.
+You gain 10 points you can distribute between a puppet’s RES and AGI on a one-for-one basis.  Each time after the first this is applied to a puppet (read: it is tracked separately for each puppet), the puppet gains two additional points (second time is 12 points, third is 14, etc.), keeping in mind that a puppet’s stats are limited by your own.
 
 *— Synergistic Construction*  
 A puppet of your choice gains an extra Upgrade slot.  You can apply this Modification repeatedly to the same puppet, but each Upgrade slot after the first requires an additional CP: Granting a second extra upgrade slot requires 2 CP, granting a third extra upgrade slot requires 3 CP, etc.
@@ -374,7 +377,7 @@ With additional reinforcement and attempts to cover up the joints and weak spots
  - Type: Ability
  - Base Cost: 10
  - Scale: 10
- - Limit: RES/50
+ - Limit: RES/40
 
 Effects: Improves the puppet’s Durability by RES an additional time; this Upgrade can be applied to a puppet repeatedly, but each application of this Upgrade takes up its own slot.
 
@@ -394,7 +397,7 @@ Ordinarily poisoning weapons requires you to apply them mid-combat for them to b
  - Base Cost: 15
  - Limit: 1
 
-Effects: This allows the puppet to perform a Speed + 10 Poison Weapon action (which does not add to an attack’s damage) when using their weapons, applying 1+(Toxicology Ranks/10) doses of poison to the weapon(s) the Puppet is using.  Without this Upgrade, you would have to apply the Poisons to your puppet’s weapons yourself, which is usually rather inconvenient.  The cost of the Poisons and access to them must be acquired and paid for normally.
+Effects: This allows the puppet to perform a Speed +10 Poison Weapon action (which does not add to an attack’s damage) when using their weapons, applying 1+(Toxicology Ranks/10) doses of poison to the weapon(s) the Puppet is using.  Without this Upgrade, you would have to apply the Poisons to your puppet’s weapons yourself, which is usually rather inconvenient.  The cost of the Poisons and access to them must be acquired and paid for normally.
 
 It also allows the puppet to perform a special Speed 6 action to aerosolize a toxin, spreading any inhalation poison around itself with a 15 yard radius which persists for 30 IC and applies a -4 Visibility Penalty.  You do not need to purchase the Smoke Bomb portion of this, but you do need to buy each dose of the Poison you wish to utilize in it (which it requires to function).
 
@@ -412,10 +415,16 @@ This Upgrade modifies the puppet’s torso to have an elaborate series of wires 
 
  - Type: Ninjutsu, Rank D
  - Chakra: 12
+ - Range: 5
  - Speed: 12
  - Special: Interrupt
+ - Requires: Hollow Body Upgrade
 
-Effects: When a puppet this Upgrade is installed in is attacked in melee, you can declare Trap Body as a Defensive Interrupt in response to the attack.  The puppet is hit by the oncoming attack, though is allowed to automatically block the attack, and then the attacker must defend against this attack.  Make a Taijutsu Accuracy roll (which is defended against as a Speed 12 attack); if they fail, they are Grappled by the puppet and locked inside the puppet’s Hollow Body.  Unlike a regular Grapple, the defender can not move at all while Grappled, though the puppet can move and be moved as normal without the defender getting a chance to restrain the puppet.  No Unarmed, Combo or Weapon Taijutsu can be used by the person trapped while the Grapple is maintained, though basic attacks and Grapple jutsu are possible. A puppet can only be grappling one person in this way at a time, and can not utilize this upgrade if it already has someone inside of it.
+Effects: When a puppet this Upgrade is installed in is attacked in melee, you can declare Trap Body as a Defensive Interrupt in response to the attack.  The Puppet automatically blocks the attack and, so long as it is not destroyed, then extends wires and chains toward its attacker, as it tries to grab them and pull them into itself.  Make a Taijutsu Accuracy roll, which is defended against as a Speed 8 attack (which is considered a melee attack).  If they fail, they are Grappled by the puppet and locked inside the puppet's Hollow Body.  Unlike a regular Grapple (and Hollow Body), the defender can not move at all while Grappled, though the puppet can move and be moved as normal without the defender getting a chance to restrain the puppet.
+
+The person caught becomes immune to all area of effect attacks and effects on the field, which can still hit and affect the puppet normally but not the person inside them; attacks made from anyone other than the Kairishi controlling the Trap Body Puppet suffer a -3 Accuracy, and are incapable of being Called Shots, as they can not clearly target the person inside.
+
+The person inside can not use Combo, Weapon, or Grapple taijutsu attacks against the puppet, and any attacks made from within the puppet ignore the puppet's Damage Reduction automatically; they also can not target or affect anyone except for the puppet, until they free themselves from the puppet, by destroying it or being freed voluntarily by the puppet's controller as a Speed 6 action.  A puppet can only be grappling one person in this way at a time, and can not utilize this upgrade if it already has someone inside of it (i.e., if someone is already in its Hollow Body).
 
 ## Monkasei
 The Monkasei lineage--they haven't organized themselves into a proper clan, despite gentle prodding from the village to do so--is viewed in generally good light by the people of Sand. Much of that comes from the fact that every member who displays their kekkei genkai is directly descended from the Third or Fourth Kazekage; the two weren't directly related, but most likely had a common ancestor, since they possessed an identical, or nearly identical, bloodline. It also helps that the Monkasei, as a general rule, are fairly modest about their bloodline and heritage.
@@ -442,7 +451,6 @@ Any Fuuton or Doton technique can be converted to Jiton as a Chakra +5, Speed +0
  - Interrupt Jiton do not create Sand; those of Rank D or below remove all Gallons of Sand used with them from the battlefield, while those of Rank C or higher remove only half the Gallons of Sand used with them.
  - Non-Interrupt Jiton have their base Speed increased by 1 per Rank (E = +1, D = +2, etc, up to A = +5).  Thus, a Jiton Retsudotensho would be treated as a Speed 23 action for all purposes (including its minimum Speed after reductions), rather than 20.
  - Jiton with Upkeeps grant the Monkasei an amount of Charge equivalent to the Upkeep the Monkasei suffers from while maintaining them; Upkeeps from other sources (such as Chakra Strengthening) do not grant the Monkasei any Charge.
- - Doton-converted Jiton which inflict damage 
  - Fuuton converted to Jiton may not be used with a fan.
  - If a Jiton has its Seal Speed reduced to 0, then you need not make any handseals for it at all.
  - Jiton is strong against Doton and Raiton, but weak against Fuuton.

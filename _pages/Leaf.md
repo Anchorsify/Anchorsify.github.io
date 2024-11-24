@@ -251,7 +251,7 @@ A more exhausting but wieldy version of Baika no Jutsu, this jutsu quickly enlar
  - Speed: +X
  - Limit: Can not be used with Baika no Jutsu active
 
-Effects: You can add this technique to any other Taijutsu attack you perform; you gain +Xd* to the attack’s damage, add (or increase the existing) Range by X and Area by X/2, add a Knockback of X/2, and gain +X/5 Accuracy to the attack, rounding down where necessary. The first time this Jutsu is used in combat, it’s treated as a Surprise Attack. X has a maximum of 6. Your limb returns to normal immediately after the attack is resolved.  At least five CP must be spent every time you utilize this jutsu, though it reduces the Chakra cost like normal.
+Effects: You can add this technique to any other Taijutsu attack you perform; you gain +Xd* to the attack’s damage, add (or increase the existing) Range by X, add a Knockback of X/2, and gain +X/5 Accuracy to the attack and if it's a melee attack, it gains or increases its Area by X/2, rounding down where necessary. The first time this Jutsu is used in combat, it’s treated as a Surprise Attack. X has a maximum of 6. Your limb returns to normal immediately after the attack is resolved.  At least five CP must be spent every time you utilize this jutsu, though it reduces the Chakra cost like normal.
 
 #### --( Nikudan Hari Sensha - Spiked Human Bullet Tank )--
 The Akimichi attaches dozens of kunai to multiple lengths of wire which they then drape loosely around their body. When they increase in size the wires become taut, and the kunai form rings of spikes around their body. While this is certainly effective as a means of attack, the real purpose is much simpler: the kunai function like cleats, aiding in turning.
@@ -277,7 +277,7 @@ Effects: Baika no Jutsu’s X maximum is increased to 10.  When X is higher than
 
  -  You can not Hide; if Hidden when you perform Baika, you are automatically revealed.
  -  You may choose to automatically block any attack of C-rank or lower as a Speed 0 Interrupt; in essence, your size alone has most blows glancing off of you.  You can always do so against Basic Attacks.
- -  You gain +X to your Grapple rolls.
+ -  You gain +X to your PDB-based Grapple rolls.
  -  All Taijutsu increase their range by X.
  -  You increase the die size of all Taijutsu by one step ( d4 -> d6 -> d8 -> d10 -> d12 ), to a maximum of d12; Taijutsu already at d12 instead gain +2 damage per die rolled.
 
@@ -755,7 +755,7 @@ This technique uses chakra to cause trees and tree roots to grow rapidly, bursti
 - Speed: 8
 - Seal Speed: 16
 
-Effects: This overwrites any persistent AoE effects on the area it's used on. By changing the cost to 5 + X*2, it can be used to create a one-story building. The complexity of this building is determined by your Chakra Control.
+Effects: This overwrites any terrain-based effects on the area it's used on. By changing the cost to 5 + X*2, it can be used to create a one-story building. The complexity of this building is determined by your Chakra Control.
 
 At 10 Chakra Control or less, it's more like a crude bundle of tree trunks and branches that will at least keep most of the rain out. From 11 - 20, it's about as well-built as a log cabin, with up to three rooms. At 21 - 30, it could actually pass for a real building, aside from the lack of anything made of metal. At 31+ Chakra Control, you can add a second story to the building.
 
@@ -850,13 +850,13 @@ Effects: This may be used immediately after passing a Genjutsu Defense against a
 
 It was once claimed, and rarely still is, that the Sharingan genuinely allows its wielder to see the future. What it actually does is pick up on minute changes in an opponent's posture, minor eye movements, slight shifts of their weight, muscles tensing or relaxing in preparation for movement, even chakra building up in preparation for a jutsu.
 
-When you declare the use of this ability, declare a category of technique (such as Weapon Taijutsu, Katon, or Combo Taijutsu) and a Speed. Your opponent then declares and rolls (if applicable) their defense. Any Interrupt may be used that's valid against your declared Speed.
+When you declare the use of this ability, declare a category of technique (such as Weapon Taijutsu, Katon, or Combo Taijutsu) and a Speed, and pick a single target. Your opponent then declares and rolls (if applicable) their defense. Any Interrupt may be used that's valid against your declared Speed.
 
-After seeing this result, you may choose to use any technique of the declared type, with a combined (Seal Speed + Speed) equal to or lesser than your declared Speed. Its damage is based on its normal Speed, but its ability to be Interrupted, and when you take your next action, are based on the declared Speed. Any technique used this way has its Stamina or Chakra cost(s) increased by the Rank of the technique you choose to perform (E = 1, D = 2, etc); Basic Attacks are equivalent to D-Rank.
+After seeing this result, you may choose to use any technique of the declared type, with a combined (Seal Speed + Speed) equal to or lesser than your declared Speed. Its damage is based on its normal Speed, but its ability to be Interrupted, and when you take your next action, are based on the declared Speed.  If your chosen technique would hit someone else (an ally within range of an AoE aimed at your original target, for example), then they can defend against it normally (after the original target has rolled, and after the Uchiha then declares their chosen attack). Any technique used this way has its Stamina or Chakra cost(s) increased by the Rank of the technique you choose to perform (E = 1, D = 2, etc); Basic Attacks are equivalent to D-Rank.
 
 If you choose to use a technique against which their reaction is invalid (such as performing Doton: Domu after they had rolled a 20 on their Suiton: Sujinheki), they do not have to pay the chakra costs or Speed of their Interrupt. On the other hand, using a technique that somehow bypasses their defense (such as Retsudotensho against Kazekame Kaigara no Jutsu) is fair game.
 
-Techniques with a Delay can be used normally after declaring Foresight, but Foresight does not prevent or negate the Delay, meaning in all cases their defensive response would be invalid (as it is not taking place on the IC in which you declared Foresight, given the Delay), and Foresight would not benefit the action any further after the Delay is finished and the action resolves (though it would still incerease its Fatigue cost(s)).
+Techniques with a Delay can be used normally after declaring Foresight, but Foresight does not prevent or negate the Delay, meaning in all cases their defensive response would be invalid (because of the Delay itself), and Foresight would not benefit the action any further after the Delay is finished and the action resolves (though it would still incerease its Fatigue cost(s)).  Techniques with a final Seal Speed greater than the rank of the jutsu used with it (E = 1, D = 2, etc) that you use Foresight with prevent you from using Principle of Motion (or effects which act like it, such as Tactician) to reduce when you next act, until your next non-interrupt action.
 
 ## Yamanaka
 A fairly small clan within Konoha, the Yamanaka are highly prized by the village’s Recon and Investigation divisions. In part this is due to the disproportionate number of Yamanaka who happen to be sensor shinobi, and in part it’s thanks to the special type of ninjutsu the Yamana have developed that allows them to directly affect the minds of others, including seizing control of another person’s body.

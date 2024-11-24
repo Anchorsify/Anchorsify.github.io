@@ -129,7 +129,9 @@ When the clones are targeted, roll 1dX; X is equal to the number of clones remai
 #### --( Daisan Enchouzou - Three Great Monkey Statues )--
 Technically a trio of separate summoning techniques, each one calling a separate giant stone monkey statue. The story behind these statues varies depending upon who you ask, but in the case of the actual summoning contract they serve as a conduit for the summoning of the Handsome Monkey Prince (or maybe he's just too vain to show up until the summoner's gone through the effort of calling the statues; really, it could be either one).
 
-Each of these techniques has a "(30 - X)" in its Chakra cost. X is the number of IC which have passed since the last time you summoned one of the three statues, with a minimum of 0. Thus, if you summoned one at the beginning of the battle, it would be Chakra 30; if you summoned another 50 IC later, it would also be Chakra 30; and if you summoned the last statue 10 IC after that, it would have a Chakra cost of 50.
+Each of these techniques has a "(30 - X)" in its Chakra cost. X is the number of IC which have passed since the last time you summoned one of the three statues, with a minimum of 0. Thus, if you summoned one at the beginning of the battle, it would be Chakra 30; if you summoned another 50 IC later, it would also be Chakra 30; and if you summoned the last statue 10 IC after that, it would have a Chakra cost of 50.  If you attempt to summon them simultaneously to one another (with clones, most likely), then you all suffer from X being 0, causing their chakra costs to be 60.
+
+All three statues have 1000 Hit Points and 200 Damage Reduction each, which is bypassed by large thrown weapons.
 
 ###### --( Iwazaru - Speak No Evil )--
 The first monkey appears as 10 yard tall statue that looks to be made out of a gleaming metal of some sort. The statue is that of a sitting monkey covering its mouth with its hands.
@@ -138,8 +140,6 @@ The first monkey appears as 10 yard tall statue that looks to be made out of a g
  - Area: 100
  - Speed: 15
  - Seal Speed: 20
-
-Effects: The statue has 1000 Hit Points, and a Damage Reduction of 200 which applies against all thrown weapons other than Fuuma Shuriken and Large Star Shuriken.
 
 Anyone within the area who speaks, or spends AP to control the actions of a summoned creature, loses half their current AP (after any such expenditure) and gains no AP the next time the initiative count reaches a multiple of 20. Taking any action with a Speed above 10 also incurs this effect, unless the shinobi is careful to be quiet, which amounts to taking a -2 immobilization penalty for their action. After suffering the statue's effects once, a shinobi will be able to figure out what will cause them from then on.
 

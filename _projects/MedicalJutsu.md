@@ -152,7 +152,7 @@ Originaly developed as a kinjutsu, the version used by medics today is a safer (
 - Range: Touch
 - Speed: 20, Delay 10
 
-Effects: The recipient has their ninjutsu and physical damage bonuses increased by one half of your ninjutsu damage bonus, and receives a bonus to Stamina and Chakra Exhaustion rolls equal to your ninjutsu damage bonus. However, whenever they fail a Stamina or Chakra Exhaustion roll, their Fatigue is raised an additional category. Additionally, any time their Stamina or Chakra Exhaustion penalty increases, the other is increased by the same amount. These effects last until the end of the fight (or other encounter, if used out of combat for some reason).
+Effects: The recipient has their ninjutsu and physical damage bonuses increased by one half of your ninjutsu damage bonus, and receives a bonus to Stamina and Chakra Exhaustion rolls equal to your ninjutsu damage bonus. However, whenever they fail a Stamina or Chakra Exhaustion roll, their Fatigue is raised an additional category. Additionally, any time their Stamina or Chakra Exhaustion penalty increases, the other is increased by the same amount. These effects last until the end of the fight (or other encounter, if used out of combat for some reason).  This can not be used on an unwilling target.
 
 ## A-Rank
 #### --( Ranshinshou - Nervous System Derangement )--

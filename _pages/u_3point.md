@@ -42,7 +42,7 @@ You have your maximum Willpower in 'Chakra Points' each battle, which can be spe
 ##### Relentless
 You don't stop, you don't quit, and you absolutely don't give up. Those would be great, admirable traits, except for you it only really applies when it comes to brutalizing other human beings.
 
-Every time you hit someone with a damaging attack (grapple jutsu which automatically hit do not count for this), you get a +2 bonus to your damage bonus, up to a maximum of half its normal value (not counting temporary or situational modifiers such as Chakra Strengthening or Skirmisher). This bonus resets when you miss with a damaging attack.
+Every time you hit someone with a damaging attack (grapple jutsu which automatically hit do not count for this), you get a +2 bonus to your damage bonus to your next attack, up to a maximum of half its normal value (not counting temporary or situational modifiers such as Chakra Strengthening or Skirmisher). This bonus resets when you miss with a damaging attack.
 
 When you miss with any damaging attack your next action comes sooner, as if the Speed of the action you used was half its actual value. For example, if you missed with a Speed 13 action on IC 30, your next action would come on IC 37, rather than IC 43. Every time you miss, your next attack gets a cumulative +1 Accuracy, to a maximum of +5; hitting someone resets this bonus.
 

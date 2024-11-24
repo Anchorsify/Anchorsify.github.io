@@ -133,7 +133,7 @@ Delivering a precise, rapid, and powerful series of blows to vital points on an 
 - Accuracy: +2
 - Speed: 20
 - Special: Finisher
-- Combo Bonus: +1d* damage to Base Attack, +1 Bleed
+- Combo Bonus: +1d* damage to Base Attack, +2 Bleed
 
 Effects: Even if Hokuto no Ken is parried, it still inflicts its Bleed.
 
@@ -164,7 +164,7 @@ A technique that requires extreme speed and toughness, and a considerable disreg
 - Stamina: 20
 - Damage: Basic Unarmed Attack + 6d6.open(6)
 - Speed: 10
-- Combo Counter: +1d6 damage, +1 Ignite
+- Combo Counter: +2d6 damage, +2 Ignite
 
 Effects: If you hit, your target rolls Resistance against your Athletics. On a success, the severity of the Ignite is halved. You suffer Burns with a severity equal to the Ignite you inflict.
 
@@ -178,7 +178,7 @@ For once, the name actually has a basis in reality! This technique is a single, 
 - Special: Finisher
 - Combo Bonus: +3 Stun, +1 to target's Stamina penalty, +1d20 damage
 
-Effects: This has an additional feature if used against an opponent who was performing handseals. If the total Stun from Solar Agitation is greater than the Speed of their Perform Handseals action, the victim automatically Aborts their Perform Handseals action (as if they had failed the Chakra Control roll against the attack's damage dealt), and must make a Chakra Exhaustion roll against the technique aborted.
+Effects: This has an additional feature if used against an opponent who was performing handseals: If the total Stun from Solar Agitation is greater than the Speed of their Perform Handseals action, the victim automatically Aborts their Perform Handseals action (as if they had failed the Chakra Control roll against the attack's damage dealt), and must make a Chakra Exhaustion roll against the technique aborted.
 
 #### --( Senkagami no Jutsu - God of War Technique )--
 The greatest of hand-to-hand combatants are able to dispatch enemies one after another in the midst of battle, their momentum never lagging, their blows not showing the slightest hint of hesitation.
