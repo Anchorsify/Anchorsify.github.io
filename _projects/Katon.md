@@ -180,13 +180,15 @@ One of the few katon jutsu which lacks offensive applications, this technique's 
  - Speed: 10
  - Seal Speed: 12
 
-Effects: Removes all foreign particles and bodies (bugs, chemicals) from the user's clothes and body, stops any ongoing bleeding (ending the status), evaporates any liquids covering them (exception: this will ignite the D-rank Sticky Fire Technique and set off Mist Blaze Dance) and ends most external immobilization penalties which apply to you, rather than an area (such as Clay Bullet), though its heat is not extreme enough to melt metal restraints (such as those from Attached Meteor). It can even remove recently spilled, not-yet-dried liquids (including blood!) from clothing. It will not, however, cure poison. This provides a -10 penalty on any attempts to track the user by scent (i.e. Survival rolls), but only a -5 penalty to find them (i.e. Awareness vs. Stealth) via scent because while their own odor is eliminated, this jutsu leaves a faint scent of smoke. In fact, a TN 35 Research roll can identify the use of this technique at, say, a crime scene. If used to treat an injury (external injuries which have left open wounds only), this accelerates the recipient's healing time by 25%, but does not stack with the reduction from medical treatment (doctors can do much better than this improvised first aid).
+Effects: Removes all foreign particles and bodies (bugs, chemicals) from the user's clothes and body, stops any ongoing bleeding (ending the status), evaporates any liquids covering them (exception: this will ignite the D-rank Sticky Fire Technique and set off Mist Blaze Dance) and ends most external immobilization penalties which apply to you, rather than an area (such as Clay Bullet), though its heat is not extreme enough to melt metal restraints (such as those from Attached Meteor). It can even remove recently spilled, not-yet-dried liquids (including blood!) from clothing. It will not, however, cure poison. 
+
+This provides a -10 penalty on any attempts to track the user by scent (i.e. Survival rolls), but only a -5 penalty to find them (i.e. Awareness vs. Stealth) via scent because while their own odor is eliminated, this jutsu leaves a faint scent of smoke. In fact, a TN 35 Research roll can identify the use of this technique at, say, a crime scene. If used to treat an injury (external injuries which have left open wounds only), this accelerates the recipient's healing time by 25%, but does not stack with the reduction from medical treatment (doctors can do much better than this improvised first aid).
 
 #### --( Ikari o Moe no Jutsu - Blazing Fury Technique )--
 A very, very popular technique among hand-to-hand combatants, whose opinions of it range from "pretty cool" to "totally awesome", this wreathes their hands, and sometimes feet, elbow, and knees, in a faint reddish glow of chakra. When they strike, that chakra ignites on impact, resulting in a burst of flame being delivered to their unfortunate foe. It's quite flashy.
 
  - Chakra: 18
- - Upkeep: 3
+ - Upkeep: 5
  - Speed: 8
  - Seal Speed: 14
  - Tags: Nintaijutsu, Energy, Preparation

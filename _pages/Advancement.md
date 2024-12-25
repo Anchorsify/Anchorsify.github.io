@@ -300,17 +300,17 @@ You've been doing this ninja thing for a while, and it's second nature to you by
 Limited use effects (Which mostly have been removed except for some outliers) do not apply to this. So only effects/bonuses that are always active you get. This doesn't apply to Genjutsu, Sealing Ninjutsu, or Medical Ninjutsu.
 
 ##### Mentor
-It's sort of expected that jounin will help teach the next generation of shinobi; indeed, that's why many are given teams of genin to watch over and train. Anyone can explain a concept, but you can actually do so well. You'd make a great instructor, truth be told.
 
-You can train other shinobi. This can be done with jutsu, in which case it takes one week per rank of the technique, during which time you and the student can still go on missions and about your regular business, but must be able to spend a reasonable amount of time practicing. This allows a person to learn techniques of one rank beyond their normal imitation, and can only be done with jutsu that you know yourself.
+It’s sort of expected that Jounin will help teach the next generation of shinobi; indeed, that’s why many are given teams of Genin to watch over and train. Anyone can explain a concept, but you can actually do so well. 
 
-For example, if you knew a B-rank Katon jutsu, you could teach it to a Chuunin if they spent at least four weeks around you, learning it.
+When you take this benefit, select one Capability Talent that you know; you can train other shinobi that Talent, or any Jutsu that you know, up to one rank above what they would normally qualify to learn, though they still must meet all other requirements, such as having the appropriate aptitude.
 
-You may also teach any talents under the "Capabilities" heading which you already know. Doing this requires ten weeks of training with your student. After training is complete, they learn it normally. However, their next talent must be spent to pay for whatever it was they learned, and they may only be one talent in "debt" at a time. For example, say you were mentoring a student with 1100 XP, who used their first talent to acquire Seal Training. After ten weeks they would be able to learn, for example, Medical Training. At 2500 XP the talent point they'd normally get would be used to "pay for" the Medical Training they received early.
+Mentoring someone to learn a Jutsu takes one week (OOC day) per rank of the technique, while teaching someone a Talent takes ten weeks (10 days), which can not be done while recovering from wounds, or taught or teaching someone else.  If you teach someone a Talent, their next talent point must be spent to pay for whatever it was they learned, and they may only be one talent “in debt” at a time.
 
-Keep the GMs informed of who you're training, and with what. There are Infamy gains associated, for both teacher and student. And, notably, teaching members of other villages is looked upon very poorly by your own village and, if they find out, can be tantamount to treason.
+You gain +3 to your Accuracy and d20 rolls when opposing any of your students.
 
-Mentor can not be acquired through the Prodigy talent.
+Any student you train gains 1 Infamy per Rank of any Jutsu you teach them, or 5 for being taught a Talent, and they can only gain Infamy from each source once per Mentor; You gain twice that amount of Infamy, with no such restriction.  For every student you have trained, your Bounty (according to your Infamy) increases, becoming Infamy * (40 + Students*10), to a maximum of 100 per Infamy. Notably, teaching members of other villages is looked upon very poorly by your own village and, if they find out, can be tantamount to treason.
+
 
 ##### Staying Power
 All this ninja-ing has given you exceptional resilience. You work yourself to the bone and fight against impossible odds on a regular basis; it's not even really all that memorable when you do it, any more! Your bonus to Chakra Exhaustion and Stamina rolls from Fatigue is raised by +2 per category (from a default of +5, giving you, under normal circumstances, +7 per Fatigue level).

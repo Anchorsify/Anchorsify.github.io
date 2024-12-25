@@ -258,9 +258,11 @@ You unleash a wave of chakra converted into gale-force winds, knocking away ever
  - Seal Speed: 14
  - Tags: Area of Effect, Environmental
 
-Effects: Every IC, everyone in the technique's radius is pushed 1 yard away from you, towards its edge. Effects which reduce knockbacks do not prevent this movement, though any effect which anchors someone to a point will, as does any Immobility penalty someone is suffering from, reducing their movement by 0.1 per severity (meaning that, at Immobility 2, you would be pushed bac 0.8 yards per IC: 0.8 after one IC, 1.6 after two IC, etc).
+Effects: Every IC, everyone in the technique's radius is pushed 1 yard away from you, towards its edge. Effects which reduce knockbacks do not prevent this movement, though any effect which anchors someone to a point will, as does any external Immobility penalty someone is suffering from, reducing their movement by 0.1 per severity (meaning that, at Immobility 2, you would be pushed bac 0.8 yards per IC: 0.8 after one IC, 1.6 after two IC, etc).
  
 All Raiton and ranged taijutsu attacks within or passing through this area have their damage reduced by 20%. Fuuton you use against those within the area have +3 Accuracy, though you deal 15% less damage with Katon, and Katon used against you have their damage increased by 15%.
+
+You can not Hide, or be hidden, while maintaining this technique's Upkeep.
 
 #### --( Ama no Yachimata - Crossroads of Heaven )--
 One of the more reliable defensive measure Fuuton users are capable of deploying, this creates a sphere of whipping winds around them. Aside from dramatically tossing their hair, causing loose clothes to flap about, and knocking up loose terrain, this makes a sufficiently skilled user virtually impervious to most long-range assaults.
@@ -362,7 +364,7 @@ The tornado provides a Damage Reduction of (your ninjutsu damage bonus) * 10. An
 
 Additionally, the surge of wind each time this tornado is empowered pushes enemies (along with anyone and everything else) away from you. Anyone within (your ninjutsu damage bonus) yards is knocked back (1 per rank of the jutsu; 1 for E, 5 for A, etc.) * (your ninjutsu damage bonus)/3 yards, if they fail a status roll.
 
-Its primary downside, however, is the difficulty in dragging a raging tornado along: so long as it's maintained, the user's movement speed is reduced by 50%, +10% more for every 100 DR.  When the reduction reaches 100% (at 500 DR), you can no longer move at all, effectively stuck in place.  However, so long as this technique's maintained, it's impossible to grapple you. 
+Its primary downside, however, is the difficulty in dragging a raging tornado along: so long as it's maintained, the user's movement speed is reduced by 40%, +10% more for every 100 DR.  When the reduction reaches 100% (at 600 DR), you can no longer move at all, effectively stuck in place.  However, so long as this technique's maintained, it's impossible to grapple you. 
 
 You may choose to end it at will, or when making any damage-dealing Fuuton attack (whose Chakra Exhaustion roll will still be penalized by Taifuu no Me's upkeep), adding your total amassed damage reduction to that technique's damage.
 

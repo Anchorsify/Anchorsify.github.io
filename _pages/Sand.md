@@ -540,28 +540,28 @@ When you utilize your poison you must specify what effects it has (and decide up
 
 You may spent your Poison Points on the following effects, each costing one Poison Point and able to be taken multiple times:
 
-*— Convulsant*
+*— Convulsant*  
 Your poison causes erratic muscle spasms.  While not enough to imitate full-blown seizures, it is still effective at debilitating its victims.  This inflicts Shock 1 per rank.
 
-*— Festering*
+*— Festering*  
 Your poison is especially deadly, taking a longer than normal amount of time to metabolize.  This increases the Duration of the poison by 5 per rank.
 
-*— Hallucinogen*
+*— Hallucinogen*  
 Affects the senses and mental functions of its victims, causing temporary disorientation and delirium.  It inflicts a -1 Visibility Penalty per rank.
 
-*— Irritant*
+*— Irritant*  
 Your poison causes an allergic reaction to others, causing the victim’s body to attack itself to try and get rid of it, causing irritation and inflammation at the site.  It inflicts a Burns 1 per rank.
 
-*— Necrotic*
+*— Necrotic*  
 Your poison causes rapid cell death, and aside from generally taking longer to fully heal, it inflicts a Immobilization 1 per rank.
 
-*— Neurotoxin*
+*— Neurotoxin*  
 Your poison causes a temporary overload of the nerves, which stops proper brain function for a few moments.   Can be deadly in the midst of combat, where every second counts.  It inflicts Stun 2 per rank.
 
-*— Paralytic*
+*— Paralytic*  
 Your poison debilitates the victim’s muscles, slowing their ability to react.  This inflicts Paralysis 1 per rank.
 
-*— Virulent*
+*— Virulent*  
 Your poison is especially toxic to others, increasing its Severity by 1 per rank.
 
 #### --( Mithridatism )--  

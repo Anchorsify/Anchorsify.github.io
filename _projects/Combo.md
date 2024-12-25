@@ -18,9 +18,9 @@ toc:
 Not so much a proper technique as a catch-all term for any series of attacks made in rapid succession, without breaking one's flow or allowing an opponent time to retreat.
 
 - Stamina: 12
-- Damage: Basic Unarmed Attack + 1d6
+- Damage: Basic Unarmed Attack + 1d*
 - Speed: 10
-- Combo Counter: +1d6 damage, -1 Speed
+- Combo Counter: +1d* damage, -1 Speed
 
 #### --( Yaburi Yashi - Smashing Palm )--
 A single, staggeringly powerful open-palmed blow delivered at the end of a combo, aimed at the opponent's midsection to strike their solar plexus.
@@ -39,7 +39,6 @@ The basis of combos in battle is maintaining one's momentum, striking one blow b
 - Stamina: 15
 - Upkeep: 1
 - Speed: 6
-- Tags: Preparation
 
 Effects: So long as you maintain Furious Charge, taking Move actions will not break your combos. Using movement based jutsu (such as Shunshin), however, will.
 
@@ -47,21 +46,23 @@ Effects: So long as you maintain Furious Charge, taking Move actions will not br
 #### --( Line of Attack )--
 You use ninja wire and momentum to fly across the battlefield at amazing speeds and prevent your opponent from escaping your offensive.
 
-- Stamina: 12
+- Stamina: 14
 - Speed: 9
 - Damage: Basic Unarmed Attack
-- Special: Opener
 - Requires: X yards of Ninja Wire
+- Special: Opener
 
-Effects: You attach ninja wire to your target as you strike, slowing their movement if they try to escape your follow-up attacks. X has a maximum of 20. Your target takes a -5% movement speed penalty, which is increased by 5 per two yards of ninja wire below the maximum used; thus, if you used 14 yards of ninja wire, they would be at -20% movement speed for the duration of the combo. Until your combo ends, you receive +10% movement speed per Combo Counter whenever moving (on its own, or as part of an attack) toward the bound character, to a maximum of +10% per two yards of ninja wire used. If your opponent ever manages to get further away than X*2 yards, the combo immediately ends.
+Effects: You attach ninja wire to your target as you strike, binding the two of you to one another.  By default, your opponent's movement speed is reduced by 30%; you can choose to use more, or less, than the normal 10 yards of wire, to change how far apart your opponent can be while tethered to you, allowing them more or less movement in exchange for a greater or lesser effect.  For every two yards of wire more you use, your opponent's movement speed is reduced by 5% less, to a maximum of 20 yards and only a 5% reduction in movement speed; for every two yards less you use, your opponent's movement speed is reduced by 5% more (to a maximum of 50% less movement speed, using only two yards of wire; using none, notably, does not have you attached together at all..).  X is the number of yards of Ninja Wire you decide to use.
 
-Alternatively, someone bound can attempt to make a called shot to cut the wire with any slashing attack; you can choose to defend (you can not 'parry' with the wire, but can wiggle the wire to make it 'dodge') to keep the wire attached, or simply let them cut it. If hit the wire is hit, the connection is broken. Cutting the wire doesn't end the combo, only this opener's effects.
+When used as an opener, you and the target you are bound to may no longer hide from one another, and you increase your own movement speed when moving (on its own, or as part of an attack) toward the bound character by 10% more per Combo Counter, to a maximum of +100%.
+
+If your opponent ever manages to get more than X * 2 yards away from you, the speed reduction from this jutsu immediately ends, and any combo you were in is immediately broken.  Alternatively, someone bound can attempt to make a Called Shot to cut the wire with any slashing attack; you can choose to defend (you can not 'parry' with the wire, but can wiggle the wire to make it 'dodge') to keep the wire attached, or simply let them cut it. If the wire is hit, the connection is broken. Cutting the wire doesn't end your combo, but does remove all effects of this technique from them.
 
 #### --( Shishi Rendan - Lion Combo )--
 Ideally meant to be used after performing Kage Buyo, this is a series of high-speed punches and kicks.
 
 - Stamina: 18
-- Damage: Basic Unarmed Attack + 2d8
+- Damage: Basic Unarmed Attack + 2d*
 - Speed: 10
 - Combo Counter: +1 Accuracy, -1 Speed
 
@@ -69,7 +70,7 @@ Ideally meant to be used after performing Kage Buyo, this is a series of high-sp
 You get in close to your opponent and begin beating on them! Doing so for a prolonged period of time can easily overwhelm all but the strongest defenses.
 
 - Stamina: 16
-- Damage: Base Unarmed Attack + 4d8
+- Damage: Base Unarmed Attack + 4d*
 - Accuracy: -3
 - Speed: 8
 - Combo Counter: Blocking is 5% less effective, +10 damage
@@ -98,7 +99,6 @@ Conventional wisdom says that one must prioritize speed or power, having to choo
 - Stamina: 12
 - Upkeep: 0
 - Speed: 6
-- Tags: Preparation
 
 Effects: While Rakurai Heishi is maintained, any time a combo you are performing would be broken you may choose to increase this technique's Upkeep by 2; when you do so, your combo is not broken. If your combo is broken, Lightning Warrior's Upkeep is reset to 0. If you stop maintaining Lightning Warrior, your current combo is automatically broken. Rakurai Heishi cannot be used if your combo is broken because you performed a Finisher or a Move action.
 
@@ -117,13 +117,15 @@ Effects: This is applied as an addition to a Basic Unarmed Attack, increasing it
 #### --( Hasu Rendan - Lotus Combo )--
 The user of this technique launches into a sequence of strikes designed to alternately wind, disorient, and daze their opponent, combining those effects to prevent their adversary from fighting back effectively for as long as possible.
 
-- Stamina: 10
-- Damage: Basic Unarmed Attack + 2d10
-- Speed: 4
+- Stamina: 10 + X * 4
+- Damage: Basic Unarmed Attack + 2d*
+- Speed: 4 + X * 2
 - Special: Opener. This action's Speed may not be reduced.
-- Combo Counter: +2d10 damage, +2 Stamina, +1 Accuracy
+- Combo Counter: +2d* damage, +2 Stamina, +1 Accuracy
 
-Effects: Each time this technique is used consecutively (with no other non-interrupt actions between uses), its base Speed increases by 2, its Stamina increases by 4, and it gives an additional 1 Combo Counter. This stacks; the fourth Lotus in a sequence would be Speed (4 + 2 * 3) 10, give (1 + 1 * 3) 4 Combo Counters, and have a Stamina cost of 22 (before Cadence effects). Additionally, Lotus Combo can extend existing stuns: If a target hit by Lotus Combo is Stunned, the duration of that Stun is increased by X * 2, with X being the length of the current Lotus sequence. Thus, hitting someone with four Lotus Combos in a row would extend their stun by (2+4+6+8) 20.
+Effects: Each time this technique is used consecutively (with no other non-interrupt actions between uses), X increases by 1, and it gives an additional X Combo Counters.  X begins at 0, when used for the first time, but has no maximum: The fourth Lotus in a sequence would be Speed (4 + 3 * 2) = 10, Stamina (10 + 3 * 4) = 22 (before Cadence and Combo Counter effects), and give (1 + 3) Combo Counters if it hits. 
+
+Additionally, Lotus Combo extends existing stuns: If a target hit by Lotus Combo is Stunned, the duration of that Stun is increased by (X + 1) * 2. Thus, hitting someone with four Lotus Combos in a row would extend their stun by (2+4+6+8) 20.
 
 #### --( Hokuto no Ken - Fist of the North Star )--
 Delivering a precise, rapid, and powerful series of blows to vital points on an opponent's body, this causes their blood vessels to spontaneously rupture, resulting in both internal hemorrhaging and dramatic external bleeding, sometimes even resulting in a brief spray of blood immediately after its use.
@@ -143,7 +145,6 @@ Rather than waiting for your opponents to give you openings and then capitalizin
 - Stamina: 20
 - Upkeep: 0
 - Speed: 6
-- Tags: Preparation
 
 Effects: Whenever you hit with a technique that raises your Combo Counter, your Combo Counter increases by 1 more, and Aragami's Upkeep also increases by 2. When your combo is broken, Aragami's Upkeep is reset to 0. If you end Aragami, your Combo Counter is immediately set to 0.
 

@@ -143,7 +143,7 @@ Yes, umbrellas. Ones used in combat are reinforced with metal or hard wood, maki
 - Stamina: 11
 - Damage: 6d10
 - Speed: 12
-- Special: You may Block as a Speed 6 Interrupt with an Umbrella, though after doing so three times, the Umbrella breaks.
+- Special: You may Block as a Speed 6 Interrupt with an Umbrella; when used this way, both you and the Umbrella take the (reduced, by blocking) damage from the attack.  Umbrellas have 250 Durability; once it has taken that much damage, it breaks. Villages do not bother to repair broken weapons (and will not replace or repair them if bought with Savings), but can repair them if they have durability remaining.
 
 #### Piercing Weapons
 ###### Kama (Piercing, Dual)
@@ -405,7 +405,7 @@ Paper balls small enough to be easily held in one hand, when thrown at the groun
  - Tags: Consumable, Environmental
 
 ##### Poison Smoke Bomb
-Sturdier than regular smoke bombs, and much more dangerous, these are filled with some manner of poisonous vapor. They're used like regular smoke bombs, but have a 10 yard radius, a -4 visibility penalty, and persist for 25 IC. When you buy a poison smoke bomb, select a poison (from the Poisons section) which has Inhalation as one of its possible vectors of delivery. When you throw the smoke bomb, make a Toxicology roll. Anyone who passes through the area must make a Resistance roll against that Toxicology result, or be poisoned. The cost of the poison smoke bomb is 100 Ryo, plus the base cost (unreduced by buying multiples) for one dose of the chosen poison.
+Sturdier than regular smoke bombs, and much more dangerous, these are filled with some manner of poisonous vapor. They're used like regular smoke bombs, but have a 10 yard radius, a -4 visibility penalty, and persist for 25 IC. When you buy a poison smoke bomb, select a poison (from the Poisons section) which has Inhalation as one of its possible vectors of delivery. When you throw the smoke bomb, make a Toxicology roll; Anyone who is in the area, passes through the area, or spends 10 IC in the area, must make a Resistance roll against that Toxicology result, or be poisoned. The cost of the poison smoke bomb is 100 Ryo, plus the base cost (unreduced by buying multiples) for one dose of the chosen poison.
 
  - Cost: 100 Ryo + cost of poison
  - Tags: Consumable, Environmental

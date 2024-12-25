@@ -65,7 +65,7 @@ You focus energy to the tips of your fingers on either hand, then point at an op
  - Status: Shock 2 for 20 IC
  - Tags: Energy, Projectile
 
-Effects: If you target someone who is affected by a Raiton-based Shock status with this technique, it gains +1 Accuracy.
+Effects: If you target someone who is affected by a Raiton-based Paralysis status with this technique, it gains +1 Accuracy.
 
 #### --( Juude - Electric Charge )--
 By charging oneself with Raiton chakra, the user can exploit the lingering charge on an opponent and use the aligned chakra to gravitate toward their target, making their next attack harder to evade.
@@ -78,7 +78,7 @@ By charging oneself with Raiton chakra, the user can exploit the lingering charg
 
 Effects: While this technique’s upkeep is maintained, all your unarmed attacks are blocked as if they were Raiton jutsu (meaning, in most cases, that blocking reduces the damage by only 25%, instead of 50%).
 
-If the target of one such attack has a Raiton-based Shock status effect, Juude immediately ends that status (which then doesn't apply to, or penalize, their defensive interrupt in response to the attack), and grants you +X Accuracy to your attack, where X is the Shock status you ended on them, to a maximum of 3.
+If the target of one such attack has a non-environmental Raiton-based Paralysis status effect, Juude immediately ends that status, and grants you +X Accuracy to your attack, where X is the Paralysis status you ended on them, to a maximum of 3.
 
 #### --( Jinrai no Jutsu - Thunderclap Technique )--
 The user puts both hands together, forming a miniature thunder bolt between his hands, splitting the air and forming an extremely loud BANG, which is rather startling when your a few inches from it, and not expecting it. It has the added benefits of temporarily deafening the opponent.
@@ -100,13 +100,13 @@ You send a 'spark' of chakra into an enemy, stimulating any electrical chakra al
  - Seal Speed: 8
  - Tags: Projectile
 
-Effects: This technique has an Accuracy bonus equal to the target's Paralysis severity (Para 3 = +3 Accuracy), removes the target's Shock status and inflicts a Stun equal to 4*(the Shock severity removed), up to a maximum of Stun 20.  This technique only works off of Raiton-induced Paralysis and Shock status effects.
+Effects: This technique has an Accuracy bonus equal to the target's Paralysis severity (Para 3 = +3 Accuracy), removes the target's Shock status and inflicts a Stun equal to 4*(the Shock severity removed), up to a maximum of Stun 20. For both the Paralysis and the Shock, environmental status effects do not count, nor do sources of Paralysis or Shock that are not from Raiton. This technique only works off of Raiton-induced Paralysis and Shock status effects.
 
 #### --( Kyousou Ikazuchi no Jutsu - Racing Thunder Technique )--
 By pumping your legs full of lightning chakra, you raise your muscle's response time, and their power as well. Unfortunately, this is all focused in just your legs.
 
  - Chakra: 15
- - Upkeep: 2
+ - Upkeep: 4
  - Speed: 8
  - Seal Speed: 8
  - Tags: Preparation
@@ -174,7 +174,7 @@ Focusing a great amount of lightning chakra into their hands the user then place
 
 Effects: You can use this technique as soon as you complete the necessary seals, or 'hold' it with a variable-speed Delay, to a maximum of your CHA/10. 
 
-Used by itself, this technique has +4 to its Accuracy and Damage Bonus if used on someone hit by a Suiton technique within the past 5 IC. This bonus is reduced by 1 per 5 IC it's been since they were hit by a Suiton technique, to +0 Accuracy and Damage Bonus if it's been more than 20 IC.
+Used by itself, this technique has +4 to its Accuracy and Damage Bonus if used on someone hit by a Suiton technique within the past 5 IC, or someone standing in or on water. This bonus is reduced by 1 per 5 IC it's been since they were hit by a Suiton technique, to +0 Accuracy and Damage Bonus if it's been more than 20 IC.
 
 Alternatively, you may choose to target a Suiton technique used by someone else by acting simultaneously (on the same IC) to enhance their technique, causing Raiton chakra to flow throughout the water. In this case, this technique does not have any Accuracy associated with it, and hits only if the Suiton technique hits. If it does, you combine the damages for both techniques before applying any sort of reductions to its damage, but deal Wounds of one category lower (to a minimum of minor), and inflict an Energy wound in addition to the normal type of wound the Suiton would inflict. Because of the combination of elements, it is considered both a Suiton and a Raiton technique for the purposes of defenses (with the defeender choosing which is more favorable).
 
@@ -310,7 +310,9 @@ You hold out your fingers and fire a focused bolt of lightning which then, after
  - Status: Shock 4 for 40 IC
  - Tags: Energy, Projectile
 
-Effects: This technique has an Accuracy bonus equal to the Shock status of anyone it targets, and it jumps to another target of your choice within half its normal range (from the first target, not you) if it hits, gaining +1 to its Accuracy and +10% to its damage, jumping to hit a maximum of (NDB) targets, none of which can be hit more than once by this technique.
+Effects: This technique has an Accuracy bonus equal to the Paralysis status of anyone it targets (not including environmental sources), and it jumps to another target of your choice within half its normal range (from the first target, not you) if it hits, gaining +1 to its Accuracy and +10% to its damage, jumping to hit a maximum of (NDB) targets, none of which can be hit more than once by this technique.
+
+Any clones hit by this technique do not increase its Accuracy or Damage.
 
 ## A-Rank
 #### --( Kouken Rairyuu - Guardian Lightning Dragon )--
@@ -345,12 +347,12 @@ Just as the four pillar bind, this surrounds the area, though this time it's a b
  - Chakra: 44
  - Upkeep: 12
  - Range: 120
- - Area: 80
+ - Area: 100
  - Speed: 24
  - Seal Speed: 32
  - Tags: Area of Effect, Energy, Environmental
 
-Effects: This is a 25 x 25 AoE, inside a 50 x 50, inside a 75 x 75, inside a 100 x 100; thus, it's 25 yards from the edge of one layer to the next. For each layer a person is inside they suffer Paralysis 2, Shock 2, and Immobilize 2, and takes 2 damage every IC which bypasses all reductions, meaning that being within all four layers imparts Paralysis 8, Shock 8, Immobilize 8, and 8 damage per IC. This damage does not benefit from things which increase the damage you deal, or the technique's Speed or your NDB, and ends immediately upon leaving the area (as do the status effects).  You are immune to its effects.
+Effects: This is a 25 x 25 AoE, inside a 50 x 50, inside a 75 x 75, inside a 100 x 100. For each layer a person is inside they suffer Paralysis 2, Shock 2, and Immobilize 2, and takes 2 damage every IC which bypasses all reductions, meaning that being within all four layers imparts Paralysis 8, Shock 8, Immobilize 8, and 8 damage per IC. This damage does not benefit from things which increase the damage you deal, or the technique's Speed or your NDB, and ends immediately upon leaving the area (as do the status effects).  You are immune to its effects.
 
 #### --( Tesura Shousa - Tesla Major )--
 Filling both of your arms with an intense and energetic lightning chakra, you throw it out onto a surface. This time, instead of a small ball being produced as in Tesla Minor there is a great spire of electricity that stays in place, pulsating with energy. These usually tower over a battlefield and electrocute anything that comes within range.

@@ -289,7 +289,7 @@ Usable only when already enlarged by Baika no Jutsu, the Akimichi tend to perfor
  - Speed: +6
  - Special: Requires Baika no Jutsu active at X = 6 or more.
 
-Effects: You can add this Jutsu to any other Taijutsu attack you perform except for Nikudan Sensha or Nikudan Hari Sensha, and any Taijutsu which specify they are kicks. You double all of the bonuses that Baika no Jutsu grants for that attack, including the Taijutsu die size increase, which can increase d12's to d20's (as one step), gaining the +2 damage per die thereafter if it would increase again. At least ten CP must be spent every time you utilize this jutsu, though they reduce the Chakra cost like normal.
+Effects: You can add this Jutsu to any other Unarmed Taijutsu attack you perform except for Nikudan Sensha or Nikudan Hari Sensha, and any jutsu which specify they are kicks. You double all of the bonuses that Baika no Jutsu grants for that attack, including the Taijutsu die size increase, which can increase d12's to d20's (as one step), gaining the +2 damage per die thereafter if it would increase again. At least ten CP must be spent every time you utilize this jutsu, though they reduce the Chakra cost like normal.
 
 #### -=[ Sanshoku no Gan'yaku - Three-Colored Pills ]=-
 A secret medicine developed and used exclusively by the Akimichi clan, these three pills convert stored energy into chakra to give the user a tremendous boost in power.  Understandably, these are exceptionally potent in the hands of an Akimichi.

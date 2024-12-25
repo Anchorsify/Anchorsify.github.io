@@ -20,7 +20,7 @@ Additionally, you have an Elemental Shaping pool which dictates how much you can
  - 15 points: +1 Target (for non-AoE jutsu)
  - 12 points: +1 Accuracy
  - 8 points: +1 Damage Bonus
- - 5 points: Add an effect from another element not its own: Stun 1 (Doton), Burns 1 (Katon), Shock 1 for 10 IC (Raiton), -1 Chakra Cost (Suiton), Knockback 1 yard (Fuuton)
+ - 6 points: Add an effect from another element not its own: Stun 1 (Doton), Burns 1 (Katon), Shock 1 for 10 IC (Raiton), -1 Chakra Cost (Suiton), Knockback 1 yard (Fuuton)
  - 3 points: +1 Area
  - 2 points: +1 Range
  - 1 point: +1 Damage
