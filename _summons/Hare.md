@@ -259,7 +259,7 @@ The mind of this rabbit is very singular. It is immune to Stun, Genjutsu, Immobi
 **Elusive Target**  
 The rabbit is small and has the luck of the moon! It has access to the Ninjutsu, Kawarimi. It also takes no damage from AoE attacks where it isn't the sole target.
 
-**Caerbannog Killer**
+**Caerbannog Killer**  
 Whenever Satsu no Usagi misses, it gains +2 Accuracy for the remainder of the battle; whenever Satsu no Usagi hits, it gains +2d20 and +25% wounding for the remainder of the battle.
 
 ###### 4. Abilities
