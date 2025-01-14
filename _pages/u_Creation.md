@@ -147,9 +147,10 @@ However, you have a -1 Accuracy penalty.
 ##### Specialist
 You excel in a particular style of ninja combat, and since noticing that strength you have focused on what you are best at. Be it extraordinary kicks, incredible lightning bolts, or masterful illusions, you are a cut above the rest.
 
-Choose either Taijutsu, Ninjutsu, or Genjutsu: Whichever one you chose has +2 Accuracy (or in the case of Genjutsu, +3 to your Genjutsu rolls), +2 to its Stamina and/or CE rolls, and a 10% bonus to its damage.
+Choose either Taijutsu, Ninjutsu, or Genjutsu: Whichever one you chose has +2 Accuracy (or in the case of Genjutsu, +3 to your Genjutsu rolls), -2 to its Stamina and/or CE costs, and a 10% bonus to its damage.
 
-Next, choose one of the two that you didn't pick. It has -1 Accuracy (or -2 to all Genjutsu rolls), -2 to its Stamina and/or CE rolls, and does 10% less damage.
+Next, choose one of the two that you didn't pick. It has -2 Accuracy (or -3 to all Genjutsu rolls), +2 to its Stamina and/or CE costs, and does 10% less damage.
+
 
 ##### Strong-Willed
 When the going gets tough, you keep on going. You have a strong, virtually unbreakable will, and can power through anything standing in your way.

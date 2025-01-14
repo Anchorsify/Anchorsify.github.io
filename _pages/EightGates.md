@@ -121,11 +121,11 @@ Note: The last two gates can only be obtained by GM approval.
 Located near the base of the spine, at hip level, the seventh gate results in the most marked physical changes since the third. The user begins using glowing green sweat from their pores; the amounts of chakra rushing through the user's chakra circulatory system are becoming genuinely destructive to the body, and so it tries to vent it out the only way it can... resulting in glowing green, chakra-infused sweat. Additionally, merely having this gate open results in shredding one's muscle fibers. While chakra can make up for lost functionality, even a light touch causes severe pain to someone who's opened the seventh gate recently.
 
  - AP Gain: 40
- - Defiance: So long as the Seventh Gate remains open, you ignore the effects of all wounds you're suffering from (though they will still accumulate normally).
+ - Defiance: So long as the Seventh Gate remains open, you ignore the effects of all wounds you're suffering from (though they will still accumulate normally), except for Criticals.
 
 ###### -=[ The Eighth Gate ]=-
 *Shimon - Gate of Death*  
 Located near the heart, this is the final option for any user of the gates, when accomplishing their goal is more important than their life. With all eight gates opened, there's nothing to regulate the body's chakra flow, and since it's inherently tied to every major organ in the body, there's very little to regulate organ function either. Opening the eighth gate will cause the user's death, without exception. However, for those few minutes before their heart literally pumps itself to death, before their raging chakra system finishes tearing their organs into pulp, and before they convert vital portions of their body into energy, a user of the eighth gate has unrivaled power.
 
  - AP Gain: 50
- - Last Stand: When you first open the eighth gate, all wounds you are presently suffering from are removed. So long as the Eighth Gate remains open, your HP cannot be reduced below 1. However, when you fall unconscious, combat ends, or you close the Eighth Gate, or when you have a Blunt Critical Wound on every location of your body (both arms, both legs, chest, abdomen, head), you die.
+ - Last Stand: When you first open the eighth gate, you are healed of all wounds you suffer from, and the wounds from the Gates have their severity reset (so the next wound to any location begins again at Minor). So long as the Eighth Gate remains open, your HP cannot be reduced below 1. However, when you fall unconscious, combat ends, or you close the Eighth Gate, or when you have a Blunt Critical Wound on every location of your body (both arms, both legs, chest, abdomen, head), you die.

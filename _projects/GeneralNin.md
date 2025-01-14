@@ -74,7 +74,7 @@ The most common and perhaps most effective method of combatting genjutsu, if one
  - Speed: 8
  - Seal Speed: 5
 
-Effects: This can be done on yourself, or another willing person.  You must be able to touch the other person when performing the jutsu. This allows the person it's used on to make another roll against a Genjutsu affecting them, with a bonus of X. X has a limit of (5+XP/300). This may also be done against area-of-effect genjutsu, in which case this technique's user makes a genjutsu roll against the original roll made by whoever put the technique in place. If successful, the technique is dispelled in its entirety.
+Effects: This can be done on yourself, or another willing person.  You must be able to touch the other person when performing the jutsu. This allows the person it's used on to make another roll against a Genjutsu affecting them, with a bonus of X. X has a limit of (5+XP/300). This may also be done against Area of Effect genjutsu, in which case this technique's user makes a genjutsu roll against the original roll made by whoever put the technique in place. If successful, the technique is dispelled in its entirety.
 
 #### --( Shunshin no Jutsu - Body Flicker Technique )--
 A high-speed movement technique which allows the user to travel incredibly distances in the blink of eye; used by a sufficiently powerful ninja, this can be mistaken for teleportation by an untrained observer.
@@ -82,7 +82,7 @@ A high-speed movement technique which allows the user to travel incredibly dista
  - Chakra: 10
  - Speed: 2
 
-Effects: You move as far as you could in a Speed X move action, where X is how many AP you choose to spend on this technique. There is no limit on how many AP you may spend. You may use this in place of normal movement to help dodge an area-of-effect technique. Use your AP spent, rather than the Speed of the attack and your normal movement speed, to determine how close to the edge of the effect you can get. This increases the Speed of your dodge by 2.
+Effects: You move as far as you could in a Speed X move action, where X is how many AP you choose to spend on this technique. There is no limit on how many AP you may spend. You may use this in place of normal movement to help dodge an Area of Effect technique. Use your AP spent, rather than the Speed of the attack and your normal movement speed, to determine how close to the edge of the effect you can get. This increases the Speed of your dodge by 2.
 
 #### --( Kanashibari no Jutsu - Temporary Paralysis Technique )--
 This technique temporarily restrains the victim with chakra by disrupting their chakra flow throughout the body, causing temporary spasms that inhibit normal function. Used effectively, it can temporarily debilitate a target for a short period of time.
@@ -126,7 +126,7 @@ This summons a flock of chakra-created and -guided crows which surround and diso
  - Speed: 12
  - Seal Speed: 13
 
-Effects: If the target fails a status roll, this inflicts a -1 visibility penalty upon them, which increases every 10 IC until reaching -X; X has a maximum of 10. (Chakra Control ranks) IC after that, it dissipates entirely. The application of an area-of-effect attack will destroy the crows, if it actually hits this technique's victim.
+Effects: If the target fails a status roll, this inflicts a -1 visibility penalty upon them, which increases every 10 IC until reaching -X; X has a maximum of 10. (Chakra Control ranks) IC after that, it dissipates entirely. The application of an Area of Effect attack will destroy the crows, if it actually hits this technique's victim.
 
 #### --( Chakra Strengthening )--
 A fairly simple, yet often impractically demanding technique. The user channels chakra into their limbs, increasing their speed and strength. Despite being very good at what it does, it rapidly takes a toll on one's energy reserves.
@@ -195,6 +195,7 @@ Rumors of this technique "misfiring" and eradicating deer and bears are largely 
  - Chakra: 25
  - Range: Special
  - Requires: Triggered Detonation
+ - Tags: Area of Effect, Environmental
 
 Effects: This technique cannot be used in combat, as it takes a few minutes to set up appropriately. You place four exploding tags at the corner of a square or rectangle, facing inwards; they can be hidden if you have the Tag Concealment ability. Each side of the square they form can be up to double the Area of the tags you're using in length. When someone moves to leave the area (meaning if they travel in any direction from the center, or get part way in and then turn around), the tags will detonate 10 IC later. Anyone who hasn't escaped the area (or otherwise defended themselves) by then will take the combined damage of three exploding tags, regardless of their location within the boundary. Notably, anyone outside the 'barrier' is unharmed; part of this technique is that it directs all the explosive force inwards. Directional defenses (such as Earth Shore Return) are insufficient to protect against this, as the explosion originates from multiple directions.
 
@@ -208,6 +209,7 @@ cloud.
  - Speed: 24
  - Seal Speed: 16
  - Requires: 25 Chakra Control, 25 Medicine, 25 Research, 25 Toxicology
+ - Tags: Area of Effect, Environmental
 
 Effects: When you create the mist, roll the lower of your Chakra Control, Medicine, Research, or Toxicology skill rolls (all of those factor into creating the poison properly, and a deficiency in any of them will weaken it). This is the TN to avoid being poisoned while in the cloud. Anyone inside the mist when it's created, or who passes through it, must make a Resistance roll against that number, and another one every 10 IC that they spend inside the cloud, as well as one any time they make a Stamina roll inside it. 
 
@@ -240,6 +242,7 @@ While Needle Jizo is active, the shinobi focuses more chakra into their hair. Th
  - Speed: 15, Delay X
  - Area: Line X yards wide, to a range of X * 5 yards
  - Requires: Needle Jizo active
+ - Tags: Area of Effect
 
 Effects: X is a value up to Needle Jizo's current Upkeep; after using Needle Hell, Needle Jizo's Upkeep (and other, related effects) are reduced by X. When performing Needle Hell, you multiply your ninjutsu damage bonus by the lower of (X * 2) or the technique's Speed; thus, if you did not lower its Speed with AP, and set X = 4, you would roll damage as 10d4 * 4+(ninjutsu damage bonus * 8). When this technique's Delay ends, anyone in the area will be automatically struck by the flying needles; raising ninjutsu based defenses ahead of time (such as Earth Shore Return or Water Encampment Wall) is explicitly allowed and automatically successful, but no defensive interrupts (such as dodging) function against this technique. In addition, any Damage Reduction a victim has is doubled against Needle Hell's damage.
 
@@ -289,6 +292,7 @@ Fundamentally, most clones are little more than dense, mobile bundles of chakra.
  - Area: 25
  - Speed: 16, Delay 6 + Special
  - Seal Speed: 24
+ - Tags: Area of Effect
 
 Effects: After finishing this technique's handseals, some or all (your choice) of your clones will charge towards a specific location before exploding. Clones activated with this technique can no longer take any other actions, but nor can they be destroyed by other means, and they no longer provide the normal benefits of clones (that is, the chance that an opponent will accidentally strike them instead of you). In the case of clones capable of using jutsu, any Upkeeps they're maintaining end immediately. The "Special" portion of the Delay is however long it would take the clones to move from your current location to the center of the explosion (the location you target with this technique). They move at full speed, though immobilization penalties (such as from the ground being turned to mud) may still slow them down. Anyone hit by the explosion is allowed a Resistance roll against your Chakra Control (including you, if you're hit). Those who passes their roll takes only half damage, and suffers half the normal status effects (excepting the visibility penalty from water clone explosions, as it is based on the location, rather than who it hits). Like the explosions from Exploding Tags, it is not possible to defend against the detonation of this technique. Each type of clone is considered to be an elemental ninjutsu of its appropriate element (shadow clones being non-elemental). Mud, Water, and Shadow Clones inflict Blunt wounds. Rock Clones deal Slashing damage, and Lightning Clones cause Energy wounds.
 
@@ -326,8 +330,9 @@ Based on the same principle as the much-more-advanced Shadow Clone technique, th
  - Area: X
  - Speed: (Special)
  - Seal Speed: 16
+ - Tags: Targeted Area of Effect
 
-Effects: One shuriken must be thrown each time this jutsu is used. X additional shuriken are created in mid-flight, and vanish after this technique is resolved. X has a maximum value of your CHA. Two things must be determined: the attack's strength, and its number of targets. You may direct up to (DEX+CHA)/12 shuriken at any single target. Its Speed and Damage are determined following the normal rules for multi-throws. Determine what a normal Stamina cost would be for a multi-throw using that many shuriken; that becomes the "Special" portion of Shuriken Shadow Clone's Chakra cost. You may attack any number of targets that way, using up to a maximum of X+1 shuriken. This is selective, meaning you may choose to hit or ignore people as you wish within the targeted area. Area-of-Effect dodge penalties do apply normally, however. This is treated as a ranged taijutsu multi-throw using shuriken, and does receive the normal +2 Accuracy from shuriken. No matter how many people are targeted, this is treated as a single attack, with one Accuracy and one damage roll. Shuriken Shadow Clone Technique cannot be used with poisoned weapons.
+Effects: One shuriken must be thrown each time this jutsu is used. X additional shuriken are created in mid-flight, and vanish after this technique is resolved. X has a maximum value of your CHA. Two things must be determined: the attack's strength, and its number of targets. You may direct up to (DEX+CHA)/12 shuriken at any single target. Its Speed and Damage are determined following the normal rules for multi-throws. Determine what a normal Stamina cost would be for a multi-throw using that many shuriken; that becomes the "Special" portion of Shuriken Shadow Clone's Chakra cost. You may attack any number of targets that way, using up to a maximum of X+1 shuriken. This is selective, meaning you may choose to hit or ignore people as you wish within the targeted area. Area of Effect dodge penalties do apply normally, however. This is treated as a ranged taijutsu multi-throw using shuriken, and does receive the normal +2 Accuracy from shuriken. No matter how many people are targeted, this is treated as a single attack, with one Accuracy and one damage roll. Shuriken Shadow Clone Technique cannot be used with poisoned weapons.
 
 #### --( Nunoshibari no Jutsu - Cloth Binding Technique )--
 The shinobi uses a giant roll of cloth to wrap their target and, of course, infuses it with chakra. Not only does this make it significantly stronger (as one would hope, seeing as cloth is not generally known for its ability to restrain superhuman ninjas), but it also lays a foundation upon which various sealing jutsu can be applied, should the shinobi performing this technique, or one of their allies, know any.

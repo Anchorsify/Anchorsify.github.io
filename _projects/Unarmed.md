@@ -48,6 +48,7 @@ The user rotates while extending one leg, starting with a high roundhouse that's
  - Damage: (STR/10)d10
  - Area: 2
  - Speed: 12
+ - Tags: Point Blank Area of Effect
 
 Effects: This attack hits all enemies in range. If partial defense applies, this deals 25% damage per point you hit by, rather than 20%.
 
@@ -108,6 +109,7 @@ A more complex version of Senpuu which involves three kicks to the target's body
  - Area: 3
  - Speed: 14
  - Requires: Senpuu
+ - Tags: Point Blank Area of Effect
 
 Effects: This attack hits all enemies in range. If partial defense applies, you deal 1/3 damage per point you hit by, rather than 20%.
 
@@ -119,8 +121,9 @@ After concentrating chakra in the user's legs, they leap high into the air and c
  - Accuracy: -6
  - Area: 3 + PDB
  - Speed: 20
+ - Tags: Targeted Area of Effect
 
-Effects: Partial success does not apply to this attack. Whether or not this technique hits or is successfully defended against, the target (and everyone else in its area) might still be hit by the shockwave of exploding earth all around them from the impact with the ground, which deals no base damage of its own, but applies this technique's (Speed * PDB) damage to anyone caught in the area. Succeeding in your defense reduces this damage by 10% per point you succeeded by (so a 20 dodge against an Accuracy 20 Tsukenyaku would avoid its base damage and cause you to take 100% of the Shockwave's damage as you succeeded by 0; a dodge roll of 25 against the same attack would cause you to take 50% of the Shockwave's damage).
+Effects: Partial success does not apply to this attack. Whether or not this technique hits or is successfully defended against, the target (and everyone else in its area) might still be hit by the shockwave of exploding earth all around them from the impact with the ground (which is considered a 'Ground' effect), which deals no base damage of its own, but applies this technique's (Speed * PDB) damage to anyone caught in the area. Succeeding in your defense reduces this damage by 10% per point you succeeded by (so a 20 dodge against an Accuracy 20 Tsukenyaku would avoid its base damage and cause you to take 100% of the Shockwave's damage as you succeeded by 0; a dodge roll of 25 against the same attack would cause you to take 50% of the Shockwave's damage).
 
 The shockwave still occurs if the attack is successfully parried (though its damage on the original target is mitigated based on how much it missed by as usual), though if someone is airborne, they can avoid this secondary damage (which is typically only applicable against flying puppets or a target knocked airborne by Kage Buyou). 
 
@@ -217,10 +220,12 @@ Using this technique a shinobi kicks with extreme precision, not aiming at an op
 
  - Stamina: 22
  - Damage: (STR/6)d8
+ - Accuracy: +2
  - Range: STR/4
  - Speed: 14
+ - Tags: Projectile
 
-Effects: This cannot be parried (though ninjutsu-based defenses which work like parries still function). Rankyaku causes Slashing wounds. The first time this is used against a given opponent in battle it has a +2 Accuracy bonus.
+Effects: This can not be parried by the normal Parry action, though ninjutsu-based parries work against it. Rankyaku causes Slashing wounds.
 
 #### --( Gouriki Senpuu - Strong Whirlwind )--
 Taking the Whirlwind back to the basics, the shinobi no longer bothers with a series of strikes, and instead just focuses their ability into a single roundhouse with more speed and power than the previous versions.
@@ -230,6 +235,7 @@ Taking the Whirlwind back to the basics, the shinobi no longer bothers with a se
  - Speed: 16
  - Area: STR/25
  - Requires: Daisenpuu
+ - Tags: Point Blank Area of Effect
 
 Effects: This damages everyone in range. If partial defense applies, this technique does 50% of its normal damage per point it hits by, rather than 20%. Anyone hit is knocked back STR/15 yards.
 
@@ -270,15 +276,24 @@ Effects: This is activated after you hit with an Unarmed or Combo Taijutsu attac
 
 ## A-Rank
 #### --( Chishi Kakato Suto - Deadly Heel Strike )--
-Used as a killing blow, this technique is commonly performed upon a prone opponent, who is then cratered into the ground. Leaping into the air, the Shinobi comes down with a full power downward heel strike, usually aiming to smash the ribcage, crush a skull or even snap the spine of their target.. and destroy everything around them in the process.
+Used as a killing blow, this technique is commonly performed upon an airborne opponent, who is then cratered into the ground. Leaping into the air, the Shinobi comes down with a full power downward heel strike, usually aiming to smash the ribcage, crush a skull or even snap the spine of their target.. and destroy everything around them in the process.
 
- - Stamina: 50
+ - Stamina: 60
  - Damage: (STR/4)d20
- - Accuracy: -3
- - Area: PDB*2
+ - Accuracy: -8
+ - Area: PDB * 2
  - Speed: 26
+ - Tags: Targeted Area of Effect
 
-Effects: Partial success does not apply to the actual target of this attack. Whether or not this technique hits or is successfully defended against, the target (and everyone else in its area) might still be hit by the shockwave of exploding earth all around them from the impact with the ground, which deals no base damage of its own, but applies this technique's (Speed * PDB damage) to anyone caught in the area, losing 10% of its damage per point it missed by (so missing by 2 has it deal (Speed * PDB * 0.8), for example). Successfully parrying the attack does not prevent the shockwave damage, though if someone is airborne, they can avoid this secondary damage (which is typically only applicable against flying puppets or a target knocked airborne by Kage Buyou). Most notably, this does mean that the intended target of this technique, if hit, takes full damage from the shockwave, in addition to the attack's full damage, as a single damage source (defenses and damage reduction applies only once to the combined damage, not separately against the hit and the shockwave).
+Effects: 
+
+Partial success does not apply to the actual target of this attack; against an airborne opponent, its Accuracy penalty is negated, but if your target succeeds on their defensive roll, then they avoid the shockwave damage altogether (though it still must be defended against by anyone else in the area).
+
+Whether or not this technique hits or is successfully defended against, the target (and everyone else in its area) might still be hit by the shockwave of exploding earth all around them from the impact with the ground, which deals no base damage of its own, but applies this technique's (Speed * PDB damage) to anyone caught in the area, losing 10% of its damage per point it missed by (so missing by 2 has it deal (Speed * PDB * 0.8), for example). Successfully parrying the attack does not prevent the shockwave damage, though if someone is airborne, they can avoid this secondary damage (which is typically only applicable against flying puppets or a target knocked airborne by Kage Buyou). Most notably, this does mean that the intended target of this technique, if hit, takes full damage from the shockwave, in addition to the attack's full damage, as a single damage source (defenses and damage reduction applies only once to the combined damage, not separately against the hit and the shockwave).
+
+Effects: Whether or not this technique hits or is successfully defended against, the target (and everyone else in its area) might still be hit by the shockwave of exploding earth all around them from the impact with the ground (which is considered a 'Ground' effect), which deals no base damage of its own, but applies this technique's (Speed * PDB) damage to anyone caught in the area. Succeeding in your defense reduces this damage by 10% per point you succeeded by (so a 20 dodge against an Accuracy 20 DHS would avoid its base damage and cause you to take 100% of the Shockwave's damage as you succeeded by 0; a dodge roll of 25 against the same attack would cause you to take 50% of the Shockwave's damage).
+
+Most notably, this does mean that the intended target of this technique, if they fail to defend, takes full damage from the shockwave, in addition to the attack's full damage, as a single damage source (defenses and damage reduction applies only once to the combined damage, not separately against the hit and the shockwave).
 
 #### --( Okasho - Cherry Blossom Impact )--
 Taking chakra infused muscles to the next level, the user focuses a massive amount of chakra into their fist, foot, or even fingertip. Upon striking the chakra is released into their target causing a great deal of damage. Given that the damage is dependent on the amount of chakra channeled, a truly great shinobi can even use this technique with a single fingertip.
@@ -289,7 +304,7 @@ Taking chakra infused muscles to the next level, the user focuses a massive amou
  - Speed: 20
  - Requires: Chakra Strengthening active, Chakra Control 30
 
-Effects: You add half your NDB (in addition to your PDB) to this technique's damage. You may give this technique an Area of (X), though doing so reduces its damage dice to d8's.
+Effects: You add half your NDB (in addition to your PDB) to this technique's damage. You may give this technique an Area of (X), though doing so reduces its damage dice to d8's, and turned it into a Targeted Area of Effect attack.
 
 #### --( Shigan - Finger Gun )--
 Using a single finger, the Shinobi strikes with speed and precision to drive their finger into an opponents body. There is a danger in the technique as an inaccurate strike can easily damage the user.

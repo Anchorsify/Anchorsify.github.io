@@ -331,6 +331,7 @@ A special contraption which essentially utilizes a special variant of an Explodi
  - Speed: 12
  - Range: 15
  - Special: Burns 3
+ - Tags: Area of Effect, Projectile
 
 Effects: This hits everyone in a Line 5 yards wide in front of it, out to its maximum Range.
 
@@ -419,6 +420,7 @@ This Upgrade modifies the puppet’s torso to have an elaborate series of wires 
  - Speed: 12
  - Special: Interrupt
  - Requires: Hollow Body Upgrade
+ - Tags: Contact
 
 Effects: When a puppet this Upgrade is installed in is attacked in melee, you can declare Trap Body as a Defensive Interrupt in response to the attack.  The Puppet automatically blocks the attack and, so long as it is not destroyed, then extends wires and chains toward its attacker, as it tries to grab them and pull them into itself.  Make a Taijutsu Accuracy roll, which is defended against as a Speed 8 attack (which is considered a melee attack).  If they fail, they are Grappled by the puppet and locked inside the puppet's Hollow Body.  Unlike a regular Grapple (and Hollow Body), the defender can not move at all while Grappled, though the puppet can move and be moved as normal without the defender getting a chance to restrain the puppet.
 

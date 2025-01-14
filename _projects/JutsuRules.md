@@ -76,10 +76,16 @@ Tags are simply descriptors which refer to qualities certain Jutsu have which ca
 ##### Area of Effect
 Area of Effect jutsu target an area, rather than a specific person, and as such have different rules, which can be found in the Combat chapter.
 
+###### Point Blank Area of Effect
+These are jutsu which originate from you, causing their point of origin to be where you are, though you are unaffected by attacks and harmful effects of such techniques.
+
+###### Targeted Area of Effect
+Another type of Area of Effect where it is centered on a person other than yourself; often this will be the case for attacks which have a main, single-target effect, and then explode outwards around them to hit those nearby their primary target.  Because these, as the name implies, require a target, they can not be used on anyone who is currently hidden from you.  
+
 ##### Blunt, Slashing, Piercing, Energy
 These tags indicate which category of Wound a jutsu inflicts, if it happens to do so.  Most attacks will have of these tags; those with more than one will state in their Effects listing any special rules for determining Wounds.
 
-#### Clone
+##### Clone
 By default, all Bunshin follow the same basic rules listed in the Bunshin no Jutsu technique (see [here](https://anchorsify.github.io/projects/GeneralNin/#e-rank)). More advanced types of Bunshin than that exist, however, and changes to how they operate are clarified here:
 
  - Bunshin (of any type) can never make Bunshin (of any type).
@@ -126,7 +132,7 @@ Paraelemental clans converting Environmental jutsu can not inflict status effect
 
 Environmental effects dissipate naturally after combat is over, at a rate of one minute per rank (E-ranks would fade in one minute, D in two minutes, etc), unless they are designed to be used outside of combat (such as some Genjutsu, like False Surroundings).
 
-#### Nintaijutsu
+##### Nintaijutsu
 Weapons and ninjutsu that empower taijutsu have a few special effects. First, when created they count as ninjutsu (for cases of chakra rolls and the like), however, when attacking they count as taijutsu. This means they do not gain the bonuses from things such as specialist which empower ninjutsu, but would gain it from taijutsu.  They do count as their element when opposing different elements, however, which applies to advanced elements effects as well. Created weapons only count for their element against elemental defenses; they do not gain any of the other benefits of being dual-element.  
 
 This means that they **DO. NOT. GET. ANY.** of the listed bonuses from their unique element when making attacks with weapons created by their element, or when enhanced by an Upkeep of their element (such as Doryu Ken, or Chakra Flow), or when a link jutsu of their element is added to a taijutsu attack. Likewise, they *DO. NOT.* apply any status effect based on their element (such as Frostbite) when making a taijutsu attack enhanced by such a weapon, upkeep, or link.

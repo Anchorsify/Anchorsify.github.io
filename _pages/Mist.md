@@ -44,14 +44,14 @@ Effects: Liquifying is a Speed 5 Interrupt (which does not require a roll to suc
 
  - You take only 25% damage from Suiton, and 50% from Katon.
  - You cannot block Doton or Raiton.
- - You take +50% damage from Raiton, and any Shock status effects they apply also inflict you with a Stun of twice their severity.
+ - You take +50% damage from Raiton, and any non-environmental Shock status effects they apply also inflict you with a Stun of twice their severity.
  - You are immune to all non-Energy-wound dealing Taijutsu, and medical ninjutsu (except for Ranshinshou).
  - Nintaijutsu deal damage based on their respective element.
  - You are immune to, and do not suffer the penalties of existing, Wounds.
  - You can breathe underwater.
  - Your Physical Damage Bonus is set to 0.
  - You cannot grapple or be grappled, and ignore non-Internal Immobility Penalties and effects which work by restraining or caging you.  
- - You always have an additional 10+(Chakra Control ranks/2) gallons of water to use with Suiton techniques, which nobody else may access. If you figure out why, you get a cookie. This water is never used up, or considered to be added to the battlefield, and can not be utilized for techniques with an Upkeep, or for clones.
+ - You always have an additional 10+(Chakra Control ranks/2) gallons of water to use with Suiton techniques, which nobody else may access. If you figure out why, you get a cookie. This water is never used up, or considered to be added to the battlefield, and can not be utilized for techniques with an Upkeep, for clones, or sealed via Fuinjutsu (such as confinement seal scroll, or element sealing method).
  - You cannot be burnt, poisoned, or ignited, and ignore the effects of those statuses while in liquid form; their durations still decrease normally (and Ignite automatically ends).
  - You cannot open any Gates, do not gain any bonuses from having any Gates open and while liquified, you can’t generate or spend Gate-specific AP, nor do you suffer the normal Wounding chance. You regain all benefits of Gates once you solidify and do not have to re-open any Gates opened before liquifying, however.
 
@@ -197,15 +197,15 @@ The pinnacle of the Kaguya clan’s techniques, this creates a countless number 
  - Area: PDB * 2 Yards
  - Speed: 25
  - Skeletal Modifications: Any two
- - Tags: Piercing
+ - Tags: Environmental, Point Blank Area of Effect
 
 Effects: Even if someone dodges this technique, they do not escape its area; they simply avoid being skewered by the bone spires erupting from the ground. 
 
-You may move anywhere in the radius as a Speed 0 action (though you can't take anyone else with you when you do this, and thus couldn't do it while grappled); You can also increase the Speed of any action by 4 to make it a Surprise Attack (which does not increase its damage). By melding into and out of the bones you can remove any Immobilization penalties from effects which restrain or cage you (so not those from poison, genjutsu, etc.) as a Speed 4 action.  While inside your bone field, you may attempt to Hide; when you Hide, you begin at Stealth 2.
+You may move anywhere in the field as a Speed 0 action (though you can't take anyone else with you when you do this, and thus couldn't do it while grappled); As a Speed +4 link to any non-interrupt attack, you can make it a Surprise Attack. By melding into and out of the bones you can remove any Immobilization penalties from effects which restrain or cage you (so not those from poison, genjutsu, etc.) as a Speed 4 action.  While inside your bone field, you may attempt to Hide; when you Hide, you begin at Stealth 2.
 
-If someone attempts to escape the bone field, and you are aware of them (i.e., they are not Hidden from you), you may automatically Interrupt their action with any melee-range attack of Speed 10 or less by moving to them and attacking.  If you hit, your attack knocks them back RES/10 yards toward the center.
+If someone attempts to escape the bone field, and you are aware of them (i.e., they are not Hidden from you), you may  Interrupt their action with any melee-range attack of Speed 10 or less by moving to them and attacking.  If you hit, your attack knocks them back RES/10 yards toward the center, and stops any further movement they would have had from their action.
 
-When used, this technique effectively destroys any other terrain-based effects (such as mud on the ground).  Inside the field, the Kaguya has a +5 to Awareness. If this technique is used again when already inside its area, the two fields overlap and combine; nobody already in the field will be damaged again; and the cost is halved, after applying Osteogenesis’ reduction.
+When used, this technique destroys all Ground effects in its area (such as mud on the ground).  Inside the field, the Kaguya has a +5 to Awareness. If this technique is used again when already inside its area, the two fields overlap and combine; nobody already in the field will be damaged again; and the cost is halved, after applying Osteogenesis’ reduction.
 
 After a few hours the bones will grow brittle as the chakra dissipates, beginning to crumble. Within a day there will be nothing left but dust and bone chips.
 
@@ -393,7 +393,7 @@ Not something you spend points on, this time! Of the three primary feature sets 
 (2) (Requires CHA-based SDB Feature) You use your CHA in place of your DEX for the Blademaster ability with your sword.
 
 *Tassel Features*  
-(4) While using Chakra Flow (either version) with your sword, you can parry attacks from your current Chakra Flow elemental strength in the same way you can parry Taijutsu.  
+(4) While using Chakra Flow (either version) with your sword, you can parry attacks from your current Chakra Flow element and elemental strength in the same way you can parry Taijutsu.  
 (4) As a Chakra +5, Speed +3 link you can replace your sword's 'Sword' tag with any of the following: Polearm, Fan, Chain, by forming chakra over your blade to take the shape of another type of weapon, allowing you to potentially use different jutsu dependent upon other weapon types.
 
 ###### b. Balance
@@ -419,7 +419,7 @@ Not something you spend points on, this time! Of the three primary feature sets 
 (2) Your sword’s die size is increased by 2, to a maximum of _d20.  
 (1) Stun 1.  Can be taken twice.  
 (2) Your Sword's base Speed is increased by 1, it gains Delay 2, and your Sword Damage Bonus is increased by 2 when attacking. Can be taken twice.  
-(1) When you block while holding your sword, you gain DR equal to your Sword Damage Bonus; this is multiplied by the number of times you’ve taken this feature. Can be taken up to six times.
+(1) When you block while holding your sword, you gain DR equal to your Sword Damage Bonus (unaffected by two-handing the weapon); this is multiplied by the number of times you’ve taken this feature. Can be taken up to six times.
 
 *Hilt Features*  
 (1) Stun 1.  Can be taken three times.  
@@ -472,12 +472,14 @@ The Terumi ability to boil water and alter the pH of steam taken to a logical ex
 
  - Type: Futton Ninjutsu, Rank B
  - Chakra: 35 + X/5
- - Damage: Xd8
+ - Damage: (CHA/10 + X)d10
+ - Accuracy: +X/15
  - Area: Special
  - Speed: 24
  - Seal Speed: 22
+ - Tags: Point-Blank Area of Effect
 
-Effects: X is how many gallons of water are available to be destroyed from the battlefield, up to a maximum of CHA/2. Its Area is centered on you, and has a minimum of 50, but can go as high as X. It uses half your NDB to determine its damage, but deals its damage to everyone in its Area, with a +X/15 to its Accuracy.
+Effects: X is how many gallons of water are available to be destroyed from the battlefield, up to a maximum of CHA/2. Its Area is centered on you, and has a minimum of 50, but can go as high as X.
 
 ## Touu
 The Hidden Mist, and Water Country in general, has a dark past it would very much like to forget. And, while the Touu would just as much like for it to never have happened, they in many ways are symbolic of that dark, bloody past.

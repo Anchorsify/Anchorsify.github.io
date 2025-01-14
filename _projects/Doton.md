@@ -155,7 +155,7 @@ This technique causes the ground surrounding the enemy to spiral inwards on itse
  - Seal Speed: 18
  - Tags: Blunt, Area of Effect, Ground
 
-Effects: Anyone hit by this technique suffers a Stun and Immobilization Penalty equal to the amount their defensive roll failed by, to a maximum of Stun 8 and -8 Immobilization. The Immobility penalty lasts until they leave the affected area (and does not fade naturally over time), which has all other terrain-based effects removed.
+Effects: Anyone hit by this technique suffers a Stun and Immobilization Penalty equal to the amount their defensive roll failed by, to a maximum of Stun 8 and -8 Immobilization. The Immobility penalty lasts until they leave the affected area (and does not fade naturally over time), which has all other Ground effects removed.
 
 If someone uses a defense which does not require a roll, and takes damage from this technique, they instead make a status roll (and take both the Stun and Immobility penalty if they fail, as described above). If used in a cave, the Stun and Immobilization penalty is always 8.
 
@@ -279,15 +279,15 @@ Feeding your chakra into the ground you cause the earth to rise under your feet 
 Effects: You create what is basically a huge wall! It can be up to the following dimensions: Length = X, Width = X/4, Height = X/2. If you use this and X is 20 or more, the area you are in counts as rocky terrain for the purposes of jutsu requirements.  X has a maximum of (5+ Chakra Control ranks).
 
 #### --( Iwagakure no Jutsu - Hidden Among Rocks Technique )--
-This technique allows you to blend into rocks and remain hidden. Even the texture of your body takes on that of the stones, and it's quite possible (indeed, more than a few experienced jounin have embarrassing sories about it) to have an enemy physically sit on you without realizing you're there.
+This technique allows you to blend into rocks and remain hidden. Even the texture of your body takes on that of the stones, and it's quite possible (indeed, more than a few experienced jounin have embarrassing stories about it) to have an enemy physically sit on you without realizing you're there.
 
- - Chakra: 26
+ - Chakra: 32
  - Upkeep: 12
  - Speed: 22
  - Seal Speed: 28
  - Tags: Preparation
 
-Effects: This allows you to enter level 3 Stealth, and gives a +10 bonus to your stealth checks while it's maintained. However, it requires rocky terrain (such as the inside of a cave, a mountain path, the debris from a destroyed wall, or a large boulder), and you cannot move (blinking and breathing are okay) while it's maintained.
+Effects: You can use this technique to blend into rocky terrain—in fact, it requires rocky terrain to work (the inside of a cave, a mountain path, the debris from a destroyed stone wall, or a large boulder all work, but notably an *intact* stone wall would not).  When used, you hide with a +10 bonus to your Stealth roll and begin at level 3 Stealth against anyone who does not have reason to suspect you are there (i.e., they are not seeing you use the technique, and it is not being done in combat, either of which causes this to automatically fail). While maintaining the technique, you cannot move (blinking and breathing are okay).
 
 #### --( Domu - Earth Spear )--
 You direct chakra to flow through the skin over all portions of your body, increasing your body's defensive power to its utmost limit. This causes your skin to darken in response to the earth-elemented chakra, taking on a dull gray-brown, almost black color. This hardening also empowers your physical attacks, making this a useful, if draining, all-purpose technique.

@@ -189,7 +189,7 @@ A technique which increases the potency of a weapon by running currents of chakr
  - Type: Melee
  - Tags: Preparation
 
-Effects: While you maintain this technique, your weapons gain the properties of your elemental affinity. When used against ninjutsu-based defenses, the weapon is considered to be of the relevant element to determine how effective the defense is against it. Additionally, it gains an additional effect based on the element chosen (listed below). This technique does receive your bonus to Chakra Exhaustion rolls from the Elemental Affinity ability. If you're using Dual Weapons, Chakra Flow applies to both of them; otherwise, only one weapon benefits from Chakra Flow at a time. Any weapon you pick up or draw automatically benefits from your Chakra Flow. If holding two non-Dual weapons, you may change which one receives Chakra Flow's effects as a Speed 0 action. Weapons created through jutsu can only be affected by chakra flow of their creation element.
+Effects: While you maintain this technique, your weapons gain the properties of your elemental affinity. When used against ninjutsu-based defenses, the weapon is considered to be of the relevant element to determine how effective the defense is against it. Additionally, it gains an additional effect based on the element chosen (listed below). This technique does receive your bonus to Chakra Exhaustion rolls from the Elemental Affinity ability. If you're using Dual Weapons, Chakra Flow applies to both of them; otherwise, only one weapon benefits from Chakra Flow at a time. You may only maintain one element of Chakra Flow at a time, even if you’re holding two weapons. Any weapon you pick up or draw automatically benefits from your Chakra Flow. If holding two non-Dual weapons, you may change which one receives Chakra Flow's effects as a Speed 0 action. Weapons created through jutsu can only be affected by chakra flow of their creation element.
 
  - **Earth**: Your weapon gains Stun 2, or +2 to its existing Stun. Every time somebody already stunned is struck by your weapon, their Stun is increased by 1. Anyone who parries your weapon successfully suffers the Stun 2 (or +1).
  - **Fire**: You add 25% of your ninjutsu damage bonus to your regular damage bonus when using your weapon. To determine damage you multiply your attack's damage by its base speed, rather than modified speed.
@@ -240,6 +240,7 @@ This technique requires an umbrella and a plethora of needles! Filling them all 
  - Area: (NDB + PDB) * 2
  - Speed: 25
  - Type: Senbon, Umbrella (Set up beforehand)
+ - Tags: Area of Effect
 
 Effects: Your umbrella is launched into the air, where it remains stationary. When first launched, and every 10 IC afterwards, for 50 IC, the umbrella showers the area with needles. You may selectively choose who's targeted by this technique with each volley, allowing you to exclude your allies.
 
@@ -291,10 +292,13 @@ Extending out a polearm, you hold one end with both hands then commence whirling
 
  - Stamina: (Weapon) + 6
  - Damage: (Weapon)
+ - Area: 4
  - Speed: (Weapon) + 4
  - Type: Polearm
+ - Tags: Targeted Area of Effect
+ -
 
-Effects: You may attack anyone you choose within Area 4. If you use this technique and attack only one person, you gain +2 to your Accuracy for the attack.
+Effects: You may selectively attack anyone within its Area; If you use this technique and attack only one person, you gain +2 to your Accuracy for the attack.
 
 #### --( Nenten Tsuki - Twisting Stab )--
 The user lunges forward while turning their wrist, drilling their weapon into the opponent, using chakra to enhance their momentum. It is very effective at breaking an opponent's guard as you spin the weapon to go around their defense.
@@ -328,15 +332,15 @@ Taking a large throw weapon, you slap several explosive tags onto it and huck it
 Effects: You may attach up to 3 Exploding Tags to the weapon; X is the number of tags you attach. When declaring the attack, you also declare the Delay for the tags to explode as described in the Equipment chapter.  This explosion is centered on the location the target was when this attack was made, occurs whether the attack hit or missed, and follows all normal rules (damage, valid defenses, etc) for the class of explosive tags used.  The weapon used in this technique is destroyed upon the tag(s) detonation.
 
 #### --( Tsubasa Migaku - Blade Honing )--
-Focusing chakra along the edge of their weapons, the user extends and expands their size, usually by about a quarter, using chakra to reinforce the weapons hardness at the same time to allow for more powerful swings at the expense of one's ability to follow-through fully with their attacks.
+Despite being a fairly simple technique in concept, the precision necessary to perform it effectively, and without damaging one's blade, limits its use to more skilled shinobi. Focusing chakra along the edge of a bladed weapon, the user creates a 'second', sharper blade of chakra that essentially increases the weapon's sharpness, and also protects the blade itself from dulling.
 
  - Chakra: 18
  - Upkeep: X/2 (round up)
  - Speed: 12
- - Type: Dual
+ - Type: Slashing Melee
  - Tags: Preparation
 
-Effects: Your weapons deal +Xd*, but their damage is reduced by (5 * X)% for the purpose of determining wounds. X has a maximum of (your Chakra Control skill ranks)/3. Any weapon you pick up or draw automatically benefits from Blade Honing while you maintain its Upkeep.
+Effects: Your weapons deal +Xd*, to a maximum of double their base dice, but their damage is reduced by (5 * X)% for the purpose of determining wounds. X has a maximum of (your Chakra Control skill ranks)/3. Any weapon you pick up or draw automatically benefits from Blade Honing while you maintain its Upkeep.
 
 ## B-Rank
 #### --( Hashadan - Blade Breaker )--

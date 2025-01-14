@@ -34,7 +34,7 @@ In addition to being good practice for chakra control, many fire-using ninja fin
  - Area: 10 + CHA/10
  - Speed: 6
  - Seal Speed: 4
- - Tags: Environmental
+ - Tags: Point Blank Area of Effect, Environmental
 
 Effects: The orb sheds light equivalent to a small oil lamp. This reduces darkness-based visibility effects by 4, and any Environmental Visibility Penalties by 2; multiple instances of this technique do not stack either effect.
 
@@ -44,9 +44,9 @@ A low-level technique which sees some use even by more experienced ninja, in cer
  - Chakra: +2, +1 per rank above E
  - Area: 3, +3 per rank above E
  - Seal Speed: +3
- - Tags: Environmental
+ - Tags: Area of Effect, Environmental
 
-Effects: This technique is used in combination with a damage-dealing Katon jutsu, increasing its Seal Speed and Chakra cost accordingly. The resulting smokescreen has a duration of 10 IC, +5 IC per rank above E. Within this area, the smoke imposes a -2 visibility penalty, increasing by one per rank above E the jutsu Enmaku was used with is. This technique can also be used on its own, using a person suffering from the Ignite status as its source; in this case it's Chakra 6, Speed 5, and Seal Speed 3. Every 2 points of Ignite is equivalent to one jutsu rank (so "rank D", meaning -3 visibility, at Ignite 4).
+Effects: This technique is used in combination with a damage-dealing Katon jutsu, increasing its Seal Speed and Chakra cost accordingly. The resulting smokescreen has a duration of 10 IC, +5 IC per rank above E. Within this area (centered on the target of the jutsu or ignite it was used with), the smoke imposes a -2 visibility penalty, increasing by one per rank above E the jutsu Enmaku was used with is. This technique can also be used on its own, using a person suffering from the Ignite status as its source; in this case it's Chakra 6, Speed 5, and Seal Speed 3. Every 2 points of Ignite is equivalent to one jutsu rank (so "rank D", meaning -3 visibility, at Ignite 4).
 
 ## D-Rank
 #### --( Houenka - Flame Flower )--
@@ -303,7 +303,7 @@ The user launches an incandescent globe of fire into the sky, where it remains s
  - Range: 150
  - Speed: 16
  - Seal Speed: 28
- - Tags: Area of Effect, Energy, Projectile
+ - Tags: Targeted Area of Effect, Energy, Projectile
 
 Effects: A volley of fireballs falls upon the battlefield when you first use this technique, and every 20 IC afterwards so long as you maintain its Upkeep. This technique uses your base Accuracy for an A-rank Katon, unmodified by status, wounds, temporary bonuses, and so on, though penalties from Fatigue do apply. The ninjutsu damage bonus is equal to yours at the time you used the technique. Because the attacks are made by the technique, and not you, you cannot modify them further (such as with Willpower or AP). 
 
@@ -348,7 +348,7 @@ Popular among bounty-hunting ninja, this technique creates a circular wall of fl
  - Speed: 24
  - Seal Speed: 26
  - Status: (NDB) Burns, (NDB) Ignite
- - Tags: Energy, Environmental
+ - Tags: Energy, Targeted Area of Effect, Environmental
 
 Effects: This creates a circular wall of flame centered on a target within its range (which can be you), with the listed area as its radius. The wall itself is 1 yard thick (wide), and (NDB * 4) yards tall. Anyone who crosses the wall takes the listed damage and status effects on a failed status roll. As it does not constitute an attack at that point, defensive Interrupts can't be used to mitigate it, though your NDB for its damage is halved.  
 

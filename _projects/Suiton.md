@@ -89,7 +89,7 @@ This technique was once a specialty of the village it's named after, but has sin
  - Speed: 10
  - Seal Speed: 12
  - Requires: 16 gallons of water
- - Tags: Area of Effect, Environmental
+ - Tags: Point Blank Area of Effect, Environmental
 
 Effects: This imposes a -3 Visibility Penalty to everyone in the area, which increases by 1 per 10 IC it's maintained, to a maximum penalty of -6. So long as you maintain its upkeep, if its Visibility Penalty is ever reduced, it will return at the same rate; effects which would remove it entirely (such as Kitakaze) do, however, remove it. The gallons of water used in this technique are removed from the battlefield while its Upkeep is maintained, and when this technique ends, only half of its gallons are added back to the battlefield (the other half is simply destroyed).  The area is centered on you, and moves with you.
 
@@ -200,7 +200,7 @@ Effects: The gallons of water used to create clones are removed from the battlef
  - [ X AP ] Move: Your clones can move, with X being half the speed of the Move action they take.
  - [ X AP ] Basic Unarmed: A basic unarmed attack, using your attributes. X is half the Speed of the attack.
  - [ X AP ] Basic Weapon: You may add melee weapons to Mizu Bunshin when they're created by expending more gallons of water, paying +1 gallon per 4 dice of weaponry you give them, rounded up, to a maximum of (NDB/3) weapons. They may attack with those weapons, using your abilities. X is half the Speed of the attack.
- - [ 10 AP ] The clone can use itself to create a water prison (as per Suiton: Suirou no Jutsu), as a Speed 12 action at its normal CE cost. The clone uses is own gallons of war to contribute to the gallons required for Suirou no Jutsu, but if it does not have enough, it must create more as part of the action in order to perform Suirou no Jutsu.  The clone remains present, but follows the normal restrictions for maining the water prison, as described in Suirou no Jutsu.  The clone, and the prison, last for 10 + (Chakra Control Ranks/2) IC, after which the clone is destroyed and the prison ends unless you or another water clone touches the water prison to maintain it, taking on its normal upkeep and restrictions.  If a water clone maintaining a water prison is destroyed by an area of effect attack, then the person inside the water prison must also (if within the area to be hit) defend against the attack, and is not protected by the Water Prison.
+ - [ 10 AP ] The clone can use itself to create a water prison (as per Suiton: Suirou no Jutsu), as a Speed 12 action at its normal CE cost. The clone uses is own gallons of war to contribute to the gallons required for Suirou no Jutsu, but if it does not have enough, it must create more as part of the action in order to perform Suirou no Jutsu.  The clone remains present, but follows the normal restrictions for maining the water prison, as described in Suirou no Jutsu.  The clone, and the prison, last for 10 + (Chakra Control Ranks/2) IC, after which the clone is destroyed and the prison ends unless you or another water clone touches the water prison to maintain it, taking on its normal upkeep and restrictions.
 
 #### --( Mizugakure no Jutsu - Hidden in Water Technique )--
 The user sinks into a shallow pool of water, much too little to actually fit a person (it's ninja magic, don't ask questions), where they'll be able to easily lie in wait for a target to pass by, or spy on someone who might be near.
@@ -225,7 +225,9 @@ The user gathers the chakra around their hand, and forms the required water into
  - Requires: 16 gallons of water
  - Tags: Melee
 
-Effects: You trap your target inside a sphere of water. Someone inside cannot take actions, but they also cannot be affected by anything outside the prison; yes, that's right, the water can even stop giant swords. It makes sense, honestly, we promise, somehow. Anyone with a Chakra Control skill of 5 or above is able to mold the chakra around them to allow themselves to siphon air through the prison, meaning they can still talk and breathe. Anyone with less, however, adds a Suffocation 1 status every 10 IC. You must keep one hand on the water prison to maintain it, and you can not move or dodge while maintaining it; if you choose to dodge against an incoming attack, the water prison automatically ends. If you take damage while maintaining the water prison, you must make a Chakra Control check against (damage taken)/10 or the prison ends. Although you can't move, you can still take most other actions that are possible one-handed while maintaining the prison's upkeep.
+Effects: You trap your target inside a sphere of water. Someone inside cannot take actions, but they also cannot be affected by anything outside the prison; yes, that's right, the water can even stop giant swords. It makes sense, honestly, we promise, somehow. Anyone with a Chakra Control skill of 5 or above is able to mold the chakra around them to allow themselves to siphon air through the prison, meaning they can still talk and breathe. Anyone with less, however, adds a Suffocation 1 status every 10 IC. You must keep one hand on the water prison to maintain it, and you can not move or dodge while maintaining it; if you choose to dodge against an incoming attack, the water prison automatically ends, and the person inside is no longer protected (including from the attack itself, if it would likewise affect them), though they may defend normally. 
+
+If you take damage while maintaining the water prison, you must make a Chakra Control check against (damage taken)/10 or the prison ends; if a clone is destroyed while using Water Prison, and the attack itslf would also include the person inside the prison (say, from an AoE), then the person inside the water prison must also defend against the attack, and is not protected from it by the Water Prison. Although you can't move, you can still take most other actions that are possible one-handed while maintaining the prison's upkeep.
 
 If used against someone in a grapple, this technique automatically fails unless the person(s) in control of the grapple opt to let go as it is used.
 
@@ -299,7 +301,7 @@ The user creates an enormous amount of water by spewing it from their mouth, flo
  - Seal Speed: 30
  - Status: Stun 8
  - Special: Can not be dodged.
- - Tags: Area of Effect, Blunt, Projectile
+ - Tags: Point Blank Area of Effect, Blunt, Projectile
 
 Effects: This adds 40 + (NDB * 4) gallons of water to the battlefield every time it is used.  When performing this technique, you may move a number of yards equal to its final Speed, in any direction.  The Area itself is centered on where you start your movement.
 
@@ -337,7 +339,7 @@ As a weather-manipulation jutsu, this technique is extremely taxing upon its use
  - Speed: 20
  - Seal Speed: 20
  - Requires: 32 gallons of water
- - Tags: Area of Effect, Environmental
+ - Tags: Point Blank Area of Effect, Environmental
 
 Effects: Every 5 IC, everyone other than the user and up to (Chakra Control)/5 people they've designated as allies has their Chakra Exhaustion penalty increased by 1, and the user has their Chakra Exhaustion penalty decreased by 1, so long as at least one person had their CE penalty increased. This remains centered on the user as they move.
 
@@ -348,8 +350,8 @@ This is one of the most powerful water ninjutsu in existence; once the appropria
  - Chakra: 42
  - Damage: 24d20+300
  - Range: 80
- - Area: 20 wide, up to max range in length; may be used as a smaller area if you wish
- - Speed: 36
+ - Area: 40 wide, up to max range in length; may be used as a smaller area if you wish
+ - Speed: 30
  - Seal Speed: 30
  - Requires: 100 gallons of water
  - Status: Stun 18

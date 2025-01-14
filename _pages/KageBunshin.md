@@ -12,7 +12,7 @@ Perhaps the pinnacle of development for the ninja replication technique is this 
 - Speed: 5, +2 per clone
 - Seal Speed: 5, +2 per clone
 
-Effects: You can't regain Fatigue or Willpower spent on clones so long as they exist. Fatigue level changes caused by creating or ending Kage Bunshin do not reset your Stamina and Chakra Exhaustion penalties, nor do they affect any status effects you're suffering from (such as Sealed Tenketsu). 
+Effects: These function like regular bunshin. You can't regain Fatigue or Willpower spent on clones so long as they exist. Fatigue level changes caused by creating or ending Kage Bunshin do not reset your Stamina and Chakra Exhaustion penalties, nor do they affect any status effects you're suffering from (such as Sealed Tenketsu). 
 
 When created, Kage Bunshin have all Wounds you do, but not status effects (unlike normal). Wounds gained, and Upkeeps activated, after they're created do not transfer to your clones. Kage Bunshin also copy any Upkeeps you are maintaining at the time of their creation which affect only yourself (which then affect only them, so long as they maintain the Upkeep), which means they only copy Upkeeps with the 'Preparation' tag.
 

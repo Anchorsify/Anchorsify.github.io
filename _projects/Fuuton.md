@@ -73,7 +73,7 @@ In a fashion similar to how ninja knead chakra into their palms and feet to stic
  - Special: This technique may not have its seal speed removed with a fan
  - Tags: Nintaijutsu, Preparation
 
-Effects: While this technique's upkeep is maintained, all your non-grapple unarmed attacks inflict a Knockback of (NDB/2, rounding down) yards, and allow you the option to 'chase' (and remain at range 0) with the primary target of your attack (if it's an AoE, pick one target to chase) after knocking them back, ignoring terrain as you do so.  Additionally, parries against such attacks take a -2 to their roll.
+Effects: While this technique's upkeep is maintained, all your non-grapple unarmed attacks inflict a Knockback of (NDB/2, rounding down) yards, and allow you the option to 'chase' (and remain at range 0) with the primary target of your attack (if it's an AoE, pick one target to chase) after knocking them back, ignoring ground effects as you do so.  Additionally, parries against such attacks take a -2 to their roll.
 
 #### --( Hagitoru Aori no Jutsu - Tearing Gust Technique )--
 Generally performed with a fan as a matter of practicality, this technique unleashes a burst of wind that will not only deflect projectiles, but also strip them of any chakra they may be infused with.
@@ -134,7 +134,7 @@ The user takes in a deep breath an spins while exhaling, forming several rotatin
  - Area: 20
  - Speed: 16
  - Seal Speed: 14
- - Tags: Area of Effect, Projectile, Slashing
+ - Tags: Point Blank Area of Effect, Projectile, Slashing
 
 Effects: This technique may differentiate between enemies and allies within its area of effect, but does not penalize dodges based on its Area. It ignores armor, and its damage is considered 25% higher for the purpose of Wounding.
 
@@ -160,7 +160,7 @@ After finishing the seals, the user claps their palms together and compresses th
  - Seal Speed: 8
  - Tags: Slashing, Projectile
 
-Effects: This can be used as an attack, as an interrupt, or in combination with a multi-throw. As an attack, it does 2d6 * 5 damage and if you hit, you make an opposed roll of your Chakra Control vs your target's Athletics; if they fail, they're knocked prone.
+Effects: This can be used as an attack, as an interrupt, or in combination with a multi-throw. As an attack, it does 2d6 * 5 damage and if you hit, you make an opposed roll of your Chakra Control vs your target's Athletics; if they fail, they're knocked prone, and receive +3 to their Resistance rolls to avoid being tripped by this technique for the remainder of the battle.
 
 As an interrupt, it can be used in response to a thrown weapon attack, allowing you to make a ninjutsu parry roll against the attack. If you succeed, you redirect their attack at them, using its original accuracy and speed, adding 2d6 * 5 to the attack's damage plus your interrupt's Speed * NDB. Wounds inflicted are based off of the combined damage total, and the damage type is based on the thrown attack.
 
@@ -256,7 +256,7 @@ You unleash a wave of chakra converted into gale-force winds, knocking away ever
  - Area: 30
  - Speed: 15
  - Seal Speed: 14
- - Tags: Area of Effect, Environmental
+ - Tags: Point Blank Area of Effect, Environmental
 
 Effects: Every IC, everyone in the technique's radius is pushed 1 yard away from you, towards its edge. Effects which reduce knockbacks do not prevent this movement, though any effect which anchors someone to a point will, as does any external Immobility penalty someone is suffering from, reducing their movement by 0.1 per severity (meaning that, at Immobility 2, you would be pushed bac 0.8 yards per IC: 0.8 after one IC, 1.6 after two IC, etc).
  
@@ -271,7 +271,7 @@ One of the more reliable defensive measure Fuuton users are capable of deploying
  - Upkeep: 5
  - Speed: 16
  - Seal Speed: 16
- - Tags: Area of Effect, Environmental, Preparation
+ - Tags: Point Blank Area of Effect, Environmental, Preparation
 
 Effects: Any ranged taijutsu and Raiton attacks against you with Accuracy less than (your Accuracy +5) are automatically parried, as are any Projectile Ninjutsu techniques with an Accuracy less than your Accuracy.  You can not be grappled while this technique is active, and any grapples you were in immediately end.
 
@@ -331,7 +331,7 @@ Almost always used with a fan, this technique creates a vast number of heavy air
  - Range: 40
  - Speed: 24
  - Seal Speed: 28
- - Tags: Area of Effect, Projectile, Slashing
+ - Tags: Targeted Area of Effect, Projectile, Slashing
 
 Effects: This may target any number of people in front of you, so long as they are all within range, and for the purposes of evading is considered to have an Area equal to its Range. Scything Wind's damage is considered 25% higher for the purposes of inflicting wounds, and its damage can not be blocked.
 

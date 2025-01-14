@@ -181,9 +181,9 @@ This seal trumps any genjutsu short of the Poison Truth Technique.
 #### --( Moji Hyouki no Jutsu - Rune Inscribing Technique )--
 A tricky seal, this allows the user to mold the chakra necessary for any ninjutsu technique they know and then 'freeze' it, holding it primed but inactive inside of a seal. Once a trigger condition occurs, the jutsu is released. Use of this technique to prepare explosive Katon techniques and leaving them around as a practical joke is strongly discouraged.
 
- - Chakra: 20 + X
- - Speed: 20 + X
- - Seal Speed: 20 + X
+ - Chakra: 25 + X/2
+ - Speed: 20 
+ - Seal Speed: 30 + X
  - Special: Exclusive
 
 Effects: When you use Moji Hyouki, select another ninjutsu which you are able to perform, specifying all its variable parameters at that time. The "X" for Moji Hyouki refers to the ninjutsu you choose, which can not have a cost other than Chakra Exhaustion (such as Willpower, or Stamina).
@@ -198,7 +198,7 @@ When the seal activates, the jutsu in question will immediately take effect. If 
 
 Jutsu which are upkeeps will have no chakra source from which to draw from (given it is on an object), and will therefore immediately end after activation.  Similarly, Jutsu with a range or an effect that only applies to oneself will then only apply to, and work on, the object it was placed on.
 
-Attempting to seal an object with Moji Hyouki on it (such as inside a Confinement Seal Scroll, or Lightning Blade Creation) causes Mojji Houki to immediately activate.
+Attempting to move or seal an object with Moji Hyouki on it (such as inside a Confinement Seal Scroll, or Lightning Blade Creation) causes Moji Houki to immediately activate.
 
 ## A-Rank
 #### --( Tensha Fuuin - Transcription Seal )--

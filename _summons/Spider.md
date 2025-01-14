@@ -46,7 +46,7 @@ Unlike normal techniques, this may be used more than once per week (OOC day). Th
 
 X has a minimum of 1.
 
-#### --( Hikimado Jiraigen -Trap Door Minefield )--
+#### --( Hikimado Jiraigen - Trap Door Minefield )--
 You summon a number of giant burrowing spiders beneath the battlefield, which lie in wait for an enemy to pass over them. When someone does, the ground collapses and they fall onto the waiting, more-than-man-sized spider, which delivers a bite of potent venom before disappearing.
 
  - Chakra: 30
@@ -58,7 +58,7 @@ Effects: When you use this technique you make a Stealth check with a -5 penalty;
 
 While in the area, any time anyone other than you moves as part of an attack, or spends 5 IC or more moving (total, in the latter case; 2 IC of movement, followed by 3 IC of movement, would trigger it), they must roll 1d3. On a roll of 1 they've walked over one of the traps, and immediately make an Athletics roll as their 'dodge' against your Accuracy (this does receive any bonuses and penalties to defensive rolls), with a penalty to their roll equal to their current Immobilization penalty (if any). If they succeed, they can continue normally. If they fail, they fall in and are attacked by the spider.
 
-Falling in does interrupt whatever action they were taking (unless they were just moving), in which case no costs are paid, the trap leaves them stuck at their original location, and their IC is not advanced based on the attack's Speed. The spider bites them before being unsummoned, afflicting them with a Stun X, where X is the amount they failed their Athletics roll by. You then make a Toxicology roll, using your XP/200 in place of your Toxicology skill ranks, against their Resistance. If they fail, they're poisoned; the venom of these spiders is Poison X/2 (maximum 8), Paralysis X/4 (maximum 4), and Duration X*5 (with no maximum).
+Falling in does interrupt whatever action they were taking (unless they were just moving), in which case no costs are paid, the trap leaves them stuck at their original location, and their IC is not advanced based on the attack's Speed. The spider bites them before being unsummoned, afflicting them with a Stun X, where X is the amount they failed their Athletics roll by. You then make a Toxicology roll, using the higher of 3+XP/200 or your normal Toxicology skill ranks, against their Resistance. If they fail, they're poisoned; the venom of these spiders is Poison X/2 (maximum 8), Paralysis X/4 (maximum 4), and Duration X*5 (with no maximum).
 
 If used on an area where a web of Area 10 or greater has already been created, the trap field has a +10 bonus to its Stealth instead of a -5 penalty, and its Area is changed to that of the web. A single use of this jutsu has Y traps in it, where Y is the number of spider summons you have access to (up to a maximum of, normally, 4). You can perform this technique from stealth without revealing your location.
 
@@ -75,7 +75,7 @@ Effects: Every point of Immobilization penalty that your target is suffering fro
 
 This is a taijutsu attack which inflicts Piercing wounds and ignores DR and armor.
 
-If this hits, it poisons the enemy with either Black Widow or Brown Recluse poison (chosen when you declare the attack). For your Toxicology roll, use (XP)/200 in place of your Toxicology skill ranks. If Brown Recluse poison is used, it's raised to Poison 3, and its Duration is lowered to 500. If Black Widow poison is used, it's raised to Poison 4 and the penalty to Stamina and Chakra Exhaustion rolls is raised to -6. Antidotes for those poisons still work normally.
+If this hits, it poisons the enemy with either Black Widow or Brown Recluse poison (chosen when you declare the attack). For your Toxicology roll, use the higher of 3+XP/200 or your own Toxicology skill ranks. If Brown Recluse poison is used, it's raised to Poison 3, and its Duration is lowered to 500. If Black Widow poison is used, it's raised to Poison 4 and the penalty to Stamina and Chakra Exhaustion rolls is raised to -6. Antidotes for those poisons still work normally.
 
 #### --( Shindakara Haki - Discard the Dying Husk )--
 You 'shed' your skin and in a blur of motion escape from your 'shell', which is left infused with chakra and capable of acting independently, as if nothing happened. This technique is best used to beat a hasty retreat when in danger, as it leaves you vulnerable and also buys time until your opponents realize what happened.

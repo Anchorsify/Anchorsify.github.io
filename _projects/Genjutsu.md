@@ -42,6 +42,7 @@ Masquerading as a higher-ranked Suiton technique, this creates a light bank of f
  - Area: 25
  - Speed: 8
  - Seal Speed: 7
+ - Tags: Targeted Area of Effect
 
 Effects: Anyone within the area when it is first used defends against this technique (the user may exclude allies if they wish), and on a failure takes a -4 Visibility Penalty. More insidiously, so long as they remain within the mist they have a -2 penalty to all their defensive genjutsu rolls. People who pass their genjutsu roll still see the mist, but for what it really is: too thin and wispy to actually be an impediment, taking none of the effects.  The mist cloud moves with its user.
 
@@ -90,11 +91,13 @@ This illusion causes any afflicted by it to see a massive fireball forming above
 
  - Chakra: 15
  - Range: 25
- - Area: 15
+ - Area: 25
  - Speed: 8
  - Seal Speed: 10
 
-Effects: If someone was affected by the genjutsu, they have until 25 IC have passed to leave this technique's area. If they don't, they suffer a Stun 15. This genjutsu ended before the time is up will prevent the stun; once they are stunned, the illusion is already over and so cannot be 'broken' to end the stun prematurely. This is treated as a targeted genjutsu, and is applied as a normally single-target genjutsu, compatible with Illusion Multi-Targeting as normal for that ability; despite its listed Area for escape reasons, it is a hallucinatory fireball, not an illusory one, and so it only exists in the minds of those specifically targeted by the genjutsu, with each person affected getting their own Area centered on them to escape from or choose not to.
+Effects: The target of this genjutsu has 25 IC to move 25 yards away from the location they begin at when affected by this genjutsu (i.e., an Area 25 centerd on themselves); if they don't, they suffer a Stun 15. Ending this genjutsu before the timer of 25 IC has passed causes them to avoid the Stun, but once Stunned, the genjutsu itself has ended and they can not be cleared of the Stun by any means which would remove the genjutsu.
+
+Using the Multi-Targeting ability with this genjutsu applies the Area of the 'fireball' to each victim individually (based on their own positions), but each target need only move out of the area of their *own* fireball.
 
 #### --( Shinkirou no Jutsu - Mirage Technique )--
 This creates an illusion that can fool a person's sight, hearing, or smell--or, with more effort, two of those, or all three. These can be dynamic (such as a flickering fire or a fluttering curtain), but they can't actually interact with anything.

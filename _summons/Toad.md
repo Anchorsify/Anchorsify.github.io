@@ -115,9 +115,9 @@ It is unclear where this technique earned its name, as using it to destroy a foo
  - Speed: X/2, Delay X/3
  - Seal Speed: 50
 
-Effects: This may only be used if a Kyodai is available to be summoned. It replaces the normal Speed and Seal Speed for doing so.
+Effects: This may only be used if a Kyodai is available to be summoned. It replaces the normal Speed and Seal Speed for doing so. You may not abort this technique, despite its Delay.
 
-A Kyodai is summoned X*5 yards above the target (make the Chakra Exhaustion roll for the summon after Food Cart Destroyer's); from there gravity does its thing, and the toad falls. This technique has a damage bonus of 0, but anyone who is still in its area when the Delay ends is automatically hit. The summoned toad takes no damage, and may act after they hit the ground.
+A Kyodai is summoned X*5 yards above the target (make the Chakra Exhaustion roll for the summon after Food Cart Destroyer's); from there gravity does its thing, and the toad falls. This technique has a damage bonus of 0, but anyone who is still in its area when the Delay ends can not defend against it, and is hit automatically. The summoned toad takes no damage, and may act after they hit the ground.
 
 ## Summons
 ##### Guardian

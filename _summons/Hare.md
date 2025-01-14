@@ -54,7 +54,7 @@ The pendant's design looks something like this.
 
 Effects: Anyone attacking, hindering, or taking other hostile actions against you has a -15 penalty to any associated Stamina and Chakra Exhaustion rolls, and a -5 penalty to their Accuracy and other offensive rolls against you. Additionally, during this technique's duration you gain 100 DR.
 
-However, you cannot attack anyone who hasn't attacked you first or take other hostile actions that aren't in self defense. You may not hide (via Stealth) unless it's during battle. You cannot enter any buildings, camps, or other guarded areas without first making your presence known to the owners, occupants, or guards (as appropriate) and receiving their permission.
+However, you cannot attack anyone who hasn't attacked you first or take other hostile actions that aren't in self defense (including Taking the Hit for someone else). You may not hide (via Stealth) unless it's during battle. You cannot enter any buildings, camps, or other guarded areas without first making your presence known to the owners, occupants, or guards (as appropriate) and receiving their permission.
 
 If you break the restrictions of this technique, the wooden pendant shatters and its effects end immediately. When this occurs you automatically advance two Fatigue levels; this increase in Fatigue cannot be avoided.
 
@@ -88,9 +88,11 @@ After the technique is completed, the entire affected area somehow seems lighter
 
 Effects: Taking any sort of offensive action within the area is prohibited, as is deliberately launching attacks into it. Offensive actions include all attacks and targeted genjutsu, whether or not they deal damage. Setting explosives and modifying the terrain for combat (for example, the A-rank Yomi Numa, or Katon explosive clouds) are offensive actions. However, performing medical jutsu to heal, meditating or seals that cannot be used offensively (CANNOT, not are not) are not.
 
-Breaking this rule carries a harsh penalty: Anyone who does so has a -10 penalty to all their offensive actions, including Accuracy, genjutsu, Stealth and Awareness rolls, Toxicology and Chakra Control rolls to inflict status effects, and parry rolls made as part of 'counter-attack' moves (such as Halting Blow). This lasts for as long as they're in the sanctuary field, and one hour afterwards.
+Breaking this rule carries a harsh penalty: Anyone who does so has a -10 penalty to their Accuracy, d20 rolls, offensive and defensive rolls (including grapple checks), and fatigue rolls. This penalty lasts for as long as they are in the Sanctuary, and one hour afterwards.
 
-Once a person has violated the sanctuary's restrictions, they can be attacked and otherwise subjected to offensive actions with impunity; anyone attacking them is not breaking the rules of the sanctuary. Anybody who aids them, however, such as taking a hit for them or giving them supplies midbattle, is similarly affected if they do so within the field. This lasts X/4 hours, to a maximum of 12. The summoner may not choose to end it early, and is subject to the same restrictions and penalties as anyone else.
+Once a person has violated the sanctuary's restrictions, they can be attacked and otherwise subjected to offensive actions with impunity; anyone attacking them is not breaking the rules of the sanctuary. Anybody who aids them, however, such as taking a hit for them or giving them supplies midbattle, is similarly affected if they do so within the field. Likewise, once you leave the Sanctuary's area, if you commit any sort of offensive action, you can not benefit from any of its protections for an hour.
+
+The field lasts for X/4 hours, to a maximum of 12. The summoner may not choose to end it early, and is subject to the same restrictions and penalties as anyone else.
 
 ## Summons
 ##### Jade Rabbit
@@ -257,11 +259,14 @@ The mind of this rabbit is very singular. It is immune to Stun, Genjutsu, Immobi
 **Elusive Target**  
 The rabbit is small and has the luck of the moon! It has access to the Ninjutsu, Kawarimi. It also takes no damage from AoE attacks where it isn't the sole target.
 
+**Caerbannog Killer**
+Whenever Satsu no Usagi misses, it gains +2 Accuracy for the remainder of the battle; whenever Satsu no Usagi hits, it gains +2d20 and +25% wounding for the remainder of the battle.
+
 ###### 4. Abilities
 Satsu no Usagi can use the Dodge and Move actions without spending any of its Summoner's AP.
 
-**Sharp Teeth** *(Speed 8, AP 10)*  
-And he can leap about! When you use this attack, he can move up to 40 yards. This does 10d20 damage, and after you calculate it fully out, you double the total. In addition, it counts 100% higher for the purposes of wounding. It inflicts Slashing wounds and if it ever inflicts a critical head, roll 1d20. On a 20, the opponent's head comes clean off and they die.
+**Sharp Teeth** *(Speed 10)*  
+And he can leap about! When you use this attack, he can move up to 50 yards. This does 10d20 damage, and after you calculate it fully out, you double the total. In addition, it counts 100% higher for the purposes of wounding. It inflicts Slashing wounds and if it ever inflicts a critical head, roll 1d20. On a 20, the opponent's head comes clean off and they die.
 
 ###### 5. Terms of Contract
 Summoning this creature is actually considered a Breach of Contract for the hare contract itself; the Murder Rabbit can still be summoned during the regular Breach of Contract period, which does not count as a 'new' offense (the rest of the contract will be usable again after the three OOC week period from the initial summoning of the Murder Rabbit). Once the Rabbit has been summoned it cannot be dismissed until it has taken at least one human life.

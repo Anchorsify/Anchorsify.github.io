@@ -277,7 +277,7 @@ Four pillars of rock, each about twenty feet tall, are summoned around an enemy 
  - Area: 25 x 25 square
  - Speed: 20
  - Seal Speed: 20
- - Tags: Area of Effect, Energy, Environmental
+ - Tags: Energy, Area of Effect, Environmental
 
 Effects: This technique applies Paralysis 4, Shock 4, and Immobilize 4 to everyone within its area, and every IC someone remains in the area they take 4 damage which bypasses all reductions. This damage does not benefit from things which increase the damage you deal, or the technique's Speed or your NDB, and ends immediately upon leaving the area (as do the status effects).  You are immune to its effects.
 
@@ -331,8 +331,8 @@ Effects: When you use this technique, you may choose to lower its Chakra cost by
 #### --( Tenchu - Wrath of Heaven )--
 This technique earns its name. As the handseals are completed electricity will begin to arc along the user's body and wisps of dark smoke will rise from them, a result of the overwhelming, uncontainable amounts of chakra this jutsu requires. That chakra is converted directly into electricity and released in a blast every bit as devastatingly powerful as a genuine bolt of lightning.
 
- - Chakra: 60
- - Damage: 5d8 * 5d6 * 2d4.takeHighest(1)
+ - Chakra: 70
+ - Damage: 6d8 * 6d6 * 2d4.takeHighest(1)
  - Range: 100
  - Area: 10
  - Speed: 30

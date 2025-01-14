@@ -55,7 +55,7 @@ For every one Swarm Size, the Swarm has effectively CHA in Vitality. They do not
  - They are immune to Burns, Bleeds, and Poisons.
  - They are immune to Stuns, but are Stunned anytime you are.
  - If the Aburame is ever Paralyzed or Shocked, their Swarm(s) are as well (but not vice-versa).
- - They are immune to all effects based on the terrain, Grapples, Wounds, and ignore Immobilization effects which work by restraining the target.
+ - They are immune to all effects based on the terrain (aka 'Ground' effects), Grapples, Wounds, and ignore Immobilization effects which work by restraining the target.
  - For every 5 Ignite inflicted on the Swarm, they lose one Swarm Size immediately, but do not take damage over time from it (round down).
  - Taijutsu which are not AoE do half damage to the swarm, and all Small weapons and Arrows reduce the Swarm Size by 1 less than they would normally (to a minimum of 0).
  - They are immune to Genjutsu, but any Genjutsu affecting the Aburame affects their Swarms accordingly.
@@ -147,6 +147,7 @@ The Aburame commands their Kikaichuu to disperse over a wide area of the battlef
  - Area: X * 5
  - Seal Speed: 12
  - Requires: Deployed X Swarm Size
+ - Tags: Environmental
 
 Effects:  You create a cloud of Kikaichuu that turn into an Environmental effect, that can be used to do one of several things. You pick one from the list below when you first use this jutsu, and can switch between them as a Speed 4 + X action without repaying the cost, so long as the Upkeep is maintained.
 
@@ -362,7 +363,7 @@ Finally, you are immune to all Visibility Penalties from external sources, such 
 #### --( Jyuuken – Gentle Fist )--
 The Hyuuga’s signature fighting style which makes use of Byakugun's ability to see an opponent's chakra flow alongside graceful taijutsu strikes.  With every contact the Hyuuga injects small bursts of chakra into calculated points within the opponent's chakra flow, sealing them off and damaging internal organs directly.  Save for unique physiology or other abilities, Jyuuken is notoriously difficult to defend against once contact is made.
 
- - Type: Unarmed Taijutsu, Rank E
+ - Type: Taijutsu, Rank E
  - Chakra: 5
  - Damage: (CHA/10)d4
  - Special: Opener
@@ -431,7 +432,7 @@ You can also use this Jutsu to end any effect which restrains you externally, fr
 #### --( Hakke Rokujuyon Shou – Eight Trigrams Sixty-Four Palms )--
 A devastating series of Jyuuken strikes carried out in rapid succession, sealing many of an opponent’s Tenketsu in the process. The strikes are made in increasing powers of two: two strikes, followed by another two, then four, then eight, then sixteen, then thirty-two, for a total of sixty-four strikes. The damage to internal organs and chakra flow is often so debilitating that the victim can no longer stand.
 
- - Type: Unarmed Taijutsu, Rank C
+ - Type: Combo Taijutsu, Rank C
  - Stamina: 20
  - Damage: (CHA/4+12)d4
  - Speed: 16
@@ -444,7 +445,7 @@ A devastating series of Jyuuken strikes carried out in rapid succession, sealing
 #### --( Hakke Hyaku Nijuuhachi Shou – Eight Trigrams One Hundred Twenty-Eight Palms )--
 The ultimate and most lethal usage of Jyuuken, and the final development of Hakke Rokujuyon Shou.  The Hyuuga’s speed and chakra control have reached truly amazing levels, adding a seventh series of strikes which doubles the number of strikes made from sixty-four to one hundred twenty-eight.
 
- - Type: Unarmed Taijutsu, Rank B
+ - Type: Combo Taijutsu, Rank B
  - Stamina: 35
  - Damage: (CHA/2 + 28)d4
  - Special: Finisher
@@ -528,11 +529,11 @@ Tsuga twice over.  Both the Inuzuka and their transformed Ninken coordinate thei
  - Special: Sudden Attack can not be used with this attack
  - Tags: Slashing
 
-Effects: This attack has two accuracies your target must defend against: One which you roll (as 1d20+Accuracy bonuses), and the other being your regular Taijutsu Accuracy TN.  The higher of the two becomes the Accuracy that determines if your technique hits, while the lower increases this technique’s damage by +1d8 per point it beats your opponent’s Defense by, if any.
+Effects: This attack has two accuracies your target must defend against: One which you roll (as 1d20+Accuracy bonuses), and the other being your regular Taijutsu Accuracy TN.  The higher of the two becomes the Accuracy that determines if your technique hits (and how many times it hits), while the lower increases this technique’s damage by +1d6 per point it beats your opponent’s Defense by, if any, to a maximum of an additional (STR/10)d6.
 
 This jutsu functions otherwise like Tsuga for how you determine your movement (and how you must move the technique’s full Range), and any bonuses from consecutive uses of Tsuga apply to Gatsuga as well (and vice versa), and accordingly how you determine your bonus (if any) to Accuracy and penalty to Damage based on how far you are from your target. Like Tsuga, Partial Success does not apply to this attack, and you combine its damage rolls to determine what, if any, Wounds are inflicted, as well as increased Wounding benefits.
 
-Gatsuga’s damage differs, however: You apply only one-fifth of your PDB to its damage, but roll damage an additional time for every point you beat your opponent’s defense by, to a maximum of five damage rolls if you beat their Defense by 5. Like Tsuga, if your opponent elects to Defend in a way that does not have them roll, you make the maximum amount of damage rolls (but gain no extra d8’s from beating their defensive roll), and Block reduces this technique’s damage 10% less per damage roll (40% for the second, 30% for the third, etc).
+Gatsuga’s damage differs, however: You apply only one-fifth of your PDB to its damage, but roll damage an additional time for every two points you beat your opponent’s defense by, to a maximum of five damage rolls if you beat their Defense by 8. Like Tsuga, if your opponent elects to Defend in a way that does not have them roll, you make the maximum amount of damage rolls (but gain no extra d6’s from beating their defensive roll), and Block reduces this technique’s damage 5% less per damage roll (40% for the second, 30% for the third, etc).
 
 #### --( Inuzuka-Ryu: Jinju Konbi Henge: Sotoro – Inuzuka-Style: Human Beast Combination Technique: Double-Headed Wolf )--
 This fearsome transformation technique combines shinobi and ninken into a massive two-headed version of their Ninken. While being in this form has its obvious benefits, this technique is most valued as an essential preparation for the Inuzuka's most devastating form of Tsuga.
@@ -553,17 +554,18 @@ Tsuga, but in Sotoro form, where an Inuzuka’s speed (and tail!) can be used to
 
  - Type: Taijutsu, Rank B
  - Stamina: 36
- - Damage: (STR/8)d12
+ - Damage: (STR/10)d12
  - Range: AGI/5 + Special
  - Speed: 20
  - Requires: Inuzuka-Ryu: Jinju Konbi Henge: Sotoro be active
  - Special: Sudden Attack can not be used with this attack
  - Tags: Slashing
 
-Effects: When you use this attack, first make an opposed roll of your Survival vs their Stealth: You gain +1d12 damage per point you beat their roll, or they get +1 to their following Defensive roll per point they beat your roll by, as appropriate.
+Effects: When you use this attack, first make an opposed roll of your Survival vs their Stealth: If you succeed, you gain +1d12 damage per point you beat their Stealth by, to a maximum of (STR/10)d12 extra dice.  If they succeed, they get +1 to their defensive roll per point they succeeded by (minimum 1, on a tie).
+
 This attack functions otherwise like Tsuga for how you determine your movement (and how you must move the technique’s full Range), and accordingly how you determine your bonus (if any) to Accuracy and penalty to Damage based on how far you are from your target. 
 
-Garouga’s damage differs, however: You apply only one-fifth of your PDB to its damage, but roll damage an additional time for every point you beat your opponent’s defense by, to a maximum of ten damage rolls if you beat their Defense by 10. Like Tsuga, if your opponent elects to Defend in a way that does not have them roll, you make the maximum amount of damage rolls (but gain no extra d12’s from beating their defensive roll), and Block reduces this technique’s damage 10% less per damage roll (40% for the second, 30% for the third, etc).  Partial Success does not apply to this attack, and for Wounding purposes, you add up the damage you inflicted to them from all rolls (after any relevant reductions together), and deal three wounds (one Piercing, one Blunt, one Slashing) to them of one severity lower (to a minimum of Minor) than normal.
+Garouga’s damage differs, however: You apply only one-fifth of your PDB to its damage, but roll damage an additional time for every point you beat your opponent’s defense by, to a maximum of ten damage rolls if you beat their Defense by 10. Like Tsuga, if your opponent elects to Defend in a way that does not have them roll, you make the maximum amount of damage rolls (but gain no extra damage from the opposed Skill roll), and Block reduces this technique’s damage 5% less per damage roll (45% for the second, 40% for the third, etc).  Partial Success does not apply to this attack, and for Wounding purposes, you add up the damage you inflicted to them from all rolls to determine wounds, and deal three wounds (one Piercing, one Blunt, one Slashing) to them of one severity lower than normal, to a minimum of Minor.
 
 #### -=[ Ninken ]=-
 Your ninken, or ninja dog (though some have wolves), is more than just an extra weapon in combat: it’s a living creature with its own capabilities.  However, a ninken is only as good as its master, so its advancement is inextricably linked to yours: Your Ninken’s bonuses are determined by your XP.
@@ -611,13 +613,13 @@ The Akimichi, Nara, and Yamanaka clan have always enjoyed a special relationship
 The Nara extends their shadow and links it to another person (or their shadow) and links themselves to a target, which gives the Nara total control over their target’s movement and actions for as long as the connection can be maintained.  The control requires a lot of chakra, however, and targets can eventually break free with sustained resistance.
 
  - Type: Ninjutsu, Rank D
- - Chakra: 12 + X * 4
- - Range: CHA/8
+ - Chakra: 10 + X * 2 + Y * 5
+ - Range: 5 + CHA/10
  - Upkeep: 5
  - Speed: 15
  - Seal Speed: 6
 
-Effects: X is the number of times you’ve previously used this jutsu in the present battle. You gain control over your target’s actions, and while you maintain this jutsu’s Upkeep, they can take no action which requires physical movement or control of their own body (including, and up to, being unable to Rest), save for talking; however, your target can try to resist your control.
+Effects: Y is the number of times you’ve previously used this jutsu in the present battle. You gain control over your target’s actions, and while you maintain this jutsu’s Upkeep, they can take no action which requires physical movement or control of their own body (including, and up to, being unable to Rest), save for talking; however, your target can try to resist your control.
 
 While caught, the following effects apply:
  - They can not move, however if you move, they move in a way that is mirrored to you; if you move toward them, they move toward you.  If you turn left, they turn right, etc. However, if you move (or are forced to move) away from them beyond double this jutsu’s range, your shadow is severed from them and this jutsu ends.
@@ -625,8 +627,8 @@ While caught, the following effects apply:
  - If you attack them, they use the same attack against you, though you can use a Large weapon to attack them without being hit if they have a non-Large weapon (or none), and any non-Small weapon to attack without being hit if they have a Small weapon (or none).  You can perform any Ninjutsu or Genjutsu you know against them, though if they know the same technique, they perform it as well, directed at you.
  - You can also attack someone else and make them attack the same target as you, at the same time, with a -3 to their Accuracy.
  - Anytime you make them perform an action, your IC is advanced by the appropriate amount, and theirs is not.
- - Anytime someone you’re controlling is attacked, you can partially relax the technique long enough for them to defend themselves, or maintain control and force them into taking no defensive action in response.  If you choose the latter option, they immediately get a roll to attempt to break free, with a +5 bonus.  Success means they are freed from this Jutsu and can defend themselves from the attack aimed at them, though it is considered a Surprise Attack against them.
- - Anyone caught by this technique can, as a Speed 10, Stamina 5 action, attempt to break free as a Grapple Check, rolling as the defender in a Grapple.  You use your NDB in place of PDB, with a +(8 - X * 4) modifier.  Every attempt by someone caught to break free grants a cumulative +1 bonus, which is reset whenever Kagemane ends.
+ - Anytime someone you’re controlling is attacked, you can partially relax the technique long enough for them to defend themselves at a -2 to their defensive roll, or hold them in place as they are attacked: while they still get to defend against the attack, they instead take a -10 to their defensive roll, and have block's effectiveness reduced by 50%, in addition to being anchored to the spot, unable to move (As it relates to area of effect penalties). If held in place, after the attack is resolved they automatically break free of this technique.
+ - Anyone caught by this technique can, as a Speed 10, Stamina 5 action, attempt to break free as a Grapple Check, rolling as the defender in a Grapple.  You use your NDB in place of PDB, with a +X bonus; X has a maximum of your NDB rounded down.  Every attempt by someone caught to break free grants a cumulative +1 bonus, which is reset whenever Kagemane ends.
 
 #### --( Kagemane Shuriken no Jutsu - Shadow Imitation Shuriken Technique )--
 By infusing a weapon with their Chakra before throwing it, a Nara can take control of the weapon’s shadow and manipulate it from a distance, allowing them to attach the weapon’s shadow to an enemy’s, who is then anchored to the weapon.  While not very useful in melee, it makes for excellent battlefield control that can turn a failed attack into a window of opportunity.
@@ -638,7 +640,7 @@ By infusing a weapon with their Chakra before throwing it, a Nara can take contr
 
 Effects: This jutsu can be used as interrupt in response to missing with a thrown ranged weapon attack (or multi-throw); compare your Ninjutsu Accuracy with a +4 bonus against the defense that you just missed.  If you then hit, you deal no damage or effects based on the original attack (you still missed), but you apply a -2 Immobilization Penalty to your intended target as you attach the thrown weapon’s shadow to theirs.
 
-They are then anchored to the thrown weapon (which is assumed to have landed at their feet), and to free themselves (and end the Immobilization) they must wrestle free as a Speed 6 action, rolling a Grapple Check (as the defender) against you (as the attacker), jwith you using your NDB in place of PDB.  They take a penalty to their grapple roll equal to the Immobility penalty from this technique. A successful grapple check by someone anchored by this technique completely clears their Immobility penalty. Alternatively, they can just move far enough away from the anchor point that the shadow breaks, reducing the penalty by 1 every ten yards away from the anchor point they move.
+They are then anchored to the thrown weapon (which is assumed to have landed at their feet), and to free themselves (and end the Immobilization) they must wrestle free as a Speed 6 action, rolling a Grapple Check (as the defender) against you (as the attacker), with you using your NDB in place of PDB, with a bonus to your NDB of however much you hit by.  They take a penalty to their grapple roll equal to the Immobility penalty from this technique. A successful grapple check by someone anchored by this technique completely clears their Immobility penalty. Alternatively, they can just move far enough away from the anchor point that the shadow breaks, reducing the penalty by 1 every ten yards away from the anchor point they move.
 
 If used on a target already anchored by this jutsu’s effect, you can choose to make use of it on someone even if you hit them with a thrown ranged weapon attack, and the Immobility Penalty stacks with itself, to a maximum of -6.
 
@@ -654,6 +656,10 @@ Using the Nara’s connection to someone else’s shadow, they use their shadow 
 Effects:  This technique does not require an Accuracy roll, and its target does not get any defense against it, nor does it provoke a free escape roll from Kagemane.  Consecutive use of this Jutsu (i.e., taking no non-interrupt actions between uses) reduces its Chakra Cost and Speed by 1, to a minimum of Chakra 10 and Speed 7.
 
 Each time you use this Jutsu, roll 1d100+CHA/4+Any % bonuses to Wounds you might have as a flat addition. (i.e., Killer’s +20% wounding would turn into a flat +20 to the roll).  Rolling higher than 100 inflicts a Minor Blunt Head Wound; Higher than 200 a Major Blunt Head Wound/etc. You get a +10 to the roll for each consecutive use after the first.
+
+Every consecutive use of this jutsu (With no other non-interrupt actions between uses), you gain 10% of the previous roll(s) added to your roll, to a minimum of +10 per consecutive use.  (e.g., If you rolled 89 the first usage, you inflict no wound; you would add +10 to your second roll from the minimum 10.  If you then got 159, your third Shadow-Neck Bind would have 10+15 = 25 added to its roll.)
+
+Alternatively to attempting to wound someone with this jutsu, you can simply apply Suffocation 1 to your target each time it is used; the Suffocation applied from this technique does not end until Kagemane does.
 
 Take the Hit can not be used against this attack.
 
@@ -679,7 +685,7 @@ The Nara materializes shadows into several thin, needle-tipped tendrils and atta
  - Seal Speed: 8
  - Special: X Immobilization Penalty
 
-Effects:  X has a maximum of 6. This technique deals Piercing damage. You may use Kagemane on anyone affected by Shadow Sewing’s Immobilization Penalty, ending said penalty and automatically gaining control of them via Kagemane, without requiring an Accuracy or allowing a defensive interrupt response, though you still pay Kagemane’s cost and take its Upkeep, and taking control of someone this way counts as a ‘use’ in determining Kagemane’s Chakra cost and how easy it is to break out of.
+Effects:  X has a maximum of 6. This technique deals Piercing damage. You may use Kagemane on anyone affected by your own Shadow Sewing’s Immobilization Penalty, ending said penalty and automatically gaining control of them via Kagemane, without requiring an Accuracy or allowing a defensive interrupt response, though you still pay Kagemane’s cost and take its Upkeep, and taking control of someone this way counts as a ‘use’ in determining Kagemane’s Chakra cost and how easy it is to break out of.
 
 #### --( Kageyose no Jutsu - Shadow Endgame Technique )--
 While similar in concept to Shadow Sewing, as the Nara is materializing shadows in typically the same thin, needle-tipped manner, this jutsu allows for much more precise control from the Nara and accordingly is more difficult to perform, allowing for such things as slipping their shadow tendrils through keyholes, with enough strength to pick up and manipulate objects on the battlefield.
@@ -712,7 +718,7 @@ The Senju bloodline, once famed for their limitless talents, have fallen far, bu
 
 Any Suiton or Doton technique can be converted to Mokuton as a Chakra +5, Speed +0 link, with the following changes:
 - Suiton which add or require gallons of water do not do so, however certain jutsu which gain an additional effect from using up water can still be used (if there is enough gallons to do so), if you wish.
-- Suiton techniques which normally apply visibility penalties to any area instead apply Immobilization penalties with a severity equal to half (rounded down) that of the normal visibility penalty, and are considered terrain-based effects (rather than clouds).
+- Suiton techniques which normally apply visibility penalties to any area instead apply Immobilization penalties with a severity equal to half (rounded down) that of the normal visibility penalty, and are considered 'Ground' tagged effects (rather than clouds).
 - Any applied immobilization penalties that normally fade over time take twice as long to fade.
 - All Mokuton techniques can distinguish between allies and enemies and allow you to pick who they will affect. In the case of environmental effects (or those with an upkeep, or which affect an area), you can only distinguish allies and enemies so long as you maintain its Upkeep, and once you stop doing so, it affects everyone equally (including you).
 - The Upkeep of Mokuton techniques are reduced by CHA/30, to a minimum of half its original value.
@@ -726,6 +732,7 @@ This technique takes advantage of mokuton's ability to accelerate plant growth b
 - Type: Mokuton Ninjutsu, Rank C
 - Cost: 1 Willpower per clone
 - Speed: 10, +3 per clone
+- Tags: Clone
 
 Effects: These function like regular bunshin, but have CHA*2 HP, and your attributes. They do not suffer wounds and you may only ever have up to three at once in existence. They may dodge, parry, and perform any other action you normally could, by spending 1 AP per 2 Speed of that action; however, after reaching Fatigue 3 they decay into lifeless wood pulp and fall apart. Wood clones may not take actions with a chakra or stamina cost greater than 18+(RES for Taijutsu, or CHA for Ninjutsu or Genjutsu)/10.
 
@@ -740,6 +747,7 @@ After completing the handseals, you place your hands on the ground and channel y
 - Area: Up to 20 yard x 20 yard x 20 yard cube
 - Speed: 16
 - Seal Speed: 20
+- Tags: Area of Effect
 
 Effects: This is the Mokuton 'version' of the Water Prison and/or Water Drowning techniques, which cannot be directly converted into Mokuton themselves.
 
@@ -754,8 +762,9 @@ This technique uses chakra to cause trees and tree roots to grow rapidly, bursti
 - Area: X*2
 - Speed: 8
 - Seal Speed: 16
+- Tags: Area of Effect
 
-Effects: This overwrites any terrain-based effects on the area it's used on. By changing the cost to 5 + X*2, it can be used to create a one-story building. The complexity of this building is determined by your Chakra Control.
+Effects: This overwrites any ground effects on the area it's used on. By changing the cost to 5 + X*2, it can be used to create a one-story building. The complexity of this building is determined by your Chakra Control.
 
 At 10 Chakra Control or less, it's more like a crude bundle of tree trunks and branches that will at least keep most of the rain out. From 11 - 20, it's about as well-built as a log cabin, with up to three rooms. At 21 - 30, it could actually pass for a real building, aside from the lack of anything made of metal. At 31+ Chakra Control, you can add a second story to the building.
 
