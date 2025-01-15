@@ -179,10 +179,12 @@ The medic-nin focuses their chakra on a specific part of the body and, using wha
 
 - Chakra: 10 + 10 * X
 - Range: Touch
-- Speed: 5 + X * 5
+- Speed: 5 + X * 5,
 - Requires: Mystical Palm
 
-Effects: This completely cures one wound the recipient is suffering from. X is 1 per severity of the wound (1 for minor, 4 for critical). However, for the next (X - 1) * 4 weeks, the healed individual's Fatigue is considered 1 higher for all purposes. Multiple uses of this stack. For example, say you had a Critical wound and a Major wound cured on the same day. You would be perpetually at Fatigue 2 for the next 2 * 4 = 8 OOC days. If you had another two Severe wounds healed this way in that time, you'd be at Fatigue 4 until the after-effects started wearing off. Although most experienced medics know this technique, they are typically reluctant to cure every individual who injures themselves in training or on a mission. Most medics believe that even if the person doesn't need to learn a lesson for their mistakes, it's better to heal naturally (with a little bit of help when necessary) than to send a weakened, but technically uninjured, ninja back into danger.
+Effects: This completely cures one wound the recipient is suffering from. X is 1 per severity of the wound (1 for minor, 4 for critical). However, for the next X * 4 weeks, the healed individual's Fatigue is considered 1 higher for all purposes; in the case of Critical wounds, their Fatigue is considered 2 higher.  Multiple uses of this stack.
+
+For example, say you had a Critical wound and a Major wound cured on the same day. You would be perpetually at Fatigue 3 for the next 2 * 4 = 8 OOC days, and at Fatigue 2 for another 8 days after that; If you had another two Severe wounds healed this way in that time, you'd be at Fatigue 5 until the after-effects started wearing off.  Although most experienced medic-nin know this technique, they are typically reluctant to cure every individual who injures themselves in training or on a mission. Most medics believe that even if the person doesn't need to learn a lesson for their mistakes, it's better to heal naturally (with a little bit of help when necessary) than to send a weakened, but technically uninjured, ninja back into danger.
 
 #### --( Mikiri Saisei - Forsaken Rebirth )--
 A powerful, but potentially dangerous, technique, this allows the medic to transform a portion of their 'life energy' to another individual. Originally, this had no limitations; a medic could easily kill themselves bring an ally back from the brink of death, which earned the technique its name. Over time, such extreme measures became less necessary (medics capable of using it were, after all, generally more valuable to the village than anyone they might be healing), and the version of the technique taught to medical nin was altered to prevent that.

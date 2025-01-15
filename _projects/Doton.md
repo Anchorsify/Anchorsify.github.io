@@ -285,7 +285,6 @@ This technique allows you to blend into rocks and remain hidden. Even the textur
  - Upkeep: 12
  - Speed: 22
  - Seal Speed: 28
- - Tags: Preparation
 
 Effects: You can use this technique to blend into rocky terrain—in fact, it requires rocky terrain to work (the inside of a cave, a mountain path, the debris from a destroyed stone wall, or a large boulder all work, but notably an *intact* stone wall would not).  When used, you hide with a +10 bonus to your Stealth roll and begin at level 3 Stealth against anyone who does not have reason to suspect you are there (i.e., they are not seeing you use the technique, and it is not being done in combat, either of which causes this to automatically fail). While maintaining the technique, you cannot move (blinking and breathing are okay).
 
