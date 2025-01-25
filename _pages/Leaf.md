@@ -812,15 +812,15 @@ You may obtain Magen: Kyouten Chiten and Senchigan. Both are learned as B-rank t
 #### --( Dousatsugan - Eye of Insight )--
 *Requires: Stage 1 Sharingan*
 
-You can see the flow of chakra. This gives you a +4 bonus to defense rolls against Genjutsu. More impressively, it allows you to copy any Taijutsu technique you witness being performed, along with any Ninjutsu or Genjutsu which use handseals.
+You can see the flow of chakra. This gives you a +4 bonus to defense rolls against genjutsu. More impressively, it allows you to copy any taijutsu technique you witness being performed, along with any ninjutsu or genjutsu which use handseals.
 
-This technique’s greatest limitation is its user. You can only copy a technique you meet the requirements to learn: you must be able to learn a technique of that rank, and if it has any skill requirements you must meet those as well. Prerequisites of knowing other techniques, however, do not need to be met. You can’t learn Elemental Ninjutsu you don’t have the appropriate Aptitude for, and you must have the appropriate Talent to copy a Sealing or Medical Ninjutsu technique.
+This technique's greatest limitation is its user. You must meet all skill requirements for the technique, and can't copy elemental ninjutsu you don't have the appropriate Elemental Aptitude for; Sealing and Medical techniques both require access to those types of jutsu in order for you to copy them.
 
-You automatically learn any valid techniques you see, and can use them for the remainder of the day. To keep them permanently, you must immediately (i.e., when you see and copy it) either pay half the Jutsu's normal XP cost to learn it, or immediately go into 'XP debt' an equivalent amount. You can only have one jutsu learned via XP debt at a time, and must pay it off with any XP you earn prior to spending XP on anything else.
+This does have one advantage over learning techniques the "old-fashioned" way: you can copy techniques one rank above what you could normally learn (which may vary by category).
 
-If you have other reductions to learning Jutsu, they apply multiplicatively: That is to say, a Genius, Jutsu Master Uchiha learning permanently a B-rank they copied technique would pay ( 18 * 50% * 50% * 75% ) = 3.3 = 4 XP, rounding up the final cost.
+You automatically learn any valid techniques you see, and can use them for the remainder of the day. To keep them permanently, you must the normal XP cost to learn the technique in question. You may go into 'XP debt' learning techniques this way, but you can only have one jutsu learned via XP debt at a time, and must pay it off before spending XP on anything else.
 
-You may not copy custom or clan jutsu, as those are tailored too specifically to either the individual or clan in question.
+You may not copy custom or clan jutsu, as those are tailored too specifically to either the individual or the clan in question.
 
 #### --( Saimingan - Eye of Hypnotism )--
 *Requires: Stage 1 Sharingan*
