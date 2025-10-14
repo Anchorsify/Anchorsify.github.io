@@ -164,12 +164,11 @@ collections:
   summons:
     output: true
     permalink: /summons/:path/
-
   DBZ:
     defaults:
       layout: post
     output: true
-    permalink: /DBZE/
+    permalink: /DBZE/:path/
   
 
 announcements:
