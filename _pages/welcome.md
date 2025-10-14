@@ -1,6 +1,6 @@
 ---
-layout: page
-title: DBZE
+layout: about
+title: Naruto World
 permalink: /
 
 news: true # includes a list of news items
