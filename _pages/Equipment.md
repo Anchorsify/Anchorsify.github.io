@@ -555,6 +555,8 @@ As a Speed 10 action you can apply up to 1 + Toxicology/10 doses worth of poison
 
 etc. Each time the weapon hits something, it loses one dose. If you apply a new poison to the weapon (even another dose of the same type), any remaining poison of the previous dose is wiped away.
 
+While you can apply different poisons to different weapons (such as one dose of poison to four Kunai), you can only utilize one poisoned weapon in any given attack: if you were to multi-throw the kunai, only one of the poisoned weapons would be usable. 
+
 #### Types of Poison
 Poisons have four possible vectors: Contact, Injury, Inhalation, and Ingestion. Contact poisons can be applied to any blunt or slashing weapon, while Injury poisons can be applied to slashing or piercing weapons.
 
