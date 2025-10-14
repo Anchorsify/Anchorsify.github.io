@@ -1,6 +1,6 @@
 ---
-layout: about
-title: Welcome
+layout: page
+title: DBZE
 permalink: /
 
 news: true # includes a list of news items
