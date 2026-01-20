@@ -189,7 +189,7 @@ You may use an interrupt if the Speed of the interrupt (and in the case of ninju
 
 The total Speed of the interrupt is added to your next action on the IC. Unlike normal Actions, the base Speed of Interrupts can start below 3, and be reduced by half (rounded up), going lower than 3, though in such a case they can never be reduced below Speed 1.
 
-In the rare instance that you perform a defensive interrupt which requires Handseals, which then goes on to become an attack, the total Speed of the interrupt is what is used to determine the Speed of the associated attack, which then has a minimum Speed of 3 (like all attacks). 
+In the rare instance that you perform a defensive interrupt which then goes on to become an attack, the total Speed of the interrupt is what is used to determine the Speed of the associated attack, which then has a minimum Speed of 3 (like all attacks). 
 
 ### Delay
 Delay is not, properly speaking, an action in and of itself, but rather a quality certain actions have. For an example of how this might be written, an attack could have "Speed 12, Delay 4". This means that while it would be declared normally on your turn, its effects would take place 4 initiative counts later. The action may be aborted any time up to the last IC of the delay.
