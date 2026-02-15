@@ -211,7 +211,7 @@ cloud.
  - Requires: 25 Chakra Control, 25 Medicine, 25 Research, 25 Toxicology
  - Tags: Area of Effect, Environmental
 
-Effects: When you create the mist, roll the lower of your Chakra Control, Medicine, Research, or Toxicology skill rolls (all of those factor into creating the poison properly, and a deficiency in any of them will weaken it). This is the TN to avoid being poisoned while in the cloud. Anyone inside the mist when it's created, or who passes through it, must make a Resistance roll against that number, and another one every 10 IC that they spend inside the cloud, as well as one any time they make a Stamina roll inside it. 
+Effects: When you create the mist, roll the second highest of your Chakra Control, Medicine, Research, or Toxicology skill rolls (all of those factor into creating the poison properly, and a deficiency in any of them will weaken it). This is the TN to avoid being poisoned while in the cloud. Anyone inside the mist when it's created, or who passes through it, must make a Resistance roll against that number, and another one every 10 IC that they spend inside the cloud, as well as one any time they make a Stamina roll inside it. 
 
 The cloud is a poison with the following effects:
  - Poison: (Toxicology)/5

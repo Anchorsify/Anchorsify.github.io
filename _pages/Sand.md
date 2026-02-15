@@ -177,13 +177,13 @@ Desert is some of the most difficult terrain to navigate, but the sand foxes do 
 - Type: Ability
 - Base Cost: 5
 - Scale: 5
-- Limit: DEX/20, max 4
+- Limit: DEX/30, max 3
 
 Effects:  You base penalties from Visibility and Immobility status effects as though they are one severity lower than they actually are, per Rank. This does not change the actual severity of the status you are affected by (for things such as Hiding if you are suffering from a -6 or higher Visibility status effect).
 
-Additionally, you reduce the maximum Immobility Penalty you can suffer from by 1 per rank.
+Additionally, you reduce the maximum Immobility Penalty you can suffer from by 2, plus 1 per rank after the first.
 
-The reductions to penalties is applied after determining the maximum Severity you can be affected by (from this ability any other effect which modifies the maximum severity you can suffer from either status effect).
+The reductions to penalties is applied after determining the maximum Severity you can be affected by (from this ability and other effect which modifies the maximum severity you can suffer from either status effect).
 
 #### -=[ Desert Ghosts ]=-
 In the world of shinobi, there is no such thing as hunter and hunted; one is both, at all times. The Juugo Suto are preeminently aware of this. That awareness, and their mentality of never taking their safety for granted, has led to no end of frustration for foreign shinobi trying to gauge the strength and frequency of Suna's patrols.
@@ -446,12 +446,11 @@ Note that while you are manipulating *some* amount of metal, Jiton-converted tec
 
 
 Any Fuuton or Doton technique can be converted to Jiton as a Chakra +5, Speed +0 link, with the following changes:
- - Jiton Techniques can not be reduced below Chakra 10.
  - Blocking reduces the damage of Jiton techniques by 25% less.
  - Non-Upkeep Jiton which are Environmental, or Ground-based, create a number of Gallons of Sand equal to twice their rank: 2 for E, 4 for D, etc.
  - All other Jiton techniques have a Sand cost, in Gallons, according to the Rank of the jutsu: 2 for E, 4 for D, 8 for C, 16 for B, 32 for A.  Jiton with Upkeeps require an amount equal to their Upkeep, or the amount listed for their Rank, whichever is higher.
  - Interrupt Jiton do not create Sand; those of Rank D or below remove all Gallons of Sand used with them from the battlefield, while those of Rank C or higher remove only half the Gallons of Sand used with them.
- - Non-Interrupt Jiton have their base Speed increased by 1 per Rank (E = +1, D = +2, etc, up to A = +5).  Thus, a Jiton Retsudotensho would be treated as a Speed 23 action for all purposes (including its minimum Speed after reductions), rather than 20.
+ - Non-Interrupt Fuuton converted to Jiton have their base Speed increased by 1 per Rank (E = +1, D = +2, etc, up to A = +5).
  - Jiton with Upkeeps grant the Monkasei an amount of Charge equivalent to the Upkeep the Monkasei suffers from while maintaining them; Upkeeps from other sources (such as Chakra Strengthening) do not grant the Monkasei any Charge.
  - Fuuton converted to Jiton may not be used with a fan.
  - If a Jiton has its Seal Speed reduced to 0, then you need not make any handseals for it at all.
@@ -462,13 +461,13 @@ Any Fuuton or Doton technique can be converted to Jiton as a Chakra +5, Speed +0
 This is a status effect, applied to the Monkasei, representing their control over their element–in this case, metal-infused Sand–and the ease of which they can utilize it the more their chakra is infused into it.  While exhausting to maintain control over so much material, Monkasei have learned to turn a weakness into a strength, in the following ways.
 
 All values of X are based on your current Charge status:
- - X/2 to Chakra Exhaustion rolls for Jiton techniques
- - X/4 reduction to the base Speed of all Jiton Interrupt techniques, to a minimum of base Speed 2, ignoring normal limits.
+ - +X/2 to Chakra Exhaustion rolls for Jiton techniques
+ - X/4 reduction to the base Speed of all Jiton Interrupt techniques, to a minimum of base Speed 4, ignoring normal limits.
  - -X/2 Seal Speed
  - -X/2 Delay (if it has any, to a minimum of 0).
  - Damage dealing Jiton have their dice that roll below X/4 rerolled once, up to a maximum of (die size/4).
 
-The last benefit can be confusing!  So, for example, as long as your Charge was 4 or more, your Jiton Wind Cutter would have all of its damage dice rerolled once if they came up as a 1.  This can be done automatically if using the Dice Golem bot by adding ‘ro1’ to the damage dice calculation, meaning Wind Cutter would be typed as the following: (2d4ro1*5+ NDB * Speed).  Higher Charge levels than 4 would never increase Wind Cutter’s ability to reroll its dice above 1, because it is capped at (die size/4), rounding down, thus, 4/4 = 1.
+The last benefit can be confusing!  So, for example, as long as your Charge was 4 or more, your Jiton Wind Cutter would have all of its damage dice rerolled once if they came up as a 1.  This can be done automatically if using the Dice Golem bot by adding ‘ro1’ to the damage dice calculation, meaning Wind Cutter would be typed as the following: (2d4ro1 * 5 + NDB * Speed).  Higher Charge levels than 4 would never increase Wind Cutter’s ability to reroll its dice above 1, because it is capped at (die size/4), rounding down, thus, 4/4 = 1.
 
 #### --( Purification )--
 So long as a Monkasei has access to some sort of solid ground (i.e., is not floating in the middle of the ocean), and has a few handfuls of their choice of metal shavings, a Monkasei can apply pressure to rock, soil, wood, or similar surfaces and materials to, essentially, pulverize them into miniscule splinters and shavings to be made use of.  Most Monkasei prefer to carry around materials already infused with their choice of metal to avoid this process (and to avoid showing its usage off to anyone), but in times of need, Monkasei can gather up more material to make use of their kekkai genkai.  If you ever have to ask whether you can bore through a material with this jutsu, assume the answer is ‘No’.

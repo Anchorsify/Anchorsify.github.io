@@ -31,6 +31,8 @@ You like to study everything you can about people, their actions, their routines
 
 You have a +2 bonus to Awareness rolls, and whenever you take a Rest action you gain 2 AP. Whenever someone uses the same type of attack against you consecutively (Katon into Katon, Weapon Taijutsu into Weapon Taijutsu, etc), you gain 1 AP and get +1 to your defensive roll, up to a maximum of 2 AP and +2 to your defensive roll for being attacked the same way three times in a row. This is tracked separately per attacker.
 
+Lastly, you begin with 5 Ranks in the Research Skill, and gain another Rank in that skill for every 200 XP you have.
+
 You have a -4 penalty to Athletics rolls, as your observational powers can make you hesitate when you take action.
 
 ##### Berserker
@@ -92,12 +94,14 @@ You use STR/12, rather than STR/15, to calculate your Physical Damage Bonus, you
 
 All your movement is reduced by 10%. This applies to your normal movement speed based on AGI, jutsu which allow you to travel (such as Vaulting Leap or Exploding Water Shockwave), and even knockback effects from your enemies.
 
-##### Killer
-You were born to do this. As a ninja, you know all about how the body works. It's a frail bag made of skin, surrounding squishy parts that are easily penetrable. You have either learned the workings of the body, or perhaps you're just a bit more brutal, disregarding the fact that your opponents are living creatures. Whatever way it works out, you are a natural born killer, though sometimes you get a bit caught up in all of it.
+##### Surgeon  
+You are a master of the biological machine, viewing the body as a complex map of pressure points, arteries, and vital nodes. Your deep understanding of anatomy allows you to mend shattered bone with the same ease that you dismantle an opponent’s nervous system. While your hands are capable of miraculous restoration, there is an unsettling detachment in your eyes.  
 
-Your attacks count as doing 20% more damage for the purposes of wounds, but you may choose to lower the severity of any wounds you inflict by one category. You can make Called Shots at no penalty for all non-area of effect attacks. You start with five ranks in the Toxicology skill, and you may replace the Medicine-based limit of the ability Anatomical Knowledge with any other skill of your choice (making it Athletics/5, or Stealth/5, etc).  Alternatively, you can keep it as Medicine, and have its XP cost reduced by half (making it Base 3, Scale 1).
+Your attacks count as doing 20% more damage for the purposes of wounds. You can make Called Shots at no penalty for all non-area of effect attacks. When you make a Called Shot, you may declare a "maximum" wound severity you will inflict, including "none." If you would wound the target beyond that, that wound is reduced by 1 category. Wounds that reduced by this effect use their original wounding tier for purposes of breaking Genjutsu.  
 
-Your insidious nature is not without its faults: You take a -1 on all Defensive rolls.
+You begin with 5 Ranks in the Medicine Skill, and gain another Rank in that skill every 200xp, subject to the normal limits.
+
+Your clinical focus is not without its faults: You take a -1 on all Defensive rolls.
 
 ##### Large
 You are more muscular, taller, wider, or otherwise... bigger, than other people. Perhaps you're broad-shouldered and muscular but within the realm of plausibility, or maybe you're a seven foot tall brute; ninja can be downright abnormal.
@@ -117,7 +121,7 @@ When you have no rerolls left, you take a -2 penalty to Accuracy and d20 rolls.
 ##### Naturalist
 You are at one with nature! Animals like you more, you understand nature like one of them, and your energy is naturally powerful. You also can forage well, notice slight differences in the environment to follow footprints, or even see the handiwork ninja leave with their traps! Perhaps it's because of your attunement, or that you are tempted by your primal urges, either way you are still a great asset.
 
-Your maximum ranks in Survival are increased by 3, and you gain a +3 bonus to detect, disarm, or avoid any part of a trap. Your ninjutsu damage bonus is CHA/12, rather than CHA/15. You have a +1 bonus to your Chakra Control rolls per rank of the jutsu you're using (+1 for E-rank, +2 for D-rank, etc.), and you lower the Seal Speeds of all Ninjutsu you use the same amount (-1 for E-rank, -2 for D-rank, etc). Finally, you can use your ranks in the Survival skill in place of the Research skill to meet any Jutsu prerequisites.
+Your maximum ranks in Survival are increased by 3, and you gain a +3 bonus to detect, disarm, or avoid any part of a trap. Your ninjutsu damage bonus is CHA/12, rather than CHA/15. You have a +1 bonus to your Chakra Control rolls per rank of the jutsu you're using (+1 for E-rank, +2 for D-rank, etc.). Finally, you can use your ranks in the Survival skill in place of the Research skill to meet any Elemental Ninjutsu prerequisites.
 
 However, your maximum Research rank is reduced by 3.
 

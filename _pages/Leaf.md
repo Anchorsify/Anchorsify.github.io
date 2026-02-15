@@ -370,7 +370,7 @@ The Hyuuga’s signature fighting style which makes use of Byakugun's ability to
  - Speed: 8
  - Requires: Byakugan active
 
-Effects: Jyuuken uses half your Ninjutsu Damage Bonus, instead of your Physical Damage Bonus.  Its damage cannot be blocked, ignores armor, and bypasses DR.  Jyuuken’s damage is dealt directly to an opponent’s HP (instead of Vitality).  Every time you hit someone with Jyuuken, you inflict Sealed Tenketsu 1, or increase their existing Sealed Tenketsu status by one (if they already have the Status effect).  Jyuuken inflicts Energy Wounds.
+Effects: Jyuuken uses your Ninjutsu Damage Bonus, instead of your Physical Damage Bonus.  Its damage cannot be blocked, Ignores Armor, and bypasses DR.  Every time you hit someone with Jyuuken, you inflict Sealed Tenketsu 1, or increase their existing Sealed Tenketsu status by one (if they already have the Status effect).  Jyuuken inflicts Energy Wounds.
 
 When used as an Opener, Jyuuken allows you to convert any subsequent Combo jutsu you use into a Jyuuken variant without paying the normal +5 Chakra cost (but you gain all the other effects listed below, as normal for a Jyuuken conversion), for that duration of that Combo.
 
@@ -434,11 +434,11 @@ A devastating series of Jyuuken strikes carried out in rapid succession, sealing
 
  - Type: Combo Taijutsu, Rank C
  - Stamina: 20
- - Damage: (CHA/4+12)d4
+ - Damage: (12 + CHA/4)d4
  - Speed: 16
  - Special: Finisher
  - Requires: Byakugan active
- - Combo Bonus: +4d4 damage, +2 Stun, +1 Sealed Tenketsu, +0.5 Immobilize
+ - Combo Bonus: +4d4 damage, +2 Stun, +1 Sealed Tenketsu
 
  Effects: This attack uses your NDB and inflicts Sealed Tenketsu 3, reduces Blocking's effectiveness by 25%, ignores armor, bypasses half of an opponent's DR, and deals Energy wounds.  This attack may not be converted with Jyuuken.
 
@@ -447,11 +447,11 @@ The ultimate and most lethal usage of Jyuuken, and the final development of Hakk
 
  - Type: Combo Taijutsu, Rank B
  - Stamina: 35
- - Damage: (CHA/2 + 28)d4
+ - Damage: (28 + CHA/4)d4
  - Special: Finisher
  - Speed: 20
  - Requires: Byakugan Active
- - Combo Bonus:  +8d4 damage, +4 Stun, +2 Sealed Tenketsu, +1 Immobilize
+ - Combo Bonus:  +8d4 damage, +2 Sealed Tenketsu, +1 Immobilize
 
   Effects: This attack uses your NDB and inflicts Sealed Tenketsu 4, reduces Blocking's effectiveness by 25%, ignores armor, bypasses half of an opponent's DR, and deals Energy wounds. This attack may not be converted with Jyuuken.
 
@@ -816,9 +816,9 @@ You can see the flow of chakra. This gives you a +4 bonus to defense rolls again
 
 This technique's greatest limitation is its user. You must meet all skill requirements for the technique, and can't copy elemental ninjutsu you don't have the appropriate Elemental Aptitude for; Sealing and Medical techniques both require access to those types of jutsu in order for you to copy them.
 
-This does have one advantage over learning techniques the "old-fashioned" way: you can copy techniques one rank above what you could normally learn (which may vary by category).
+You automatically learn any valid techniques you see, and can use them for the remainder of the day.  Additionally, you can keep two jutsu 'copied' indefinitely per stage of Sharingan you have unlocked, which you do not have to pay XP for.  You can choose at any point to 'forget' one such jutsu in order to replace it with another jutsu, but can only do so when you see the jutsu copied: once you forget a jutsu, you must see it performed again to re-copy it with your Sharingan, and you can not simply fill the slots with Jutsu you could learn but have not seen copied just to avoid paying XP for them.
 
-You automatically learn any valid techniques you see, and can use them for the remainder of the day. To keep them permanently, you must the normal XP cost to learn the technique in question. You may go into 'XP debt' learning techniques this way, but you can only have one jutsu learned via XP debt at a time, and must pay it off before spending XP on anything else.
+Alternatively, you can choose at any point to learn a jutsu that you have copied by paying its normal XP cost.  You may go into 'XP debt' to learn a jutsu this way, but can only have one jutsu learned via XP debt at a time, and all XP earned goes to paying off the XP debt before it can be spent on anything else.
 
 You may not copy custom or clan jutsu, as those are tailored too specifically to either the individual or the clan in question.
 

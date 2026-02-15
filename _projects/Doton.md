@@ -92,7 +92,7 @@ Pushing your chakra into the ground beneath you, you pull up a ball of earth and
  - Range: 8
  - Speed: 12
  - Seal Speed: 10
- - Status: Immobility 5
+ - Status: Immobility 4
  - Tags: Blunt, Projectile
 
 #### --( Iwa Funsai Buin - Rock Smashing Staff )--

@@ -22,7 +22,7 @@ You use a burst of wind to blow dust, dirt, or other loose particles up into the
  - Accuracy: +1
  - Speed: 6
  - Seal Speed: 8
- - Status: Visibility 4
+ - Status: Visibility 3
  - Tags: Area of Effect, Projectile
 
 Effects: The visibility penalty lasts for 10+(Chakra Control ranks)/2 IC.
@@ -44,7 +44,7 @@ Effects: This reduces any existing Environmental Visibility Penalties by 2.  Rep
 The user generates a narrow arc of wind and chakra, which is sent out to cut things like ropes, lines, and people.
 
  - Chakra: 13
- - Damage: 2d4*5
+ - Damage: 2d4 * 5
  - Range: 10
  - Speed: 9
  - Seal Speed: 10
@@ -56,7 +56,7 @@ Effects: This technique's damage is considered 50% higher for Wounding purposes.
 Holding their hand half-grasped, the user blows a constant stream of wind into their hand which begins to spiral around in a ball or small tornado shape. The tornado is then sent out toward the target as the hand is opened.
 
  - Chakra: 12
- - Damage: 4d4*5
+ - Damage: 4d4 * 5
  - Range: 15
  - Speed: 10
  - Seal Speed: 8
@@ -118,7 +118,7 @@ Effects: This technique is used alongside a Dodge interrupt, allowing you to mov
 This technique allows you to create and manipulate many small air currents and vacuum pockets in the form of a whirling gale, which is directed at an opponent before it dissipates. This produces injuries that resemble what one would expect to see from dozens of blades.
 
  - Chakra: 18
- - Damage: 4d8*5
+ - Damage: 4d8 * 5
  - Range: 16
  - Speed: 14
  - Seal Speed: 11
@@ -130,7 +130,7 @@ Effects: This technique's damage is considered 50% higher for the purpose of cau
 The user takes in a deep breath an spins while exhaling, forming several rotating blades of wind that cover a substantial area around them, slicing through multiple foes at once while leaving allies unharmed
 
  - Chakra: 21
- - Damage: 4d6*5
+ - Damage: 4d6 * 5
  - Area: 20
  - Speed: 16
  - Seal Speed: 14
@@ -149,7 +149,7 @@ A relatively simple technique which creates a sudden gust of wind. Its actual fo
  - Status: (NDB * 3) Knockback
  - Tags: Blunt, Projectile
 
-Effects: This uses double the user's normal ninjutsu damage bonus for its damage, and inflicts Blunt wounds.
+Effects: This uses double the user's normal ninjutsu damage bonus for its damage.
 
 #### --( Reppuushou - Violent Wind Palm )--
 After finishing the seals, the user claps their palms together and compresses the air in front of them, transforming it into a powerful gale with enough force to knock over a human or redirect projectile weapons.

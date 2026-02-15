@@ -126,8 +126,6 @@ Effects: You can seal any of the five basic elements inside of scrolls! Up to (C
 
 You can also use this technique to immediately end any status effect based on an element being physically upon someone (so, mostly just Immobilize and Ignite), with X being the number of people you can do this do, to a maximum of (1 + Chakra Control Ranks/5).
 
-This jutsu may end an Upkeep or other persistent effect created by one of the five basic elements. X is equal to the higher of effect's Rank (E = 1, D = 2, C = 3, etc) or Upkeep cost. Each use of this jutsu may only end one effect, and nothing prevents someone from activating that jutsu again later. 
-
 Each use of this technique requires a blank scroll for the element to be sealed in. Once sealed, the elemental matter is effectively destroyed: it cannot be released, and the scroll cannot be reused.
 
 #### --( Raikou Kenka - Lightning Blade Creation )--
@@ -214,7 +212,7 @@ Effects: When used, declare another technique which you know, pay its cost, and 
 
 Possible conditions include "when you see the daimyo" and "when you hear the word 'orange' ". A target can be specified within reason (such as "the daimyo", or "whoever said that word").
 
-The technique stored inside a Transciption Seal may not be a Taijutsu, and techniques which use your Taijutsu Accuracy may only target the person the seal is applied to, not anyone else.  It may not have a cost of any kind other than Chakra Exhaustion (such as Willpower, or Stamina), and if it has material components (a scroll, a weapon, etc), it is likewise ineligiable to be used with Transcrption Seal, with the sole exception of Suiton and gallons of water, which can be stored within the seal (so long as you have any necessary gallons at the time of its placement), and must be stored inside the seal ahead of time.
+The technique stored inside a Transciption Seal may not be a Taijutsu, and techniques which use your Taijutsu Accuracy may only target the person the seal is applied to, not anyone else.  It may not have a cost of any kind other than Chakra Exhaustion (such as Willpower, or Stamina), and if it has material components (a scroll, a weapon, etc), it is likewise ineligiable to be used with Transcrption Seal, with the sole exception of Suiton and gallons of water, which can be stored within the seal (so long as you have any necessary gallons at the time of its placement), and must be stored inside the seal ahead of time.  Clan techniques placed inside of transcription seals only work if the person they are placed on has the appropriate kekkai genkai (Transcribing Shadow Bind onto non-nara results in it simply failing to activate), with the sole exception of elemental ninjutsu.
 
 If it is a Genjutsu or Sealing technique, it can apply to the person the Seal was placed on or the preson who triggered it, as you prefer. If the technique in question has an Upkeep, the person the Seal was placed on immediately takes on the Upkeep, and can accordingly dismiss it at any time. A person may only have one Transcription Seal on them at a time. This seal is invisible and undetectable except for by a Fuuinjutsu expert who knows to look for it.
 

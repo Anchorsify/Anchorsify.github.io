@@ -47,7 +47,7 @@ Ordinarily, a shinobi can only sign a single summoning contract (at least, the o
 You acquire a single rank benefit. This can be from a rank you've never had, and even one exclusive to another village (such as taking Hunter Nin when you're a Leaf Chuunin).
 
 ##### Skill Specialist
-You have an additional XP/200 Skill Points. You may only take Skill Specialist once.
+You have an additional (5 + XP/200) Skill Points. You may only take Skill Specialist once.
 
 ## Capability Talents
 ##### [Eight Gates](https://anchorsify.github.io/EightGates/)

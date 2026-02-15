@@ -377,9 +377,9 @@ A large gourd or other sort of container, several feet long and usually worn on 
  - Cost: 150 Ryo
 
 ##### Flash Bomb
-Flash bombs are devices which, when ignited, produce brilliant flashes of light. Anyone within Area 10 of the location they're thrown at suffers a -4 Visibility penalty for the next 10 IC.  It is a Speed 4 action to throw one, and you can throw them up to STR/5 yards.
+Flash bombs are devices which, when ignited, produce brilliant flashes of light. Anyone within Area 5 of the location they're thrown at suffers a -3 Visibility penalty for the next 10 IC.  It is a Speed 4 action to throw one, and you can throw them up to STR/5 yards.
 
-You may also drop a flash bomb when dodging, in which case your dodge's Speed is increased by 4, and it is dropped at your feet, affecting everyone within Area 10 of you except yourself.
+You may also drop a flash bomb when Dodging as a Speed +4 Link.  Used in this way, the Flash Bomb's Area is centered on (but does not affect) you, and applies its Visiblity Penalty to the attacker (modifying their attack's Accuracy accordingly), but applies only to that roll (rather than for 10 IC).
 
  -  Cost: 50 Ryo
  - Tags: Consumable
@@ -399,7 +399,7 @@ You can also attempt to snap the ropes using brute force. This calls for a roll 
  - Cost: 10 Ryo per 5 yards.
 
 ##### Smoke Bomb
-Paper balls small enough to be easily held in one hand, when thrown at the ground they burst and release wide clouds of smoke. Smoke bombs have a range of STR/5 yards, and can be thrown as a Speed 4 action. When thrown, it releases a cloud of thick smoke that causes a -6 visibility penalty to all people within its 10 yard radius, for 20 IC.
+Paper balls small enough to be easily held in one hand, when thrown at the ground they burst and release wide clouds of smoke. Smoke bombs have a range of STR/5 yards, and can be thrown as a Speed 4 action. When thrown, it releases a cloud of thick smoke with an Area of 5 that applies a -6 Visiblity Penalty within its area, for 20 IC.
 
  - Cost: 50 Ryo
  - Tags: Consumable, Environmental

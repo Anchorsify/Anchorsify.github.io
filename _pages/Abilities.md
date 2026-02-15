@@ -416,12 +416,6 @@ You've trained to improve your sheer physical prowess; even when resorting to si
 - Limit: (STR - 20) /10
 
 ##### 2. Mobility
-#### -=[ Evasive ]=-
-You're big on not being around when people try to violently end your life. Every rank gives you a +1 bonus to dodge, it's awesome!
-
-- Base Cost: 4
-- Scale: 2
-- Limit: AGI /20, max 10
 
 #### -=[ Nimble ]=-
 When targeted by an area-of-effect attack that gives you a dodge penalty based on its size, that penalty is reduced by 2 per rank, to a minimum of 0.
@@ -484,12 +478,6 @@ You're very good at picking up on tiny things that are just everso-slightly out 
 - Limit: (Enhanced Sight ranks) /2
 
 ##### 2. Perception
-#### -=[ Accurate ]=-
-You've got good hand-eye coordination, which lends itself towards hitting with your attacks. You have a +1 bonus per rank to your Accuracy.
-
-- Base Cost: 4
-- Scale: 2
-- Limit: DEX /20, max 10
 
 #### -=[ Instinct ]=-
 You've learned to rely on your instincts to guide you in battle, helping to improve your reaction time. Not by much--but enough to matter. Each rank gives a +1 bonus to dodge.

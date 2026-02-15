@@ -35,7 +35,7 @@ Effect: This is used alongside any other melee-range unarmed attack. Make an opp
 In one smooth motion, the user extends their arm and pushed aside an oncoming blow, steps inward and pulls back their forearm to slam their elbow into the opponent, turning their defense into their offense.
 
  - Stamina: 10
- - Damage: (STR/10)d4
+ - Damage: (2 + STR/10)d4
  - Speed: 5
  - Special: Interrupt
 
@@ -45,7 +45,7 @@ Effects: You make an unarmed parry against a melee attack, with a +3 Accuracy bo
 The user rotates while extending one leg, starting with a high roundhouse that's used partially as a feint. Whether it hits or misses, they continue to rotate into a second spin aimed at the lower part of the body.
 
  - Stamina: 13
- - Damage: (STR/10)d10
+ - Damage: (2 + STR/10)d10
  - Area: 2
  - Speed: 12
  - Tags: Point Blank Area of Effect
@@ -56,7 +56,7 @@ Effects: This attack hits all enemies in range. If partial defense applies, this
 Usually considering a rude thing to do to someone, the user slams their fist into their opponent's stomach at an upward angle, knocking the air from their lungs if done properly.
 
  - Stamina: 10
- - Damage: (STR/10)d8
+ - Damage: (2 + STR/10)d8
  - Speed: 14
 
 Effects: The target's Stamina penalty is increased by 2, +1 per severity of wound it inflicts (3 at Minor, 4 at Major, and so forth).
@@ -65,7 +65,7 @@ Effects: The target's Stamina penalty is increased by 2, +1 per severity of woun
 With alarming quickness you drop low to the ground and perform a full 360-degree sweeping kick that knocks opponents off their feet when they attempt to close in for an attack of their own.
 
  - Stamina: 10
- - Damage: (STR/10)d6
+ - Damage: (2 + STR/10)d6
  - Speed: 6
  - Special: Interrupt, Opener
 
@@ -77,7 +77,7 @@ When used as an opener to a combo, any time a non-interrupt combo attack fails t
 This technique is nothing more than a jumpkick at an opponent from hiding. The hiding part became required because of genin's tendency to shout out things like "HIYAH!" as they did it.
 
  - Stamina: 15
- - Damage: (STR/6)d10
+ - Damage: (2 + STR/6)d10
  - Speed: 10
  - Requires: You must be hidden from your target.
 
@@ -87,7 +87,7 @@ Effects: After the first time Dynamic Entry has been used in combat (by you, by 
 The user gets in close and slams their knee into the midsection of their opponent. While not complex, the pain experienced is enough to make them double over, leaving them vulnerable for a few seconds.
 
  - Stamina: 15
- - Damage: (STR/8)d10
+ - Damage: (2 + STR/8)d10
  - Speed: 12
  - Special: Stun 5
 
@@ -95,7 +95,7 @@ The user gets in close and slams their knee into the midsection of their opponen
 By charging forward and turning at the last moment to bring a shoulder out front, the user slams into the enemy, knocking them back. It relies mostly on the weight of the user, with the expectation they'll be heavier than the person they're running into.
 
  - Stamina: 12
- - Damage: (RES/10)d8
+ - Damage: (2 + RES/8)d8
  - Speed: 12
 
 Effects: This knocks the victim back (your RES)/15 yards.
@@ -105,7 +105,7 @@ Effects: This knocks the victim back (your RES)/15 yards.
 A more complex version of Senpuu which involves three kicks to the target's body going in the reverse order as before, starting low and going high to end with an axekick to the opponent's head. The speed and constant rotation is strong enough to actually lift the practitioner into the air during execution.
 
  - Stamina: 18
- - Damage: (STR/8)d12
+ - Damage: (3 + STR/8)d12
  - Area: 3
  - Speed: 14
  - Requires: Senpuu
@@ -117,23 +117,21 @@ Effects: This attack hits all enemies in range. If partial defense applies, you 
 After concentrating chakra in the user's legs, they leap high into the air and come down in a destructive axe kick, using gravity to enhance the momentum behind the blow while the user's chakra is used to enhance the destructive force of the blow.
 
  - Stamina: 24
- - Damage: (STR/8)d12
+ - Damage: (3 + STR/6)d12
  - Accuracy: -6
  - Area: 3 + PDB
  - Speed: 20
  - Tags: Targeted Area of Effect
 
-Effects: Partial success does not apply to this attack. Whether or not this technique hits or is successfully defended against, the target (and everyone else in its area) might still be hit by the shockwave of exploding earth all around them from the impact with the ground (which is considered a 'Ground' effect), which deals no base damage of its own, but applies this technique's (Speed * PDB) damage to anyone caught in the area. Succeeding in your defense reduces this damage by 10% per point you succeeded by (so a 20 dodge against an Accuracy 20 Tsukenyaku would avoid its base damage and cause you to take 100% of the Shockwave's damage as you succeeded by 0; a dodge roll of 25 against the same attack would cause you to take 50% of the Shockwave's damage).
+Effects: Partial success does not apply to this attack. Even if you miss, the target and everyone else in its area can still be hit by the shockwave of exploding earth all around them from the impact with the ground (which is considered a 'Ground' effect). The shockwave as no base damage of its own, but applies this technique's (PDB * Speed) damage to anyone caught in the area. Succeeding in your defense reduces this damage by 10% per point you succeeded by (so a 20 dodge against an Accuracy 20 Tsukenyaku would avoid its base damage and cause you to take 100% of the Shockwave's damage as you succeeded by 0; a dodge roll of 25 against the same attack would cause you to take 50% of the Shockwave's damage). Anyone who is considered airborne (which is typically only flying puppets or a target knocked airborne by Kage Buyou) avoids the shockwave damage automatically.
 
-The shockwave still occurs if the attack is successfully parried (though its damage on the original target is mitigated based on how much it missed by as usual), though if someone is airborne, they can avoid this secondary damage (which is typically only applicable against flying puppets or a target knocked airborne by Kage Buyou). 
-
-Most notably, this does mean that the intended target of this technique, if they fail to defend, takes full damage from the shockwave, in addition to the attack's full damage, as a single damage source (defenses and damage reduction applies only once to the combined damage, not separately against the hit and the shockwave).
+As a reminder, this does mean that the intended target of this technique, if they fail to defend, takes full damage from the shockwave, in addition to the attack's full damage, as a single damage source (defenses and damage reduction applies only once to the combined damage, not separately against the hit and the shockwave).
 
 #### --( Kage Buyou - Shadow of the Dancing Leaf )--
 The user lowers themselves to get underneath their opponent, and then knocks them into the air with a violent rising kick, leaping after them immediately after it to position themselves in the target's shadow.
 
  - Stamina: 15
- - Damage: (STR/8)d6
+ - Damage: (3 + STR/8)d6
  - Accuracy: +2
  - Speed: 6
  - Special: Opener
@@ -148,7 +146,7 @@ In the case of simultaneous actions, the opponent doesn't count as having had an
 By flipping forward into a crouch, the user builds momentum that's used to instantly land and begin spinning on one foot, extending the other leg out while using chakra to enhance its density, rotating repeatedly to strike the knees of the enemy, simultaneously evading and tripping them.
 
  - Stamina: 16
- - Damage: (STR/8)d8
+ - Damage: (3 + STR/8)d8
  - Speed: 8
  - Special: Interrupt
  - Requires: Trip, Reppuu
@@ -159,7 +157,7 @@ Effects: This follows the rules for the D-Rank Reppuu technique. If you hit, the
 Ninja can perform incredible feats of strength; after years of grueling training, some can literally reduce boulders to gravel for their bare fists. That's a handy trick to have, but most ninja aren't willing to go through the whole 'years of pain and hard work' part, so instead they invented a jutsu which accomplishes a similar effect: by channeling vibrating chakra through their hand at the moment of impact, most solid objects can be shattered with a single blow.
 
  - Stamina: 20 + X
- - Damage: (X + STR/8)d10
+ - Damage: (3 + X + STR/8)d10
  - Speed: 13
  - Delay: X
 
@@ -173,7 +171,7 @@ Two things to be aware of when using its secondary function. The first, it doesn
 You deliver a powerful, downwards palm blow to an opponent's stomach or the small of their back, brutally knocking the wind from them and dazing them--repeated use of this can bruise a person's solar plexus, which pretty much hurts more than anything has any right to, for weeks.
 
  - Stamina: 24
- - Damage: (STR/8)d8
+ - Damage: (3 + STR/6)d8
  - Speed: 20
 
 Effects: The target is forced to make a Stamina 15 roll.  If the target is prone, it also inflicts Stun 12.
@@ -182,7 +180,7 @@ Effects: The target is forced to make a Stamina 15 roll.  If the target is prone
 With a burst of chakra to one of the user's legs, they spin around and extend an arm to knock an opponent senseless with the back of their fist. It's a powerful blow as it uses the weight and momentum of the user's entire body, but has an inherent weakness of losing sight of the enemy while spinning.
 
  - Stamina: 25
- - Damage: (STR/8)d10
+ - Damage: (3 + STR/8)d10
  - Accuracy: -2
  - Speed: 15
 
@@ -192,7 +190,7 @@ Effects: This technique's damage is tripled when determining the severity of wou
 A brutal technique, and completely inappropriate for training (because someone would have thought it was okay, if we didn't say that). The attacker finds a weak point on their opponent's body, the site of a previous injury, and strikes there to amplify the existing wound.
 
  - Stamina: 20
- - Damage: (STR/8)d6
+ - Damage: (3 + STR/6)d6
  - Speed: 12
 
 Effects: This attack must be a called shot, but can not itself cause a wound. Instead, if it targets a location with an existing Blunt wound. That wound is removed and replaced with a Wound of the next severity up. The wound escalation only applies if the attack deals damage.
@@ -219,7 +217,7 @@ Effects: When you use Chouyaku Kage Kaihi, make a dodge roll. You may automatica
 Using this technique a shinobi kicks with extreme precision, not aiming at an opponent but instead kicking the air itself. Their leg slices through the air with such speed and precision that it compresses the air into a blade, aimed at the attack's target.
 
  - Stamina: 22
- - Damage: (STR/6)d8
+ - Damage: (4 + STR/6)d8
  - Accuracy: +2
  - Range: STR/4
  - Speed: 14
@@ -231,7 +229,7 @@ Effects: This can not be parried by the normal Parry action, though ninjutsu-bas
 Taking the Whirlwind back to the basics, the shinobi no longer bothers with a series of strikes, and instead just focuses their ability into a single roundhouse with more speed and power than the previous versions.
 
  - Stamina: 26
- - Damage: (STR/6)d12
+ - Damage: (4 + STR/6)d12
  - Speed: 16
  - Area: STR/25
  - Requires: Daisenpuu
@@ -243,7 +241,7 @@ Effects: This damages everyone in range. If partial defense applies, this techni
 The shinobi brings their palm from waist height and strikes upwards to full extension. Though it's difficult to connect with, if the user does hit they'll send their opponent flying away.
 
  - Stamina: 30
- - Damage: (STR/6 +3)d12
+ - Damage: (8 + STR/6)d12
  - Accuracy: -3
  - Speed: 16
 
@@ -279,28 +277,22 @@ Effects: This is activated after you hit with an Unarmed or Combo Taijutsu attac
 Used as a killing blow, this technique is commonly performed upon an airborne opponent, who is then cratered into the ground. Leaping into the air, the Shinobi comes down with a full power downward heel strike, usually aiming to smash the ribcage, crush a skull or even snap the spine of their target.. and destroy everything around them in the process.
 
  - Stamina: 60
- - Damage: (STR/4)d20
+ - Damage: (5 + STR/4)d20
  - Accuracy: -8
  - Area: PDB * 2
  - Speed: 26
  - Tags: Targeted Area of Effect
 
-Effects: 
+Effects: Partial success does not apply to this attack; against an airborne opponent, its Accuracy penalty is negated, but if your target succeeds on their defensive roll, then they avoid the shockwave damage altogether (though it still must be defended against by anyone else in the area).
 
-Partial success does not apply to the actual target of this attack; against an airborne opponent, its Accuracy penalty is negated, but if your target succeeds on their defensive roll, then they avoid the shockwave damage altogether (though it still must be defended against by anyone else in the area).
-
-Whether or not this technique hits or is successfully defended against, the target (and everyone else in its area) might still be hit by the shockwave of exploding earth all around them from the impact with the ground, which deals no base damage of its own, but applies this technique's (Speed * PDB damage) to anyone caught in the area, losing 10% of its damage per point it missed by (so missing by 2 has it deal (Speed * PDB * 0.8), for example). Successfully parrying the attack does not prevent the shockwave damage, though if someone is airborne, they can avoid this secondary damage (which is typically only applicable against flying puppets or a target knocked airborne by Kage Buyou). Most notably, this does mean that the intended target of this technique, if hit, takes full damage from the shockwave, in addition to the attack's full damage, as a single damage source (defenses and damage reduction applies only once to the combined damage, not separately against the hit and the shockwave).
-
-Effects: Whether or not this technique hits or is successfully defended against, the target (and everyone else in its area) might still be hit by the shockwave of exploding earth all around them from the impact with the ground (which is considered a 'Ground' effect), which deals no base damage of its own, but applies this technique's (Speed * PDB) damage to anyone caught in the area. Succeeding in your defense reduces this damage by 10% per point you succeeded by (so a 20 dodge against an Accuracy 20 DHS would avoid its base damage and cause you to take 100% of the Shockwave's damage as you succeeded by 0; a dodge roll of 25 against the same attack would cause you to take 50% of the Shockwave's damage).
-
-Most notably, this does mean that the intended target of this technique, if they fail to defend, takes full damage from the shockwave, in addition to the attack's full damage, as a single damage source (defenses and damage reduction applies only once to the combined damage, not separately against the hit and the shockwave).
+Even if you miss, the target and everyone else in its area can still be hit by the shockwave of exploding earth all around them from the impact with the ground (which is considered a 'Ground' effect). The shockwave as no base damage of its own, but applies this technique's (PDB * Speed) damage to anyone caught in the area. Succeeding in your defense reduces this damage by 10% per point you succeeded by (so a 20 dodge against an Accuracy 20 Tsukenyaku would avoid its base damage and cause you to take 100% of the Shockwave's damage as you succeeded by 0; a dodge roll of 25 against the same attack would cause you to take 50% of the Shockwave's damage). Anyone who is considered airborne (which is typically only flying puppets or a target knocked airborne by Kage Buyou) avoids the shockwave damage automatically. As a reminder, this does mean that the intended target of this technique, if they fail to defend, takes full damage from the shockwave, in addition to the attack's full damage, as a single damage source (defenses and damage reduction applies only once to the combined damage, not separately against the hit and the shockwave).
 
 #### --( Okasho - Cherry Blossom Impact )--
 Taking chakra infused muscles to the next level, the user focuses a massive amount of chakra into their fist, foot, or even fingertip. Upon striking the chakra is released into their target causing a great deal of damage. Given that the damage is dependent on the amount of chakra channeled, a truly great shinobi can even use this technique with a single fingertip.
 
  - Stamina: 25
  - Chakra: X
- - Damage: (X + STR/8)d12
+ - Damage: (5 + X + STR/6)d12
  - Speed: 20
  - Requires: Chakra Strengthening active, Chakra Control 30
 
@@ -310,7 +302,7 @@ Effects: You add half your NDB (in addition to your PDB) to this technique's dam
 Using a single finger, the Shinobi strikes with speed and precision to drive their finger into an opponents body. There is a danger in the technique as an inaccurate strike can easily damage the user.
 
  - Stamina: 40
- - Damage: (STR/4)d6
+ - Damage: (5 + STR/3)d6
  - Accuracy: +3
  - Speed: 15
  - Special: Bleed 15
@@ -330,7 +322,7 @@ Effects: You may activate Way of Benkei alongside a normal defense. Until your n
 A very impressive, though somewhat impractical, technique, the user gathers energy in one limb (typically a leg, though open-palm attacks are possible) and releases it in a single, swift strike with enough force to send their opponent flying. Though not technically required, it is suggested that anyone performing this technique shout its name emphatically when doing so. Generally speaking, the injuries from this technique come less from the initial impact and more from the landing, which is very rarely graceful. Thankfully, the victims of this technique have their dignity spared--they're usually knocked too far away for anyone to see them wind up in a face-down heap after rolling through the dirt!
 
  - Stamina: 30 + X/2
- - Damage: (STR/4)d6
+ - Damage: (5 + STR/3)d6
  - Speed: 20, Delay X
  - Special: Stun Y/2
 

@@ -154,7 +154,7 @@ This technique creates razor-sharp bone spikes all over the user’s body, branc
  - Skeletal Modifications: Blades, Spurs
  - Tags: Slashing or Piercing
 
-Effects: This is a melee-range parry with a +1 bonus per Rank of Bone Spurs you have active. If successful, the attacker also takes damage from your Spurs as if they had struck you, plus your Physical Damage Bonus multiplied by the Speed you used this technique at. This inflicts Slashing wounds.
+Effects: This is a melee-range parry with a +1 bonus per Rank of Bone Spurs you have active. If successful, the attacker also takes damage from your Spurs as if they had struck you, plus your Physical Damage Bonus multiplied by the Speed you used this technique at.
 
 #### --( Yanagi no Mai - Dance of the Willow )--
 A multitude of bones protrude from the Kaguya’s body, most commonly along the shoulders, elbows and knees, creating sharp spikes that extend outward in several directions, turning their entire body into a weapon. Thereafter, the user can focus on evasion and counter attacking, with minimal movement required to strike at anyone who comes near.

@@ -26,7 +26,7 @@ However, that would be horribly difficult to represent with game mechanics, so n
 Within each tier, there are several abilities (which can be logged either under Other, or by creating a new ability breakdown for nature chakra). By each ability there is a listed XP cost, which you must pay to learn it. You can purchase any ability within a tier you have access to, so long as you meet its listed requirements.
 
 ## Enlightened
-###### Meditation (10 XP)
+###### Meditation (5 XP)
 The most basic ability someone seeking to harness natural chakra must master, this is precisely what it sounds like. You sit down, close your eyes, and become perfectly still, clearing your mind. Obviously, this is easier said than done. A novice will find themselves thinking about not thinking, then their nose will start to itch, they'll get fidgety... and that is where most give up in frustration and go back to studying high-power ninjutsu.
 
 When meditating you cannot talk, or even open your eyes to look around, though you do remain aware of your surroundings to the extent of what you can feel and hear.
@@ -37,21 +37,21 @@ In battle, you may declare Meditate as an action. When meditating, you do nothin
 
 There are two ways to end meditation: The first is with End Meditation, a Speed 5 action which cannot have its Speed reduced. The second is your meditation being disrupted. This occurs if you take any action other than End Meditation, if you are hit by any damaging attack, or if you are moved in any way. If this happens, you have a -5 penalty to Accuracy, Fatigue and all opposed d20 rolls, for the next 10 IC.
 
-###### A Tranquil Body (20 XP)
-As you meditate your body relaxes and is refreshed, weariness ebbing away and pain fading. Every 10 IC you spend meditating, your Stamina penalty is reduced by 1.
+###### A Tranquil Body (10 XP)
+As you meditate your body relaxes and is refreshed, weariness ebbing away and pain fading. Every 10 IC you spend meditating, your Stamina penalty is reduced by 2.
 
-###### A Tranquil Mind (20 XP)
-By emptying your mind, you reach a state of total serenity. Your emotions fade away, letting you assess things calmly and rationally. With that tranquility comes inner balance, disturbances of the mind translating into disturbance of one's chakra, and their absence doing the same. Every 10 IC you spend meditating, your Chakra Exhaustion penalty is reduced by 1
+###### A Tranquil Mind (10 XP)
+By emptying your mind, you reach a state of total serenity. Your emotions fade away, letting you assess things calmly and rationally. With that tranquility comes inner balance, disturbances of the mind translating into disturbance of one's chakra, and their absence doing the same. Every 10 IC you spend meditating, your Chakra Exhaustion penalty is reduced by 2.
 
-###### A Tranquil Soul (20 XP)
+###### A Tranquil Soul (10 XP)
 *Requires: A Tranquil Body, A Tranquil Mind*  
 When your mind and body are in harmony, each completely silent and at ease, your spirit becomes the same. Once you've been meditating for 20 IC, you may sacrifice a point of Willpower to lower your Fatigue level by 1. After doing so, you must wait at least 20 IC before using it again.
 
-###### Path to Tranquility (10 XP)
+###### Path to Tranquility (5 XP)
 *Requires: A Tranquil Soul*  
 If you spend at least 100 IC meditating, the first time you fail a Chakra Exhaustion or Stamina roll in the next ten minutes you advance one less Fatigue category; your Stamina and Chakra Exhaustion penalties still reset to 0.
 
-###### A Dream of the World (20 XP)
+###### A Dream of the World (10 XP)
 As one sinks into meditation, they become detached from their worldly senses and the accompanying distractions. Only by doing so can they notice the minute variations in the world's own chakra, in all their subtle wonder.
 
 While meditating, you can tell how many people are within X yards, where X is the number of IC you've spent meditating, up to a maximum of your CHA. This does not, however, allow you tell anything else about them, even their direction or distance.
@@ -59,7 +59,7 @@ While meditating, you can tell how many people are within X yards, where X is th
 Except in combat! In combat, this allows you to find hiding enemies. Every 5 IC you spend meditating while a hidden enemy is within your range, you may make a Chakra Control roll against their Stealth TN, with a +2 bonus for every 5 IC (total) you've been meditating. Requires: A Tranquil Soul
 
 ## Adept
-###### One With Nature (30 XP)
+###### One With Nature (10 XP)
 *Requires: Path to Tranquility*  
 Up until now, you've managed to 'sort of' meditate properly: you're almost sitting still, you're mostly not distracted. Becoming one with nature requires a higher level of discipline.
 
@@ -71,31 +71,31 @@ However: If your meditation is broken through any means other than an End Medita
 
 Once a person stops meditating, this chakra is quickly cycled through their system and disposed of. You lose one NC every 5 IC when not meditating.
 
-###### Body of Metal (20 XP)
+###### Body of Metal (15 XP)
 Nature is unyielding; it is powerful, and will crush any who think themselves its better. For every NC you currently have, your damage bonuses are increased by 0.1 with everything but weapons; with weapons, your damage bonus is increased by 0.1 for every 2 NC you currently have.
 
-###### Body of Water (20 XP)
+###### Body of Water (15 XP)
 Nature is adaptable; it changes to meet the needs of its current situation, not because it yields, but because it will always be victorious under any circumstances. After seeing the result of a Chakra Exhaustion or Stamina roll, you may spend 3 NC to increase the result by 1; there is no limit on how many NC you may spend this way on a single roll.
 
-###### Body of Fire (20 XP)
+###### Body of Fire (15 XP)
 Nature is furious; it destroys, it obliterates. It is the raging wildfire, the roar of thunder. You may spend NC to increase your damage bonus by a single attack, at the rate of 0.3 for every NC spent, or 0.1 for each NC spent with weapon attacks. You may increase your base damage bonus by up to 25% of its base value using Body of Fire.
 
-###### Body of Wood (20 XP)
+###### Body of Wood (15 XP)
 Nature is patient; it grows slowly, knowing that there is no need to rush, that the destination is what matters, not the time taken to get there. When taking any action, you may spend up to 5 NC to improve the result of any Stamina or Chakra Exhaustion rolls it causes you to make. Every NC spent gives you +1 to that roll's result.
 
-###### Body of Earth (20 XP)
+###### Body of Earth (15 XP)
 Nature is gentle; it nourishes, it strengthens, and it protects. While flowing through your chakra coils it infuses every bit of your body, reinforcing your skin, bones, muscles, and nerves.
 
 Every NC you currently have gives a Damage Reduction (DR) of 2.
 
-###### A Dream of a Dream (20 XP)
+###### A Dream of a Dream (15 XP)
 *Requires: A Dream of the World*  
 Every person alters the flow of chakra around them in a unique, distinctive way; some people brighten the world merely by being there, while others darken, and still others are like deep pits from which no light can escape.
 
 When you sense someone using A Dream of the World, you can identify their chakra in the future. Having met someone in the past doesn't mean you can immediately identify their chakra.
 
 ## Sage
-###### Path to Inner Peace (50 XP)
+###### Path to Inner Peace (30 XP)
 *Requires: One With Nature, Basic Training 5, Hold Back 5*  
 Before, your meditation was almost childish: what you thought was perfection was in truth a tribute to its own flawed nature. What you thought was a deep understanding of the world was an immature attempt to define something which no words could hope to describe. What you thought was control of your own body was only ignorance of your own lack of discipline.
 
@@ -103,30 +103,30 @@ You're not sure when you realized how wrong you've been-- it was simply... appar
 
 All meditation effects take place twice as quickly: you gain 1 NC every 1 IC spent meditating, you may use Tranquil Soul every 10 IC, A Dream of the World's radius increases by 2 yards every IC, and so forth.
 
-Additionally, you can at this point talk to others without breaking your meditation.
+Additionally, you can at this point talk to others without breaking your meditation, and the End Meditation action is now Speed 0 for you.  Once per battle, you can spent a point of Willpower to add the Interrupt quality to your End Meditation action, allowing you to do it as part of a defensive response, preventing you from taking the normal penalties to having your meditation disrupted as you act.
 
-###### Sage Mode (50 XP)
+###### Sage Mode (30 XP)
 *Requires: Path to Inner Peace*  
 The pinnacle of senjutsu--"sage techniques"--is, appropriately enough, referred to as "sage mode". Activating sage mode requires flawless self-control.
 
 Sage mode requires perfectly balancing sage chakra with one's own "yin and "yang" chakra--two things that most ninja never even need to concern themselves with. By drawing in enough nature chakra and maintaining it in perfect harmony, a heightened state of superhuman performance, the eponymous sage mode, can be reached.
 
-You may activate sage mode as a Speed 5 action once you have at least 50 NC stored, and only if you are Meditating. Doing so immediately ends your meditation, and you may not meditate again until Sage Mode has ended.
+You may activate sage mode as a Speed 5 action, which may not have its Speed reduced, once you have at least 50 NC stored, and only if you are Meditating. Doing so immediately ends your meditation, and you may not meditate again until Sage Mode has ended.
 
-Sage Mode lasts until you run out of NC; however, while it is active you lose 2 NC every 5 IC (instead of 1). While in Sage Mode, your current NC (for the purpose of determining benefits from nature chakra's passive effects, such as Body of Earth and Body of Metal) is always considered to be the amount you had when you entered Sage Mode.
+Sage Mode lasts until you run out of NC; however, while it is active you lose 2 NC every 5 IC (instead of 1), beginning the first time you take a non-interrupt action. While in Sage Mode, your current NC (for the purpose of determining benefits from nature chakra's passive effects, such as Body of Earth and Body of Metal) is always considered to be the amount you had when you entered Sage Mode.
 
 For example, if you entered Sage Mode with 60 NC, and had spent 40 of them, you would still receive (60*2) 120 Damage Reduction from Body of Earth, until your Sage Mode expired.
 
-###### Awakening: Water (30 XP)
+###### Awakening: Water (15 XP)
 While in Sage Mode, you have a +1 bonus to Stamina and Chakra Exhaustion rolls for every 10 NC you had when you activated Sage Mode. After seeing the result of an attack (whether it hits or not) or a defensive roll (successful or not), you may improve the result by up to 3 by spending NC, at the rate of 5 NC per +1.
 
-###### Awakening: Fire (30 XP)
+###### Awakening: Fire (15 XP)
 When using Body of Fire in Sage Mode, every 1 NC spent increases your damage bonus by 0.5, or 0.2 for weapon attacks, to a maximum of 50% of your base damage bonus.
 
-###### Awakening: Earth (30 XP)
+###### Awakening: Earth (15 XP)
 While in Sage Mode, your damage reduction from Body of Earth cannot be bypassed or reduced by effects which would normally do so. When an attack wounds you, you may spend nature chakra counters to lower its severity, at the rate of 5 NC per level: for example, for 15 NC you could negate a Severe wound entirely.
 
-###### Awakening: Air (30 XP)
+###### Awakening: Air (15 XP)
 While in Sage Mode, you have a +1 bonus to Accuracy and dodge for every 20 NC you entered Sage Mode with. For every 10 NC, you have a +1 bonus to Athletics, Awareness, Chakra Control, and Resistance rolls.
 
 ###### Awakening: Void (30 XP)
