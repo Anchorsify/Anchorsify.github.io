@@ -293,7 +293,7 @@ A fairly complex device, a fuuma shuriken is four curved blades that can fold to
 
 - Cost: 100 Ryo
 - Stamina: 15
-- Damage: (4+STR/12)d12
+- Damage: (4+STR/10)d12
 - Range: STR/3
 - Speed: 14
 - Special: For every point you hit by, you add 10% to the attack's total damage, to a maximum of +150% (so, if they dodged and you hit by 3 points you'd do 1.3 times damage, and that number would be reduced by the effects of partial success); if it is blocked, it simply gets +25% to its damage, instead. HP-based defenses which do not require a roll are considered to have a roll of 10. You may also use the Fuuma Shuriken as a melee weapon, in which case it loses all of its other special effects and deals only 6d12 damage.
@@ -303,7 +303,7 @@ The name is about as literal as it could be: it's essentially a shuriken many, m
 
 - Cost: 100 Ryo
 - Stamina: 18
-- Damage: (6+STR/12)d12
+- Damage: (6+STR/10)d12
 - Range: STR/3
 - Speed: 14
 - Special: For every point you hit by, you add 10% to the attack's total damage, to a maximum of +200%; if it is blocked, it simply gets +25% to its damage, instead. HP-based defenses which do not require a roll are considered to have a roll of 10. This weapon's damage is considered 25% higher for the purpose of inflicting wounds. Because these are large and encumbering, they are typically worn somehow strapped to the back; for each large star shuriken beyond the first you are carrying you take a -1 Immobilization penalty which does not fade over time like normal, though reducing the number of Large Star Shuriken you carry will lower it.
@@ -314,7 +314,7 @@ A large bow, generally bigger than its wielder at six feet or so high. The upper
 
 - Cost: 250 Ryo
 - Stamina: 20
-- Damage: (STR/8) dice; die size determined by arrow
+- Damage: (STR/4) dice; die size determined by arrow
 - Accuracy: -10
 - Range: STR
 - Speed: 20
@@ -325,7 +325,7 @@ Technically, it's called a hankyu, and kyudo practitioners would be horridly off
 
 - Cost: 150 Ryo
 - Stamina: 15
-- Damage: (STR/10) dice; die size determined by arrow
+- Damage: (STR/6) dice; die size determined by arrow
 - Range: STR /2
 - Speed: 14
 - Accuracy: -6
