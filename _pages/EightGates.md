@@ -84,7 +84,7 @@ Located in the brain, opening this gate removes the body's ability to limit the 
 Also located in the brain, the second regulates the body's breakdown of stored energy. By opening it, the body gains the ability to access its energy reserves faster than would normally be physically possible.
 
  - AP Gain: 10
- - Rejuvenation: You may spend AP at any time to reduce your Stamina penalty. Every 2 AP spent reduces your Stamina penalty by 1.
+ - Rejuvenation: You may spend AP at any time to reduce your Stamina penalty. Every 2 AP spent reduces your Stamina penalty by 1.  This does not reduce any Burns status acquired through the Gates (namely, the energy wounds from their usage).
 
 ###### -=[ The Third Gate ]=-
 *Seimon - Gate of Life*  

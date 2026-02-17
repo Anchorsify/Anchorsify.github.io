@@ -52,7 +52,7 @@ Chakra flows readily through your body and into your jutsu, allowing you to effo
 You were born into money! Or you stole a lot of it, but through some means you happen to be a very rich and resourceful ninja. Be it tools, traps, or weapons, you are always ready for any situation. When you spend XP on Savings or Requisition, you get double the normal amount per rank. If you need to make an Espionage roll to bribe someone, it has a +5 bonus. What's more, you may spend Requisition spontaneously, even in the middle of a mission, representing you having just the right thing for the task at hand. Done in combat, this is a Speed 5 action.
 
 ##### Hidden Potential
-You and your peers both have yet to realize the full extent of your capabilities. Maybe you just haven't found your niche, maybe you're a late bloomer, or maybe something's holding you back. Until you find out what it is, you have +1 Willpower, and calculate your Willpower as (STR + RES + CHA + DEX + AGI)/90, instead of normal.
+You and your peers both have yet to realize the full extent of your capabilities. Maybe you just haven't found your niche, maybe you're a late bloomer, or maybe something's holding you back. Until you find out what it is, you have +1 Willpower, and calculate your Willpower as (STR + RES + CHA + DEX + AGI)/200, instead of normal.
 
 *Upgrades Into: Any 2- or 3-point unique*
 

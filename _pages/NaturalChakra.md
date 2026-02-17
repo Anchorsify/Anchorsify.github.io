@@ -103,7 +103,7 @@ You're not sure when you realized how wrong you've been-- it was simply... appar
 
 All meditation effects take place twice as quickly: you gain 1 NC every 1 IC spent meditating, you may use Tranquil Soul every 10 IC, A Dream of the World's radius increases by 2 yards every IC, and so forth.
 
-Additionally, you can at this point talk to others without breaking your meditation, and the End Meditation action is now Speed 0 for you.  Once per battle, you can spent a point of Willpower to add the Interrupt quality to your End Meditation action, allowing you to do it as part of a defensive response, preventing you from taking the normal penalties to having your meditation disrupted as you act.
+Additionally, you can at this point talk to others without breaking your meditation, and the End Meditation action is now Speed 0 for you.  Once per battle, you can spent a point of Willpower to add the Interrupt quality to your End Meditation action, allowing you to do it as part of a defensive response, preventing you from taking the normal penalties to having your meditation disrupted as you act (and allowing its benefits to apply to that defnse).
 
 ###### Sage Mode (30 XP)
 *Requires: Path to Inner Peace*  

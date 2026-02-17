@@ -96,7 +96,7 @@ They get an Awareness roll versus the normal Stealth roll for Kikai hiding when 
 
 For as long as the Female Kikai is attached, the Aburame has a +5 Awareness bonus against the person it's attached to, any attacking Swarms have +3 Accuracy, and they're always considered to be 1 Stealth level lower than they really are.  If this would mean that they are not Stealthed at all, the Aburame can attack them with ranged attacks as normal, but can not attack with melee attacks (or have their clones do so), with the exception of using a Swarm's Drain ability and the Insect Sphere jutsu.
 
-You can only attach a single Female Kikai to a person (attaching more gives no added benefit), but can have multiple Female Kikai placed on different people simultaneously.  Deploying Female Kikai does not reduce the level of your Swarm Size, but it does limit how many Swarm Size you can recover via Insect Cocoon. Female Kikai are recovered naturally, at a rate of 1 + Max Willpower/2 per day, so use them wisely.
+You can only attach a single Female Kikai to a person (attaching more gives no added benefit), but can have multiple Female Kikai placed on different people simultaneously.  Deploying Female Kikai does not reduce the level of your Swarm Size, but it does limit how many Swarm Size you can recover via Insect Cocoon. Female Kikai are recovered naturally, at a rate of 1 + Max Willpower per day, so use them wisely.
 
 #### --( Hijutsu: Mushiyose – Secret Technique: Insect Gathering )--
 By touching the ground and sending their chakra out in a web-like pattern, they can attract the attention of nearby insects to follow the chakra signal and come to the Aburame, which allows them to gain some basic information about an area.

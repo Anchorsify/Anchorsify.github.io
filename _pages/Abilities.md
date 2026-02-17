@@ -583,7 +583,7 @@ You may simultaneously declare any two of: Block, Guard, Total Defense, Defensiv
 Being faced with truly dire straits brings out remarkable characteristics: in animals, in civilians, and in shinobi. Thankfully, you're one of those! You can activate this ability when defending against an attack by spending a point of Willpower. Your Interrupt only needs to be double or less the Speed of the attack you're defending against, rather than half or less. This effect persists of the duration of that IC, but applies only once per person, and can only be activated once per IC; if you're being attacked by four different people in the same IC, then all four defenses would receive this benefit, but if they respond with an interrupt in response to your own interrupt (typically as a result of it dealing damage or turning into an attack of some kind), your second interrupt (if needed) would not benefit from Desperation, nor may you activate Desperation a second time that IC.
 
 - Base Cost: 40
-- Requires: 6 Willpower
+- Requires: 3 Willpower
 
 #### -=[ Determination ]=-
 Your force of will is as powerful an advantage in combat as your strength of body. Each rank of this ability increases your Willpower by 1.
@@ -596,7 +596,7 @@ Your force of will is as powerful an advantage in combat as your strength of bod
 Being left reeling and disoriented is an all-too-common experience for shinobi. Sometimes it's the result of genjutsu, other times it's a lucky blow to the solar plexus (or... lower). You're able to bring yourself back to the present, by sheer mental fortitude, though doing so is bound to wear you out faster in the long run. By spending 1 Willpower, you end any Stuns you're suffering from and become immune to any other instances of that status effect until the end of the current Initiative Count.
 
 - Base Cost: 40
-- Requires: 4 Willpower
+- Requires: 3 Willpower
 
 #### -=[ Guts ]=-
 You refuse to go down in battle. So long as you're physically able to breathe, you will not stop fighting when your values are on the line. This can get downright frightening to behold, depending upon the circumstances. Whenever you would be reduced to 0 HP or lower, roll a TN 25 Stamina check. If you succeed, you are left with 1 HP, and cannot have your HP reduced until the end of that initiative count. If you fail, in addition to your Fatigue progressing you take the damage you normally would have from the attack. Damage negated through this ability still wounds you normally.  Clones, of any kind, can never benefit from this ability.

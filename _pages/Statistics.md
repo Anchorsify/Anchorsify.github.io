@@ -78,4 +78,4 @@ This functions practically identically to physical damage bonus, except that it 
 ##### Willpower (WP)
 Your overall strength of will. This is both your raw determination, and your confidence in your body's ability to keep going, and perform at a higher level, even when it, well, can't.
 
-- Your Willpower is calculated as (STR + RES + CHA + DEX + AGI)/100, with a minimum of 1.
+- Your Willpower is calculated as 1+(STR + RES + CHA + DEX + AGI)/250.

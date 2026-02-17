@@ -268,13 +268,13 @@ Once per two months (eight real-life days), while actively following our nindo (
 
 However, if you ever act against your Nindo (even if it's the best decision to make, or just following orders) you cannot use its effects for three months (twelve real-life days).
 
-##### Unreleting
+##### Unrelenting
 You profoundly don't like to give up; when you set your mind to doing something, you do it as it has never been done before. You can spend multiple points of Willpower (or activations of Limit Break, or things that work similarly) on a single roll. There is no limit to how many times you may do so for one action, beyond how many Willpower you have to spend.
 
 ##### Will of Fire - Leaf Only
 What brings Leaf ninja together and in some ways makes them the strongest of all the ninja villages--though none would admit this--is their comraderie. That they are more or less a giant family and protect one another as such is why the Leaf ninja prospere, because they do so with a passion.
 
-Whenever an ally is Severely or Critically Wounded, or brought to 0 HP, something sparks within you, motivating you in the defense of one another and the village. Starting immediately, and lasting for (maximum Willpower)*5 IC after your next non-Interrupt action, you do not accumulate penalties to Fatigue, and status effects which you are currently afflicted with are ignored. Any Genjutsu which is affecting you is purged altogether, and you have a +5 bonus to defensive Genjutsu rolls in this time. Multiple instances of Will of Fire overlap, but do not stack.
+Whenever an ally is Severely or Critically Wounded, or brought to 0 HP, something sparks within you, motivating you in the defense of one another and the village. Starting immediately, and lasting for (maximum Willpower) * 10 IC after your next non-Interrupt action, you do not accumulate penalties to Fatigue, and status effects which you are currently afflicted with are ignored. Any Genjutsu which is affecting you is purged altogether, and you have a +5 bonus to defensive Genjutsu rolls in this time. Multiple instances of Will of Fire overlap, but do not stack.
 
 ##### Mist Born - Mist Only
 Training to fight in low-light environments is something that every village's ninja academy and instructors covers at least briefly. Mist puts more of an emphasis on that than others, some say because of the thick, choking fogs that often engulf their island home, others arguing it's a result of the networks of caverns under the island that students and genin often train under.

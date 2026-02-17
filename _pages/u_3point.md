@@ -60,7 +60,7 @@ You have a dauntless ability to keep fighting, no matter what the situation. Eve
 
 Whenever you spend a point of Willpower, you halve your current penalty to Stamina and Chakra Exhaustion rolls.  Alternatively, you can choose to spend a point of Willpower in order to remove your current penalties to Stamina or Chakra exhaustion rolls. Additionally, you can spend a point of Willpower to ignore all effects of a single wound you're suffering from for the remainder of the battle.
 
-Finally, you reduce the penalties to Accuracy and Defensive rolls from fatigue by half your maximum willpower, rounded down. So, at 3 Fatigue with 7 maximum Willpower from your attributes, you would go from -3 Accuracy and -6 defensive rolls to no Accuracy penalty and -3 Defensive rolls.
+Finally, you reduce the penalties to Accuracy and Defensive rolls from fatigue by your maximum willpower. So, at 3 Fatigue with 3 maximum Willpower, you would go from -3 Accuracy and -6 defensive rolls to no Accuracy penalty and -3 Defensive rolls.
 
 *Upgrades From: Boundless Chakra, Endless Energy*
 
