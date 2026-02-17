@@ -404,12 +404,6 @@ Paper balls small enough to be easily held in one hand, when thrown at the groun
  - Cost: 50 Ryo
  - Tags: Consumable, Environmental
 
-##### Poison Smoke Bomb
-Sturdier than regular smoke bombs, and much more dangerous, these are filled with some manner of poisonous vapor. They're used like regular smoke bombs, but have a 10 yard radius, a -4 visibility penalty, and persist for 25 IC. When you buy a poison smoke bomb, select a poison (from the Poisons section) which has Inhalation as one of its possible vectors of delivery. When you throw the smoke bomb, make a Toxicology roll; Anyone who is in the area, passes through the area, or spends 10 IC in the area, must make a Resistance roll against that Toxicology result, or be poisoned. The cost of the poison smoke bomb is 100 Ryo, plus the base cost (unreduced by buying multiples) for one dose of the chosen poison.
-
- - Cost: 100 Ryo + cost of poison
- - Tags: Consumable, Environmental
-
 ##### Soldier Pill
 The proper name is 'military ration pills', but the term soldier pill is more commonly used among shinobi. They're less rations than fast-acting performance-enhancing drugs. Though every village has a slightly different recipe, the pills are all marble-sized and black or dark brown. When eaten, they have the approximate flavor and texture of sawdust.
 
@@ -422,10 +416,12 @@ These pills are essentially just condensed stimulants and nutrients; taking one 
 ##### Antidote
 Antidotes to several of the more popular and lethal poisons which shinobi use are widely available, for somewhat obvious reasons. A single dose of an antidote costs half the amount for a single dose of a poison; multiple doses cost half as much as the first. So, buying 2 doses of antidote for Black Adder venom would be (40+20) 60 ryo, and buying 4 doses of antidote for Yew toxin would be (60 + 3 * 30) 150 ryo.
 
-Taking a dose of an antidote is a Speed 6 action, and immediately cures you of the poison in question and all its lingering effects. Antidotes that act quickly enough to be useful in emergencies, such as combat, aren't gentle on the body, with each applying a -2 penalty to your Accuracy and all d20 rolls for 100 IC. However, for that duration you are immune to the poison in question.
+Taking a dose of an antidote is a Speed 6 action, and immediately cures you of the poison in question and all its lingering effects. Antidotes that act quickly enough to be useful in emergencies, such as combat, aren’t gentle on the body, with each applying a -2 penalty to your Accuracy and all d20 rolls for 100 IC. However, for that duration you are immune to the poison in question. 
 
- - Cost: Varies
- - Tags: Consumable
+When purchasing an antidote, you must specify which Special Effect it innoculates you from. Unless you are immune to all Special Effects in the Poieon, you still take the Poison condition. Poison without a non-damaging effect is stopped as long as you have any antidote in your system.
+
+Cost: Varies
+Tags: Consumable
 
 ##### Compass
 A small, typically handheld device that has a needle inside a metal case (with a glass cover, so it can be seen) that points, approximately, to magnetic north when held level. These aren't exactly precise, but they're good enough most of the time. Notably, they can have trouble working underground or if they get zapped by a lightning jutsu. When trying to navigate the wilderness, having a compass gives a +2 bonus to any Survival rolls. If you also have a map of the country you're in, this is raised to +4.
@@ -535,226 +531,130 @@ A small pocket telescope, which telescopes out from two inches to close to six. 
  - Cost: 200 Ryo
 
 ## Poisons
-Poisons are nasty business, and one of the murkier aspects of ninja tactics. Certainly, before the days when shinobi had discovered the secrets of chakra manipulation, poisons were a vital part of their arsenal. The proper use of poisons, however, is hard to learn, and in most circumstances just isn't as useful as being able to shoot fireballs and run up walls.
+Poisons are nasty business, and one of the murkier aspects of ninja tactics. Certainly, before the days when shinobi had discovered the secrets of chakra manipulation, poisons were a vital part of their arsenal. The proper use of poisons, however, is hard to learn, and in most circumstances just isn’t as useful as being able to shoot fireballs and run up walls. Some ninja, however, still find uses for them.
 
-Some ninja, however, still find uses for them. This section is for them!
+This section is for them! Build a Death Workshop "Poison" is a stand in for any number of substances used by shinobi to debilitate the enemies in ways other than cutting, stabbing, smashing, or burning them. While the exact formula varies from village to village-and often from shinobi to shinobi-the mechanics are the same.
 
-#### Doses
-Poisons are measured in doses. Each poison has a listed price. The first dose costs that much; subsequent doses cost half that much, each. This is, essentially, a limit on how many times you can use that poison before running out.
+The Severity of the Poison you can deploy onto the field is determined by your ranks in Toxicology.  You begin with the Poison Base (detailed below), then modify it by applying a Vector and a Special Option.
 
-Each poison has a listed Toxicology rating. Your Toxicology skill ranks must be a minimum of that much to use that poison.
+ - Poison Base Cost: 100 Ryo 
+ - Poison Severity: 1 + (Toxicology Ranks)/15
+ - Poison Duration: 50 + (Toxicology Ranks)
 
-#### Applying to Weapons
-One dose of poison is enough to coat the business end of a weapon.
+First, select one of the following ways your poison can be applied: Contact, Injury, Inhalation, or Ingestion.
 
-As a Speed 10 action you can apply up to 1 + Toxicology/10 doses worth of poisons to your weapons, in any combination. For instance, if you applied 4 doses, you could poison:
+##### Contact
+You may apply the Poison to a Blunt or Slashing weapon as a Speed 10 action.  On a hit with that weapon, that target is exposed to your poison and the Poison is consumed. 
+ - Cost: +50 Ryo
 
- - 1 weapon with 4 doses
- - 4 weapons with 1 dose each
- - 1 weapon with 2 doses and 2 more weapons with 1 dose each
+##### Injury
+You may apply the poison to a Piercing or Slashing weapon as a Speed 10 action.  If you successfully deal at least 1 point of damage with your weapon to someone, that target is exposed to your poison and the Poison is consumed.  It also increases the Poison's Severity by 1.
+ - Cost: +25 Ryo
 
-etc. Each time the weapon hits something, it loses one dose. If you apply a new poison to the weapon (even another dose of the same type), any remaining poison of the previous dose is wiped away.
+##### Inhalation
+Your Poison comes in a Poison Smoke Bomb.  The Poison Smoke Bomb creates a -2 Visibility Penalty Cloud, Area 10, which can be thrown up to (5+STR/5) yards as a Speed 5 action.  The Cloud lasts for (10 + Toxicology Ranks) IC.  Anyone who is not Poisoned that remains within the Cloud for 10 total IC (not consecutive) is exposed to the poison, and anyone with that poison doesn't count time spent within the cloud towards its duration.  Your Poison's Severity is reduced by 1, to a minimum of 1, and its Duration is halved after all other modifiers.
+ - Cost: +100 Ryo
 
-While you can apply different poisons to different weapons (such as one dose of poison to four Kunai), you can only utilize one poisoned weapon in any given attack: if you were to multi-throw the kunai, only one of the poisoned weapons would be usable. 
+##### Ingested
+Your poison comes in a dissolvable powder that is useless for weapons, but may be added to a food or water source as a Speed 5 action. When someone eats or drinks the contaminated food source, they are exposed to the poison. Dilution matters, and a single dose of Poison can contaminate (1 + Toxicology Ranks/10) gallons of water or an equivalent amount of other food or drink. The Poison's Duration is doubled, and its Potency is increased by 1. Ingesting a Poison in the middle of Combat is a Speed 5 action. Regardless of the vector used, when someone is exposed to your poison, you make a Toxicology roll opposed by their Resistance roll.
+ - Cost: +75 Ryo
 
-#### Types of Poison
-Poisons have four possible vectors: Contact, Injury, Inhalation, and Ingestion. Contact poisons can be applied to any blunt or slashing weapon, while Injury poisons can be applied to slashing or piercing weapons.
+#### Identifying Poison
+When you or someone else has been poisoned, it’s possible to identify the venom just based on the symptoms. You may do so after 1/10 of the poison’s total duration has passed. At that point, you can roll a Research, Toxicology, or Medicine skill check (your preference) against 20 + (Poison Severity * 5). Success means you’ve identified the poison. If you fail, you may take a Speed 6 action afterwards to try to identify the symptoms, which you may repeat as many times as you like.
 
-Whenever you're hit by a weapon with Contact poison, or damaged by one with Injury poison, you roll Resistance against the poison user's Toxicology. If you fail this roll (which does receive the benefits or partial defense), you have been poisoned. You're afflicted by the poisons status effects (Poison of some value, and sometimes other effects, described in the individual poison) for its Duration. If partial defense applies, it reduces the Duration, not the severity.
+#### Stacking Poisons
+Poisons, and the Poison Status Effect to not stack. Each IC takes only the highest Poison Status Effect in damage. They also only suffer a single Special Effect at a time. If a new Poison Special Effect would be applied, make an opposed Toxicology roll with the previous poison. If the new Poison wins, replace it with the old poison; if the old poison wins, the new poison has no (meaningful) effect. For poisons not listed here, such as those created by jutsu. Any effect of the poison other than the Poison status is considered a "Special Effect."
 
-Ingestion poisons are effectively useless in combat, but can be used to lace someone's food. Inhalation poisons can only be used effectively by deploying Poison Smoke Bombs.
+#### Special Effects
+Shinobi mix special ingredients into their poison to debilitate the enemy in unique ways. A Shinobi may mix in one of the following special options into their Poison. With the Rare Poisons Talent, Shinobi may combine two Special Effects into the same poison. Special Effects do however increase the Ryo cost of the Poison according to their individual entries.
 
-No matter how many poisons you're afflicted by, their effects do not stack. Thus, if you had Poison 4 for Duration 25, and Poison 2 for Duration 50, you would take 4 damage per initiative count for 25 IC, and then for the next 25 you'd take 2 damage per IC. Any additional effects apply regardless, as long as they don't overlap (Paralysis 1 and Paralysis 3 is just Paralysis 3, as normal).
+##### Bark Scorpion
+Stings from the bark scorpion aren’t typically fatal; ninja weaponizing the venom distill it to improve the lethality. Despite being exceptionally painful at the point of entry, it’s not likely to kill someone, though the lingering numbness and spasms are certainly unpleasant to deal with. 
 
-Poisons which inflict Suffocation do so when first poisoned, and then again 20 IC later until the Poison's duration ends (which ends the Suffocation immediately).
+ - Cost: +50 Ryo 
 
-All types of Poison are considered to have the 'Internal' and 'Consumable' tags, even if the method of their application is often external (in the case of poison types besides Ingestion; once it's in your system, removing it from you does little good against it).
+Effect: For the duration, the victim has a -(1 + (Toxicology Ranks)/10) internal Immobility Penalty, and an equal penalty to all non-resistance Skill Rolls. 
 
-#### Identifying Poisons
-When you or someone else has been poisoned, it's possible to identify the venom just based on the symptoms. You may do so after 1/10 of the poison's total duration has passed. At that point, you can roll a Research, Toxicology, or Medicine skill check (your preference) against 20 + the poison's Toxicology rating. Success means you've identified the poison.
+##### Belladona
+Also known as devil’s berries, belladona’s poison causes delirium, hallucinations, and weakness.
 
-If you fail, you may take a Speed 6 action afterwards to try to identify the symptoms, which you may repeat as many times as you like.
+ - Cost: +50 Ryo
 
-### Poisons
-###### Centipede (Injury, Contact)
-Giant centipedes aren't actually all that venomous, though their venom causes significant discomfort, and a pervasive sensation of weakness. Centipede venom cannot harm HP, only Vitality. A person afflicted has their physical damage bonus reduced by (0.5, +0.1 for every two points they failed their Resistance roll by) for the rest of the day, even if the poison is cured. However, centipede venom has a -2 penalty to the Toxicology roll used to inflict it. Multiple damage bonus penalties from centipede venom don't stack; the highest one replaces any lower ones.
+Effect: For the duration, the victim suffers from Paralysis (2 + Toxicology Ranks/10).
 
- - Poison: 1
- - Duration: 75
- - Toxicology: 3
- - Cost: 50
+##### Box Jellyfish
+Though they’re not the deadliest of sea creatures, they’re what most people will imagine when thinking of that. Affliction with this venom results in convulsions, and before long will send a victim into shock.
 
-###### Black Adder (Injury)
-Snake poison, and not a particularly troublesome variety of it. There's intense pain and significant swelling at the point of contact, but that's the worst of it. Hours afterwards, there will be a lingering, full-body pain, but nothing life-threatening. However, your Toxicology roll to poison a person with this has a +3 bonus.
+ - Cost: +100 Ryo
 
- - Poison: 1
- - Duration: 100
- - Toxicology: 6
- - Cost: 80
+Effect: The convulsions make it exceptionally difficult to act. You can’t take any action with a base Speed of (20 - Toxicology Ranks/10) or higher.
 
-###### Yew (Injury, Ingestion)
-Only relatively dangerous in its normal form, the yew's toxin has proven its value to ninja by being versatile, easily refined, and easy to get ahold of. Unlike poisonous animals, trees don't tend to be small or wander around. While poisoned, any time your Stamina penalty increases, it increases by an additional 2 points.
+##### Brown Recluse
+A shy, tiny spider, the brown recluse nonetheless has an especially dangerous venom, especially to civilians; to shinobi, it’s only severely threatening. The poison is slow acting, but still dangerous.
 
- - Poison: 1
- - Duration: 100
- - Toxicology: 6
- - Cost: 120
+ - Cost: +50 Ryo
 
-###### Bark Scorpion (Injury)
-Stings from the bark scorpion aren't typically fatal; ninja weaponizing the venom distill it to improve the lethality. Despite being exceptionally painful at the point of entry, it's not likely to kill someone, though the lingering numbness and spasms are certainly unpleasant to deal with.
+Effect: Your Poison's duration is doubled.
 
- - Poison: 1
- - Immobilization: 2
- - Duration: 100
- - Toxicology: 9
- - Cost: 180
+##### Centipede
+Giant centipedes aren’t actually all that venomous, though their venom causes significant discomfort, and a pervasive sensation of weakness.
 
-###### Cone Snail (Injury, Contact)
+ - Cost: +25 Ryo
+
+Effect: For the duration, the target's Physical Damage Bonus is reduced by 0.1 per Toxicology Rank. Further, any wounds caused by the victim are reduced by one category after all other effects, with minor wounds being reduced to no wound. Wounds reduced in this way still break Genjutsu.
+
+##### Cone Snail
 A family of brightly-colored, excitingly-patterned snails, the worst of these produce a venom which is a compound of hundreds of different toxins. Aside from pain and swelling at the point of impact, the venom can easily cause respiratory failure.
 
-There is no antidote to cone snail venom. If you've been poisoned, when your Fatigue levels increases your Stamina penalty is halved, rather than being reset to 0. You may not Rest or lower your Stamina penalty in other ways.
+ - Cost: +100 Ryo
 
- - Poison: 1
- - Duration: 150
- - Toxicology: 9
- - Cost: 200
+Effect: For the duration, the target suffers a penalty of (1 + Toxicology Ranks/10) to all Stamina rolls that can't be removed. Additionally, the target may not Rest or lower their Stamina penalties. If an effect would completely clear their Stamina penalty, the penalty (other than the one from this poison) is instead halved.
 
-###### Deathstalker Scorpion (Injury)
-Despite the name, one of the world's most venomous scorpions isn't all that lethal to humans. As with most scorpions, being envenomated is excruciatingly painful, far out of proportion to the actual threat posed.
+##### Death Cap
+The death cap is one of, if not the, most poisonous mushrooms in the world. Mercifully, there’s no way to process it into a weaponized form.
 
- - Poison: 2
- - Shock: 1
- - Duration: 75
- - Toxicology: 12
- - Cost: 200
+ - Cost: +100 Ryo
 
-###### Death Cap (Ingestion)
-The death cap is one of, if not the, most poisonous mushrooms in the world. Mercifully, there's no way to process it into a weaponized form. In addition to its Poison rating, every 10 IC which pass a victim loses 1 point of RES. These recover at the rate of 1 per week which passes (double with medical treatment). Someone who reaches 0 RES simply dies.
+Effect: Ingested Poison only. For the duration, every 2 IC the target loses 1 RES. This impacts everything you don't want it to: HP, Vitality, disabling Abilities you no longer qualify for, etc. Someone reduced to RES 0 dies if not provided immediate medical treatment. RES is recovered at a rate of 2 per Week that passes, or twice that with medical treatment.
 
- - Poison: 1
- - Duration: 500
- - Toxicology: 12
- - Cost: 300
+##### King Cobra
+One of the world’s deadliest snakes, the king cobra’s venom is a neurotoxin that quickly leads to blurred vision, disorientation, and muscular paralysis.
 
-###### Brown Recluse (Injury)
-A shy, tiny spider, the brown recluse none the less has an especially dangerous venom, especially to civilians; to shinobi, it's only severely threatening. The poison is slow acting, but still dangerous.
+- Cost: +50 Ryo
 
- - Poison: 1
- - Duration: 700
- - Toxicology: 15
- - Cost: 300
+Effect: For the duration, the victim has (1 + Toxicology Ranks/20) Shock.
 
-###### Black Widow (Injury)
-This infamous little spider's venom has quite the unpleasant, and largely well-deserved, reputation. For the poison's duration, your Chakra Exhaustion and Stamina rolls all suffer from a -4 penalty.
+##### Manchineel Tree
+Nothing about this tree isn’t inimical to human life. The sap and bark are poisonous, the fruit is absurdly toxic, the leaves are sufficient to poison water supplies. Tying people to the tree overnight is a brutal, highly effective method of execution. In practice, ninja use the sap as a toxin, as it keeps best.
 
- - Poison: 2
- - Immobilize: 3
- - Duration: 150
- - Toxicology: 15
- - Cost: 300
+ - Cost: +100 Ryo
 
-###### Wolfsbane (Injury, Ingestion)
-A poisonous plant known also as monkshood, the least of one's worries are a severe burning sensation at the point of injury, the abdomen, and the face. The more severe ones are staving off paralysis of one's heart and lungs.
-Wolfsbane has a -2 penalty to its Toxicology rolls if delivered through injury, or +4 if by ingestion. When poisoned by Wolfsbane, your Stamina rolls use the higher of your Stamina or Chakra Exhaustion penalty, and your Chakra Exhaustion rolls use the higher of your Stamina or Chakra Exhaustion penalty.
+Effect: For every (20 - Toxicology Ranks/10) consecutive IC the target suffers from the poison, they gain Suffocation 1. They begin recovering from the Suffocation when the poison ends.
 
- - Poison: 4
- - Duration: 125
- - Toxicology: 18
- - Cost: 350
+##### Stonefish
+The most venomous fish in the world, it’s commonly agreed upon that having an injured limb amputated is less agonizing than enduring the pain. Though there will be a slow necrosis of flesh around the injury, the real risk is quite immediate.
 
-###### Manchineel Tree (Contact, Injury, Ingestion, Inhalation)
-Nothing about this tree isn't inimical to human life. The sap and bark are poisonous, the fruit is absurdly toxic, the leaves are sufficient to poison water supplies. Tying people to the tree overnight is a brutal, highly effective method of execution. In practice, ninja use the sap as a toxin, as it keeps best.
+- Cost: +50 Ryo
 
-Envenomation results in severe full-body irritation and shortness of breath. It's painfully distracting enough to inflict a -2 penalty to Accuracy and d20 rolls.
+Effects: The Poison's Potency is increased by (1 + Toxicology Ranks/15).
 
- - Poison: 3
- - Suffocation: 1
- - Duration: 150
- - Toxicology: 18
- - Cost: 350
+##### Water Hemlock
+There are multiple varieties of hemlock, with this being by far the most unpleasant. The plant’s sufficiently lethal that coming into contact with it purely by accident in the wild can cause death. It’s a powerful stimulant, leading to intense pain, tremors, disorientation, dizziness, fever, hallucinations, tingling, dilated pupils, respiratory difficulty…
 
-###### King Cobra (Injury)
-One of the world's deadliest snakes, the king cobra's venom is a neurotoxin that quickly leads to blurred vision, disorientation, and muscular paralysis. While poisoned, you have a -4 penalty to all skill rolls other than Resistance, and a -5 penalty to Stamina and Chakra Exhaustion rolls. King cobra venom has a +3 bonus to its Toxicology rolls.
+ - Cost: +50 Ryo
 
- - Poison: 2
- - Shock: 2
- - Duration: 200
- - Toxicology: 22
- - Cost: 500
+Effect: For the duration, the victim has a -(1 + Toxicology Ranks/10) Visibility Penalty. Anyone can attempt to hide from the victim regardless of their Visibility Penalty (or lack thereof), and their cumulative bonus for Searching is reduced by 1.
 
-###### Belladona (Injury, Ingestion)
-Also known as devil's berries, belladona's poison causes delirium, hallucinations, and weakness. For its duration, your physical damage bonus is halved. Anyone is able to hide from you, regardless of your visibility penalty, if they double the Speed of their Hide action, though in this case you get a +5 bonus to your Awareness roll. If eaten, its Poison value is doubled.
+##### Wolfsbane
+A poisonous plant known also as monkshood, the least of one’s worries are a severe burning sensation at the point of injury, the abdomen, and the face. The more severe ones are staving off paralysis of one’s heart and lungs.
 
- - Poison: 2
- - Visibility: -4
- - Duration: 200
- - Toxicology: 22
- - Cost: 400
+ - Cost: +100 Ryo
 
-###### Wandering Spider (Injury)
-Not only is it one of the most dangerous spiders, it's one of the most aggressive ones, and won't hesitate to attack humans. The venom is a neurotoxin.
+Effect: Your Chakra rolls and Stamina rolls each use the higher of your Chakra Exhaustion penalty and Stamina penalty. Any time you take an action with a Chakra or Stamina cost, you increase both your Chakra Exhaustion and Stamina Exhaustion penalty by the higher of (Toxicology Ranks)/10 or what that action would normally increase it by, after all other modifiers.
 
-While poisoned you suffer from -3 Accuracy. Any time your Chakra penalty increases, your Stamina penalty increases by half that much, and vice versa, rounded down.
 
- - Poison: 4
- - Duration: 100
- - Toxicology: 26
- - Cost: 450
 
-###### Box Jellyfish (Injury, Contact)
-Though they're not the deadliest of sea creature, they're what most people will imagine when thinking of that. Affliction with this venom results in convulsions, and before long will send a victim into shock.
 
-The convulsions make it exceptionally difficult to act. You can't take any action with a base Speed of 20 or higher, -1 for every 5 points you failed the Toxicology roll by.
-
- - Poison: 3
- - Paralysis: 1
- - Duration: 150
- - Toxicology: 26
- - Cost: 450
-
-###### Water Hemlock (Contact, Ingestion)
-There are multiple varieties of hemlock, with this being by far the most unpleasant. The plant's sufficiently lethal that coming into contact with it purely by accident in the wild can cause death. It's a powerful stimulant, leading to intense pain, tremors, disorientation, dizziness, fever, hallucinations, tingling, dilated pupils, respiratory difficulty...
-
-While poisoned, you have a -4 penalty to Resistance and Awareness rolls.
-
- - Poison: 4
- - Visibility: -5
- - Duration: 200
- - Toxicology: 30
- - Cost: 500
-
-###### Stonefish (Injury)
-The most venomous fish in the world, it's commonly agreed upon that having an injured limb amputated is less agonizing than enduring the pain. Though there will be a slow necrosis of flesh around the injury, the real risk is quite immediate.
-
- - Poison: 6
- - Duration: 100
- - Toxicology: 30
- - Cost: 500
-
-###### Blue-Ringed Octopus (Injury)
-A small, unimposing creature, it's still one of the world's most deadly animals. Its venom is a cocktail of more than a dozen toxins that will kill within minutes. Thankfully they're rare, as no antidote exists.
-
-Continual first aid provided by someone else (specifically, forced respiration) will prevent the Suffocation from being inflicted while it's maintained, but not the Poison damage (or other effects).
-
- - Poison: 3
- - Paralysis: 4
- - Shock: 4
- - Suffocation: 2
- - Duration: 200
- - Toxicology: 35
- - Cost: N/A
-
-###### Golden Dart Frog (Injury, Contact)
-A rare, deadly animal only known to be native to Rain Country, the golden dart frog's poison is so potent that most stories about it are believed to be exaggerations. The venom can remain potent for more than two years, and simply touching a surface the frog has crossed can be enough for small animals to perish.
-
-Attempts have been made to raise the animal in captivity, and failed. The common theory is that some part of their diet is what makes the poison coating their skin so deadly. That, combined with their rarity, makes this poison exceptionally difficult to come by--which is a good thing. It shuts down the nervous system, leading to numbness, paralysis, and ultimately heart failure.
-
- - Poison: 10
- - Paralysis: 4
- - Immobilize: 5
- - Duration: 100
- - Toxicology: 35
- - Cost: N/A (the antidote is 500 Ryo per dose)
 
 ## Rank Gear
 #### Genin

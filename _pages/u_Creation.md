@@ -13,7 +13,6 @@ toc:
  - name: Energetic
  - name: Genius
  - name: Juggernaut
- - name: Killer
  - name: Large
  - name: Lucky
  - name: Naturalist
@@ -22,6 +21,7 @@ toc:
  - name: Skilled Shinobi
  - name: Specialist
  - name: Strong-Willed
+ - name: Surgeon
  - name: Warder
 ---
 Creation uniques cost 1 UP each, and may only be taken when you first create your character. You can take a maximum of two Creation Uniques.
@@ -94,15 +94,6 @@ You use STR/12, rather than STR/15, to calculate your Physical Damage Bonus, you
 
 All your movement is reduced by 10%. This applies to your normal movement speed based on AGI, jutsu which allow you to travel (such as Vaulting Leap or Exploding Water Shockwave), and even knockback effects from your enemies.
 
-##### Surgeon  
-You are a master of the biological machine, viewing the body as a complex map of pressure points, arteries, and vital nodes. Your deep understanding of anatomy allows you to mend shattered bone with the same ease that you dismantle an opponent’s nervous system. While your hands are capable of miraculous restoration, there is an unsettling detachment in your eyes.  
-
-Your attacks count as doing 20% more damage for the purposes of wounds. You can make Called Shots at no penalty for all non-area of effect attacks. When you make a Called Shot, you may declare a "maximum" wound severity you will inflict, including "none." If you would wound the target beyond that, that wound is reduced by 1 category. Wounds that reduced by this effect use their original wounding tier for purposes of breaking Genjutsu.  
-
-You begin with 5 Ranks in the Medicine Skill, and gain another Rank in that skill every 200xp, subject to the normal limits.
-
-Your clinical focus is not without its faults: You take a -1 on all Defensive rolls.
-
 ##### Large
 You are more muscular, taller, wider, or otherwise... bigger, than other people. Perhaps you're broad-shouldered and muscular but within the realm of plausibility, or maybe you're a seven foot tall brute; ninja can be downright abnormal.
 All of your Taijutsu gain (STR/25) extra dice (including basic attacks, and weapons!), to a maximum of double their normal dice, and have +1 Range. You have a +3 bonus to grapple rolls using your PDB. In addition to hitting hard, you're tough to take down: you add RES to your maximum Vitality and maximum HP, on top of their normal values.  Finally, you have a +2 bonus to Stamina rolls.
@@ -160,6 +151,15 @@ Next, choose one of the two that you didn't pick. It has -2 Accuracy (or -3 to a
 When the going gets tough, you keep on going. You have a strong, virtually unbreakable will, and can power through anything standing in your way.
 
 You reduce the temporary penalty to any Accuracy, Fatigue, or d20 roll you make by 1 per roll (not per penalty: If you had -2 Accuracy from Wounds, -1 Accuracy from Fatigue, and -2 accuracy from a Visibility Penalty, your total penalty is -4, rather than -5).  Penalties inherent to the action you're performing (such as a weapon or jutsu's Accuracy penalty) are not reduced by this, nor does it negate negatives from other Uniques. You can ignore the effects of one wound you are suffering from; any time you're wounded you may continue to ignore the current wound, or change to the newly-inflicted one. This lasts until the end of combat, at which point the Wound's penalties return. Finally, you have +2 to all Genjutsu rolls, and you can spend a point of willpower as a Speed 0 interrupt after you fail a Genjutsu Defense to immediately end the Genjutsu you were affected by, so long as you managed to recognize that a Genjutsu was used on you.
+
+##### Surgeon  
+You are a master of the biological machine, viewing the body as a complex map of pressure points, arteries, and vital nodes. Your deep understanding of anatomy allows you to mend shattered bone with the same ease that you dismantle an opponent’s nervous system. While your hands are capable of miraculous restoration, there is an unsettling detachment in your eyes.  
+
+Your attacks count as doing 20% more damage for the purposes of wounds. You can make Called Shots at no penalty for all non-area of effect attacks. When you make a Called Shot, you may declare a "maximum" wound severity you will inflict, including "none." If you would wound the target beyond that, that wound is reduced by 1 category. Wounds that reduced by this effect use their original wounding tier for purposes of breaking Genjutsu.  
+
+You begin with 5 Ranks in the Medicine Skill, and gain another Rank in that skill for every 200 XP you have.
+
+Your clinical focus is not without its faults: You take a -1 on all Defensive rolls.
 
 ##### Warder
 You've trained hard to become adept at brushing aside incoming objects that are liable to hurt you! This is useful for shinobi-related activities such as not dying.

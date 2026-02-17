@@ -23,7 +23,7 @@ toc:
 ##### Applied Knowledge
 Where others use talent, you rely on practical application of your (probably vast) knowledge to guide you. It's all well and good for someone to be able to spot the vague outline of a hidden opponent, but you on the other hand, notice the way the bush they're hiding behind has been shifted, as that plant only grows facing west.
 
-You're probably kind of a nerd, to be honest. You add your (Research Ranks)/5 as a bonus to all non-Research skill rolls, to a maximum of +5, and ranks in all your skills other than Research are considered to be (Research Ranks)/5 higher for the purposes of learning Abilities (these are not actual skill points or ranks, and don't affect your actual or maximum ranks for any other purpose).
+You're probably kind of a nerd, to be honest. You add your (Research Ranks)/6 as a bonus to all non-Research skill rolls, to a maximum of +3, and ranks in all your skills other than Research are considered to be (Research Ranks)/6 higher for the purposes of learning Abilities (these are not actual skill points or ranks, and don't affect your actual or maximum ranks for any other purpose).
 
 ##### Avenger
 Someone wronged you, or someone you cared about, in a way which you cannot forgive. You have an unremitting hatred for them, and you channel an unhealthy amount of your free time, thoughts, and energy into finding them and doing whatever you can to make them suffer.

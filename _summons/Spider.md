@@ -58,14 +58,14 @@ Effects: When you use this technique you make a Stealth check with a -5 penalty;
 
 While in the area, any time anyone other than you moves as part of an attack, or spends 5 IC or more moving (total, in the latter case; 2 IC of movement, followed by 3 IC of movement, would trigger it), they must roll 1d3. On a roll of 1 they've walked over one of the traps, and immediately make an Athletics roll as their 'dodge' against your Accuracy (this does receive any bonuses and penalties to defensive rolls), with a penalty to their roll equal to their current Immobilization penalty (if any). If they succeed, they can continue normally. If they fail, they fall in and are attacked by the spider.
 
-Falling in does interrupt whatever action they were taking (unless they were just moving), in which case no costs are paid, the trap leaves them stuck at their original location, and their IC is not advanced based on the attack's Speed. The spider bites them before being unsummoned, afflicting them with a Stun X, where X is the amount they failed their Athletics roll by. You then make a Toxicology roll, using the higher of 3+XP/200 or your normal Toxicology skill ranks, against their Resistance. If they fail, they're poisoned; the venom of these spiders is Poison X/2 (maximum 8), Paralysis X/4 (maximum 4), and Duration X*5 (with no maximum).
+Falling in does interrupt whatever action they were taking (unless they were just moving), in which case no costs are paid, the trap leaves them stuck at their original location, and their IC is not advanced based on the attack's Speed. The spider bites them before being unsummoned, afflicting them with a Stun X, where X is the amount they failed their Athletics roll by. You then make a Toxicology roll, using the higher of 3+XP/200 or your normal Toxicology skill ranks, against their Resistance. If they fail, they're poisoned; the venom of these spiders is Poison X/2 (maximum 8), Paralysis X/4 (maximum 4), and Duration X * 5 (with no maximum).
 
 If used on an area where a web of Area 10 or greater has already been created, the trap field has a +10 bonus to its Stealth instead of a -5 penalty, and its Area is changed to that of the web. A single use of this jutsu has Y traps in it, where Y is the number of spider summons you have access to (up to a maximum of, normally, 4). You can perform this technique from stealth without revealing your location.
 
 #### --( Kumo Koushou - Spider Bite )--
 This technique temporarily transforms your canines (teeth, not pet dogs) into a pair of large fangs and briefly 'summons' the venom glands of a giant spider inside them. Then, in a rather unorthodox combat move you bite down on your victim and inject them with the toxin; this lasts only long enough for a single attempt, before the venom glands disappear and your teeth revert.
 
- - Chakra: 45
+ - Chakra: 30
  - Damage: 15d12.open(6)*1
  - Accuracy: -10
  - Range: Melee
@@ -73,9 +73,7 @@ This technique temporarily transforms your canines (teeth, not pet dogs) into a 
 
 Effects: Every point of Immobilization penalty that your target is suffering from reduces this technique's Accuracy penalty by 2, to a minimum of -0 (if they're at -5 immobilization or higher), and its damage for the purposes of inflicting wounds is increased by 10% per point of Immobilization (to a maximum of +100%). They still suffer all the normal penalties for being immobilized.
 
-This is a taijutsu attack which inflicts Piercing wounds and ignores DR and armor.
-
-If this hits, it poisons the enemy with either Black Widow or Brown Recluse poison (chosen when you declare the attack). For your Toxicology roll, use the higher of 3+XP/200 or your own Toxicology skill ranks. If Brown Recluse poison is used, it's raised to Poison 3, and its Duration is lowered to 500. If Black Widow poison is used, it's raised to Poison 4 and the penalty to Stamina and Chakra Exhaustion rolls is raised to -6. Antidotes for those poisons still work normally.
+This is a Taijutsu attack which inflicts Piercing wounds and ignores DR and Armor. It uses your own Toxicology Ranks or (3 + XP/200), whichever is higher, to determine its Severity, Duration and Effects. If it hits, it poisons the enemy, applying Brown Recluse's effect (of doubling its duration) alongside a applying a -(3 + Toxicology Ranks/10) penalty to Stamina and Chakra Exhaustion rolls that does not go away until the Poison itself ends.  Antidotes for Brown Recluse work normally against this poison.
 
 #### --( Shindakara Haki - Discard the Dying Husk )--
 You 'shed' your skin and in a blur of motion escape from your 'shell', which is left infused with chakra and capable of acting independently, as if nothing happened. This technique is best used to beat a hasty retreat when in danger, as it leaves you vulnerable and also buys time until your opponents realize what happened.

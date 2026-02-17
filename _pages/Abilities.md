@@ -172,12 +172,6 @@ Icha Icha is a series of best-selling novels written by the legendary ninja sage
 - Scale: 4
 - Limit: 4
 
-#### -=[ Aerosolized Poisons ]=-
-As popular as poisons are with (some) shinobi, they suffer from being relatively difficult to deliver effectively. While gaseous poisons are one of the most effective ways of accomplishing that, very few of the toxins suitable for use against shinobi can be deployed that way. Unless, of course, someone is willing to invest a great deal of time and resources into specially preparing those poisons, and learning enough about them to understand the dangers of those preparations. Like you! This ability allows you to create a Poison Smoke Bomb from any Contact poison (as found in the Equipment chapter) and converts that poisons type to Inhalation. The total cost for the poison smoke bomb is doubled (for example, Water Hemlock Poison Smoke Bombs would be 1200 ryo each), and the Toxicology roll has a -4 penalty.
-
-- Base Cost: 50
-- Requires: 25 Toxicology
-
 #### -=[ Tag Concealment ]=-
 Ninjas do love their explosions. However, they also like being sneaky and unseen; this combines the two! When placing an exploding tag, you can hide it from the casual observer. This requires something for it to be hidden under (such as loose soil, or leaves; you cannot 'hide' them in plain sight in a featureless room). Hiding a tag is a Speed 10 action, and anyone watching you will realize what you're doing and where it is (meaning it cannot be accomplished outside of stealth in combat). When you hide the tag, make an Espionage roll. Anyone who enters the tag's range is allowed an Awareness roll against the result, without any bonuses they may have from the Enhanced Hearing ability. Success means they've spotted the tag. Once a tag has begun its countdown to detonation they start to sizzle and spark, alerting anyone to their presence and approximate direction (though not exact location), giving them a chance to escape before time runs out.
 

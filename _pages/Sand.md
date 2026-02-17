@@ -42,7 +42,7 @@ Henzaki physiology has an incredible ability to adapt, responding to any changes
  - Scale: 0
  - Limit: RES/40
 
-Effects: You reduce the severity of any Poison you’re afflicted with by 1 per Rank, and take damage from Poison every 2 IC, rather than every IC. If the poison’s Severity is reduced to half or less from this ability, all secondary effects of the Poison are negated.
+Effects: You reduce the severity of any Poison you’re afflicted with by 1 per Rank, and take damage from Poison every 2 IC, rather than every IC. If the Poison’s Severity is reduced to half or less from this ability, all secondary effects of the Poison are negated.
 
 Anytime you are given a Bleed status, you immediately take damage from it and reduce it (instead of doing so 5 and 20 IC later, respectively); a dramatic, grotesque spray of blood is optional to indicate this. Thereafter, you take damage from the Bleed status every 10 IC, rather than every 5, and reduce your Bleed statuses every 10 IC (rather than 20). Bleeding from sources other than the Bleed status is halved, and has its duration halved; if it does not have a set duration, it stops after 100 IC.
 
@@ -519,84 +519,86 @@ Eventually they did assimilate into the village, sufficiently impressed by the c
 
 Members of the clan are not a very vocal sort, with a sense of humor that is often classified as 'twisted'. While well-mannered, most Sabechi have a sense of wit which invariably carries undertones not fully understood by those they converse with until well after they've spoken, making those that meet them frequently question just what they meant.
 
-#### --( Rustblood )--  
-The blood of a Sabechi is poisonous.  Aside from minor conveniences, like it being harder to give them transfusions and the sabechi as a whole being ineligible for blood donations, it can also be used in combat as a very potent toxin.
+#### -=[ Rustblood ]=-
+
+The blood of a Sabechi is poisonous. Aside from minor conveniences, like it being harder to give them transfusions and the sabechi as a whole being ineligible for blood donations, it can also be used in combat as a very potent toxin.
 
  - Type: Ability
- - Base cost: 4
- - Scale: 0
- - Limit:  1+(RES/10)
+ - Base cost: 20
+ - Limit: 1
 
-Effects:  For every rank of this ability, you gain one Poison Point.
+Effects: Your blood contains a powerful cocktail of poisons. By cutting yourself, you may spend 10 HP (not Vitality!) as a Speed 10 action and apply your natural poison to a weapon you are holding.
 
-Poison Points are spent to modify your body’s natural poison, which begins as a Severity 2, Duration 20 Poison, with a +1 bonus to its Toxicology rolls for every even rank you have (+1 at rank 2, +2 at rank 4, etc).  No more than RES/20 Poison Points can be spent on a single aspect of your poison, and once you have spent your Poison Points, you can not ‘unspend’ them to modify your body’s poison—once they are spent, they are allocated.  However, you may choose to use less than your full value of any aspect:  Your poison might have Paralytic 3, but you could choose to make an application of your Poison be only Paralytic 1, if you wish.
+Your Natural Poison has the stats of an Injury Vector poison from the equipment section, except it can be applied to any blunt, piercing, or slashing weapon. When you use this ability to apply a poison, select one of the Special Options listed under Poison in the Equipment section that can be applied to an Injury Poison. Your poison has that effect.
 
-The reason for doing so is that when you utilize your poison, you take Vitality (or HP, if you have no Vitality) damage based upon the squared value of each aspect of your Poison, added together.  So, if you had a Festering 2, Paralytic 4 poison, you would take (4 + 16 = 20) Vitality damage every time you used it.
+You may use Chakra Control in place of your Toxicology ranks when using your Natural Poison. This applies both to the Toxicology roll and for determining the effects of your Poison. Note that the roll is still a Toxicology roll, using your bonuses to that and not Chakra Control (except for skill ranks).
 
-The most common method of using a Sabechi’s Rustblood is by coating weapons with it, as a Speed 5 action which inflicts the above listed damage to yourself, and grants you 1+(Toxicology Ranks/5) doses worth of your poison to a melee weapon, or poisons up to that many thrown weapons.  The Poison is considered a Contact poison, though unlike normal, it is not limited in what weapon types it can be applied to.
+The Talent Rare Poisons does not apply to your Natural Poison.
 
-Because the poisonous nature of their blood is dependent upon the unique physiology of the Sabechi who produces it, it will break down rapidly outside of their body.  This prevents it from being stored for any significant amount of time, and means it can’t be used to lace food or drinks.  Likewise, it means their poison can not be converted into a Poison Smoke Bomb through the Aerosolized Poisons ability.
+#### -=[ Mithridatism ]=-
 
-When you utilize your poison you must specify what effects it has (and decide upon the time of its application how potent it will be).
-
-You may spent your Poison Points on the following effects, each costing one Poison Point and able to be taken multiple times:
-
-*— Convulsant*  
-Your poison causes erratic muscle spasms.  While not enough to imitate full-blown seizures, it is still effective at debilitating its victims.  This inflicts Shock 1 per rank.
-
-*— Festering*  
-Your poison is especially deadly, taking a longer than normal amount of time to metabolize.  This increases the Duration of the poison by 5 per rank.
-
-*— Hallucinogen*  
-Affects the senses and mental functions of its victims, causing temporary disorientation and delirium.  It inflicts a -1 Visibility Penalty per rank.
-
-*— Irritant*  
-Your poison causes an allergic reaction to others, causing the victim’s body to attack itself to try and get rid of it, causing irritation and inflammation at the site.  It inflicts a Burns 1 per rank.
-
-*— Necrotic*  
-Your poison causes rapid cell death, and aside from generally taking longer to fully heal, it inflicts a Immobilization 1 per rank.
-
-*— Neurotoxin*  
-Your poison causes a temporary overload of the nerves, which stops proper brain function for a few moments.   Can be deadly in the midst of combat, where every second counts.  It inflicts Stun 2 per rank.
-
-*— Paralytic*  
-Your poison debilitates the victim’s muscles, slowing their ability to react.  This inflicts Paralysis 1 per rank.
-
-*— Virulent*  
-Your poison is especially toxic to others, increasing its Severity by 1 per rank.
-
-#### --( Mithridatism )--  
-Constant exposure to the Sabechi’s own venom eventually has their bodies produce antibodies to a variety of poisons, enabling them to quickly shrug off even the nasiest of toxins.
+Constant exposure to the Sabechi’s own venom eventually has their bodies produce antibodies to a variety of poisons, enabling them to quickly shrug off even the nastiest of toxins.
 
  - Type: Ability
  - Base Cost: 5
  - Scale: 5
  - Limit: RES/30, Max 4
 
-Effects: You reduce the duration of any Poison you sufer from by RES/(5-Rank), and any secondary effects by 1 per Rank, to a minimum of 0. If the Poison has multiple secondary effects (such as a King Cobra’s poison which inflicts Shock 2 and a -4 to all skill rolls, in addition to its Poison 2 for 200 IC), the reduction applies to all of them (at Rank 2 you’d negate the shock entirely and have -2 to all skill rolls for 200-RES/3 IC)).
+Effects: You reduce the duration of any Poison you suffer from by RES/(5-Rank), and any status effects caused by its Special Options by 1 per Rank, to a minimum of 0. If the Poison has multiple special effects, the reduction applies to all of them.
 
-#### -=[ Predatory Protrusions ]=-  
-Every Sabechi has a way to deliver their poison naturally, without the aid of weapons—such is the nature of their bloodline.  As their skill expands and chakra develops, it’s not unheard of for a Sabechi to begin manifesting other mutations.
+#### -=[ Ichor ]=-
+The toxicity in your blood has reached new heights, and your control over the exact composition has vastly improved.
 
-You choose one of the following mutations below at creation.  For every 2000 XP you have, you can lower your maximum Willpower by 1 to acquire an additional mutation.
+ - Type: Ability
+ - Base Cost: 100
+ - Limit: 1
+ - Requires: 30 Chakra Control or 25 Toxicology Ranks
 
-You may take the Weapon Focus ability for “mutations”, allowing it to apply to any attacks made with your Sabechi clan mutations.
+Effects: When you use your Natural Poison, you may choose and apply two Special Effects. Further, you increase the Severity of all Status Effects caused by your poison by 1. 
 
-The Stinger and Quills mutations are essentially weapons that in certain ways behave like basic unarmed taijutsu: They can not be disarmed or destroyed, they can be parried as either unarmed or as a weapon (as the defender prefers), they do not reduce the effectiveness of blocking, and they can be used with uniques, abilities, and weapon taijutsu of the appropriate type(s) they count as (which is listed in the their entries). Because they are a sort of weapon, they can never be used to perform unarmed jutsu, nor do they gain benefits from anything specific to unarmed attacks.
+#### --( Secret Technique: Demonic Blood Cultivation )--
+Sabechi are capable of manipulating the chakra and chemical composition of their blood, even while it is in someone else's body. This makes their poison more akin to a biological weapon than a simple poison.
 
-Saliva is treated by the Sabechi as a Ranged Taijutsu attack, but is considered a ninjutsu projectile for the purposes of defending against it.  Like the Stinger and Quills, they do not reduce the effectiveness of blocking, and it can benefit from any unique or ability which modifies Ranged Taijutsu. Because it does not have any specific Type, Weapon jutsu are incompatible with it.
+ - Type: Medical Ninjutsu, D Rank
+ - Cost: 15 Chakra
+ - Speed: 5 or +5 
+ - Special: Interrupt
 
-#### --( Stinger )--
-The most obvious of all the mutations and the signature feature of the clan, a Sabechi's stinger is far more potent than a scorpion's, even though they look about the same. It's much longer than it looks, able to extend over the Sabechi's shoulder or around their side to strike those in front of them.
+Effects: This jutsu automatically affects someone who is affected by your Natural Poison, without a defense. You may choose to accelerate your poison, applying (higher of Toxicology Ranks/2 or Chakra Control Ranks/2) IC worth of the poison's effects immediately, reducing its remaining duration by the same amount. This mostly applies to the poison's damage, but may also apply to Special Effects which are timed, such as a Manchineel Tree's Suffocation. Afterwards, you may change which Special Effect(s) your Poison has, which take place immediately. This can be done as its own Speed 5 action, or done as part of another Interrupt as a +5 Speed Link. If used in response to an attack, the new poison applies to the attack and not the old poison. This is considered Medical Ninjutsu for purposes of interacting with other effects, but the Sabechi does not need to qualify for medical jutsu to learn it.
+
+#### -=[ Predatory Protrusions ]=-
+Every Sabechi has a way to deliver their poison naturally, without the aid of weapons—such is the nature of their bloodline. As their skill expands and chakra develops, it’s not unheard of for a Sabechi to begin manifesting other mutations.
+
+ - Type: Ability
+ - Cost: 20
+ - Scale: 10
+ - Limit: 1 + XP/2000
+
+Effect:  For each rank in this ability, you gain access to one of the Predatory Protrusion options, presented below. They are natural Weapons, and as such can not be disarmed. In addition to its other effects, it gives you a cumulative -5 penalty to disguise yourself as someone else, unless they have similar anatomy.
+
+#### --( Scorpion Tail )--
+You have grown a large scorpion tail extending down from the bottom of your spine. Your Scorpion Tail counts as a weapon that is always available and does not require hands to use. It has the following traits:
+
+ - Stamina: 12
+ - Damage: 12d10
+ - Accuracy: -4, or +2 when being used in a grapple or used to establish a grapple.
+ - Range: 5 + RES/20
+ - Speed: 12
+ - Tags: Chain, Piercing, Large, Two-Handed
+
+Effects: You may spend 10 HP after damaging an opponent to expose them to your poison. You may use your tail to perform Disarm and Grab using its Range. It grants a +3 bonus to Grapple rolls used with it. Grappling someone with your Tail does not impose a penalty to your Dodge or Parry speed. The person you're grappling can not move further away from you than your Tail's range: if they would do something that would move them further, you're moved as well (and vice-versa), and either may attempt to restrain the other, as described under Grab. Once someone is grappled with your Tail, you can perform any Grapple jutsu of C or lower rank on them, with the exception of Headbutt, Suplex, and Pressure Point. Joint Lock uses the Tail's damage instead of unarmed attack damage. Your tail is considered to have unlimited limbs for the purposes of grapple, and is considered a Weapon.
+
+#### --( Fangs )--
+You have protruding, hollow canines protruding near poison glands in your mouth. So long as you can get close enough, fangs are a potent poison delivery system.
 
  - Stamina: 10
- - Damage: (STR/8)d10
- - Speed: 11
- - Special: -3 Accuracy
- - Type: Large, Piercing
-
-Effects: You have a flexible tail with a curved tip.  It grants you an extra limb for use in grapples, grants you a +2 to Grapple rolls, and you can make attacks with it against someone you're grappling without suffering its regular accuracy penalty.  Attacking someone you're grappling with it also allows you to make called shots against them at no penalty to your Accuracy.  You can inflict your Sabechi clan poison on hit with your Stinger, and do not have to pay its normal Vitality cost for doing so.
-
+ - Damage: 2d10
+ - Speed: 5
+ - Special: Ignores Damage Reduction
+ - Restriction: May only be used in a Grapple.
+ 
+Effects: This attack hits automatically. If you deal damage, your target is exposed to your Natural Poison, and you remain latched on until you are no longer in control of the grapple.  While Latched, your Natural Poison's Duration does not decrease, except through using Demonic Blood Alchemy.
+ 
 #### --( Quills )--  
 While not true ‘needles’, some Sabechi actually have the ability to straighten the hairs on their head, which tend to be much thicker than normal hair, enough so to inject trivial amounts of their poison.  When used in groups, however, it can be quite deadly.
 
@@ -605,33 +607,29 @@ While not true ‘needles’, some Sabechi actually have the ability to straight
  - Accuracy: -2
  - Range: 5 + STR/5
  - Speed: 10
- - Special: Armor Piercing
+ - Special: Ignores Armor and half of an opponent's DR
  - Type: Small, Thrown, Senbon, Piercing
 
-Effects: You can throw a single Quill, using the above stats, or throw multiple at once, in which case you treat it as a standard Multithrow. If you use at least three Quills, you can deliver a dose of your poison with them.
+Effects: You can throw a single Quill, using the above stats, or throw multiple at once, in which case you treat it as a standard Multithrow. You may spend 10 HP when you declare an attack with Quills to expose anyone damaged to your Natural Poison.
 
-These are considered Senbon and may be used in all the same ways Senbon can, although they do not retain their shape for long once thrown and thus can't be stored for any jutsu or usage that requires them to be prepared ahead of time (like Raining Needles).  This also means that quills are considered expended after use and thus unable to be retrieved and reused.
+These are considered Senbon and may be used in all the same ways Senbon can, although they do not retain their shape for long once thrown and thus can't be stored for any jutsu or usage that requires them to be prepared ahead of time (like Raining Needles).  This also means that quills are considered expended after use and thus unable to be retrieved and reused, though you have a functionally unlimited amount of Quills.
 
-While these are not actual Senbon and may not be used for Jutsu that require Senbon to be prepared (like Raining Needles), you may utilize Senbon-specific abilities as if they were (meaning Combat Acupuncture, Senbon User, and Surgial Precision apply to them if you have them), although Senbon User allows you to use RES, rather than DEX, in place of STR to determine your damage bonus with your Quills (regular Senbon still use DEX in place of STR).
+While these are not actual Senbon, you may utilize Senbon-specific abilities as if they were (meaning Combat Acupuncture, Senbon User, and Surgial Precision apply to them if you have them), although Senbon User allows you to use RES, rather than DEX, in place of STR to determine your damage bonus with your Quills (regular Senbon still use DEX in place of STR).
 
-#### --( Saliva )--  
-Your saliva is poisonous in addition to your blood, which while it tends to hamper relationships in a lethal way, does give you another way in which to utilize your body’s toxicity.  Those that have it swear by its usefulness.
+#### --( Saliva )--
+You cultivate caustic bacteria in your mouth, similar to a komodo dragon. Glands in your throat allow you to spit this poison at long range, similar to a cobra. 
 
+ - Type: Ninjutsu
+ - Chakra: 10
+ - Damage: (CHA/8)d10
+ - Speed: 0
+ - Range: 5
+ - Special: May only be used once every 20 IC
+ - Requires: 5 AP + 10 HP per use
 
- - Chakra: 12
- - Damage: (CHA/10)d6
- - Range: 10 + Special
- - Speed: 8
+Effects: This attack is considered a Speed 10 attack for the purposes of defending against it, and for how much damage it deals, both of which are modified if you choose to spend AP to reduce its effective Speed (on top of its base 5 AP cost). If it hits, it exposes your target to your Natural Poison even if it does not do damage. This attack uses your Ninjutsu Accuracy, and its Rank is considered equal to the highest rank of Ninjutsu you know.
 
-Effects: This attack uses your Ninjutsu Damage Bonus, and you can apply a dose of your poison with this attack. It deals Energy wounds (due to its caustic nature), and can benefit from the Improved Ranged ability if you have it.
+#### --( Oily Skin ) --
+You skin has grown an odd coloration or pattern. More tactically important, you skin has glands that can produce a thin mucus membrane on command to cover your body. Clothes thankfully don't interfere with this process. 
 
-#### --( Oily Skin )--  
-Frequently mistaken for sweat by their enemies in battle, Sabechi with this mutation tend to enjoy trading blows with their opponents, crippling them as the fight goes on.
-
- - Stamina: 12
- - Upkeep: 0
- - Speed: 12
-
-Effects: When you activate this mutation, you specify the potency of your poison and take the normal damage for its use.  Thereafter, you deliver a dose of your poison to anyone who strikes you with an unarmed attack, requiring the normal Resistance roll to prevent.  As a Speed 6 action while you maintain the upkeep, you can change the potency of your poison (and take damage, as normal).
-
-While this is maintained, however, a  new dose of poison is automatically applied to your skin (and therefore, deducted from your Vitality) every time you poison someone, and damage after the initial application (when first using or changing your poison’s potency) is halved as your body efficiently creates additional doses. The drawback is that when your life is in peril, your body naturally begins to guard core systems: Oily Skin can only deal Vitality damage to yourself to apply additional doses, and if you have no Vitality with which to pay for another dose, this mutation will immediately stop working.
+As a Speed 10, HP Cost X * 10 action you may apply a "Poison Coating" to yourself that lasts for X * 30 minutes or until it exposes someone to your Natural Poison X times. While the coating is active, any time you touch someone else they become exposed to your Natural Poison. This includes every unarmed attack that hits you or that you hit someone else with, and every 10 IC in a grapple. So long as you have used this protrusion in the past 100 IC, you gain a +5 on rolls made to end a Grapple (suchas Break or Escaple grapple), and similar rolls made to escape physical restraints (though it would not apply to, say, a Nara's Shadow Bind). This action does not break Combos.

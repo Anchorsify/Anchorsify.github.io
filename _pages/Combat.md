@@ -400,9 +400,9 @@ Paralysis effects do not combine. If you are afflicted with two paralysis effect
 ### Poison
 When affected by a poison, you make a Resistance roll against some roll of the opponent's. Success means that you shrug off the effects of the poison. Failure means that you have been poisoned.
 
-Actual poisons may carry any number of effects, but the most prominent is poison damage. For every IC that passes, you take damage equal to the poison's rating, for the full duration of the poison. For example, you're affected by a Poison 5 with a duration of 12. You take 5 damage per IC, each IC, until 12 counts after when you were first affected, for a total of 60 damage.
+Actual poisons may carry any number of effects, but the most pertinent is the poison's damage. For every IC that passes, you take damage equal to the poison's Severity (or rating), for the full duration of the poison. For example, you're affected by a Poison 5 with a duration of 12. You take 5 damage per IC, each IC, until 12 counts after when you were first affected, for a total of 60 damage.
 
-You may be affected simultaneously by multiple poisons. However, a single source (a specific jutsu or type of venom) may only affect you once; another application of it while under its effects simply renews the duration.
+You may be affected simultaneously by multiple poisons. However, a single source (a specific jutsu or type of venom) may only affect you once; another application of it while under its effects simply renews the duration.  Likewise, you suffer only the Special Effect(s) of a single poison at a time. 
 
 ### Shock
 Similar to Paralysis but more of a general impediment to one's ability to move and act, Shock effects slow down ordinarily fast-moving, fast-acting shinobi, making it easier to outmaneuver an enemy before they can recover.
